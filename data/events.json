@@ -1,113 +1,113 @@
 {
- "generated": "2026-10-30T16:04:11.535Z",
+ "generated": "2026-10-30T21:54:04.825Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 400,
    "kept": 198,
-   "ms": 6549
+   "ms": 6967
   },
   {
    "source": "Fairfield County District Library",
    "rows": 130,
    "kept": 130,
-   "ms": 524
+   "ms": 444
   },
   {
    "source": "Pickerington Public Library",
    "rows": 264,
-   "kept": 264,
-   "ms": 827
+   "kept": 263,
+   "ms": 574
   },
   {
    "source": "City of Canal Winchester",
    "rows": 114,
    "kept": 8,
-   "ms": 408
+   "ms": 380
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 300
+   "ms": 199
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 66
+   "ms": 38
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 1709
+   "ms": 1498
   },
   {
    "source": "Downtown Columbus",
    "rows": 186,
-   "kept": 185,
-   "ms": 7648
+   "kept": 184,
+   "ms": 18671
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 32,
    "kept": 32,
-   "ms": 1061
+   "ms": 917
   },
   {
    "source": "Metro Parks",
    "rows": 0,
    "kept": 0,
-   "ms": 1303
+   "ms": 1278
   },
   {
    "source": "Columbus Commons",
    "rows": 29,
    "kept": 28,
-   "ms": 1083
+   "ms": 1062
   },
   {
    "source": "Scioto Mile",
    "rows": 30,
    "kept": 29,
-   "ms": 940
+   "ms": 921
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
    "kept": 8,
-   "ms": 555
+   "ms": 333
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 78,
    "kept": 4,
-   "ms": 102
+   "ms": 70
   },
   {
    "source": "City of Grove City",
    "rows": 20,
    "kept": 18,
-   "ms": 268
+   "ms": 248
   },
   {
    "source": "City of Worthington",
    "rows": 104,
    "kept": 23,
-   "ms": 641
+   "ms": 396
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 278
+   "ms": 189
   },
   {
    "source": "Standing freebies",
    "rows": 11,
    "kept": 11,
-   "ms": 10
+   "ms": 5
   }
  ],
  "events": [
@@ -278,48 +278,6 @@
    "url": "https://downtowncolumbus.com/event/portraits-of-courage-a-commander-in-chiefs-tribute-to-americas-warriors/2026-10-30/",
    "source": "Downtown Columbus",
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
-  },
-  {
-   "id": "dtc-1044827",
-   "title": "Trick or Treat Statehouse Tour",
-   "start": "2026-10-30T10:00-04:00",
-   "end": "2026-10-30T11:00-04:00",
-   "allDay": false,
-   "venue": "Ohio Statehouse",
-   "address": "1 Capitol Square, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/trick-or-treat-statehouse-tour/",
-   "source": "Downtown Columbus",
-   "desc": "The Ohio Statehouse will host a free Trick-or-treat tour for younger visitors on Friday, October 30, 2026, at 10 a.m. The free Trick-or-Treat Tour offers younger children the opportunity to explore the Ohio Statehouse in costume while learning about the building and picking up treats at various stops along the way.\n\nCostumes are encouraged, and all children must be accompanied by an adult. Please reach out to tours@ohiostatehouse.org with any questions."
-  },
-  {
-   "id": "ppl-17409938",
-   "title": "Tales with the Tigers",
-   "start": "2026-10-30T10:15-04:00",
-   "end": "2026-10-30T10:45-04:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room A",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/17409938",
-   "source": "Pickerington Public Library",
-   "desc": "Join library staff and PHSC students from Mr. Pete Planisek's English classes for a fun-filled holiday storytime!\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
    "id": "fcdl-17129278",
