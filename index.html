@@ -174,6 +174,7 @@ select.mini{border:1px solid var(--line);background:var(--surface);border-radius
     </div>
     <div class="chips" id="areaChips"><span class="label">Where</span>
       <button class="chip" data-area="all" aria-pressed="true" type="button">Everywhere</button>
+      <button class="chip" data-area="cw" aria-pressed="false" type="button">Canal Winchester</button>
       <button class="chip" data-area="Columbus" aria-pressed="false" type="button">Columbus</button>
       <button class="chip" data-area="Fairfield County" aria-pressed="false" type="button">Fairfield County</button>
       <button class="chip" data-area="Nearby" aria-pressed="false" type="button">Day trips</button>
@@ -319,6 +320,8 @@ function passes(x, isEvent) {
   if (state.saved && !state.savedIds.has(x.id)) return false;
   if (state.area === "Columbus" || state.area === "Fairfield County" || state.area === "Nearby") { if ((x.area || C.areaFrom(x.town + " " + x.address)) !== state.area) return false; }
   if (state.area === "near") { if (x.dist == null || x.dist > state.radius) return false; }
+  // "Canal Winchester": within about 10 miles of town (Groveport, Pickerington, Lithopolis, Carroll, Slate Run all count)
+  if (state.area === "cw") { const d = C.miles(C.HOME.lat, C.HOME.lon, x.lat, x.lon); if (d == null ? !/canal winchester/i.test(x.town + " " + x.address) : d > 10) return false; }
   if (state.q) { const hay = [x.title, x.name, x.venue, x.town, x.what, x.desc, (x.tags || []).join(" "), x.source].join(" ").toLowerCase(); if (!hay.includes(state.q)) return false; }
   return true;
 }
