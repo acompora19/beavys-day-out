@@ -1,113 +1,113 @@
 {
- "generated": "2026-10-30T13:36:56.340Z",
+ "generated": "2026-10-30T16:04:11.535Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 400,
-   "kept": 197,
-   "ms": 11545
+   "kept": 198,
+   "ms": 6549
   },
   {
    "source": "Fairfield County District Library",
    "rows": 130,
    "kept": 130,
-   "ms": 449
+   "ms": 524
   },
   {
    "source": "Pickerington Public Library",
    "rows": 264,
    "kept": 264,
-   "ms": 709
+   "ms": 827
   },
   {
    "source": "City of Canal Winchester",
    "rows": 114,
    "kept": 8,
-   "ms": 354
+   "ms": 408
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 239
+   "ms": 300
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 52
+   "ms": 66
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 344
+   "ms": 1709
   },
   {
    "source": "Downtown Columbus",
    "rows": 186,
    "kept": 185,
-   "ms": 579
+   "ms": 7648
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 32,
    "kept": 32,
-   "ms": 840
+   "ms": 1061
   },
   {
    "source": "Metro Parks",
    "rows": 0,
    "kept": 0,
-   "ms": 1121
+   "ms": 1303
   },
   {
    "source": "Columbus Commons",
    "rows": 29,
    "kept": 28,
-   "ms": 132
+   "ms": 1083
   },
   {
    "source": "Scioto Mile",
    "rows": 30,
    "kept": 29,
-   "ms": 861
+   "ms": 940
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
    "kept": 8,
-   "ms": 438
+   "ms": 555
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 78,
    "kept": 4,
-   "ms": 85
+   "ms": 102
   },
   {
    "source": "City of Grove City",
    "rows": 20,
    "kept": 18,
-   "ms": 221
+   "ms": 268
   },
   {
    "source": "City of Worthington",
    "rows": 104,
    "kept": 23,
-   "ms": 502
+   "ms": 641
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 253
+   "ms": 278
   },
   {
    "source": "Standing freebies",
    "rows": 11,
    "kept": 11,
-   "ms": 8
+   "ms": 10
   }
  ],
  "events": [
@@ -635,6 +635,27 @@
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
    "source": "City of Worthington",
    "desc": "https://worthington.org/calendar.aspx?EID=9483"
+  },
+  {
+   "id": "vfc-33002",
+   "title": "Rise Up Arts Alliance Presents: Young Frankenstein",
+   "start": "2026-10-30T19:00-04:00",
+   "end": "2026-10-30T21:00-04:00",
+   "allDay": false,
+   "venue": "632 W 5th Ave",
+   "address": "632 West 5th Avenue, Lancaster, OH, USA",
+   "town": "Lancaster",
+   "lat": 39.7187916,
+   "lon": -82.6139889,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/rise-up-arts-alliance-presents-young-frankenstein/",
+   "source": "Visit Fairfield County",
+   "desc": "From the creators of The Producers comes the monstrously funny Young Frankenstein: West End Version, performed by Rise Up Arts Alliance! Based on the classic comedy by Mel Brooks, this hilarious musical follows Dr. Frederick Frankenstein as he reluctantly returns to his family’s castle in Transylvania—only to discover that maybe his grandfather’s experiments weren’t so crazy after all. Packed with unforgettable songs, outrageous comedy, larger-than-life characters, and plenty of laughs, the West End version of this Broadway favorite is a frightfully good time for audiences who enjoy clever humor and classic monster mayhem.\n\nWhether you’re a longtime fan of the film or experiencing the story for the first time, Young Frankenstein: West End Version promises an electrifying night at the theater! Purchase your tickets today before they sell out! This show is recommended for teens and adults due to mature humor and language."
   },
   {
    "id": "vfc-32723",
@@ -1372,27 +1393,6 @@
    "desc": "The Pines at Buckeye Ridge is ending Spooky season with one unforgettable night! The Immortal Dinner is a private, ticketed Halloween experience for adults 21+ featuring food, entertainment, competition, and plenty of after-dark fun. Tickets are $85 or $100 (includes Hunger Hollar Farms Trail). Either option includes dinner, a DJ and dancing, a swag bag, a costume contest, a raffle, and adult laser tag. Drinks are sold separately. Seating is limited, so don’t wait to reserve your spot and purchase your ticket today!\n\nFor more information, please visit The Pines and Buckeye Ridge’s Facebook page."
   },
   {
-   "id": "vfc-31888",
-   "title": "Spooky at The Pines at Buckeye Ridge",
-   "start": "2026-10-31T18:00-04:00",
-   "end": "2026-10-31T22:00-04:00",
-   "allDay": false,
-   "venue": "Blacklick-Eastern Road Northwest",
-   "address": "3550 Blacklick-Eastern Road Northwest, Millersport, Liberty Township, OH, United States",
-   "town": "Liberty Township",
-   "lat": 39.9164055,
-   "lon": -82.6794417,
-   "area": "Fairfield County",
-   "cost": "Free–$50",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/2026-10-31-spooky-at-the-pines-at-buckeye-ridge/",
-   "source": "Visit Fairfield County",
-   "desc": "Get ready for a frightfully fun family adventure at Spooky at the Pines! Enjoy an evening packed with Halloween fun, outdoor adventures, animals, treats, and plenty of spooky surprises at The Pines at Buckeye Ridge. Wander through the Spooky Barn, grab a treat bag, hop aboard a hay ride, meet some furry friends during animal encounters, battle it out in laser tag, and enjoy family-friendly activities for all ages, plus even more surprises throughout the event! Admission is $25 for adults, $15 for kids, and children ages 5 and under are free. You can also purchase a family pass for $50, which includes admission for two adults and two kids. Your admission includes access to the Spooky Barn, treat bags, animal encounters, laser tag, family activities, and more! Hay Rides are an additional $5. Come for the treats. Stay for the adventure. Make some spooktacular family memories!\n\nFor more information, please visit Buckeye Ridge’s Facebook page."
-  },
-  {
    "id": "dtc-10012275",
    "title": "The Dinner Detective Murder Mystery Dinner Show",
    "start": "2026-10-31T18:00-04:00",
@@ -1412,6 +1412,27 @@
    "url": "https://downtowncolumbus.com/event/the-dinner-detective-murder-mystery-dinner-show-6/2026-10-31/",
    "source": "Downtown Columbus",
    "desc": "America’s LARGEST interactive true crime mystery dinner show is now playing in Columbus, OH!\n\nAt The Dinner Detective Murder Mystery Dinner Show, you’ll tackle a challenging crime while you feast on a fantastic dinner. Just beware! The criminal is lurking somewhere in the room, and you may find yourself as a Prime Suspect before you know it!\n\nEach admission includes our fantastic dinner, mystery entertainment, wait staff gratuity, prize package for Top Sleuth, and much more!"
+  },
+  {
+   "id": "vfc-33004",
+   "title": "Rise Up Arts Alliance Presents: Young Frankenstein",
+   "start": "2026-10-31T19:00-04:00",
+   "end": "2026-10-31T21:00-04:00",
+   "allDay": false,
+   "venue": "632 W 5th Ave",
+   "address": "632 West 5th Avenue, Lancaster, OH, USA",
+   "town": "Lancaster",
+   "lat": 39.7187916,
+   "lon": -82.6139889,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/rise-up-arts-alliance-presents-young-frankenstein-2/",
+   "source": "Visit Fairfield County",
+   "desc": "From the creators of The Producers comes the monstrously funny Young Frankenstein: West End Version, performed by Rise Up Arts Alliance! Based on the classic comedy by Mel Brooks, this hilarious musical follows Dr. Frederick Frankenstein as he reluctantly returns to his family’s castle in Transylvania—only to discover that maybe his grandfather’s experiments weren’t so crazy after all. Packed with unforgettable songs, outrageous comedy, larger-than-life characters, and plenty of laughs, the West End version of this Broadway favorite is a frightfully good time for audiences who enjoy clever humor and classic monster mayhem.\n\nWhether you’re a longtime fan of the film or experiencing the story for the first time, Young Frankenstein: West End Version promises an electrifying night at the theater! Purchase your tickets today before they sell out! This show is recommended for teens and adults due to mature humor and language."
   },
   {
    "id": "vfc-32684",
@@ -1987,6 +2008,27 @@
    "url": "https://www.fcdlibrary.org/event/17180222",
    "source": "Fairfield County District Library",
    "desc": "Children from birth to age 6 (with a favorite adult) enjoy books, songs, rhymes and movement activities while building language and literacy skills."
+  },
+  {
+   "id": "vfc-33005",
+   "title": "Rise Up Arts Alliance Presents: Young Frankenstein",
+   "start": "2026-11-01T14:00-05:00",
+   "end": "2026-11-01T16:00-05:00",
+   "allDay": false,
+   "venue": "632 W 5th Ave",
+   "address": "632 West 5th Avenue, Lancaster, OH, USA",
+   "town": "Lancaster",
+   "lat": 39.7187916,
+   "lon": -82.6139889,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/rise-up-arts-alliance-presents-young-frankenstein-3/",
+   "source": "Visit Fairfield County",
+   "desc": "From the creators of The Producers comes the monstrously funny Young Frankenstein: West End Version, performed by Rise Up Arts Alliance! Based on the classic comedy by Mel Brooks, this hilarious musical follows Dr. Frederick Frankenstein as he reluctantly returns to his family’s castle in Transylvania—only to discover that maybe his grandfather’s experiments weren’t so crazy after all. Packed with unforgettable songs, outrageous comedy, larger-than-life characters, and plenty of laughs, the West End version of this Broadway favorite is a frightfully good time for audiences who enjoy clever humor and classic monster mayhem.\n\nWhether you’re a longtime fan of the film or experiencing the story for the first time, Young Frankenstein: West End Version promises an electrifying night at the theater! Purchase your tickets today before they sell out! This show is recommended for teens and adults due to mature humor and language."
   },
   {
    "id": "vfc-32330",
@@ -5000,27 +5042,6 @@
    "desc": "FALL SALE: Nov. 4 - 8 at Pickerington Main Library\n\nThe sale begins on Wednesday, Nov. 4, with a special pre-sale available exclusively to Friends members. Not a Friends member? No problem! Join at the door.\n\nFor sale is a variety of books, DVDs, CDs, and vinyl albums. Come early for the best selection!\n\nProceeds from the sale support Pickerington Public Library programs.\n\nFRIENDS NIGHT: \nWednesday, Nov. 4\n4:00 - 8:00 PM (Members only. Join at the door.)\n\nPUBLIC SALE: \nThursday-Saturday, Nov. 5-7\nDuring library hours\n\nPUBLIC SALE - BUY BOOKS BY THE BAG: \nSunday, Nov. 8\n12:00 - 3:00 PM\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
-   "id": "vfc-31898",
-   "title": "Fall Discovery Hike at Wahkeena Nature Preserve",
-   "start": "2026-11-08T13:00-05:00",
-   "end": "2026-11-08T14:00-05:00",
-   "allDay": false,
-   "venue": "2200 Pump Station Rd SE",
-   "address": "2200 Pump Station Road Southeast, Sugar Grove, Ohio 43155, United States of America",
-   "town": "Sugar Grove",
-   "lat": 39.63065539999999,
-   "lon": -82.568294,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/fall-discovery-hike-at-wahkeena-nature-preserve-2/",
-   "source": "Visit Fairfield County",
-   "desc": "As the air cools and days get shorter, the forests put on a spectacular display of colors. Learn the secret behind this annual event at Wahkeena Nature Preserve and its importance to the woodland ecology. Other interesting topics of natural history will also be explored along the way. This program is for ages 16 and up.\n\n \n\nFor more information, please visit the Fairfield County Park District’s website."
-  },
-  {
    "id": "dtc-10018577",
    "title": "Broadway in Columbus: Maybe Happy Ending",
    "start": "2026-11-08T13:00-05:00",
@@ -6869,6 +6890,27 @@
    "desc": "Calling all Pizza Connoisseurs! It is that time of year again for you to be the judge! Join Combustion Brewery for the 2026 Pickerington Lions Club Pizza Challenge, a family-fun event where you get to taste side by-side slices from area pizzerias. Pizzerias will be upstairs and downstairs to make more room for you! Participating pizzerias currently include:\n\nFlyers Pizza & Subs\n\nGionino’s Pizzeria Pickerington\n\nGrapevine Pizza Pickerington\n\nJet’s Pizza\n\nPizzeria New York\n\nPizzeroni’s Pizza\n\nRomeo’s\n\nThis year, you can vote for Best Crust, Best Sauce, Best Cheese, Best Pepperoni, Best Specialty Pizza, and People’s Choice. Purchase tickets in advance today to reserve your spot! Presale tickets are $15 for VIP, $10 for adults, and $6 for kids 10 and under. Presale ends on November 10th. Tickets at the door will be $12 for adults and $6 for kids 10 and under.\n\nFor more information, please visit Combustion Brewery’s Facebook page."
   },
   {
+   "id": "vfc-32990",
+   "title": "Plant Bingo at STUMP Lancaster",
+   "start": "2026-11-12T18:00-05:00",
+   "end": "2026-11-12T20:00-05:00",
+   "allDay": false,
+   "venue": "117 N Columbus St",
+   "address": "117 North Columbus Street, Lancaster, Ohio 43130, United States",
+   "town": "Lancaster",
+   "lat": 39.7144275,
+   "lon": -82.60479079999999,
+   "area": "Fairfield County",
+   "cost": "$125",
+   "costNum": 125,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/plant-bingo-at-stump-lancaster/",
+   "source": "Visit Fairfield County",
+   "desc": "Join staff for an exciting evening of Plant Bingo at STUMP Lancaster on Thursday, November 12th! Come enjoy a fun and engaging way to connect with fellow plant lovers in the community. Don’t miss out on this unique experience at one of Lancaster’s favorite plant venues! Spots are limited, so grab your tickets today! The Grand Prize is worth over $125.00!\n\n \n\nFor more information, please visit STUMP Lancaster’s Facebook page."
+  },
+  {
    "id": "vfc-32980",
    "title": "Bardstown Bourbon Company Tasting at Rhonemus Cellars",
    "start": "2026-11-12T18:00-05:00",
@@ -8106,27 +8148,6 @@
    "url": "https://visitfairfieldcounty.org/events/kegs-eggs-at-double-edge-brewing-7/",
    "source": "Visit Fairfield County",
    "desc": "From 9 a.m. to 12 p.m., Kermit’s Food Truck will be posted up on the patio slinging some of the best brunch this side of Chestnut St. — and Double Edge Brewing is pouring the good stuff to go with it. They will have NFL games on the big screen and over the speakers, drink specials, as well as their regular beer, cider, and seltzers. They’ll be doing Kegs & Eggs every Sunday through November 15th, so make it part of your weekend routine. Grab some brunch, grab a beer, yell at the TV a little too loudly…you know, Sunday stuff.\n\nFor more information, please visit Double Edge Brewing’s Facebook page."
-  },
-  {
-   "id": "vfc-31891",
-   "title": "The Alley Trail Classic at Alley Park",
-   "start": "2026-11-15T09:00-05:00",
-   "end": "2026-11-15T12:00-05:00",
-   "allDay": false,
-   "venue": "2805 Old Logan Rd SE",
-   "address": "2805 Old Logan Road Southeast, Lancaster, Ohio 43130, United States",
-   "town": "Lancaster",
-   "lat": 39.6814216,
-   "lon": -82.5740962,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/the-alley-trail-classic-at-alley-park/",
-   "source": "Visit Fairfield County",
-   "desc": "Presented by TINAR Race Series and RacePenguin, The Alley Trail Classic features an introductory 5km trail race and a challenging, multi-loop 28km endurance challenge. They will have cash prizes paying three places deep and finisher medals, shirts, and a free plant-based meal for all participants. If you loved the Alley Trail Marathon, this race is for you. TINAR is back, returning to where it all begin: Alley Park in Lancaster, Ohio. Join them this fall on the trails—they can’t wait to see you again!\n\nFor more information and to register, please visit Alley Trail Classic’s website."
   },
   {
    "id": "vfc-32799",
