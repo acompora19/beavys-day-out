@@ -1,0 +1,399 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Beavy's Day Out</title>
+<meta name="description" content="Free and cheap things to do around Columbus and Fairfield County, picked for today's weather.">
+<meta name="theme-color" content="#B0432B">
+<link rel="manifest" href="manifest.json">
+<script>try{var t=JSON.parse(localStorage.getItem("bdo.theme")||"null");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
+<link rel="icon" href="icon-64.png">
+<link rel="apple-touch-icon" href="icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Day Out">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://api.open-meteo.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Work+Sans:wght@400;500;600&family=Courier+Prime:wght@400;700&display=swap">
+<style>
+/* Same paper-and-ink family as Mia's Almanac and Mangia Mangia; the accent here is trail-marker red. */
+:root{
+  --bg:#EDE3CC; --surface:#F6EEDB; --ink:#2B2118; --muted:#76664D; --line:#CDBC98;
+  --accent:#B0432B; --green:#2E6A5F; --good:#3D7838; --pop:#3B7CA1; --gold:#946410;
+  --f-display:"IM Fell English","Iowan Old Style","Palatino Linotype",Georgia,serif;
+  --f-body:"Work Sans","Segoe UI",system-ui,sans-serif;
+  --f-mono:"Courier Prime","Courier New",ui-monospace,monospace;
+  --paper:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .06 0'/></filter><rect width='220' height='220' filter='url(%23n)'/></svg>");
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#1A1712; --surface:#231F18; --ink:#EEE4CD; --muted:#A8977A; --line:#3E3628;
+  --accent:#E3806A; --green:#72B5A7; --good:#93C48D; --pop:#8EC4E2; --gold:#E3B85C; color-scheme:dark }}
+:root[data-theme="dark"]{
+  --bg:#1A1712; --surface:#231F18; --ink:#EEE4CD; --muted:#A8977A; --line:#3E3628;
+  --accent:#E3806A; --green:#72B5A7; --good:#93C48D; --pop:#8EC4E2; --gold:#E3B85C; color-scheme:dark }
+
+*{box-sizing:border-box}
+html{color-scheme:light;-webkit-text-size-adjust:100%}
+img{max-width:100%}
+[hidden]{display:none!important}
+body{margin:0;background:var(--bg) var(--paper);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.45;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:14px 90px}
+.wrap{max-width:720px;margin:0 auto;display:flex;flex-direction:column;gap:16px}
+h1,h2,h3{font-family:var(--f-display);font-weight:400;text-wrap:balance;margin:0}
+a{color:var(--accent)}
+.label{font-family:var(--f-mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.mono{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+button,input,select{font:inherit;color:inherit}
+button{cursor:pointer}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:3px}
+
+/* masthead */
+.mast{position:relative;display:flex;flex-direction:column;align-items:center;gap:2px;padding:6px 0 10px;border-bottom:3px double var(--line);text-align:center}
+.brandrow{display:flex;align-items:center;gap:10px}
+.logo{width:54px;height:54px;flex:none;border-radius:50%;border:2px solid #2B2118;box-shadow:inset 0 0 0 3px #F6EEDB,inset 0 0 0 4px #2B2118,0 0 0 1px var(--line);background:#F6EEDB;overflow:hidden;display:block;position:relative}
+.logo span{position:absolute;inset:3px;background:#2B2118;-webkit-mask:url("beaver-portrait.png") center/cover no-repeat;mask:url("beaver-portrait.png") center/cover no-repeat}
+.brand{font-family:var(--f-display);font-size:34px;line-height:1;letter-spacing:.01em}
+.mast .sub{font-family:var(--f-display);font-style:italic;font-size:17px;color:var(--muted)}
+.theme-btn{position:absolute;top:4px;right:0;display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:3px;padding:5px 9px;font-family:var(--f-mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase}
+.theme-btn svg{width:15px;height:15px}
+@media (max-width:520px){.theme-btn{position:static;align-self:flex-end;margin-bottom:-4px}}
+
+/* plates */
+.card{background:var(--surface);border:1px solid var(--line);border-radius:4px;padding:18px;display:flex;flex-direction:column;gap:12px;min-width:0;box-shadow:inset 0 0 0 4px var(--surface),inset 0 0 0 5px var(--line)}
+.card-h{display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap}
+.card-h h2{font-size:23px;line-height:1.1}
+.hint{font-size:13px;color:var(--muted);margin:0}
+
+/* Beavy's corner */
+.beavy{display:grid;grid-template-columns:118px 1fr;gap:6px 16px;align-items:center}
+.beavy img{width:118px;height:auto;display:block;filter:drop-shadow(0 2px 2px rgba(0,0,0,.18))}
+.beavy .say{font-family:var(--f-display);font-size:19px;line-height:1.3;margin:0}
+.beavy .say em{color:var(--accent)}
+.beavy .wear{font-size:13px;color:var(--muted);margin:0}
+.beavy .temp{font-family:var(--f-display);font-size:40px;line-height:1}
+.beavy .temp sup{font-size:.4em;vertical-align:top;position:relative;top:.25em}
+.beavy .row{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+@media (max-width:420px){.beavy{grid-template-columns:96px 1fr}.beavy img{width:96px}.beavy .say{font-size:17px}}
+.spotrow{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.wiggle{animation:wig .9s ease-in-out}
+@keyframes wig{0%,100%{transform:rotate(0)}25%{transform:rotate(-4deg)}75%{transform:rotate(4deg)}}
+
+/* filters */
+.filters{display:flex;flex-direction:column;gap:9px}
+.chips{display:flex;gap:7px;overflow-x:auto;padding-bottom:2px;scrollbar-width:none;align-items:center}
+.chips::-webkit-scrollbar{display:none}
+.chips .label{flex:none;margin-right:2px}
+.chip{flex:none;display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:var(--surface);border-radius:3px;padding:7px 12px;font-size:14px;font-weight:500;white-space:nowrap}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--surface);border-color:var(--ink)}
+.chip.free[aria-pressed="true"]{background:var(--good);border-color:var(--good)}
+.chip.ghost{background:transparent;color:var(--accent);border-style:dashed}
+.search{display:flex;gap:8px}
+.search input{flex:1;min-width:0;padding:9px 11px;border:1px solid var(--line);border-radius:3px;background:var(--surface)}
+select.mini{border:1px solid var(--line);background:var(--surface);border-radius:3px;padding:6px 8px;font-size:13px}
+
+/* lists */
+.day-h{display:flex;align-items:baseline;gap:10px;margin:6px 0 -4px}
+.day-h h3{font-size:21px}
+.day-h .n{font-family:var(--f-mono);font-size:11px;color:var(--muted)}
+.list{display:flex;flex-direction:column;gap:8px}
+.item{display:grid;grid-template-columns:1fr auto;gap:2px 10px;background:var(--surface);border:1px solid var(--line);border-radius:4px;padding:11px 13px;text-align:left;width:100%;color:inherit}
+.item .t{font-family:var(--f-display);font-size:18px;line-height:1.2}
+.item .m{font-size:13px;color:var(--muted)}
+.item .m b{color:var(--ink);font-weight:500}
+.item .hours{grid-column:1/-1;font-size:12.5px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.item.open .hours{-webkit-line-clamp:unset}
+.item .t{grid-column:1}
+.item .cost{grid-column:2;grid-row:1/3;align-self:start;justify-self:end;font-family:var(--f-mono);font-size:11.5px;letter-spacing:.04em;padding:3px 7px;border-radius:2px;border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.item .cost.free{color:var(--good);border-color:var(--good);font-weight:700}
+.item .cost.cheap{color:var(--gold);border-color:var(--gold)}
+.item .tags{display:flex;gap:5px;flex-wrap:wrap;margin-top:4px;grid-column:1/-1}
+.tag{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);border:1px solid var(--line);border-radius:2px;padding:1px 5px}
+.tag.kids{color:var(--pop);border-color:var(--pop)}
+.item .more{grid-column:1/-1;display:none;flex-direction:column;gap:8px;margin-top:8px;padding-top:10px;border-top:1px dashed var(--line);font-size:14px}
+.item.open .more{display:flex}
+.item .more p{margin:0;white-space:pre-line}
+.item .acts{display:flex;gap:8px;flex-wrap:wrap}
+.btn{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--accent);background:var(--accent);color:#FFF8EC;border-radius:3px;padding:8px 13px;font-weight:600;text-decoration:none;font-size:14px}
+.btn.quiet{background:transparent;color:var(--accent)}
+.btn.save[aria-pressed="true"]{background:var(--gold);border-color:var(--gold);color:#FFF8EC}
+.empty{padding:18px;border:1px dashed var(--line);border-radius:4px;color:var(--muted);text-align:center;font-family:var(--f-display);font-size:17px}
+.src{font-size:12px;color:var(--muted)}
+.foot{font-size:12.5px;color:var(--muted);text-align:center;border-top:3px double var(--line);padding-top:12px;display:flex;flex-direction:column;gap:4px}
+
+/* bottom nav on phones */
+.nav{position:fixed;left:0;right:0;bottom:0;display:flex;justify-content:space-around;background:var(--surface);border-top:1px solid var(--line);padding:6px 0 calc(6px + env(safe-area-inset-bottom,0px));z-index:5}
+.nav button{border:0;background:transparent;color:var(--muted);font-family:var(--f-mono);font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;display:flex;flex-direction:column;align-items:center;gap:2px;padding:4px 12px}
+.nav button[aria-current="true"]{color:var(--accent)}
+.nav svg{width:20px;height:20px}
+@media (min-width:721px){.nav{display:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="mast">
+    <button class="theme-btn" id="themeBtn" type="button" aria-label="Switch light or dark"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3a9 9 0 1 0 9 9c0-.5 0-1-.1-1.4A5.5 5.5 0 0 1 12 3z"/></svg><span>Theme</span></button>
+    <div class="brandrow"><span class="logo" aria-hidden="true"><span></span></span><h1 class="brand">Beavy's Day Out</h1></div>
+    <div class="sub">Free &amp; cheap fun around Columbus and Fairfield County</div>
+    <div class="label" id="dateLine"></div>
+  </header>
+
+  <section class="card" id="beavyCard" aria-label="Beavy's take on the day">
+    <div class="beavy">
+      <img id="beavyImg" src="gear-fall.webp" alt="Beavy the beaver dressed for the weather" width="260" height="322">
+      <div>
+        <div class="row"><span class="temp" id="tempNow">--<sup>°</sup></span><span class="label" id="gearTag">Checking the sky…</span></div>
+        <p class="say" id="beavySays">Beavy's looking out the window…</p>
+        <p class="wear" id="beavyWear"></p>
+      </div>
+    </div>
+    <div class="spotrow">
+      <span class="label">Weather &amp; distance from</span>
+      <button class="chip" id="spotHome" type="button" aria-pressed="true">Canal Winchester</button>
+      <button class="chip" id="spotColumbus" type="button" aria-pressed="false">Downtown Columbus</button>
+      <button class="chip ghost" id="spotMe" type="button" aria-pressed="false">Use my location</button>
+    </div>
+  </section>
+
+  <section class="filters" id="filters" aria-label="Filters">
+    <div class="chips" id="whenChips"><span class="label">When</span>
+      <button class="chip" data-when="today" aria-pressed="true" type="button">Today</button>
+      <button class="chip" data-when="tomorrow" aria-pressed="false" type="button">Tomorrow</button>
+      <button class="chip" data-when="weekend" aria-pressed="false" type="button">This weekend</button>
+      <button class="chip" data-when="week" aria-pressed="false" type="button">Next 7 days</button>
+      <button class="chip" data-when="month" aria-pressed="false" type="button">Next month</button>
+    </div>
+    <div class="chips" id="costChips"><span class="label">Cost</span>
+      <button class="chip free" data-cost="free" aria-pressed="false" type="button">Free</button>
+      <button class="chip" data-cost="cheap" aria-pressed="false" type="button">Under $10</button>
+      <button class="chip" data-cost="any" aria-pressed="true" type="button">Any</button>
+      <span class="label" style="margin-left:6px">Also</span>
+      <button class="chip" id="kidsChip" aria-pressed="false" type="button">👧 Kids</button>
+      <button class="chip" id="indoorChip" aria-pressed="false" type="button">Indoor</button>
+      <button class="chip" id="savedChip" aria-pressed="false" type="button">★ Saved</button>
+    </div>
+    <div class="chips" id="areaChips"><span class="label">Where</span>
+      <button class="chip" data-area="all" aria-pressed="true" type="button">Everywhere</button>
+      <button class="chip" data-area="Columbus" aria-pressed="false" type="button">Columbus</button>
+      <button class="chip" data-area="Fairfield County" aria-pressed="false" type="button">Fairfield County</button>
+      <button class="chip" data-area="Nearby" aria-pressed="false" type="button">Day trips</button>
+      <button class="chip" data-area="near" aria-pressed="false" type="button">Near me</button>
+      <select class="mini" id="radius" aria-label="How far is near"><option value="10">10 mi</option><option value="20" selected>20 mi</option><option value="35">35 mi</option></select>
+    </div>
+    <div class="search"><input id="q" type="search" placeholder="Search: storytime, hike, museum, Lancaster…" autocomplete="off"></div>
+  </section>
+
+  <section id="eventsSec" aria-labelledby="evH">
+    <div class="card-h"><h2 id="evH">Happening</h2><span class="hint" id="evHint"></span></div>
+    <div class="list" id="events"></div>
+  </section>
+
+  <section id="placesSec" aria-labelledby="plH">
+    <div class="card-h"><h2 id="plH">Always a good idea</h2><span class="hint" id="plHint"></span></div>
+    <div class="list" id="places"></div>
+  </section>
+
+  <footer class="foot">
+    <span id="updated"></span>
+    <span>Events come from public calendars (parks, libraries, cities) and are listed as posted. Check the link before you go: times and prices change.</span>
+    <span><a id="suggest" href="#" target="_blank" rel="noopener">Know a free or cheap spot? Suggest it</a> · <a href="https://acompora19.github.io/mias-almanac/" target="_blank" rel="noopener">Mia's Almanac</a> · <a href="https://acompora19.github.io/mangia-mangia/" target="_blank" rel="noopener">Mangia Mangia</a></span>
+  </footer>
+</div>
+
+<nav class="nav" aria-label="Sections">
+  <button type="button" data-go="beavyCard" aria-current="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M4.9 19.1 7 17M17 7l2.1-2.1"/></svg>Today</button>
+  <button type="button" data-go="eventsSec"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>Events</button>
+  <button type="button" data-go="placesSec"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s7-6.2 7-12a7 7 0 0 0-14 0c0 5.8 7 12 7 12z"/><circle cx="12" cy="10" r="2.5"/></svg>Places</button>
+  <button type="button" id="navSaved"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m12 3 2.8 5.7 6.2.9-4.5 4.4 1.1 6.2L12 17.3 6.4 20.2l1.1-6.2L3 9.6l6.2-.9z"/></svg>Saved</button>
+</nav>
+
+<script type="module">
+import * as C from "./dayout-core.js";
+
+// ---------- settings kept on this phone ----------
+const store = { get(k, d) { try { const v = JSON.parse(localStorage.getItem("bdo." + k)); return v == null ? d : v; } catch { return d; } }, set(k, v) { try { localStorage.setItem("bdo." + k, JSON.stringify(v)); } catch {} } };
+const SPOTS = { home: C.HOME, columbus: { name: "Downtown Columbus", lat: 39.9612, lon: -82.9988 } };
+const state = {
+  when: "today", cost: "any", kids: false, indoor: false, saved: false, area: "all", radius: store.get("radius", 20), q: "",
+  spot: store.get("spot", SPOTS.home), savedIds: new Set(store.get("saved", [])),
+  events: [], places: [], hours: [], outlook: { outdoor: 1, line: "" }, generated: null,
+};
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+// ---------- theme ----------
+$("themeBtn").onclick = () => {
+  const cur = document.documentElement.getAttribute("data-theme") || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  const next = cur === "dark" ? "light" : "dark";
+  document.documentElement.setAttribute("data-theme", next); store.set("theme", next);
+};
+$("dateLine").textContent = C.fmtLongDay(new Date());
+
+// ---------- data ----------
+async function loadData() {
+  const [ev, pl] = await Promise.all([
+    fetch("data/events.json", { cache: "no-cache" }).then(r => r.json()).catch(() => ({ events: [] })),
+    fetch("data/standbys.json", { cache: "no-cache" }).then(r => r.json()).catch(() => []),
+  ]);
+  state.generated = ev.generated || null;
+  state.events = (ev.events || []).map(e => ({ ...e, start: new Date(e.start).getTime(), end: e.end ? new Date(e.end).getTime() : null }))
+    .filter(e => !isNaN(e.start)).sort((a, b) => a.start - b.start);
+  state.places = Array.isArray(pl) ? pl : (pl.places || []);
+  const stale = state.generated && Date.now() - new Date(state.generated).getTime() > 36 * C.HOUR;
+  $("updated").textContent = state.generated ? `Events updated ${C.fmtDay(state.generated)} ${C.fmtClock(state.generated)}${stale ? " (that's a while ago; the fetcher may need a look)" : ""}` : "Events haven't been fetched yet.";
+  render();
+}
+
+// ---------- weather for the spot ----------
+async function loadWeather() {
+  const s = state.spot;
+  const url = `https://api.open-meteo.com/v1/forecast?latitude=${s.lat}&longitude=${s.lon}&hourly=temperature_2m,apparent_temperature,precipitation_probability,precipitation,snowfall,weather_code,wind_speed_10m,wind_gusts_10m,uv_index&forecast_days=10&timezone=auto&temperature_unit=fahrenheit&wind_speed_unit=mph&precipitation_unit=inch`;
+  try {
+    const cached = store.get("wx." + s.lat.toFixed(2) + s.lon.toFixed(2), null);
+    if (cached && Date.now() - cached.at < 45 * 60000) state.hours = cached.hours;
+    else { const om = await (await fetch(url)).json(); state.hours = C.parseOpenMeteo(om); store.set("wx." + s.lat.toFixed(2) + s.lon.toFixed(2), { at: Date.now(), hours: state.hours }); }
+  } catch { state.hours = []; }
+  dressBeavy(); render();
+}
+function dressBeavy() {
+  const now = Date.now();
+  const i0 = Math.max(0, state.hours.findIndex(h => h.t + C.HOUR > now));
+  const cur = state.hours[i0];
+  const today = C.dayHours(state.hours, now).filter(h => h.t >= now - C.HOUR);
+  const hol = C.holidayFor(new Date());
+  if (!cur) { $("beavySays").textContent = "Beavy can't see the sky right now, but the picks below are still good."; $("gearTag").textContent = "No forecast"; return; }
+  const gear = C.gearFor(cur, today);
+  $("beavyImg").src = hol?.art ? `holiday-${hol.key}.webp` : `gear-${gear}.webp`;
+  $("beavyImg").classList.remove("wiggle"); void $("beavyImg").offsetWidth; $("beavyImg").classList.add("wiggle");
+  $("tempNow").innerHTML = `${Math.round(cur.temp)}<sup>°</sup>`;
+  $("gearTag").textContent = C.GEAR_NAME[gear];
+  state.outlook = C.outlookFor(today);
+  const holLine = hol ? (hol.today ? ` Happy ${hol.name.replace(/^the /, "")}!` : hol.days === 1 ? ` Tomorrow is ${hol.name}!` : ` ${hol.name.replace(/^the /, "The")} is in ${hol.days} days.`) : "";
+  $("beavySays").innerHTML = `<em>Beavy says:</em> ${esc(state.outlook.line)}${esc(holLine)}`;
+  $("beavyWear").textContent = `Feels like ${Math.round(cur.feels ?? cur.temp)}° right now in ${state.spot.name}.`;
+}
+$("beavyImg").onclick = () => { $("beavyImg").classList.remove("wiggle"); void $("beavyImg").offsetWidth; $("beavyImg").classList.add("wiggle"); };
+
+// ---------- spot (weather + distance) ----------
+function setSpot(spot, which) {
+  state.spot = spot; store.set("spot", spot);
+  for (const [id, w] of [["spotHome", "home"], ["spotColumbus", "columbus"], ["spotMe", "me"]]) $(id).setAttribute("aria-pressed", String(w === which));
+  loadWeather();
+}
+$("spotHome").onclick = () => setSpot(SPOTS.home, "home");
+$("spotColumbus").onclick = () => setSpot(SPOTS.columbus, "columbus");
+$("spotMe").onclick = () => {
+  if (!navigator.geolocation) return alert("This browser can't share your location.");
+  $("spotMe").textContent = "Finding you…";
+  navigator.geolocation.getCurrentPosition(p => { $("spotMe").textContent = "My location"; setSpot({ name: "where you are", lat: +p.coords.latitude.toFixed(4), lon: +p.coords.longitude.toFixed(4) }, "me"); },
+    () => { $("spotMe").textContent = "Use my location"; alert("Couldn't get your location. You can still pick Canal Winchester or Columbus."); }, { timeout: 8000 });
+};
+if (state.spot.name === "where you are") { $("spotMe").textContent = "My location"; setSpot(state.spot, "me"); }
+else setSpot(state.spot.name === SPOTS.columbus.name ? SPOTS.columbus : SPOTS.home, state.spot.name === SPOTS.columbus.name ? "columbus" : "home");
+
+// ---------- filters ----------
+function chipGroup(id, attr, key) {
+  $(id).addEventListener("click", e => {
+    const b = e.target.closest(`[data-${attr}]`); if (!b) return;
+    state[key] = b.dataset[attr];
+    for (const x of $(id).querySelectorAll(`[data-${attr}]`)) x.setAttribute("aria-pressed", String(x === b));
+    if (key === "area" && state.area === "near" && state.spot.name !== "where you are") $("spotMe").click();
+    render();
+  });
+}
+chipGroup("whenChips", "when", "when"); chipGroup("costChips", "cost", "cost"); chipGroup("areaChips", "area", "area");
+for (const [id, key] of [["kidsChip", "kids"], ["indoorChip", "indoor"], ["savedChip", "saved"]]) $(id).onclick = () => { state[key] = !state[key]; $(id).setAttribute("aria-pressed", String(state[key])); render(); };
+$("radius").value = state.radius; $("radius").onchange = () => { state.radius = +$("radius").value; store.set("radius", state.radius); render(); };
+let qT; $("q").oninput = () => { clearTimeout(qT); qT = setTimeout(() => { state.q = $("q").value.trim().toLowerCase(); render(); }, 150); };
+
+function passes(x, isEvent) {
+  if (state.cost === "free" && !(x.costNum === 0 || x.free)) return false;
+  if (state.cost === "cheap" && !(x.costNum != null && x.costNum < 10)) return false;
+  if (state.kids && !x.kids) return false;
+  if (state.indoor && !x.indoor) return false;
+  if (state.saved && !state.savedIds.has(x.id)) return false;
+  if (state.area === "Columbus" || state.area === "Fairfield County" || state.area === "Nearby") { if ((x.area || C.areaFrom(x.town + " " + x.address)) !== state.area) return false; }
+  if (state.area === "near") { if (x.dist == null || x.dist > state.radius) return false; }
+  if (state.q) { const hay = [x.title, x.name, x.venue, x.town, x.what, x.desc, (x.tags || []).join(" "), x.source].join(" ").toLowerCase(); if (!hay.includes(state.q)) return false; }
+  return true;
+}
+function costClass(x) { return (x.costNum === 0 || x.free) ? "free" : (x.costNum != null && x.costNum < 10) ? "cheap" : ""; }
+function mapsLink(x) { const q = x.address ? `${x.name || x.venue}, ${x.address}` : (x.lat ? `${x.lat},${x.lon}` : x.name || x.venue); return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(q)}`; }
+
+// ---------- render ----------
+function render() {
+  const now = new Date();
+  for (const x of [...state.events, ...state.places]) x.dist = C.miles(state.spot.lat, state.spot.lon, x.lat, x.lon);
+  // events
+  const win = C.windowFor(state.when, now);
+  let evs = state.events.filter(e => C.inWindow(e, win) && (e.end || e.start) >= now.getTime() - C.HOUR).filter(e => passes(e, true));
+  if (state.area === "near") evs.sort((a, b) => a.start - b.start || (a.dist ?? 99) - (b.dist ?? 99));
+  const byDay = new Map();
+  for (const e of evs) { const k = C.dayKey(e.start < win[0].getTime() ? win[0] : e.start); if (!byDay.has(k)) byDay.set(k, []); byDay.get(k).push(e); }
+  const winName = { today: "today", tomorrow: "tomorrow", weekend: "this weekend", week: "in the next 7 days", month: "in the next month" }[state.when];
+  $("evHint").textContent = evs.length ? `${evs.length} ${winName}` : "";
+  let html = "";
+  if (!evs.length) html = `<div class="empty">Nothing listed ${winName}${state.cost !== "any" || state.kids || state.area !== "all" || state.q ? " with these filters" : ""}. Try a wider window, or scroll down: the standbys never close.</div>`;
+  for (const [k, list] of byDay) {
+    const d = new Date(k + "T12:00");
+    html += `<div class="day-h"><h3>${C.fmtDay(d, now)}</h3><span class="n">${list.length} ${list.length === 1 ? "thing" : "things"}</span></div>`;
+    html += list.map(e => itemHTML(e, true)).join("");
+  }
+  $("events").innerHTML = html;
+  // places
+  const hourNow = now.getHours();
+  let pls = state.places.filter(p => passes(p, false));
+  pls.sort((a, b) => {
+    const sa = C.scoreStandby(a, state.outlook, hourNow), sb = C.scoreStandby(b, state.outlook, hourNow);
+    if (state.area === "near") return (a.dist ?? 99) - (b.dist ?? 99);
+    return sb - sa || (a.dist ?? 99) - (b.dist ?? 99);
+  });
+  $("plHint").textContent = pls.length ? `${pls.length} ${pls.length === 1 ? "spot" : "spots"}${state.outlook.outdoor === 0 ? ", indoor first" : ""}` : "";
+  $("places").innerHTML = pls.length ? pls.map(p => itemHTML(p, false)).join("") : `<div class="empty">No spots match. Loosen a filter or two.</div>`;
+}
+function itemHTML(x, isEvent) {
+  const title = x.title || x.name;
+  const when = isEvent ? (x.allDay ? "All day" : `${C.fmtClock(x.start)}${x.end && x.end - x.start < 14 * C.HOUR ? "–" + C.fmtClock(x.end) : ""}`) : "";
+  const where = [x.venue && x.venue !== title ? x.venue : "", x.town, x.dist != null ? C.fmtMiles(x.dist) : ""].filter(Boolean).join(" · ");
+  // The badge stays short; the full price note (free days, kid prices) goes in the details.
+  const costFull = x.cost || "";
+  const cost = x.costNum === 0 || x.free ? (/\b(first|sunday|resident|under|free to)\b/i.test(costFull) && costFull.length > 12 ? "Free*" : "Free") : x.costNum != null ? `$${x.costNum}${/[\/–-]/.test(costFull) ? "+" : ""}` : costFull.slice(0, 10);
+  const tags = [x.kids ? '<span class="tag kids">kids</span>' : "", x.indoor ? '<span class="tag">indoor</span>' : "", ...(x.tags || []).slice(0, 4).map(t => `<span class="tag">${esc(t)}</span>`)].join("");
+  const saved = state.savedIds.has(x.id);
+  return `<div class="item" data-id="${esc(x.id)}">
+    <div class="t">${esc(title)}</div>
+    ${cost ? `<span class="cost ${costClass(x)}">${esc(cost)}</span>` : ""}
+    <div class="m">${when ? `<b>${esc(when)}</b>${where ? " · " : ""}` : ""}${esc(where)}</div>
+    ${!isEvent && x.when ? `<div class="m hours">${esc(x.when)}</div>` : ""}
+    <div class="tags">${tags}</div>
+    <div class="more">
+      ${x.desc || x.what ? `<p>${esc((x.desc || x.what).slice(0, 700))}${(x.desc || x.what).length > 700 ? "…" : ""}</p>` : ""}
+      ${costFull && costFull !== cost ? `<span class="src"><b>Cost:</b> ${esc(costFull)}</span>` : ""}
+      ${x.address ? `<span class="src">${esc(x.address)}</span>` : ""}
+      ${x.source ? `<span class="src">From ${esc(x.source)}${x.verified ? " · checked " + esc(x.verified) : ""}</span>` : ""}
+      <div class="acts">
+        ${x.url ? `<a class="btn" href="${esc(x.url)}" target="_blank" rel="noopener">Details ↗</a>` : ""}
+        ${x.address || x.lat ? `<a class="btn quiet" href="${mapsLink(x)}" target="_blank" rel="noopener">Directions</a>` : ""}
+        <button class="btn quiet save" type="button" data-save="${esc(x.id)}" aria-pressed="${saved}">${saved ? "★ Saved" : "☆ Save"}</button>
+      </div>
+    </div></div>`;
+}
+document.addEventListener("click", e => {
+  const sv = e.target.closest("[data-save]");
+  if (sv) { const id = sv.dataset.save; state.savedIds.has(id) ? state.savedIds.delete(id) : state.savedIds.add(id); store.set("saved", [...state.savedIds]); render(); return; }
+  if (e.target.closest("a")) return;
+  const it = e.target.closest(".item"); if (it) it.classList.toggle("open");
+});
+
+// ---------- bottom nav ----------
+for (const b of document.querySelectorAll(".nav [data-go]")) b.onclick = () => { document.getElementById(b.dataset.go).scrollIntoView({ behavior: "smooth", block: "start" }); for (const x of document.querySelectorAll(".nav button")) x.removeAttribute("aria-current"); b.setAttribute("aria-current", "true"); };
+$("navSaved").onclick = () => { if (!state.saved) $("savedChip").click(); $("placesSec").scrollIntoView({ behavior: "smooth" }); };
+
+// ---------- suggest a spot: opens a pre-filled GitHub issue ----------
+$("suggest").href = "https://github.com/acompora19/beavys-day-out/issues/new?title=" + encodeURIComponent("Suggest a spot: ") + "&body=" + encodeURIComponent("Name:\nTown:\nCost:\nWhy it's good:\nLink:");
+
+loadData();
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+</script>
+</body>
+</html>

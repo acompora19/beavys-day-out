@@ -1,0 +1,13 @@
+{
+  "name": "Beavy's Day Out",
+  "short_name": "Day Out",
+  "description": "Free and cheap things to do around Columbus and Fairfield County, picked for today's weather.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#EDE3CC",
+  "theme_color": "#B0432B",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

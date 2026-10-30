@@ -1,0 +1,40 @@
+name: Fetch events
+
+# Pulls the public calendars every 6 hours and commits data/events.json when it changed.
+# Run it by hand from the Actions tab ("Run workflow") after adding a source.
+on:
+  schedule:
+    - cron: "19 3,9,15,21 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "fetch/**"
+      - "dayout-core.js"
+
+concurrency:
+  group: events
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Pull the calendars
+        run: node fetch/events.mjs
+
+      - name: Commit the new list
+        run: |
+          git config user.name "beavy-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/events.json
+          if git diff --cached --quiet; then echo "No changes"; else git commit -m "Update events" && git push; fi
