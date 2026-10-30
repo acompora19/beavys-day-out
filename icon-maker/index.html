@@ -46,10 +46,12 @@ async function draw() {
   // disc with two rings, like the Almanac badge
   g.beginPath(); g.arc(cx, cy, 470, 0, Math.PI * 2); g.fillStyle = RING; g.fill();
   g.beginPath(); g.arc(cx, cy, 460, 0, Math.PI * 2); g.fillStyle = CREAM; g.fill();
-  // paper grain
-  const grain = g.createImageData(S, S); const d = grain.data;
-  for (let i = 0; i < d.length; i += 4) { const v = 43 + Math.random() * 20; d[i] = v; d[i + 1] = v * 0.78; d[i + 2] = v * 0.55; d[i + 3] = Math.random() < 0.5 ? 10 : 0; }
-  g.save(); g.beginPath(); g.arc(cx, cy, 460, 0, Math.PI * 2); g.clip(); g.putImageData(grain, 0, 0); g.restore();
+  // paper grain, drawn through an offscreen canvas so it layers on top of the cream instead of replacing it
+  const oc = document.createElement("canvas"); oc.width = oc.height = S; const og = oc.getContext("2d");
+  const grain = og.createImageData(S, S); const d = grain.data;
+  for (let i = 0; i < d.length; i += 4) { d[i] = 43; d[i + 1] = 33; d[i + 2] = 24; d[i + 3] = Math.random() < 0.5 ? 12 : 0; }
+  og.putImageData(grain, 0, 0);
+  g.save(); g.beginPath(); g.arc(cx, cy, 460, 0, Math.PI * 2); g.clip(); g.drawImage(oc, 0, 0); g.restore();
   g.lineWidth = 3; g.strokeStyle = RING;
   g.beginPath(); g.arc(cx, cy, 330, 0, Math.PI * 2); g.stroke();
   g.lineWidth = 6; g.beginPath(); g.arc(cx, cy, 442, 0, Math.PI * 2); g.stroke();
