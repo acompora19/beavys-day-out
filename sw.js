@@ -1,5 +1,5 @@
 // Beavy's Day Out service worker: caches the app so it opens with no signal, and keeps the last events list.
-const VERSION = "bdo-v3";
+const VERSION = "bdo-v4";
 const SHELL = ["./", "index.html", "dayout-core.js", "beaver-portrait.png", "icon-64.png", "icon-180.png", "icon-512.png", "manifest.json", "data/standbys.json", "data/events.json"];
 self.addEventListener("install", (e) => { e.waitUntil(caches.open(VERSION).then((c) => c.addAll(SHELL.map((u) => new Request(u, { cache: "reload" })))).then(() => self.skipWaiting())); });
 self.addEventListener("activate", (e) => { e.waitUntil(caches.keys().then((keys) => Promise.all(keys.filter((k) => k !== VERSION).map((k) => caches.delete(k)))).then(() => self.clients.claim())); });
