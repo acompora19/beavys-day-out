@@ -6,10 +6,6 @@ on:
   schedule:
     - cron: "19 3,9,15,21 * * *"
   workflow_dispatch:
-  push:
-    paths:
-      - "fetch/**"
-      - "dayout-core.js"
 
 concurrency:
   group: events
