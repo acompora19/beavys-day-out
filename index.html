@@ -188,6 +188,11 @@ select.mini{border:1px solid var(--line);background:var(--surface);border-radius
     <div class="list" id="events"></div>
   </section>
 
+  <section id="ongoingSec" aria-labelledby="ogH" hidden>
+    <div class="card-h"><h2 id="ogH">Running for a while</h2><span class="hint" id="ogHint"></span></div>
+    <div class="list" id="ongoing"></div>
+  </section>
+
   <section id="placesSec" aria-labelledby="plH">
     <div class="card-h"><h2 id="plH">Always a good idea</h2><span class="hint" id="plHint"></span></div>
     <div class="list" id="places"></div>
@@ -326,7 +331,14 @@ function render() {
   for (const x of [...state.events, ...state.places]) x.dist = C.miles(state.spot.lat, state.spot.lon, x.lat, x.lon);
   // events
   const win = C.windowFor(state.when, now);
-  let evs = state.events.filter(e => C.inWindow(e, win) && (e.end || e.start) >= now.getTime() - C.HOUR).filter(e => passes(e, true));
+  // Things that run for days on end (an exhibit, a pumpkin patch) get their own list instead of showing up every single day.
+  const isLong = e => e.end && e.end - e.start > 3 * C.DAY;
+  const live = state.events.filter(e => (e.end || e.start) >= now.getTime() - C.HOUR);
+  let evs = live.filter(e => !isLong(e) && C.inWindow(e, win)).filter(e => passes(e, true));
+  const ongoing = live.filter(e => isLong(e) && C.inWindow(e, win)).filter(e => passes(e, true));
+  $("ongoingSec").hidden = !ongoing.length;
+  $("ogHint").textContent = ongoing.length ? `${ongoing.length} ${ongoing.length === 1 ? "thing" : "things"}` : "";
+  $("ongoing").innerHTML = ongoing.map(e => itemHTML({ ...e, spanLine: `${C.fmtDay(e.start, now)} – ${C.fmtDay(e.end, now)}` }, true)).join("");
   if (state.area === "near") evs.sort((a, b) => a.start - b.start || (a.dist ?? 99) - (b.dist ?? 99));
   const byDay = new Map();
   for (const e of evs) { const k = C.dayKey(e.start < win[0].getTime() ? win[0] : e.start); if (!byDay.has(k)) byDay.set(k, []); byDay.get(k).push(e); }
@@ -353,7 +365,7 @@ function render() {
 }
 function itemHTML(x, isEvent) {
   const title = x.title || x.name;
-  const when = isEvent ? (x.allDay ? "All day" : `${C.fmtClock(x.start)}${x.end && x.end - x.start < 14 * C.HOUR ? "–" + C.fmtClock(x.end) : ""}`) : "";
+  const when = x.spanLine || (isEvent ? (x.allDay ? "All day" : `${C.fmtClock(x.start)}${x.end && x.end - x.start < 14 * C.HOUR ? "–" + C.fmtClock(x.end) : ""}`) : "");
   const where = [x.venue && x.venue !== title ? x.venue : "", x.town, x.dist != null ? C.fmtMiles(x.dist) : ""].filter(Boolean).join(" · ");
   // The badge stays short; the full price note (free days, kid prices) goes in the details.
   const costFull = x.cost || "";

@@ -4,8 +4,9 @@
 // `cost` may be a string to parse ("Free", "$5") or left out to read it from the text.
 // Checked 2026-10-30; a source that breaks just reports an error in data/events.json and the rest carry on.
 
-const MEETING_RE = /\b(meeting|commission|council|hearing|board|work session|committee|agenda|closed|office hours?|trash|recycling|deadline)\b/i;
-const notMeeting = r => !MEETING_RE.test(r.title);
+const MEETING_RE = /\b(meeting|commission|council|hearing|board|work session|committee|agenda|closed|office hours?|trash|recycling|deadline|blood drive|election day)\b/i;
+const CANCELLED_RE = /\b(cancel+ed|postponed|rescheduled)\b/i;
+const notMeeting = r => !MEETING_RE.test(r.title) && !CANCELLED_RE.test(r.title);
 
 // ---------- The Events Calendar (WordPress) JSON: Metro Parks, Rec & Parks, Columbus Commons, Scioto Mile, Downtown Columbus ----------
 function tec(base, extra = {}) {
@@ -84,11 +85,13 @@ async function visitFairfield(get, h) {
       const start = h.parseWhen(a.start_date), end = h.parseWhen(a.end_date);
       if (!start) continue;
       const content = h.strip(e.content?.rendered || "");
+      // The "Cheap or Free" tag is loose (coffee specials, paid readings), so "Free" only when the listing says so.
       const cheapOrFree = (e.event_category || []).includes(VFC_FREE_CAT);
+      const saysFree = /\b(free|no cover|no charge|no admission)\b/i.test(`${e.title?.rendered} ${content}`);
       rows.push({
         uid: String(e.id), title: h.unent(e.title?.rendered || ""), start, end, allDay: !!a.all_day_event,
         venue: h.unent(L.name || a.host || ""), address: L.address || "", town: L.city || "", lat: L.lat != null ? +L.lat : undefined, lon: L.lng != null ? +L.lng : undefined,
-        desc: content, url: e.link, cost: cheapOrFree && !/\$\s?\d/.test(content) ? "Free" : undefined, cheapHint: cheapOrFree,
+        desc: content, url: e.link, cheapHint: cheapOrFree && saysFree,
       });
     }
   }
@@ -170,10 +173,11 @@ export const SOURCES = [
   { key: "cw", name: "City of Canal Winchester", area: "Fairfield County", ics: civic("www.canalwinchesterohio.gov", 25), town: "Canal Winchester", lat: 39.8428, lon: -82.8046, filter: notMeeting, row: civicRow, url: "https://www.canalwinchesterohio.gov/calendar.aspx" },
   { key: "lanc", name: "City of Lancaster", area: "Fairfield County", ics: civic("www.lancasterohio.gov", 14), town: "Lancaster", lat: 39.7137, lon: -82.5993, filter: notMeeting, row: civicRow, url: "https://www.lancasterohio.gov/calendar.aspx" },
   { key: "lancpr", name: "Lancaster Parks & Recreation", area: "Fairfield County", ics: civic("www.lancasterohio.gov", 23), town: "Lancaster", lat: 39.7137, lon: -82.5993, filter: notMeeting, row: civicRow, url: "https://www.lancasterohio.gov/calendar.aspx" },
-  { key: "pick", name: "City of Pickerington", area: "Fairfield County", ics: civic("www.pickerington.net", 14), town: "Pickerington", lat: 39.8842, lon: -82.7535, filter: notMeeting, row: civicRow, url: "https://www.pickerington.net/" },
+  // City of Pickerington (pickerington.net) refuses automated requests; its events show up on Visit Fairfield County instead.
   { key: "ddl", name: "Destination Downtown Lancaster", area: "Fairfield County", fetch: downtownLancaster, url: "https://destinationdowntownlancaster.com/events/" },
   // Columbus
-  { key: "excol", name: "Experience Columbus", fetch: experienceColumbus, url: "https://www.experiencecolumbus.com/events/" },
+  // Experience Columbus (experiencecolumbus.com) answers 403 to GitHub's servers; left out until there's a way around it.
+  // { key: "excol", name: "Experience Columbus", fetch: experienceColumbus, url: "https://www.experiencecolumbus.com/events/" },
   { key: "dtc", name: "Downtown Columbus", fetch: tec("https://downtowncolumbus.com", { town: "Columbus" }), url: "https://downtowncolumbus.com/events/" },
   { key: "crp", name: "Columbus Recreation & Parks", fetch: tec("https://columbusrecparks.com", { town: "Columbus" }), url: "https://columbusrecparks.com/calendar/" },
   { key: "mp", name: "Metro Parks", fetch: tec("https://www.metroparks.net"), url: "https://www.metroparks.net/events/", kids: true },

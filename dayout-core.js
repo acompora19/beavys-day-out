@@ -15,6 +15,8 @@ function fmtDay(d, now = new Date()) {
   const diff = Math.round((startOfDay(d) - startOfDay(now)) / DAY);
   if (diff === 0) return "Today";
   if (diff === 1) return "Tomorrow";
+  if (diff < 0 && diff > -7) return `${DN[d.getDay()]} ${MN[d.getMonth()]} ${d.getDate()}`;
+  if (diff < 0) return `${MN[d.getMonth()]} ${d.getDate()}`;
   return `${DN[d.getDay()]} ${MN[d.getMonth()]} ${d.getDate()}`;
 }
 function fmtLongDay(d) { d = new Date(d); return `${["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"][d.getDay()]}, ${["January","February","March","April","May","June","July","August","September","October","November","December"][d.getMonth()]} ${d.getDate()}`; }
