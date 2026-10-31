@@ -1,113 +1,113 @@
 {
- "generated": "2026-10-31T15:52:34.709Z",
+ "generated": "2026-10-31T21:50:46.812Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 400,
-   "kept": 191,
-   "ms": 7921
+   "kept": 185,
+   "ms": 5706
   },
   {
    "source": "Fairfield County District Library",
    "rows": 128,
-   "kept": 128,
-   "ms": 574
+   "kept": 126,
+   "ms": 420
   },
   {
    "source": "Pickerington Public Library",
    "rows": 266,
    "kept": 266,
-   "ms": 841
+   "ms": 571
   },
   {
    "source": "City of Canal Winchester",
    "rows": 114,
    "kept": 8,
-   "ms": 348
+   "ms": 358
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 266
+   "ms": 272
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 53
+   "ms": 61
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 1283
+   "ms": 1400
   },
   {
    "source": "Downtown Columbus",
    "rows": 178,
-   "kept": 176,
-   "ms": 13132
+   "kept": 175,
+   "ms": 11237
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 30,
    "kept": 30,
-   "ms": 913
+   "ms": 991
   },
   {
    "source": "Metro Parks",
    "rows": 0,
    "kept": 0,
-   "ms": 1247
+   "ms": 1350
   },
   {
    "source": "Columbus Commons",
    "rows": 30,
    "kept": 29,
-   "ms": 1012
+   "ms": 1307
   },
   {
    "source": "Scioto Mile",
    "rows": 31,
    "kept": 30,
-   "ms": 1123
+   "ms": 1150
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
    "kept": 8,
-   "ms": 3436
+   "ms": 503
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 78,
    "kept": 4,
-   "ms": 93
+   "ms": 95
   },
   {
    "source": "City of Grove City",
    "rows": 19,
    "kept": 17,
-   "ms": 261
+   "ms": 284
   },
   {
    "source": "City of Worthington",
-   "rows": 103,
-   "kept": 22,
-   "ms": 604
+   "rows": 102,
+   "kept": 21,
+   "ms": 631
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 324
+   "ms": 337
   },
   {
    "source": "Standing freebies",
    "rows": 11,
    "kept": 11,
-   "ms": 9
+   "ms": 4
   }
  ],
  "events": [
@@ -131,48 +131,6 @@
    "url": "https://visitfairfieldcounty.org/events/pumpkin-patch-at-jameys-pumpkin-patch/",
    "source": "Visit Fairfield County",
    "desc": "Come out to Jamey’s Pumpkin Patch starting September 12th until October 31st to pick your pumpkins from the patch or select one that’s already ready to go down by the road! Looking for a fun family experience? Start a new family tradition or just make great memories picking pumpkins in the field!\n\n \n\nFor more information, please visit Jamey’s Pumpkin Patch’s Facebook page."
-  },
-  {
-   "id": "vfc-32614",
-   "title": "October Specials at Carroll Cup Coffee House",
-   "start": "2026-10-01T06:00-04:00",
-   "end": "2026-10-31T14:00-04:00",
-   "allDay": false,
-   "venue": "75 E Canal St",
-   "address": "75 East Canal Street, Carroll, Ohio 43112, United States",
-   "town": "Carroll",
-   "lat": 39.7992911,
-   "lon": -82.70160039999999,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/october-specials-at-carroll-cup-coffee-house/",
-   "source": "Visit Fairfield County",
-   "desc": "October specialty coffees are here at Carroll Cup Coffee House! Head in and discover your new favorite flavors!\n\nThe Great Pumpkin: Latte with pumpkin sauce and pumpkin cold foam (iced or hot)\n\nWizard’s Brew: Latte with English toffee syrup and caramel sauce (iced or hot)\n\nCarsyn’s Boo Berry: Latte with blueberry and butter pecan syrup (iced or hot)\n\n \n\nFor more information, please visit Carroll Cup Coffee House’s Facebook page."
-  },
-  {
-   "id": "vfc-32606",
-   "title": "October Specials at Juniper & Ivy Coffeehouse",
-   "start": "2026-10-01T06:00-04:00",
-   "end": "2026-10-31T15:00-04:00",
-   "allDay": false,
-   "venue": "200 N Main St",
-   "address": "200 North Main Street, Baltimore, Ohio 43105, United States",
-   "town": "Baltimore",
-   "lat": 39.8463948,
-   "lon": -82.60116980000001,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/october-specials-at-juniper-ivy-coffeehouse/",
-   "source": "Visit Fairfield County",
-   "desc": "New month means a new menu of specials at Juniper & Ivy Coffeehouse! Come check out their October specials and let them know your favorite!\n\nChocolate Chip Banana Bread: Hazelnut and banana mocha (hot, iced, or frozen)\n\nStarburst Reviver: Strawberry and orange lemonade (iced or frozen)\n\nPunkin Butta: Brown butter and pumpkin spice latte (hot, iced, or frozen)\n\nSmore Chai Please: Cookie butter chai with toasted marshmallow cold foam (or sweet cream if hot) with chocolate drizzle (hot, iced, or frozen)\n\nApple Cider Tea: Hot apple cider and black tea with a sprinkle of cinnamon (hot)\n\n \n\nFor more information, please visit Juniper & Ivy Coffeehouse’s Facebook page."
   },
   {
    "id": "vfc-32604",
@@ -343,111 +301,6 @@
    "desc": "Join L-City Coffee + on Halloween, October 31st, for a little spooky fun and a treat that’s worth getting dressed up for! Show up in your Halloween costume and get a free drink on them! Feeling extra spooky? Ask about adding some purple cold foam! Bring your friends, your family, your little monsters, or your entire coven! Whether you go all out with your costume or keep it simple, they want to celebrate Halloween with you! Free drink offer is valid in-store only for one small or medium beverage priced up to $5. Drinks over $5? Just pay the difference! What’s your costume going to be?\n\nFor more information, please visit L-City Coffee’s Facebook page."
   },
   {
-   "id": "worthington-9223",
-   "title": "Worthington Farmers Market",
-   "start": "2026-10-31T08:00-04:00",
-   "end": "2026-10-31T12:00-04:00",
-   "allDay": false,
-   "venue": "",
-   "address": "- Downtown Worthington Worthington OH 43085",
-   "town": "Worthington",
-   "lat": 40.0931,
-   "lon": -83.018,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
-   "source": "City of Worthington",
-   "desc": "Visit the Worthington Farmers Market in historic downtown Worthington during the summer season, May through October. https://worthington.org/calendar.aspx?EID=9223"
-  },
-  {
-   "id": "vfc-32774",
-   "title": "Fall Finale at the Lancaster Farmers Market",
-   "start": "2026-10-31T08:30-04:00",
-   "end": "2026-10-31T12:00-04:00",
-   "allDay": false,
-   "venue": "143 W Chestnut St",
-   "address": "143 West Chestnut Street, Lancaster, OH, USA",
-   "town": "Lancaster",
-   "lat": 39.71265239999999,
-   "lon": -82.60475989999999,
-   "area": "Fairfield County",
-   "cost": "Free–$25",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/fall-finale-at-the-lancaster-farmers-market/",
-   "source": "Visit Fairfield County",
-   "desc": "No tricks here! The Lancaster Farmers Market Fall Finale lands on Halloween this year. Don your best costume, and come celebrate the end of a successful season with them. Stock up on all your farmers market favorites and enjoy a seasonal celebration! Wake up with a hot beverage from L-City Pop Up Coffee and stroll the market. While you’re there, you can also enjoy brunch from their two food trucks – Son in Law Pizza Company and Kermit’s – located right next to the Double Edge Brewing Co. patio. The brewery opens at 9:00 a.m., and you can even enjoy a beverage in a DORA cup while you stroll the market!\n\nFor their Fall Finale, they’ll be hosting their famous Pop Up Cocktail Bar, three food trucks and a special drawing for shoppers. As an appreciation to customers for a wonderful market season, shoppers can enter to win a basket full of local goodies, provided by the vendors! Visit the Market Tent to enter the drawing. At the Market Bar, they’ll be serving up seasonal cocktails, so you can sip and shop while you stroll the market. Please remember to bring your ID if you are 21 or older and you would like to enjoy the Market Bar. All proceeds will go to support the market.\n\nSNAP custom"
-  },
-  {
-   "id": "vfc-32912",
-   "title": "Meet the Maker at Keller Market House",
-   "start": "2026-10-31T10:00-04:00",
-   "end": "2026-10-31T13:00-04:00",
-   "allDay": false,
-   "venue": "134 S Columbus St",
-   "address": "134 South Columbus Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7126457,
-   "lon": -82.6043368,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/meet-the-maker-at-keller-market-house/",
-   "source": "Visit Fairfield County",
-   "desc": "Come for the snacks, stay for the samples…or maybe the other way around? Drop by to say hi to Rachel from SNACKS home bakery, who will be at the Keller Market House from 10 a.m. to 1 p.m. on Halloween with free samples of her Triple Chocolate Cookies, World Peace Cookies, and Spiced Shortbread Cookies. Early birds can participate in a taste test and poll to determine the best flavor combination for 2027’s chocolate bark & bites! One of their newest vendors, SNACKS exists to delight, offering accessible food for sharing, savoring, and enjoying like your favorite bag of chips. Their team exists to support your health journey with (almost) guilt-free bites that are hand crafted for maximal joy.\n\nFor more information, please visit Keller Market House’s Facebook page."
-  },
-  {
-   "id": "vfc-32405",
-   "title": "Abracadabra at AHA!",
-   "start": "2026-10-31T10:00-04:00",
-   "end": "2026-10-31T12:00-04:00",
-   "allDay": false,
-   "venue": "1708 River Valley Cir S",
-   "address": "1708 River Valley Circle South, Lancaster, OH 43130, USA",
-   "town": "Lancaster",
-   "lat": 39.7307783,
-   "lon": -82.62573979999999,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/abracadabra-at-aha/",
-   "source": "Visit Fairfield County",
-   "desc": "Get ready for a spooktacular morning at AHA! Children’s Museum! Join them for Abracadabra! on Saturday, October 31st from 10 a.m. to 12 p.m. for a morning filled with Halloween fun. Come dressed in your Halloween best and celebrate the holiday with them! And thanks to their sponsor, W.M. Davis Infrastructure, the first 50 little ones will receive a FREE T-shirt! Mark your calendars and join them for a Halloween celebration the whole family can enjoy!\n\nFor more information, please visit AHA! Children’s Museum’s Facebook page."
-  },
-  {
-   "id": "vfc-32183",
-   "title": "Baby Goat Yoga at SunRay Farms",
-   "start": "2026-10-31T10:00-04:00",
-   "end": "2026-10-31T11:00-04:00",
-   "allDay": false,
-   "venue": "5773 Royalton Rd SW",
-   "address": "5773 Royalton Road Southwest, Lancaster, OH, USA",
-   "town": "Lancaster",
-   "lat": 39.7228833,
-   "lon": -82.7149938,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/2026-10-31-baby-goat-yoga-at-sunray-farms/",
-   "source": "Visit Fairfield County",
-   "desc": "Stretch, smile, and snuggle your way into the weekend with playful baby goats during yoga at SunRay Farms! Enjoy a fun, beginner-friendly yoga class led by licensed yoga instructor Angie Gallis while adorable baby goats wander, play, and keep you smiling. After class, enjoy the special experience of bottle-feeding the baby goats, then spend time holding, petting, cuddling, and getting to know these sweet little farm friends. Capture plenty of adorable photos, smiles, and unforgettable moments with the goats!\n\nThe class size is intentionally limited so every guest enjoys plenty of space, personal interaction, and quality time with the baby goats. Reserve your spot today before slots fill up! Rain, chilly mornings, or warm fall days won’t get in the way. Goat yoga takes place indoors in their newly renovated, fully climate-controlled Gathering Stables event space, complete with a private restroom and kitchenette. Weather permitting, they may also take the class outdoors to enjoy yoga at one of their scenic spots around the farm.\n\nFor more information, please visit SunRay Farm’s Facebook page."
-  },
-  {
    "id": "dtc-10017868",
    "title": "Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors",
    "start": "2026-10-31T10:00-04:00",
@@ -467,48 +320,6 @@
    "url": "https://downtowncolumbus.com/event/portraits-of-courage-a-commander-in-chiefs-tribute-to-americas-warriors/2026-10-31/",
    "source": "Downtown Columbus",
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
-  },
-  {
-   "id": "fcdl-17141515",
-   "title": "Slightly Spooky Storytime",
-   "start": "2026-10-31T10:30-04:00",
-   "end": "2026-10-31T11:30-04:00",
-   "allDay": false,
-   "venue": "*Main Library · Gallery (Lancaster)",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17141515",
-   "source": "Fairfield County District Library",
-   "desc": "Join us for a slightly spooky storytime followed by games and other exciting activities.\n\nChildren may dress in costume, although it's not required. \n\nNo registration necessary"
-  },
-  {
-   "id": "fcdl-17129279",
-   "title": "Hometown Military Heroes Wall Display",
-   "start": "2026-10-31T10:30-04:00",
-   "end": "2026-10-31T13:30-04:00",
-   "allDay": false,
-   "venue": "Bremen Branch Library",
-   "address": "220 Marietta St, Bremen, OH 43107",
-   "town": "Bremen",
-   "lat": 39.7066,
-   "lon": -82.4258,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17129279",
-   "source": "Fairfield County District Library",
-   "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
   },
   {
    "id": "vfc-32483",
@@ -572,27 +383,6 @@
    "url": "https://visitfairfieldcounty.org/events/2026-10-31-the-pumpkin-patch-corn-maze-at-hartland-farm/",
    "source": "Visit Fairfield County",
    "desc": "Celebrate fall at the Hartland Farm Pumpkin Patch and Corn Maze, a seasonal destination offering pumpkins, family fun, and hands-on outdoor activities.\n\nDates & Hours:\n\nOctober 3rd – October 31st, 2026\n\nSaturdays & Sundays | Noon – 6 p.m.\n\nPumpkins\n\nFrom classic jack-o-lantern pumpkins and small round varieties for children to unique, hard-to-find specialty pumpkins, the selection changes each year as new seeds are planted and grown.\n\nPlayground\n\nAn outdoor play space blends farming and nature, featuring wooded areas, a shallow creek, tree forts, a mud kitchen, corn box, tire tower slide, and hay bale bridge. Children can explore, climb, and create for hours of entertainment.\n\nCorn Maze\n\nWander through a field of corn and test your sense of direction in the family-friendly corn maze.\n\nAnimals\n\nEnjoy meeting friendly farm animals including chickens, rabbits, and goats. Honeybees can also be observed safely in their habitat.\n\nFind additional information on Hartland Farm’s Facebook page."
-  },
-  {
-   "id": "dtc-1045239",
-   "title": "Halloween Paint and Sip",
-   "start": "2026-10-31T13:00-04:00",
-   "end": "2026-10-31T15:00-04:00",
-   "allDay": false,
-   "venue": "Slammers",
-   "address": "202 E Long Street, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/halloween-paint-and-sip/",
-   "source": "Downtown Columbus",
-   "desc": "Join Chloe Milan Arts and start your Halloween off right with a paint and sip! Each ticket covers all supplies needed to create your painting."
   },
   {
    "id": "dtc-10013296",
