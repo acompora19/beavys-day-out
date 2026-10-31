@@ -1,113 +1,113 @@
 {
- "generated": "2026-10-31T04:00:11.014Z",
+ "generated": "2026-10-31T09:56:09.931Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 400,
-   "kept": 193,
-   "ms": 5634
+   "kept": 191,
+   "ms": 6532
   },
   {
    "source": "Fairfield County District Library",
-   "rows": 130,
-   "kept": 129,
-   "ms": 527
+   "rows": 128,
+   "kept": 128,
+   "ms": 648
   },
   {
    "source": "Pickerington Public Library",
-   "rows": 264,
-   "kept": 258,
-   "ms": 589
+   "rows": 266,
+   "kept": 266,
+   "ms": 750
   },
   {
    "source": "City of Canal Winchester",
    "rows": 114,
    "kept": 8,
-   "ms": 298
+   "ms": 352
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 229
+   "ms": 263
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 52
+   "ms": 53
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 414
+   "ms": 1336
   },
   {
    "source": "Downtown Columbus",
-   "rows": 186,
-   "kept": 178,
-   "ms": 12503
+   "rows": 178,
+   "kept": 176,
+   "ms": 6939
   },
   {
    "source": "Columbus Recreation & Parks",
-   "rows": 32,
+   "rows": 30,
    "kept": 30,
-   "ms": 942
+   "ms": 1086
   },
   {
    "source": "Metro Parks",
    "rows": 0,
    "kept": 0,
-   "ms": 1892
+   "ms": 1244
   },
   {
    "source": "Columbus Commons",
-   "rows": 29,
+   "rows": 30,
    "kept": 29,
-   "ms": 2367
+   "ms": 1196
   },
   {
    "source": "Scioto Mile",
-   "rows": 30,
+   "rows": 31,
    "kept": 30,
-   "ms": 1085
+   "ms": 922
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
    "kept": 8,
-   "ms": 309
+   "ms": 468
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 78,
    "kept": 4,
-   "ms": 54
+   "ms": 87
   },
   {
    "source": "City of Grove City",
    "rows": 19,
    "kept": 17,
-   "ms": 242
+   "ms": 258
   },
   {
    "source": "City of Worthington",
    "rows": 103,
    "kept": 22,
-   "ms": 520
+   "ms": 567
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 186
+   "ms": 229
   },
   {
    "source": "Standing freebies",
    "rows": 11,
    "kept": 11,
-   "ms": 4
+   "ms": 9
   }
  ],
  "events": [
@@ -236,111 +236,6 @@
    "url": "https://visitfairfieldcounty.org/events/color-improvisations-3-a-major-exhibition-of-contemporary-quilts/",
    "source": "Visit Fairfield County",
    "desc": "Color Improvisations 3: A Major Exhibition of Contemporary Quilts features 38 large quilts that explore color, scale, and improvisation in contemporary textile art. Curated by internationally recognized artist Nancy Crow, the exhibition at the Decorative Arts Center of Ohio includes works by quiltmakers from the United States, Canada, and New Zealand, highlighting the creativity, innovation and artistic excellence shaping contemporary quilt making today. Using bold abstract forms and richly worked fabrics, the artists balance exquisite skill with creative risk. Their quilts invite viewers to experience color as movement, texture, and feeling. This exhibition will run from October 3rd, 2026 to January 3rd, 2027.\n\n \n\nFor more information, please visit the Decorative Arts Center of Ohio’s website."
-  },
-  {
-   "id": "fcdl-17081619",
-   "title": "Build-a-Boo Haunted House Show",
-   "start": "2026-10-30T00:00-04:00",
-   "end": "2026-10-30T23:59-04:00",
-   "allDay": true,
-   "venue": "Baltimore Branch Library",
-   "address": "205 E Market St, Baltimore, OH 43105",
-   "town": "Baltimore",
-   "lat": 39.8449,
-   "lon": -82.6016,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17081619",
-   "source": "Fairfield County District Library",
-   "desc": "Put a spooky twist on the classic gingerbread house! Create a haunted house using any materials you like—LEGO&reg; bricks, cardboard, sticks, recycled materials, gingerbread, or anything else you can imagine. Give your house a family-friendly name and include your contact information when you submit your project. Drop off for houses is Friday, October 16 through Monday, October 19. Haunted houses will be on display October 20–31. Stop by to admire the entries and cast your vote for your favorite!\n\nDrop Off: October 16-19\n\nView & Vote: October 20-31\n\nPickup: November 2-7"
-  },
-  {
-   "id": "vfc-32723",
-   "title": "Live Music with Will Freed at Rushcreek Pub & Grub",
-   "start": "2026-10-30T19:00-04:00",
-   "end": "2026-10-30T22:00-04:00",
-   "allDay": false,
-   "venue": "102 S Broad St",
-   "address": "102 S Broad St, Bremen, OH 43107, USA",
-   "town": "Bremen",
-   "lat": 39.701854,
-   "lon": -82.426523,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/live-music-with-will-freed-at-rushcreek-pub-grub/",
-   "source": "Visit Fairfield County",
-   "desc": "Join for a night of live music with Will Freed at Rushcreek Pub & Grub from 7 p.m. to 10 p.m. on Friday, October 30th! Bring your friends and family along for a memorable evening filled with great tunes and good vibes. Let’s come together to celebrate the sounds of Will Freed and make this a night to remember. See you there!\n\n \n\nFor more information, please visit Rushcreek Pub & Grub’s Facebook page."
-  },
-  {
-   "id": "dtc-1046030",
-   "title": "Mainline Costume Contest",
-   "start": "2026-10-30T19:00-04:00",
-   "end": "2026-10-30T22:00-04:00",
-   "allDay": false,
-   "venue": "Mainline Bar + Courtyard",
-   "address": "216 E Main St, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/mainline-costume-contest/",
-   "source": "Downtown Columbus",
-   "desc": "Celebrate Halloween and maybe even win some prizes at this costume contest! Prizes are awarded at 10 pm for the overall best and most original costume!"
-  },
-  {
-   "id": "vfc-31975",
-   "title": "The Haunted Farm 2026",
-   "start": "2026-10-30T19:30-04:00",
-   "end": "2026-10-30T23:30-04:00",
-   "allDay": false,
-   "venue": "5450 Old Millersport Rd NE",
-   "address": "5450 Old Millersport Road Northeast, Pleasantville, Ohio 43148, United States of America",
-   "town": "Pleasantville",
-   "lat": 39.8031643,
-   "lon": -82.5555897,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/2026-10-30-the-haunted-farm-2026/",
-   "source": "Visit Fairfield County",
-   "desc": "Experience The Haunted Farm and get your scare on with some farm fresh fear on Fridays and Saturdays from September 25th to October 31st! More screams per acre than anywhere else around!\n\n \n\nFor more information, please visit The Haunted Farm’s Facebook page."
-  },
-  {
-   "id": "dtc-10022861",
-   "title": "Black Lagoon Halloween Party",
-   "start": "2026-10-30T20:00-04:00",
-   "end": "2026-10-30T23:00-04:00",
-   "allDay": false,
-   "venue": "The Citizen Trust",
-   "address": "51 N High St, COLUMBUS, OH, 43215-7105",
-   "town": "COLUMBUS",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/black-lagoon-halloween-party-2/2026-10-30/",
-   "source": "Downtown Columbus",
-   "desc": "Check out Black Lagoon, Halloween pop-up at The Citizen Trust through October! Plus, on the 30th and 31st, join them for an epic Halloween party, featuring a swag raffle and live DJ."
   },
   {
    "id": "fcdl-17081620",
@@ -1414,7 +1309,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-10-31",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-01",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-01T10:00-05:00",
    "end": "2026-11-01T17:00-05:00",
@@ -1439,7 +1334,7 @@
    ]
   },
   {
-   "id": "recurring-community-day-at-franklin-park-conservatory-2026-10-31",
+   "id": "recurring-community-day-at-franklin-park-conservatory-2026-11-01",
    "title": "Community Day at Franklin Park Conservatory",
    "start": "2026-11-01T10:00-05:00",
    "end": "2026-11-01T17:00-05:00",
@@ -4257,7 +4152,7 @@
    "desc": "Beautiful colors, fluffy critters, and seasonal smells. You never know what fall wonders await! Join Mambourg Park on an exploratory hike! Be prepared to hike up to 3 miles and some off trail exploration. This program is for ages 13 and up.\n\nFor more information, please visit the Fairfield County Park District’s Facebook page."
   },
   {
-   "id": "recurring-short-north-gallery-hop-2026-11-06",
+   "id": "recurring-short-north-gallery-hop-2026-11-07",
    "title": "Short North Gallery Hop",
    "start": "2026-11-07T16:00-05:00",
    "end": "2026-11-07T20:00-05:00",
@@ -4471,7 +4366,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-07",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-08",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-08T10:00-05:00",
    "end": "2026-11-08T17:00-05:00",
@@ -7688,7 +7583,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-14",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-15",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-15T10:00-05:00",
    "end": "2026-11-15T17:00-05:00",
@@ -10695,7 +10590,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-21",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-22",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-22T10:00-05:00",
    "end": "2026-11-22T17:00-05:00",
@@ -12883,7 +12778,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-28",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-29",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-29T10:00-05:00",
    "end": "2026-11-29T17:00-05:00",
@@ -15071,7 +14966,7 @@
    "desc": "https://www.reynoldsburg.gov/calendar.aspx?EID=1415"
   },
   {
-   "id": "recurring-short-north-gallery-hop-2026-12-04",
+   "id": "recurring-short-north-gallery-hop-2026-12-05",
    "title": "Short North Gallery Hop",
    "start": "2026-12-05T16:00-05:00",
    "end": "2026-12-05T20:00-05:00",
@@ -15285,7 +15180,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-05",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-06",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-06T10:00-05:00",
    "end": "2026-12-06T17:00-05:00",
@@ -15310,7 +15205,7 @@
    ]
   },
   {
-   "id": "recurring-community-day-at-franklin-park-conservatory-2026-12-05",
+   "id": "recurring-community-day-at-franklin-park-conservatory-2026-12-06",
    "title": "Community Day at Franklin Park Conservatory",
    "start": "2026-12-06T10:00-05:00",
    "end": "2026-12-06T17:00-05:00",
@@ -17603,7 +17498,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-12",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-13",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-13T10:00-05:00",
    "end": "2026-12-13T17:00-05:00",
@@ -17733,6 +17628,69 @@
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
   },
   {
+   "id": "ppl-16802623",
+   "title": "Page Turners Book Club",
+   "start": "2026-12-14T13:00-05:00",
+   "end": "2026-12-14T14:00-05:00",
+   "allDay": false,
+   "venue": "Pickerington Main · Meeting Room A",
+   "address": "201 Opportunity Way, Pickerington, OH 43147",
+   "town": "Pickerington",
+   "lat": 39.8958,
+   "lon": -82.7563,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": true,
+   "url": "https://pickeringtonlibrary.libnet.info/event/16802623",
+   "source": "Pickerington Public Library",
+   "desc": "Page Turners Book Club meets every Monday. We read aloud and discuss the book together in a relaxed atmosphere. \n\nAll reading levels are welcome. For specific accommodation requests or inquiries, please contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
+  },
+  {
+   "id": "ppl-16423367",
+   "title": "Homework Help Center",
+   "start": "2026-12-14T15:00-05:00",
+   "end": "2026-12-14T18:00-05:00",
+   "allDay": false,
+   "venue": "Sycamore Plaza  · Meeting Room",
+   "address": "7861 Refugee Rd, Pickerington, OH 43147",
+   "town": "Pickerington",
+   "lat": 39.9173,
+   "lon": -82.7918,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://pickeringtonlibrary.libnet.info/event/16423367",
+   "source": "Pickerington Public Library",
+   "desc": "The Homework Help Center is a community resource that serves the entire Pickerington Local School District. Unlike tutoring services that provide one-on-one help in specific subject areas, the Library’s Homework Help service supports students by ensuring they are able to complete specific work assigned by their classroom teachers. \n\nLibrary staff and volunteers are knowledgeable in guiding students through homework assignments in many subjects and grade levels. If the subject material is beyond the knowledge of staff and volunteers or students need more individual assistance than we can provide, we can direct them to resources for additional help.\n\nOpen Monday-Thursday following the PLSD calendar.\n\nFor more information and online resources, visit https://pickeringtonlibrary.org/homework-help-center/."
+  },
+  {
+   "id": "ppl-16833799",
+   "title": "Teen Hang",
+   "start": "2026-12-14T15:00-05:00",
+   "end": "2026-12-14T17:00-05:00",
+   "allDay": false,
+   "venue": "Sycamore Plaza  · Learning Kitchen",
+   "address": "7861 Refugee Rd, Pickerington, OH 43147",
+   "town": "Pickerington",
+   "lat": 39.9173,
+   "lon": -82.7918,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://pickeringtonlibrary.libnet.info/event/16833799",
+   "source": "Pickerington Public Library",
+   "desc": "A great space for kids over 12 years old to hang out and relax after school. Enjoy a snack after school while you wait for practice or a ride home. \n\nCrafts: Bedazzling, bracelet-making, coloring pages, nail art, and more!\n\nVideo Games: Choose from a selection of PS5 video games always available (Madden ‘26, NBA 2K ‘26, DreamWorks All-Star Kart Racing, and NC ‘26) or choose something else from our video game collection! A Nintendo Switch is also available for those looking for a solo game or Mario Kart dual with a friend. \n\nTeen Hang follows the PLSD School Calendar. However, video games and craft supplies are available upon request when school is not in session. \n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
+  },
+  {
    "id": "dtc-10022700",
    "title": "FREE Wanderlights",
    "start": "2026-12-14T17:00-05:00",
@@ -17794,6 +17752,48 @@
    "url": "https://visitfairfieldcounty.org/events/make-herbal-holiday-magic-at-keller-market-house/",
    "source": "Visit Fairfield County",
    "desc": "Join Keller Market House for a festive, hands-on workshop where you’ll learn how to craft one-of-a-kind herbal gifts for your loved ones! Step into the warmth and beauty of the season in this festive herbal make-and-take workshop. Students will craft a gorgeous holiday bath soak layered in jars with botanicals, skin-loving clays, and magnesium salts, plus a fragrant simmer pot sachet filled with wintry herbs and spices to cozy the home with natural scent and seasonal cheer. Equal parts creative, practical, and delightful, this class is perfect for anyone who loves handmade gifts, herbal self-care, and bringing the comfort of the natural world into the holiday season.\n\nWoodland Herbal will provide everything you need and you’ll leave with beautiful, meaningful presents made by your own hands. This is also an excellent experience to gift your loved ones and friends that you can do together! Tickets are $35 for the general public and $30 for friends of the market members. Register online today before tickets sell out! The registration deadline is Friday, December 11th. Be ready to laugh, learn and play!\n\nFor more information, please visit Keller Market House’s Facebook page."
+  },
+  {
+   "id": "ppl-15127229",
+   "title": "Friends of the Pickerington Public Library",
+   "start": "2026-12-14T18:30-05:00",
+   "end": "2026-12-14T20:00-05:00",
+   "allDay": false,
+   "venue": "Pickerington Main · Meeting Room A",
+   "address": "201 Opportunity Way, Pickerington, OH 43147",
+   "town": "Pickerington",
+   "lat": 39.8958,
+   "lon": -82.7563,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": true,
+   "url": "https://pickeringtonlibrary.libnet.info/event/15127229",
+   "source": "Pickerington Public Library",
+   "desc": "For more information, visit https://pickeringtonlibrary.org/about/friends-of-pickerington-public-library/"
+  },
+  {
+   "id": "ppl-17412419",
+   "title": "Bricks & Banter: Ornaments",
+   "start": "2026-12-14T18:30-05:00",
+   "end": "2026-12-14T19:30-05:00",
+   "allDay": false,
+   "venue": "Pickerington Main · Meeting Room C",
+   "address": "201 Opportunity Way, Pickerington, OH 43147",
+   "town": "Pickerington",
+   "lat": 39.8958,
+   "lon": -82.7563,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://pickeringtonlibrary.libnet.info/event/17412419",
+   "source": "Pickerington Public Library",
+   "desc": "Unwind, get creative, and connect with others at Bricks & Banter—a monthly LEGO program just for adults (18+). Each session features a seasonally themed build you’ll assemble and take home. Whether you’re a lifelong builder or new to LEGO, this program is a fun, low-pressure way to relax, express your creativity, and meet fellow makers.\n\nAt this LEGO Club meeting, you will build gingerbread ornaments, complete with fun holiday details and creative surprises. Discover different ways to customize your gingerbread creations as you build a cheerful display perfect for the holiday season.\n\nThis event will be held at both the Pickerington Main Library and the Sycamore Plaza Library on the same night. Please note which location you registered for.\n\nRegistration required. Adults only.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   }
  ]
 }
