@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-01T09:59:20.117Z",
+ "generated": "2026-11-01T15:51:17.893Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 400,
    "kept": 167,
-   "ms": 5688
+   "ms": 6314
   },
   {
    "source": "Fairfield County District Library",
    "rows": 125,
    "kept": 125,
-   "ms": 1033
+   "ms": 514
   },
   {
    "source": "Pickerington Public Library",
    "rows": 273,
    "kept": 273,
-   "ms": 995
+   "ms": 685
   },
   {
    "source": "City of Canal Winchester",
    "rows": 114,
-   "kept": 8,
-   "ms": 347
+   "kept": 9,
+   "ms": 299
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 462
+   "ms": 160
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 82
+   "ms": 34
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 1497
+   "ms": 1618
   },
   {
    "source": "Downtown Columbus",
    "rows": 166,
-   "kept": 162,
-   "ms": 11373
+   "kept": 163,
+   "ms": 10328
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 27,
    "kept": 27,
-   "ms": 898
+   "ms": 683
   },
   {
    "source": "Metro Parks",
    "rows": 0,
    "kept": 0,
-   "ms": 1275
+   "ms": 1284
   },
   {
    "source": "Columbus Commons",
    "rows": 31,
    "kept": 30,
-   "ms": 1856
+   "ms": 1091
   },
   {
    "source": "Scioto Mile",
    "rows": 32,
    "kept": 31,
-   "ms": 1114
+   "ms": 719
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
    "kept": 8,
-   "ms": 544
+   "ms": 253
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 78,
    "kept": 4,
-   "ms": 86
+   "ms": 82
   },
   {
    "source": "City of Grove City",
    "rows": 19,
    "kept": 16,
-   "ms": 277
+   "ms": 191
   },
   {
    "source": "City of Worthington",
    "rows": 101,
    "kept": 20,
-   "ms": 612
+   "ms": 310
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 237
+   "ms": 201
   },
   {
    "source": "Standing freebies",
    "rows": 11,
    "kept": 11,
-   "ms": 8
+   "ms": 10
   }
  ],
  "events": [
@@ -16933,6 +16933,48 @@
    "url": "https://downtowncolumbus.com/event/columbus-blue-jackets-game-6/2026-12-15/",
    "source": "Downtown Columbus",
    "desc": "Cheer on the Columbus Blue Jackets in this regular season game at Nationwide Arena!\n\nGet tickets here!"
+  },
+  {
+   "id": "dtc-10004705",
+   "title": "November Project Scioto Mile Free Workout",
+   "start": "2026-12-16T06:00-05:00",
+   "end": "2026-12-16T08:00-05:00",
+   "allDay": false,
+   "venue": "Genoa Park",
+   "address": "303 W Broad St, Columbus, OH",
+   "town": "Columbus",
+   "lat": 39.9598672,
+   "lon": -83.0054187,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/november-project-scioto-mile-free-workout/2026-12-16/",
+   "source": "Downtown Columbus",
+   "desc": "November Project is a free outside fitness group that started in Boston in 2011 to break down barriers to movement! Now in 53 cities around the globe, we create free, fun, scalable (adjustable to your fitness level) workouts for all ages – and doggos!\n\nOur workout starts at 6:14a every Wednesday morning in Genoa Park on the Scioto Mile (on the steps behind COSI). We work out for 45 minutes together until 7am, then walk down to One Line Coffee to hang out before work!\n\nCome join us if you’re an off-the-couch fitness newbie, a runner looking to cross-train, or any fitness level in between, we’d love to see you!"
+  },
+  {
+   "id": "cw-2925",
+   "title": "Kid Zone",
+   "start": "2026-12-16T09:00-05:00",
+   "end": "2026-12-16T11:00-05:00",
+   "allDay": false,
+   "venue": "",
+   "address": "- City Hall Council Chambers 45 E. Waterloo Street Canal Winchester OH 43110",
+   "town": "Canal Winchester",
+   "lat": 39.8428,
+   "lon": -82.8046,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25",
+   "source": "City of Canal Winchester",
+   "desc": "https://www.canalwinchesterohio.gov/calendar.aspx?EID=2925"
   }
  ]
 }
