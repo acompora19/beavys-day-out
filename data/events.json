@@ -1,107 +1,107 @@
 {
- "generated": "2026-11-01T15:51:17.893Z",
+ "generated": "2026-11-01T21:51:49.520Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 400,
-   "kept": 167,
-   "ms": 6314
+   "kept": 164,
+   "ms": 10602
   },
   {
    "source": "Fairfield County District Library",
    "rows": 125,
-   "kept": 125,
-   "ms": 514
+   "kept": 124,
+   "ms": 460
   },
   {
    "source": "Pickerington Public Library",
    "rows": 273,
    "kept": 273,
-   "ms": 685
+   "ms": 568
   },
   {
    "source": "City of Canal Winchester",
    "rows": 114,
    "kept": 9,
-   "ms": 299
+   "ms": 290
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 160
+   "ms": 186
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 34
+   "ms": 38
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 1618
+   "ms": 1444
   },
   {
    "source": "Downtown Columbus",
    "rows": 166,
    "kept": 163,
-   "ms": 10328
+   "ms": 7292
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 27,
    "kept": 27,
-   "ms": 683
+   "ms": 696
   },
   {
    "source": "Metro Parks",
    "rows": 0,
    "kept": 0,
-   "ms": 1284
+   "ms": 1158
   },
   {
    "source": "Columbus Commons",
    "rows": 31,
    "kept": 30,
-   "ms": 1091
+   "ms": 1138
   },
   {
    "source": "Scioto Mile",
    "rows": 32,
    "kept": 31,
-   "ms": 719
+   "ms": 673
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
    "kept": 8,
-   "ms": 253
+   "ms": 287
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 78,
    "kept": 4,
-   "ms": 82
+   "ms": 71
   },
   {
    "source": "City of Grove City",
    "rows": 19,
    "kept": 16,
-   "ms": 191
+   "ms": 198
   },
   {
    "source": "City of Worthington",
    "rows": 101,
    "kept": 20,
-   "ms": 310
+   "ms": 289
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 201
+   "ms": 199
   },
   {
    "source": "Standing freebies",
@@ -175,48 +175,6 @@
    "desc": "Pickerington Public Library is proud to be a Neighbor in Action, supporting the community through the Pickerington Food Pantry. Join the effort to \"scare out hunger!\" this October. Donation collection bins are located at both Pickerington Main Library and Sycamore Plaza Library from October 1 through November 1. Thank you for participating!\n\nCanned pumpkin and instant mashed potatoes are highly encouraged. Visit the Pickerington Food Pantry's Most Needed Items webpage for a full list of donations needed.\n\nFor other questions about donations, please reach out to the Pickerington Food Pantry by visiting https://pickpantry.com/contact-us"
   },
   {
-   "id": "vfc-32680",
-   "title": "Kegs & Eggs at Double Edge Brewing",
-   "start": "2026-11-01T09:00-05:00",
-   "end": "2026-11-01T12:00-05:00",
-   "allDay": false,
-   "venue": "158 W Chestnut St",
-   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7123144,
-   "lon": -82.6041679,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/kegs-eggs-at-double-edge-brewing-5/",
-   "source": "Visit Fairfield County",
-   "desc": "From 9 a.m. to 12 p.m., Kermit’s Food Truck will be posted up on the patio slinging some of the best brunch this side of Chestnut St. — and Double Edge Brewing is pouring the good stuff to go with it. They will have NFL games on the big screen and over the speakers, drink specials, as well as their regular beer, cider, and seltzers. They’ll be doing Kegs & Eggs every Sunday through November 15th, so make it part of your weekend routine. Grab some brunch, grab a beer, yell at the TV a little too loudly…you know, Sunday stuff.\n\nFor more information, please visit Double Edge Brewing’s Facebook page."
-  },
-  {
-   "id": "vfc-32823",
-   "title": "Bend & Brew at Double Edge Brewing",
-   "start": "2026-11-01T10:00-05:00",
-   "end": "2026-11-01T11:00-05:00",
-   "allDay": false,
-   "venue": "158 W Chestnut St",
-   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7123144,
-   "lon": -82.6041679,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/bend-brew-at-double-edge-brewing-2/",
-   "source": "Visit Fairfield County",
-   "desc": "Join Dr. Monica for Yoga on Sunday, November 1st at 10 a.m. at Double Edge Brewing Co! Dr. Monica has over 8 years of experience treating patients and practicing physical medicine. Her classes take a biomechanical, body-aware approach to yoga. Think less about memorizing poses and more about getting the most out of every stretch. Expect clear verbal cues, helpful visualizations, and intentional breathwork. All skill levels are welcome! This is a ticketed event and there is a limited number of participants per class. Purchasing your ticket solidifies your place in the class. Drinks are sold separately and can be bought after class directly from Double Edge. They offer non-alcoholic, mocktails, ciders, seltzers and beer.\n\nPromotional image for Double Edge Brewing’s Facebook page."
-  },
-  {
    "id": "dtc-10017869",
    "title": "Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors",
    "start": "2026-11-01T10:00-05:00",
@@ -286,48 +244,6 @@
     "garden",
     "free-day"
    ]
-  },
-  {
-   "id": "vfc-32916",
-   "title": "Puppy Yoga at Hidden Acres Legacy Farm",
-   "start": "2026-11-01T12:00-05:00",
-   "end": "2026-11-01T13:00-05:00",
-   "allDay": false,
-   "venue": "Hidden Acres Legacy Farm",
-   "address": "Hidden Acres Legacy Farm, Reynoldsburg Baltimore Road Northwest, Pickerington, OH, USA",
-   "town": "Pickerington",
-   "lat": 39.8817868,
-   "lon": -82.72947450000001,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/puppy-yoga-at-hidden-acres-legacy-farm-3/",
-   "source": "Visit Fairfield County",
-   "desc": "Stretch, smile, and snuggle your way through an unforgettable hour at Hidden Acres Legacy Farm for a joyful, beginner-friendly Puppy Yoga class—where gentle movement meets playful puppy cuddles! During this one-hour experience, you’ll flow through simple yoga poses at your own pace while adorable puppies roam, play, and may decide your mat is the perfect place for a nap. No yoga experience is needed—just bring a mat or towel, wear comfortable clothes, and come ready to relax, laugh, and make some four-legged friends.\n\nYour 1-hour Puppy Yoga experience includes a gentle, all-levels yoga class, plenty of puppy playtime and cuddles, a peaceful farm setting, fun photo opportunities, and a feel-good experience for friends, families, date days, and animal lovers. Come breathe deeply, move gently, and leave happier than you arrived—possibly with a few puppy kisses, too. Space is limited, so be sure to reserve your spot today! Please park next door at the Fairfield County Board of Disabilities. Someone will meet you there to direct you to the path for the short and scenic walk to the yoga location.\n\nFor more information, please visit Hidden Acres Legacy Farm’s Facebook page."
-  },
-  {
-   "id": "fcdl-17180222",
-   "title": "Juniper and Ivy Coffee Family Storytime",
-   "start": "2026-11-01T13:30-05:00",
-   "end": "2026-11-01T14:00-05:00",
-   "allDay": false,
-   "venue": "Offsite",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17180222",
-   "source": "Fairfield County District Library",
-   "desc": "Children from birth to age 6 (with a favorite adult) enjoy books, songs, rhymes and movement activities while building language and literacy skills."
   },
   {
    "id": "vfc-33005",
