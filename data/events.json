@@ -1,83 +1,83 @@
 {
- "generated": "2026-11-01T04:09:03.724Z",
+ "generated": "2026-11-01T09:59:20.117Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 400,
-   "kept": 173,
-   "ms": 4814
+   "kept": 167,
+   "ms": 5688
   },
   {
    "source": "Fairfield County District Library",
    "rows": 125,
    "kept": 125,
-   "ms": 450
+   "ms": 1033
   },
   {
    "source": "Pickerington Public Library",
    "rows": 273,
    "kept": 273,
-   "ms": 675
+   "ms": 995
   },
   {
    "source": "City of Canal Winchester",
    "rows": 114,
    "kept": 8,
-   "ms": 377
+   "ms": 347
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 293
+   "ms": 462
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 61
+   "ms": 82
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 1451
+   "ms": 1497
   },
   {
    "source": "Downtown Columbus",
-   "rows": 162,
+   "rows": 166,
    "kept": 162,
-   "ms": 6968
+   "ms": 11373
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 27,
    "kept": 27,
-   "ms": 1014
+   "ms": 898
   },
   {
    "source": "Metro Parks",
    "rows": 0,
    "kept": 0,
-   "ms": 1291
+   "ms": 1275
   },
   {
    "source": "Columbus Commons",
-   "rows": 30,
+   "rows": 31,
    "kept": 30,
-   "ms": 765
+   "ms": 1856
   },
   {
    "source": "Scioto Mile",
-   "rows": 31,
+   "rows": 32,
    "kept": 31,
-   "ms": 1201
+   "ms": 1114
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
    "kept": 8,
-   "ms": 505
+   "ms": 544
   },
   {
    "source": "Gahanna Parks & Recreation",
@@ -88,26 +88,26 @@
   {
    "source": "City of Grove City",
    "rows": 19,
-   "kept": 17,
-   "ms": 262
+   "kept": 16,
+   "ms": 277
   },
   {
    "source": "City of Worthington",
    "rows": 101,
    "kept": 20,
-   "ms": 504
+   "ms": 612
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 284
+   "ms": 237
   },
   {
    "source": "Standing freebies",
    "rows": 11,
    "kept": 11,
-   "ms": 7
+   "ms": 8
   }
  ],
  "events": [
@@ -154,132 +154,6 @@
    "desc": "Color Improvisations 3: A Major Exhibition of Contemporary Quilts features 38 large quilts that explore color, scale, and improvisation in contemporary textile art. Curated by internationally recognized artist Nancy Crow, the exhibition at the Decorative Arts Center of Ohio includes works by quiltmakers from the United States, Canada, and New Zealand, highlighting the creativity, innovation and artistic excellence shaping contemporary quilt making today. Using bold abstract forms and richly worked fabrics, the artists balance exquisite skill with creative risk. Their quilts invite viewers to experience color as movement, texture, and feeling. This exhibition will run from October 3rd, 2026 to January 3rd, 2027.\n\n \n\nFor more information, please visit the Decorative Arts Center of Ohio’s website."
   },
   {
-   "id": "vfc-32483",
-   "title": "Halloween Costume Party & Karaoke at Tavern 22",
-   "start": "2026-10-31T11:00-04:00",
-   "end": "2026-10-31T23:59-04:00",
-   "allDay": false,
-   "venue": "5270 Sand Hill Rd",
-   "address": "5270 Sand Hill Road, Amanda, OH, USA",
-   "town": "Amanda",
-   "lat": 39.65356609999999,
-   "lon": -82.74096639999999,
-   "area": "Fairfield County",
-   "cost": "$50–$200",
-   "costNum": 50,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/halloween-costume-party-karaoke-at-tavern-22/",
-   "source": "Visit Fairfield County",
-   "desc": "Get ready for Tavern 22‘s 2nd Annual Halloween Costume Party & Karaoke on Saturday, October 31st! Last year was an absolute blast, and they’re ready to do it all again! Come dressed to impress, sing your heart out, and celebrate Halloween with them!\n\nCostume Contest Prizes:\n\n1st Place — $200 cash!\n\n2nd Place — $100 Tavern 22 Gift Card\n\n3rd Place — $50 Tavern 22 Gift Card\n\nThey will also have spooky drink specials, Halloween food specials, karaoke, and lots of Halloween fun! Start planning your costume now and make Tavern 22 your Halloween night destination! For more information, please visit Tavern 22’s Facebook page."
-  },
-  {
-   "id": "vfc-32641",
-   "title": "The Immortal Dinner at The Pines at Buckeye Ridge",
-   "start": "2026-10-31T18:00-04:00",
-   "end": "2026-10-31T23:00-04:00",
-   "allDay": false,
-   "venue": "Blacklick-Eastern Road Northwest",
-   "address": "3550 Blacklick-Eastern Road Northwest, Millersport, Liberty Township, OH, United States",
-   "town": "Liberty Township",
-   "lat": 39.9164055,
-   "lon": -82.6794417,
-   "area": "Fairfield County",
-   "cost": "$85–$100",
-   "costNum": 85,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/the-immortal-dinner-at-the-pines-at-buckeye-ridge/",
-   "source": "Visit Fairfield County",
-   "desc": "The Pines at Buckeye Ridge is ending Spooky season with one unforgettable night! The Immortal Dinner is a private, ticketed Halloween experience for adults 21+ featuring food, entertainment, competition, and plenty of after-dark fun. Tickets are $85 or $100 (includes Hunger Hollar Farms Trail). Either option includes dinner, a DJ and dancing, a swag bag, a costume contest, a raffle, and adult laser tag. Drinks are sold separately. Seating is limited, so don’t wait to reserve your spot and purchase your ticket today!\n\nFor more information, please visit The Pines and Buckeye Ridge’s Facebook page."
-  },
-  {
-   "id": "vfc-31976",
-   "title": "The Haunted Farm 2026",
-   "start": "2026-10-31T19:30-04:00",
-   "end": "2026-10-31T23:30-04:00",
-   "allDay": false,
-   "venue": "5450 Old Millersport Rd NE",
-   "address": "5450 Old Millersport Road Northeast, Pleasantville, Ohio 43148, United States of America",
-   "town": "Pleasantville",
-   "lat": 39.8031643,
-   "lon": -82.5555897,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/2026-10-31-the-haunted-farm-2026/",
-   "source": "Visit Fairfield County",
-   "desc": "Experience The Haunted Farm and get your scare on with some farm fresh fear on Fridays and Saturdays from September 25th to October 31st! More screams per acre than anywhere else around!\n\n \n\nFor more information, please visit The Haunted Farm’s Facebook page."
-  },
-  {
-   "id": "vfc-32475",
-   "title": "Halloween at Ale House 1890",
-   "start": "2026-10-31T20:00-04:00",
-   "end": "2026-10-31T23:00-04:00",
-   "allDay": false,
-   "venue": "149 W Main St",
-   "address": "149 West Main Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7141331,
-   "lon": -82.60378790000001,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/halloween-at-ale-house-1890/",
-   "source": "Visit Fairfield County",
-   "desc": "Join Willow Jayne & the Lazy Day for some spooky live music on Saturday, October 31st during Halloween at Ale House 1890! More details coming soon!\n\n \n\nFor more information, please visit Ale House 1890’s Facebook page."
-  },
-  {
-   "id": "vfc-32359",
-   "title": "Red Light Go Duo Halloween Party at The Local Joint",
-   "start": "2026-10-31T20:00-04:00",
-   "end": "2026-10-31T23:00-04:00",
-   "allDay": false,
-   "venue": "434 N Columbus St",
-   "address": "434 North Columbus Street, Lancaster, OH, USA",
-   "town": "Lancaster",
-   "lat": 39.71868449999999,
-   "lon": -82.6041679,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/red-light-go-duo-halloween-party-at-the-local-joint/",
-   "source": "Visit Fairfield County",
-   "desc": "Enjoy a spooky night with live music by Red Light Go at The Local Joint’s Halloween Party on Saturday, October 31st! There will be spooky cocktails, a costume contest, and a photo op area to show off your best costume! This is sure to be a night you don’t want to miss!\n\n \n\n \n\nFor more information, please visit The Local Joint’s Facebook page."
-  },
-  {
-   "id": "vfc-32855",
-   "title": "Halloween Night at O’Huids Gaelic Pub",
-   "start": "2026-10-31T20:30-04:00",
-   "end": "2026-10-31T22:30-04:00",
-   "allDay": false,
-   "venue": "167 W Main St",
-   "address": "167 West Main Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7139275,
-   "lon": -82.6044453,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/halloween-night-at-ohuids-gaelic-pub/",
-   "source": "Visit Fairfield County",
-   "desc": "Enjoy a fantastic Halloween weekend with fun Halloween festivities at O’Huids Gaelic Pub on Saturday, October 31st! Miller Entertainment will be there from 8:30 p.m. to 10:30 p.m. bringing the spooky vibes with DJ and Karaoke! Make sure to wear your costumes and come spend Halloween weekend with them at the pub! Great drinks, music, karaoke, costumes, and plenty of Halloween fun! They can’t wait to see everyone!\n\nFor more information, please visit O’Huids Gaelic Pub’s Facebook page."
-  },
-  {
    "id": "ppl-17492046",
    "title": "Food Drive: Oct. 1 - Nov. 1",
    "start": "2026-11-01T00:00-04:00",
@@ -299,27 +173,6 @@
    "url": "https://pickeringtonlibrary.libnet.info/event/17492046",
    "source": "Pickerington Public Library",
    "desc": "Pickerington Public Library is proud to be a Neighbor in Action, supporting the community through the Pickerington Food Pantry. Join the effort to \"scare out hunger!\" this October. Donation collection bins are located at both Pickerington Main Library and Sycamore Plaza Library from October 1 through November 1. Thank you for participating!\n\nCanned pumpkin and instant mashed potatoes are highly encouraged. Visit the Pickerington Food Pantry's Most Needed Items webpage for a full list of donations needed.\n\nFor other questions about donations, please reach out to the Pickerington Food Pantry by visiting https://pickpantry.com/contact-us"
-  },
-  {
-   "id": "grovecity-2737",
-   "title": "Great Pumpkin and Gourd Disposal",
-   "start": "2026-11-01T00:00-04:00",
-   "end": null,
-   "allDay": true,
-   "venue": "",
-   "address": "- 3899 Orders Road Grove City OH 43123",
-   "town": "Grove City",
-   "lat": 39.8814,
-   "lon": -83.0929,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35",
-   "source": "City of Grove City",
-   "desc": "https://www.grovecityohio.gov/calendar.aspx?EID=2737"
   },
   {
    "id": "vfc-32680",
@@ -3228,7 +3081,7 @@
    "desc": "Beautiful colors, fluffy critters, and seasonal smells. You never know what fall wonders await! Join Mambourg Park on an exploratory hike! Be prepared to hike up to 3 miles and some off trail exploration. This program is for ages 13 and up.\n\nFor more information, please visit the Fairfield County Park District’s Facebook page."
   },
   {
-   "id": "recurring-short-north-gallery-hop-2026-11-06",
+   "id": "recurring-short-north-gallery-hop-2026-11-07",
    "title": "Short North Gallery Hop",
    "start": "2026-11-07T16:00-05:00",
    "end": "2026-11-07T20:00-05:00",
@@ -3442,7 +3295,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-07",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-08",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-08T10:00-05:00",
    "end": "2026-11-08T17:00-05:00",
@@ -6659,7 +6512,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-14",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-15",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-15T10:00-05:00",
    "end": "2026-11-15T17:00-05:00",
@@ -9666,7 +9519,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-21",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-22",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-22T10:00-05:00",
    "end": "2026-11-22T17:00-05:00",
@@ -11854,7 +11707,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-28",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-29",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-29T10:00-05:00",
    "end": "2026-11-29T17:00-05:00",
@@ -14042,7 +13895,7 @@
    "desc": "https://www.reynoldsburg.gov/calendar.aspx?EID=1415"
   },
   {
-   "id": "recurring-short-north-gallery-hop-2026-12-04",
+   "id": "recurring-short-north-gallery-hop-2026-12-05",
    "title": "Short North Gallery Hop",
    "start": "2026-12-05T16:00-05:00",
    "end": "2026-12-05T20:00-05:00",
@@ -14256,7 +14109,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-05",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-06",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-06T10:00-05:00",
    "end": "2026-12-06T17:00-05:00",
@@ -14281,7 +14134,7 @@
    ]
   },
   {
-   "id": "recurring-community-day-at-franklin-park-conservatory-2026-12-05",
+   "id": "recurring-community-day-at-franklin-park-conservatory-2026-12-06",
    "title": "Community Day at Franklin Park Conservatory",
    "start": "2026-12-06T10:00-05:00",
    "end": "2026-12-06T17:00-05:00",
@@ -16574,7 +16427,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-12",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-13",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-13T10:00-05:00",
    "end": "2026-12-13T17:00-05:00",
