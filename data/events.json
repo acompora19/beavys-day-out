@@ -1,113 +1,112 @@
 {
- "generated": "2026-11-02T10:23:09.520Z",
+ "generated": "2026-11-02T16:18:57.259Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 400,
-   "kept": 162,
-   "ms": 5776
+   "kept": 164,
+   "ms": 6814
   },
   {
    "source": "Fairfield County District Library",
    "rows": 127,
    "kept": 127,
-   "ms": 452
+   "ms": 450
   },
   {
    "source": "Pickerington Public Library",
    "rows": 278,
    "kept": 278,
-   "ms": 848
+   "ms": 510
   },
   {
    "source": "City of Canal Winchester",
    "rows": 114,
    "kept": 9,
-   "ms": 388
+   "ms": 298
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 267
+   "ms": 224
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 60
+   "ms": 48
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 1438
+   "ms": 669
   },
   {
    "source": "Downtown Columbus",
    "rows": 167,
-   "kept": 164,
-   "ms": 30879
+   "kept": 165,
+   "ms": 6895
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 28,
    "kept": 27,
-   "ms": 988
+   "ms": 851
   },
   {
    "source": "Metro Parks",
    "rows": 0,
    "kept": 0,
-   "ms": 2741
+   "ms": 1272
   },
   {
    "source": "Columbus Commons",
-   "rows": 32,
-   "kept": 31,
-   "ms": 1088
+   "error": "504 Gateway Timeout for https://columbuscommons.org/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-11-02&end_date=2026-12-17",
+   "ms": 315
   },
   {
    "source": "Scioto Mile",
    "rows": 33,
    "kept": 32,
-   "ms": 1289
+   "ms": 783
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
    "kept": 8,
-   "ms": 505
+   "ms": 345
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 78,
    "kept": 4,
-   "ms": 102
+   "ms": 126
   },
   {
    "source": "City of Grove City",
    "rows": 18,
    "kept": 16,
-   "ms": 274
+   "ms": 223
   },
   {
    "source": "City of Worthington",
    "rows": 101,
    "kept": 20,
-   "ms": 668
+   "ms": 461
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 278
+   "ms": 239
   },
   {
    "source": "Standing freebies",
    "rows": 9,
    "kept": 9,
-   "ms": 9
+   "ms": 4
   }
  ],
  "events": [
@@ -3522,6 +3521,27 @@
    "desc": "For more information, visit https://pickeringtonlibrary.org/about/friends-of-pickerington-public-library/"
   },
   {
+   "id": "vfc-33026",
+   "title": "Bring Your Own Book Game Night at Wagnalls Memorial",
+   "start": "2026-11-09T19:00-05:00",
+   "end": "2026-11-09T21:00-05:00",
+   "allDay": false,
+   "venue": "150 E Columbus St",
+   "address": "150 East Columbus Street, Lithopolis, Ohio 43136, United States of America",
+   "town": "Lithopolis",
+   "lat": 39.8020299,
+   "lon": -82.8052297,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/bring-your-own-book-game-night-at-wagnalls-memorial/",
+   "source": "Visit Fairfield County",
+   "desc": "Bring Your Own Book is a fast-paced, book-themed party game where players use real books to find funny quotes, phrases, and sentences that match assigned prompts. Bring your favorite book and a friend to Wagnalls Memorial and you’ll enjoy a laid back night of games and laughs. For questions or to RSVP please email mjacobsen@wagnalls.org.\n\nFor more information, please visit Wagnalls Memorial’s Facebook page."
+  },
+  {
    "id": "ppl-16802706",
    "title": "Rhyme Time",
    "start": "2026-11-10T09:30-05:00",
@@ -3729,7 +3749,7 @@
    "indoor": null,
    "url": "https://columbusrecparks.com/calendar/honoring-our-heroes-free-veterans-appreciation-lunch/",
    "source": "Columbus Recreation & Parks",
-   "desc": "To express our deepest gratitude for your service, we invite all veterans to a complimentary appreciation lunch at Marion Franklin Community Center. Come enjoy a great meal and a chance to connect with fellow service members in a welcoming environment.\n\nThe event is completely free, but meals are provided for veterans and their registered companion\n\nonly. Register by calling (614) 645-3160 or by visiting any of our community centers. We look forward to serving you!\n\nTo ensure a comfortable experience for everyone, space is limited, so registration is strictly required. Registration will be open until all spots are filled."
+   "desc": "To express our deepest gratitude for your service, we invite all veterans to a complimentary appreciation lunch at Marion Franklin Community Center. Come enjoy a great meal and a chance to connect with fellow service members in a welcoming environment.\n\nThe event is completely free, but meals are provided for veterans and their registered companion\n\nonly. Register by calling 614-645-3160 or by visiting any of our community centers. We look forward to serving you!\n\nTo ensure a comfortable experience for everyone, space is limited, so registration is strictly required. Registration will be open until all spots are filled."
   },
   {
    "id": "ppl-16423350",
@@ -3814,27 +3834,6 @@
    "url": "https://www.fcdlibrary.org/event/17146218",
    "source": "Fairfield County District Library",
    "desc": "Who are veterans? What is Veterans Day? What is TAPS? These are just a few of the questions we will explore and answer during this program as we learn about the meaning and importance of Veterans Day. Cards and card making supplies will also be available from November 3 through November 10 to create notes to thank veterans for their service. These cards will be delivered to the Fairfield County Veterans Services. Register online, on our app, or by calling the Bremen Branch at (740) 569-7246."
-  },
-  {
-   "id": "vfc-31902",
-   "title": "Wellness Hike at Smeck Park",
-   "start": "2026-11-10T17:00-05:00",
-   "end": "2026-11-10T18:30-05:00",
-   "allDay": false,
-   "venue": "7395 Basil Rd",
-   "address": "7395 Basil Rd, Baltimore, OH, USA",
-   "town": "Baltimore",
-   "lat": 39.83463,
-   "lon": -82.62201999999999,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/wellness-hike-at-smeck-park/",
-   "source": "Visit Fairfield County",
-   "desc": "Let’s get the blood pumping! Join Smeck Park for this fast-paced hike. You may meet your future hiking buddy! Pets are allowed on this hike. Be prepared to hike up to 3 miles. This program is for ages 18 and up.\n\n \n\nFor more information, please visit the Fairfield County Park District’s Facebook page."
   },
   {
    "id": "vfc-32869",
@@ -7390,6 +7389,27 @@
    "desc": "Join our Open Play Chess Club for an inviting, drop-in experience where players of all ages and skill levels can enjoy casual games, share strategies, and learn from one another in a friendly, relaxed setting. Whether you're a beginner or a seasoned player, come to sharpen your skills, meet fellow chess enthusiasts, and have fun—no registration required! Chess sets provided.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
+   "id": "vfc-33023",
+   "title": "Chef’s Table: American Steakhouse at Rhonemus Cellars",
+   "start": "2026-11-18T17:30-05:00",
+   "end": "2026-11-18T20:00-05:00",
+   "allDay": false,
+   "venue": "1511 George Rd NE",
+   "address": "1511 George Road Northeast, Lancaster, OH, USA",
+   "town": "Lancaster",
+   "lat": 39.7436328,
+   "lon": -82.5312751,
+   "area": "Fairfield County",
+   "cost": "$45–$125",
+   "costNum": 45,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/chefs-table-american-steakhouse-at-rhonemus-cellars/",
+   "source": "Visit Fairfield County",
+   "desc": "Join staff as they turn Rhonemus Cellars into a steakhouse for two back-to-back evenings! With a 7-course culinary menu, they will be pouring some of the best wines to bring in to the holiday season! Join them at 5:30 p.m. each night for drinks beforehand, then enjoy the event starting at 6:00 p.m. with ala carte cocktails, wine, and beer. Spots are limited, so grab your tickets now for Wednesday, November 18th! Tickets are $125 per person with an optional $45 wine pairing.\n\n \n\nFor more information, please visit Rhonemus Cellar’s Facebook page."
+  },
+  {
    "id": "vfc-32673",
    "title": "Run Club at Double Edge Brewing",
    "start": "2026-11-18T17:30-05:00",
@@ -8018,6 +8038,27 @@
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35",
    "source": "City of Grove City",
    "desc": "https://www.grovecityohio.gov/calendar.aspx?EID=2724"
+  },
+  {
+   "id": "vfc-33025",
+   "title": "Chef’s Table: American Steakhouse at Rhonemus Cellars",
+   "start": "2026-11-19T17:30-05:00",
+   "end": "2026-11-19T20:00-05:00",
+   "allDay": false,
+   "venue": "1511 George Rd NE",
+   "address": "1511 George Road Northeast, Lancaster, OH, USA",
+   "town": "Lancaster",
+   "lat": 39.7436328,
+   "lon": -82.5312751,
+   "area": "Fairfield County",
+   "cost": "$45–$125",
+   "costNum": 45,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/chefs-table-american-steakhouse-at-rhonemus-cellars-2/",
+   "source": "Visit Fairfield County",
+   "desc": "Join staff as they turn Rhonemus Cellars into a steakhouse for two back-to-back evenings! With a 7-course culinary menu, they will be pouring some of the best wines to bring in to the holiday season! Join them at 5:30 p.m. each night for drinks beforehand, then enjoy the event starting at 6:00 p.m. with ala carte cocktails, wine, and beer. Spots are limited, so grab your tickets now for Thursday, November 19th! Tickets are $125 per person with an optional $45 wine pairing.\n\n \n\nFor more information, please visit Rhonemus Cellar’s Facebook page."
   },
   {
    "id": "fcdl-17080870",
@@ -8984,27 +9025,6 @@
    "url": "https://www.fcdlibrary.org/event/17135968",
    "source": "Fairfield County District Library",
    "desc": "Players and DM’s of any skill level are welcome! We’ve got free dice for first-timers, stacks of character sheets, and friendly guides who would love to help you learn the ropes or find you your next campaign party.\n\nAlso snacks, many free snacks.\n\nWant to run a game? E-mail “Ben” at bclaymier@fcdlibrary.org to learn how you can be a volunteer DM.\n\nRegister now by hopping online, using our app, or by calling us at (740) 653-2745 ext. 160\n\nHey! Listen! All attendees under high school age must be accompanied by an adult, please & thank you."
-  },
-  {
-   "id": "vfc-31900",
-   "title": "Intro to Tree ID at Coyote Run Nature Preserve",
-   "start": "2026-11-21T15:00-05:00",
-   "end": "2026-11-21T17:00-05:00",
-   "allDay": false,
-   "venue": "9270 Pickerington Rd",
-   "address": "9270 Pickerington Rd, Pickerington, OH 43147, USA",
-   "town": "Pickerington",
-   "lat": 39.8684229,
-   "lon": -82.7422412,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/intro-to-tree-id-at-coyote-run-nature-preserve/",
-   "source": "Visit Fairfield County",
-   "desc": "Brown, dark grey, and light grey; tree bark is so easy to tell apart! Okay…maybe not, but when learning about trees it’s a great place to start! You might just find that identifying trees at Coyote Run Nature Preserve is a fun nut you just can’t stop trying to crack. Please note much of this hike will be off-trail in an open woodlands. Long pants, closed-toed shoes and bug spray is highly encouraged. This program is for ages 18 and up.\n\n \n\nFor more information, please visit the Fairfield County Park District’s Facebook page."
   },
   {
    "id": "dtc-10022677",
@@ -16967,6 +16987,48 @@
    "url": "https://downtowncolumbus.com/event/survivor-watch-party/2026-12-16/",
    "source": "Downtown Columbus",
    "desc": "Join Wolf’s Ridge Brewing every Wednesday for a Survivor Watch Party as we follow the season all the way to the finale! PLUS enjoy some fun games and drink specials:\n\nSurvivor Pool: select a contestant, and if your contestant wins you will receive the grand prize, and other prizes throughout the season\n\nSurvivor Bingo: Grab a bingo card and play along, winner gets a free pint\n\nDrink special: Survivor Slushies are available for $8"
+  },
+  {
+   "id": "vfc-32796",
+   "title": "Fused Glass Holiday Classes at the Ohio Glass Museum",
+   "start": "2026-12-17T10:00-05:00",
+   "end": "2026-12-17T12:00-05:00",
+   "allDay": false,
+   "venue": "124 W Main St",
+   "address": "124 West Main Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7134997,
+   "lon": -82.60296450000001,
+   "area": "Fairfield County",
+   "cost": "$55",
+   "costNum": 55,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/2026-12-17-fused-glass-holiday-classes-at-the-ohio-glass-museum/",
+   "source": "Visit Fairfield County",
+   "desc": "Design your own Snowman or Candy Cane with crushed glass frit, round dots, stringers, and some Dicro glass to add some extra sparkle to this holiday season at the Ohio Glass Museum! Tickets are $55 per person with groups of up to 6. Please enter through the glass double doors in the front of the building. Walk through the front lobby and take the elevator to the lower level and it will take you straight into the Fused Glass Department. Purchase your tickets online today before they sell out!\n\n \n\nFor more information, please visit the Ohio Glass Museum’s Facebook page."
+  },
+  {
+   "id": "dtc-10017894",
+   "title": "Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors",
+   "start": "2026-12-17T10:00-05:00",
+   "end": "2026-12-17T17:00-05:00",
+   "allDay": false,
+   "venue": "National Veterans Memorial and Museum",
+   "address": "300 W Broad Street, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/portraits-of-courage-a-commander-in-chiefs-tribute-to-americas-warriors/2026-12-17/",
+   "source": "Downtown Columbus",
+   "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   }
  ]
 }
