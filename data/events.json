@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-01T21:51:49.520Z",
+ "generated": "2026-11-02T04:16:29.837Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 400,
-   "kept": 164,
-   "ms": 10602
+   "kept": 162,
+   "ms": 5907
   },
   {
    "source": "Fairfield County District Library",
    "rows": 125,
    "kept": 124,
-   "ms": 460
+   "ms": 476
   },
   {
    "source": "Pickerington Public Library",
    "rows": 273,
    "kept": 273,
-   "ms": 568
+   "ms": 704
   },
   {
    "source": "City of Canal Winchester",
    "rows": 114,
    "kept": 9,
-   "ms": 290
+   "ms": 359
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 186
+   "ms": 249
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 38
+   "ms": 53
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 1444
+   "ms": 355
   },
   {
    "source": "Downtown Columbus",
    "rows": 166,
-   "kept": 163,
-   "ms": 7292
+   "kept": 165,
+   "ms": 5328
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 27,
    "kept": 27,
-   "ms": 696
+   "ms": 866
   },
   {
    "source": "Metro Parks",
    "rows": 0,
    "kept": 0,
-   "ms": 1158
+   "ms": 1290
   },
   {
    "source": "Columbus Commons",
    "rows": 31,
-   "kept": 30,
-   "ms": 1138
+   "kept": 31,
+   "ms": 1601
   },
   {
    "source": "Scioto Mile",
    "rows": 32,
-   "kept": 31,
-   "ms": 673
+   "kept": 32,
+   "ms": 792
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
    "kept": 8,
-   "ms": 287
+   "ms": 410
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 78,
    "kept": 4,
-   "ms": 71
+   "ms": 86
   },
   {
    "source": "City of Grove City",
    "rows": 19,
    "kept": 16,
-   "ms": 198
+   "ms": 212
   },
   {
    "source": "City of Worthington",
    "rows": 101,
    "kept": 20,
-   "ms": 289
+   "ms": 450
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 199
+   "ms": 260
   },
   {
    "source": "Standing freebies",
-   "rows": 11,
-   "kept": 11,
-   "ms": 10
+   "rows": 9,
+   "kept": 9,
+   "ms": 8
   }
  ],
  "events": [
@@ -173,161 +173,6 @@
    "url": "https://pickeringtonlibrary.libnet.info/event/17492046",
    "source": "Pickerington Public Library",
    "desc": "Pickerington Public Library is proud to be a Neighbor in Action, supporting the community through the Pickerington Food Pantry. Join the effort to \"scare out hunger!\" this October. Donation collection bins are located at both Pickerington Main Library and Sycamore Plaza Library from October 1 through November 1. Thank you for participating!\n\nCanned pumpkin and instant mashed potatoes are highly encouraged. Visit the Pickerington Food Pantry's Most Needed Items webpage for a full list of donations needed.\n\nFor other questions about donations, please reach out to the Pickerington Food Pantry by visiting https://pickpantry.com/contact-us"
-  },
-  {
-   "id": "dtc-10017869",
-   "title": "Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors",
-   "start": "2026-11-01T10:00-05:00",
-   "end": "2026-11-01T17:00-05:00",
-   "allDay": false,
-   "venue": "National Veterans Memorial and Museum",
-   "address": "300 W Broad Street, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/portraits-of-courage-a-commander-in-chiefs-tribute-to-americas-warriors/2026-11-01/",
-   "source": "Downtown Columbus",
-   "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
-  },
-  {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-01",
-   "title": "Free Sunday at Columbus Museum of Art",
-   "start": "2026-11-01T10:00-05:00",
-   "end": "2026-11-01T17:00-05:00",
-   "allDay": false,
-   "venue": "Columbus Museum of Art",
-   "address": "480 E Broad St, Columbus, OH 43215",
-   "town": "Columbus",
-   "lat": 39.964,
-   "lon": -82.9878,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.columbusmuseum.org/free-discounted-tickets",
-   "source": "Standing freebies",
-   "desc": "General admission is free every Sunday at the Broad Street museum. (Visitors 25 and under get in free every day.) Sunday hours 10–5.",
-   "tags": [
-    "art",
-    "museum"
-   ]
-  },
-  {
-   "id": "recurring-community-day-at-franklin-park-conservatory-2026-11-01",
-   "title": "Community Day at Franklin Park Conservatory",
-   "start": "2026-11-01T10:00-05:00",
-   "end": "2026-11-01T17:00-05:00",
-   "allDay": false,
-   "venue": "Franklin Park Conservatory",
-   "address": "1777 E Broad St, Columbus, OH 43203",
-   "town": "Columbus",
-   "lat": 39.9634,
-   "lon": -82.9558,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fpconservatory.org/community-days/",
-   "source": "Standing freebies",
-   "desc": "First Sunday of the month: free general admission for Columbus and Franklin County residents. Bring a photo ID plus proof of address (a utility bill or mail works). 10–5, or 10–4 in Nov–Jan.",
-   "tags": [
-    "garden",
-    "free-day"
-   ]
-  },
-  {
-   "id": "vfc-33005",
-   "title": "Rise Up Arts Alliance Presents: Young Frankenstein",
-   "start": "2026-11-01T14:00-05:00",
-   "end": "2026-11-01T16:00-05:00",
-   "allDay": false,
-   "venue": "632 W 5th Ave",
-   "address": "632 West 5th Avenue, Lancaster, OH, USA",
-   "town": "Lancaster",
-   "lat": 39.7187916,
-   "lon": -82.6139889,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/rise-up-arts-alliance-presents-young-frankenstein-3/",
-   "source": "Visit Fairfield County",
-   "desc": "From the creators of The Producers comes the monstrously funny Young Frankenstein: West End Version, performed by Rise Up Arts Alliance! Based on the classic comedy by Mel Brooks, this hilarious musical follows Dr. Frederick Frankenstein as he reluctantly returns to his family’s castle in Transylvania—only to discover that maybe his grandfather’s experiments weren’t so crazy after all. Packed with unforgettable songs, outrageous comedy, larger-than-life characters, and plenty of laughs, the West End version of this Broadway favorite is a frightfully good time for audiences who enjoy clever humor and classic monster mayhem.\n\nWhether you’re a longtime fan of the film or experiencing the story for the first time, Young Frankenstein: West End Version promises an electrifying night at the theater! Purchase your tickets today before they sell out! This show is recommended for teens and adults due to mature humor and language."
-  },
-  {
-   "id": "vfc-32330",
-   "title": "Fall Art Show in Olde Pickerington Village",
-   "start": "2026-11-01T14:00-05:00",
-   "end": "2026-11-01T16:00-05:00",
-   "allDay": false,
-   "venue": "15 E Columbus St",
-   "address": "15 East Columbus Street, Pickerington, Ohio 43147, United States of America",
-   "town": "Pickerington",
-   "lat": 39.883841,
-   "lon": -82.7534455,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/fall-art-show-in-olde-pickerington-village/",
-   "source": "Visit Fairfield County",
-   "desc": "An exhibit of the best works from the visual arts students at Pickerington North and Central as determined by each school’s art department faculty will be displayed at the Pickerington-Violet Township Historical Society on Sunday, November 1st. Works will remain on display for the Pickerington Village Shop Hop on November 12th from 4:30 p.m. to 7:30 p.m. On November 1st at 2:30 p.m. there will also be a presentation on the lower level discussing the 135th Ohio Volunteer Infantry.\n\nFor more information, please visit the Pickerington-Violet Township Historical Society’s Facebook page."
-  },
-  {
-   "id": "vfc-32236",
-   "title": "Perspectives from the Past: Examining Quilts",
-   "start": "2026-11-01T14:00-05:00",
-   "end": "2026-11-01T16:00-05:00",
-   "allDay": false,
-   "venue": "145 E Main St",
-   "address": "145 East Main Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7140429,
-   "lon": -82.60017739999999,
-   "area": "Fairfield County",
-   "cost": "$5–$15",
-   "costNum": 5,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/perspectives-from-the-past-examining-quilts/",
-   "source": "Visit Fairfield County",
-   "desc": "Quilt historian Ellice Ronsheim observed the beginnings of the art quilt movement and has been curious about the transition from traditional bedcovers to works of art on the walls ever since. In her talk, she will examine their many similarities and conversely, their obvious differences through time, as well as their remarkable changes in culture, technologies and needs over the past 200 years. Hosted at the Decorative Arts Center of Ohio, tickets are $5 for members and $10 for the general audience if you reserve your seat in advance. Tickets will be $15 at the door.\n\n \n\nFor more information, please visit the Decorative Arts Center of Ohio’s website."
-  },
-  {
-   "id": "vfc-32275",
-   "title": "The 135th Volunteer Infantry in Pickerington",
-   "start": "2026-11-01T14:30-05:00",
-   "end": "2026-11-01T16:00-05:00",
-   "allDay": false,
-   "venue": "15 E Columbus St",
-   "address": "15 East Columbus Street, Pickerington, Ohio 43147, United States of America",
-   "town": "Pickerington",
-   "lat": 39.883841,
-   "lon": -82.7534455,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/the-135th-volunteer-infantry-in-pickerington/",
-   "source": "Visit Fairfield County",
-   "desc": "Historian and Pickerington High alumnus Earl Nicodemus will discuss the incredible hardships faced by the 135th Ohio Volunteer Infantry during the American Civil War at this program in the Pickerington-Violet Township Historical Society Museum. After training at Camp Chase, located in what is now Columbus’ Hilltop, the troops, comprised of National Guard units from Licking and Hardin counties, were deployed to West Virginia to guard a railroad. A surprise Confederate attack led to the infantry’s capture. Many of the men would lose their lives, either during the insidious death march to the infamous Andersonville prison camp or while imprisoned there. Come enjoy this free presentation! Note: The Fall Pickerington High School Art Exhibit will also be on display at the museum from 2 p.m. to 4 pm.\n\nFor more information, please visit the Pickerington-Violet Township Historical Society’s Facebook page."
   },
   {
    "id": "dtc-10020541",
@@ -2997,7 +2842,7 @@
    "desc": "Beautiful colors, fluffy critters, and seasonal smells. You never know what fall wonders await! Join Mambourg Park on an exploratory hike! Be prepared to hike up to 3 miles and some off trail exploration. This program is for ages 13 and up.\n\nFor more information, please visit the Fairfield County Park District’s Facebook page."
   },
   {
-   "id": "recurring-short-north-gallery-hop-2026-11-07",
+   "id": "recurring-short-north-gallery-hop-2026-11-06",
    "title": "Short North Gallery Hop",
    "start": "2026-11-07T16:00-05:00",
    "end": "2026-11-07T20:00-05:00",
@@ -3211,7 +3056,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-08",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-07",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-08T10:00-05:00",
    "end": "2026-11-08T17:00-05:00",
@@ -6428,7 +6273,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-15",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-14",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-15T10:00-05:00",
    "end": "2026-11-15T17:00-05:00",
@@ -9435,7 +9280,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-22",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-21",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-22T10:00-05:00",
    "end": "2026-11-22T17:00-05:00",
@@ -11623,7 +11468,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-29",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-28",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-29T10:00-05:00",
    "end": "2026-11-29T17:00-05:00",
@@ -13811,7 +13656,7 @@
    "desc": "https://www.reynoldsburg.gov/calendar.aspx?EID=1415"
   },
   {
-   "id": "recurring-short-north-gallery-hop-2026-12-05",
+   "id": "recurring-short-north-gallery-hop-2026-12-04",
    "title": "Short North Gallery Hop",
    "start": "2026-12-05T16:00-05:00",
    "end": "2026-12-05T20:00-05:00",
@@ -14025,7 +13870,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-06",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-05",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-06T10:00-05:00",
    "end": "2026-12-06T17:00-05:00",
@@ -14050,7 +13895,7 @@
    ]
   },
   {
-   "id": "recurring-community-day-at-franklin-park-conservatory-2026-12-06",
+   "id": "recurring-community-day-at-franklin-park-conservatory-2026-12-05",
    "title": "Community Day at Franklin Park Conservatory",
    "start": "2026-12-06T10:00-05:00",
    "end": "2026-12-06T17:00-05:00",
@@ -16343,7 +16188,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-13",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-12",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-13T10:00-05:00",
    "end": "2026-12-13T17:00-05:00",
@@ -16891,6 +16736,132 @@
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25",
    "source": "City of Canal Winchester",
    "desc": "https://www.canalwinchesterohio.gov/calendar.aspx?EID=2925"
+  },
+  {
+   "id": "dtc-10022702",
+   "title": "FREE Wanderlights",
+   "start": "2026-12-16T17:00-05:00",
+   "end": "2026-12-16T22:00-05:00",
+   "allDay": false,
+   "venue": "",
+   "address": "OH",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/free-wanderlights-2/2026-12-16/",
+   "source": "Downtown Columbus",
+   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Bicentennial Park. Wander your way through the kaleidoscope of color in the heart of Downtown Columbus. Learn more about Wanderlights here! \n\nPlus, during Wander Nights at Wanderlights, find an ultra-festive atmosphere on Fridays and Saturdays from December 4 – 19."
+  },
+  {
+   "id": "scioto-10000587",
+   "title": "Wanderlights",
+   "start": "2026-12-16T17:00-05:00",
+   "end": "2026-12-16T22:00-05:00",
+   "allDay": false,
+   "venue": "Bicentennial Park",
+   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://www.sciotomile.com/event/wanderlights/2026-12-16/",
+   "source": "Scioto Mile",
+   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
+  },
+  {
+   "id": "vfc-32677",
+   "title": "Run Club at Double Edge Brewing",
+   "start": "2026-12-16T17:30-05:00",
+   "end": "2026-12-16T18:30-05:00",
+   "allDay": false,
+   "venue": "158 W Chestnut St",
+   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7123144,
+   "lon": -82.6041679,
+   "area": "Fairfield County",
+   "cost": "$1",
+   "costNum": 1,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/2026-12-16-run-club-at-double-edge-brewing/",
+   "source": "Visit Fairfield County",
+   "desc": "Lace up your running shoes for Double Edge Brewing Co.’s Happy Hour Run Club happening every Wednesday at 5:30 p.m.! Meet them on the patio and get moving with a fun, laid-back run through the city. No pressure, no expectations just good vibes and movement at your pace. After the run, stick around to relax and reward yourself with $1 off pints and great company. There will be a Food Truck on the patio. All paces, ages, and abilities are welcome!\n\nFor more information, please visit Double Edge Brewing’s Facebook page."
+  },
+  {
+   "id": "dtc-10017441",
+   "title": "Laughter Wellness",
+   "start": "2026-12-16T18:30-05:00",
+   "end": "2026-12-16T19:30-05:00",
+   "allDay": false,
+   "venue": "Thurber Center",
+   "address": "91 Jefferson Ave, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/laughter-wellness-3/2026-12-16/",
+   "source": "Downtown Columbus",
+   "desc": "Join certified Laughter Yoga teacher, breathologist, and internationally recognized storyteller Lyn Ford for a joyful, restorative, and relaxing 60-minute session designed to support your physical, mental, emotional, and social well-being, your creativity, and your connection with others.\n\nThis accessible, chair-based workshop includes deep breathing, gentle stretching, rhythmic clapping, and playful laughter exercises that are safe and adaptable for all fitness and mobility levels. Writing prompts will also be incorporated into the session to encourage reflection and creative expression.\n\nTogether, we’ll explore easy, replicable techniques to relieve stress and anxiety, lift our spirits, increase our imaginative thinking, and build community—because laughter truly is a universal language. Laughter Wellness is perfect for anyone seeking fun and joyful self-care.\n\nNo mats or equipment are needed—just wear comfortable clothing and come ready to play!\n\nLaughter Wellness is open to adults and teens ages 14+."
+  },
+  {
+   "id": "vfc-32884",
+   "title": "Euchre Night at Double Edge Brewing",
+   "start": "2026-12-16T19:00-05:00",
+   "end": "2026-12-16T21:00-05:00",
+   "allDay": false,
+   "venue": "158 W Chestnut St",
+   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7123144,
+   "lon": -82.6041679,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/2026-12-16-euchre-night-at-double-edge-brewing/",
+   "source": "Visit Fairfield County",
+   "desc": "Come join the fun at Euchre Night at Double Edge Brewing! They’re kicking things off at 7 p.m., so arrive a few minutes early to get settled and snag a seat before the cards fly. Bring your best partner and your sharpest strategy—the 1st and 2nd place teams will walk away with prizes! Entry is free, and there will be a food truck on site to serve your hunger needs! Round up your friends, practice your trump calls, and get ready for a night of good games, good laughs, and good company!\n\nFor more information, please visit Double Edge Brewing’s Facebook page."
+  },
+  {
+   "id": "dtc-10020496",
+   "title": "Survivor Watch Party",
+   "start": "2026-12-16T20:00-05:00",
+   "end": "2026-12-16T22:00-05:00",
+   "allDay": false,
+   "venue": "Wolf’s Ridge Brewing",
+   "address": "215 N 4th St, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free–$8",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/survivor-watch-party/2026-12-16/",
+   "source": "Downtown Columbus",
+   "desc": "Join Wolf’s Ridge Brewing every Wednesday for a Survivor Watch Party as we follow the season all the way to the finale! PLUS enjoy some fun games and drink specials:\n\nSurvivor Pool: select a contestant, and if your contestant wins you will receive the grand prize, and other prizes throughout the season\n\nSurvivor Bingo: Grab a bingo card and play along, winner gets a free pint\n\nDrink special: Survivor Slushies are available for $8"
   }
  ]
 }
