@@ -1,112 +1,113 @@
 {
- "generated": "2026-11-02T16:18:57.259Z",
+ "generated": "2026-11-02T21:57:15.321Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 400,
-   "kept": 164,
-   "ms": 6814
+   "kept": 165,
+   "ms": 6171
   },
   {
    "source": "Fairfield County District Library",
    "rows": 127,
-   "kept": 127,
-   "ms": 450
+   "kept": 124,
+   "ms": 417
   },
   {
    "source": "Pickerington Public Library",
    "rows": 278,
-   "kept": 278,
-   "ms": 510
+   "kept": 275,
+   "ms": 609
   },
   {
    "source": "City of Canal Winchester",
    "rows": 114,
    "kept": 9,
-   "ms": 298
+   "ms": 369
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 224
+   "ms": 306
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 48
+   "ms": 62
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 669
+   "ms": 737
   },
   {
    "source": "Downtown Columbus",
    "rows": 167,
    "kept": 165,
-   "ms": 6895
+   "ms": 9375
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 28,
-   "kept": 27,
-   "ms": 851
+   "kept": 28,
+   "ms": 1003
   },
   {
    "source": "Metro Parks",
    "rows": 0,
    "kept": 0,
-   "ms": 1272
+   "ms": 1344
   },
   {
    "source": "Columbus Commons",
-   "error": "504 Gateway Timeout for https://columbuscommons.org/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-11-02&end_date=2026-12-17",
-   "ms": 315
+   "rows": 32,
+   "kept": 31,
+   "ms": 3439
   },
   {
    "source": "Scioto Mile",
    "rows": 33,
    "kept": 32,
-   "ms": 783
+   "ms": 1064
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
    "kept": 8,
-   "ms": 345
+   "ms": 617
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 78,
    "kept": 4,
-   "ms": 126
+   "ms": 82
   },
   {
    "source": "City of Grove City",
    "rows": 18,
-   "kept": 16,
-   "ms": 223
+   "kept": 17,
+   "ms": 297
   },
   {
    "source": "City of Worthington",
    "rows": 101,
    "kept": 20,
-   "ms": 461
+   "ms": 568
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 239
+   "ms": 340
   },
   {
    "source": "Standing freebies",
    "rows": 9,
    "kept": 9,
-   "ms": 4
+   "ms": 3
   }
  ],
  "events": [
@@ -151,132 +152,6 @@
    "url": "https://visitfairfieldcounty.org/events/color-improvisations-3-a-major-exhibition-of-contemporary-quilts/",
    "source": "Visit Fairfield County",
    "desc": "Color Improvisations 3: A Major Exhibition of Contemporary Quilts features 38 large quilts that explore color, scale, and improvisation in contemporary textile art. Curated by internationally recognized artist Nancy Crow, the exhibition at the Decorative Arts Center of Ohio includes works by quiltmakers from the United States, Canada, and New Zealand, highlighting the creativity, innovation and artistic excellence shaping contemporary quilt making today. Using bold abstract forms and richly worked fabrics, the artists balance exquisite skill with creative risk. Their quilts invite viewers to experience color as movement, texture, and feeling. This exhibition will run from October 3rd, 2026 to January 3rd, 2027.\n\n \n\nFor more information, please visit the Decorative Arts Center of Ohio’s website."
-  },
-  {
-   "id": "fcdl-17192116",
-   "title": "Books & Brews: Morning Edition",
-   "start": "2026-11-02T09:30-05:00",
-   "end": "2026-11-02T10:30-05:00",
-   "allDay": false,
-   "venue": "Offsite",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17192116",
-   "source": "Fairfield County District Library",
-   "desc": "Start your week off right with your favorite brew (coffee or tea!) and a lively book discussion. Books are available for checkout during book club or can be picked up at the Northwest library. Attendees are also encouraged to share whatever you happen to be reading and suggest books for future discussions.\n\nRegister online, on our app, or by calling (740) 756-4391."
-  },
-  {
-   "id": "fcdl-16996815",
-   "title": "Common Threads - Morning",
-   "start": "2026-11-02T10:00-05:00",
-   "end": "2026-11-02T11:30-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Boardroom (Lancaster)",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/16996815",
-   "source": "Fairfield County District Library",
-   "desc": "Whether you want to spin a yarn or find a tight-knit community, Common Threads is the place for you.\n\nGather with fellow fiber enthusiasts for a relaxing session whatever yarn or thread-based craft fits your fancy.\n\nAll skill levels, including beginners, are encouraged to attend!\n\nWhile these sessions are communal, specific tutorials will be offered during our Wednesday meetups.\n\nRegister now on our website, our app, or by calling (740) 653-2745, extension 160."
-  },
-  {
-   "id": "ppl-16831303",
-   "title": "Toddler Time: Gators and Crocs",
-   "start": "2026-11-02T10:15-05:00",
-   "end": "2026-11-02T10:45-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room A",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16831303",
-   "source": "Pickerington Public Library",
-   "desc": "Sing, dance, and hear great stories in this interactive 6-week class for 2- to 3-year-olds and their caregivers. We will highlight early literacy practices such as reading, writing, playing, singing, and talking—all great ways to get your child ready to read!\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "fcdl-17141198",
-   "title": "Read, Stay, and Play",
-   "start": "2026-11-02T10:30-05:00",
-   "end": "2026-11-02T11:00-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Storytime Area",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17141198",
-   "source": "Fairfield County District Library",
-   "desc": "One of the best ways for young children to learn is through play. Join us for a short storytime followed by exploratory time with fun activities!\n\nNo registration necessary"
-  },
-  {
-   "id": "ppl-16802617",
-   "title": "Page Turners Book Club",
-   "start": "2026-11-02T13:00-05:00",
-   "end": "2026-11-02T14:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room A",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16802617",
-   "source": "Pickerington Public Library",
-   "desc": "Page Turners Book Club meets every Monday. We read aloud and discuss the book together in a relaxed atmosphere. \n\nAll reading levels are welcome. For specific accommodation requests or inquiries, please contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "ppl-16823478",
-   "title": "Stories and Songs: Gators and Crocs",
-   "start": "2026-11-02T13:00-05:00",
-   "end": "2026-11-02T13:30-05:00",
-   "allDay": false,
-   "venue": "Sycamore Plaza  · Meeting Room",
-   "address": "7861 Refugee Rd, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.9173,
-   "lon": -82.7918,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16823478",
-   "source": "Pickerington Public Library",
-   "desc": "Great for the whole family, this early literacy class will get children ages 2 - 5 excited about reading! We feature talking, singing, reading, writing, and playing to help your child assemble the necessary building blocks of early literacy. Open to children, their caregivers, and siblings. Early literacy is what children learn and know about reading, writing, and math before they can read or write or perform basic math.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
    "id": "ppl-16875157",
@@ -2127,6 +2002,27 @@
    "desc": "Select Fridays this fall, chefs from across the country face off against Little West Tavern’s own OSU-inspired burger. Tickets are $30 per person and include two burgers with bottomless fries. Sip on $5 drafts from Land-Grant and cocktail samples from Middle West Spirits between rounds. Cast your vote and help crown the Campus Cookoff Champion.\n\nEach visiting chef brings their signature burger to face off against Little West Tavern’s OSU-inspired creation. Guests try both, then cast their vote for the night’s winner. At the end of the series, we’ll crown the ultimate Campus Cookoff Champion. Seats are limited. Reserve your ticket and claim your spot at the table of champions."
   },
   {
+   "id": "vfc-33041",
+   "title": "Live Music by The Nostalgics Big Band",
+   "start": "2026-11-06T18:00-05:00",
+   "end": "2026-11-06T21:00-05:00",
+   "allDay": false,
+   "venue": "157 E Fair Ave",
+   "address": "157 East Fair Avenue, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7238438,
+   "lon": -82.59904240000002,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/live-music-by-the-nostalgics-big-band/",
+   "source": "Visit Fairfield County",
+   "desc": "The Nostalgics Big Band will be performing at The Freedom’s Never Free event on Friday, November 6th, at the Ed Sands Building at the Fairfield County Fairgrounds from 6 p.m. to 9 p.m. This annual event is designed to honor our veterans, military, and first responders. The 21 piece band will be performing tunes from the big band era up to more recent times. The price of admission is free! There will be plenty of great music, dancing, and food available from Jimmy’s Jawbreakers and Sweet Betty’s food trucks. Come out and help celebrate those that have sacrificed and given of their time and talents to help us all to enjoy this freedom."
+  },
+  {
    "id": "worthington-9484",
    "title": "Family Night - Starry Night",
    "start": "2026-11-06T18:00-05:00",
@@ -2776,27 +2672,6 @@
    "url": "https://visitfairfieldcounty.org/events/concert-pianist-at-first-united-methodist-church/",
    "source": "Visit Fairfield County",
    "desc": "On Saturday, November 7th, the Fairfield County Strings and Keyboards presents Dr Jiao Sun, Concert Pianist at First United Methodist Church. This event is free and open to the community! Dr. Jiao Sun is a pianist of exceptional versatility, equally sought after as a performer, pedagogue, collaborative artist, and conductor. She holds a Doctor of Musical Arts degree in Piano Performance and an Artist Diploma from the University of Cincinnati College-Conservatory of Music (CCM), with a minor in Piano Pedagogy. She also earned a Master of Music degree in Piano Performance and Literature with Douglas Humpherys and a Bachelor of Music degree in Piano Performance with Rebecca Penneys, both from the Eastman School of Music. Dr. Sun served as a piano faculty and collaborative artist-in-residence at the Ohio University School of Music, where she also taught as a master piano instructor at the affiliated Athens Community Music School. Dr. Sun is a staff collaborative pianist at Otterbein University and Denison University since fall 2026. She also teaches at Graves Piano & Organ Co. in Columbus and maintains private piano studios throughout central Ohio, where she also serves as a director a"
-  },
-  {
-   "id": "vfc-31908",
-   "title": "Fall Discovery Hike at Mambourg Park",
-   "start": "2026-11-07T15:00-05:00",
-   "end": "2026-11-07T16:30-05:00",
-   "allDay": false,
-   "venue": "5531 Cincinnati Zanesville Rd NE",
-   "address": "5531 Cincinnati Zanesville Road Northeast, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7444243,
-   "lon": -82.48970059999999,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/fall-discovery-hike-at-mambourg-park/",
-   "source": "Visit Fairfield County",
-   "desc": "Beautiful colors, fluffy critters, and seasonal smells. You never know what fall wonders await! Join Mambourg Park on an exploratory hike! Be prepared to hike up to 3 miles and some off trail exploration. This program is for ages 13 and up.\n\nFor more information, please visit the Fairfield County Park District’s Facebook page."
   },
   {
    "id": "recurring-short-north-gallery-hop-2026-11-07",
@@ -4928,6 +4803,27 @@
    "desc": "Calling all Pizza Connoisseurs! It is that time of year again for you to be the judge! Join Combustion Brewery for the 2026 Pickerington Lions Club Pizza Challenge, a family-fun event where you get to taste side by-side slices from area pizzerias. Pizzerias will be upstairs and downstairs to make more room for you! Participating pizzerias currently include:\n\nFlyers Pizza & Subs\n\nGionino’s Pizzeria Pickerington\n\nGrapevine Pizza Pickerington\n\nJet’s Pizza\n\nPizzeria New York\n\nPizzeroni’s Pizza\n\nRomeo’s\n\nThis year, you can vote for Best Crust, Best Sauce, Best Cheese, Best Pepperoni, Best Specialty Pizza, and People’s Choice. Purchase tickets in advance today to reserve your spot! Presale tickets are $15 for VIP, $10 for adults, and $6 for kids 10 and under. Presale ends on November 10th. Tickets at the door will be $12 for adults and $6 for kids 10 and under.\n\nFor more information, please visit Combustion Brewery’s Facebook page."
   },
   {
+   "id": "vfc-33038",
+   "title": "Holiday Gifts & Fun at Healthy Life Solutions",
+   "start": "2026-11-12T18:00-05:00",
+   "end": "2026-11-12T20:00-05:00",
+   "allDay": false,
+   "venue": "232 W 6th Ave",
+   "address": "232 W 6th Ave, Lancaster, OH 43130, USA",
+   "town": "Lancaster",
+   "lat": 39.7196547,
+   "lon": -82.6055614,
+   "area": "Fairfield County",
+   "cost": "$35",
+   "costNum": 35,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/holiday-gifts-fun-at-healthy-life-solutions/",
+   "source": "Visit Fairfield County",
+   "desc": "Some Christmas gifts are too good to give away! They’re not saying you’ll keep everything you make at Healthy Life Solutions’ Holiday Gifts & Fun evening, but you might want to leave a little room on your own Christmas list! Join them for a festive evening of mixing, making, laughing, and possibly discovering your hidden talent for gift-giving. Blend your own Holiday Tea, create a Holiday Room Spray, and make Decorative Soap! Three handmade creations, refreshments, and a fun evening out – all for $35! Call (740) 689-1111 by November 11th to register.\n\nFor more information, please visit Healthy Life Solution’s Facebook page."
+  },
+  {
    "id": "vfc-32990",
    "title": "Plant Bingo at STUMP Lancaster",
    "start": "2026-11-12T18:00-05:00",
@@ -5745,27 +5641,6 @@
    "url": "https://visitfairfieldcounty.org/events/holiday-sip-and-shop-at-combustion-brewery/",
    "source": "Visit Fairfield County",
    "desc": "Kick off the holiday season with a little shopping, sipping, and wandering through the village. Join The Molt and Moon for the Holiday Sip & Shop, featuring local makers, vintage finds, curated goods, gifts you won’t find everywhere else, and plenty of holiday spirit — without going full mall-at-Christmas. Sip at Combustion Brewery while you shop local makers and vendors to find something good for the people on your list, and find something better for yourself! Come grab a drink, cross a few names off your list, and spend a slow Saturday morning shopping small and local.\n\nFor more information, please visit The Molt and Moon’s Facebook page."
-  },
-  {
-   "id": "vfc-31904",
-   "title": "Fall Fungi Hike at Smeck Park",
-   "start": "2026-11-14T10:00-05:00",
-   "end": "2026-11-14T11:30-05:00",
-   "allDay": false,
-   "venue": "7395 Basil Rd",
-   "address": "7395 Basil Rd, Baltimore, OH, USA",
-   "town": "Baltimore",
-   "lat": 39.83463,
-   "lon": -82.62201999999999,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/fall-fungi-hike-at-smeck-park/",
-   "source": "Visit Fairfield County",
-   "desc": "Not a plant, not an animal, but its own amazing organism! Journey into the world of fungi at Smeck Park. In autumn, when leaves are bright and colorful, they find all sorts of cool mushrooms, molds, and fascinating fungi growing on the forest floor. This program is for ages 8 and up.\n\n \n\nFor more information, please visit the Fairfield County Park District’s Facebook page."
   },
   {
    "id": "ppl-17602996",
@@ -8205,7 +8080,7 @@
    "indoor": null,
    "url": "https://visitfairfieldcounty.org/events/preview-rare-rings-of-the-holiday-season/",
    "source": "Visit Fairfield County",
-   "desc": "Get an early taste of the holiday season with the Lancaster Handbell Ensemble as they present a special preview of Rare Rings of the Holiday Season! Enjoy a delightful selection of familiar Christmas favorites and lesser-known musical treasures, brought to life through shimmering handbells, rich harmonies, and lively rhythms. This slightly shorter performance offers a wonderful opportunity to experience the beauty and excitement of handbell music while getting into the holiday spirit. Join them for a festive evening filled with music, warmth, and a few unexpected sounds of the season! This event is free to attend. A goodwill offering will be taken.\n\n \n\nVisit www.lancasterhandbellensemble.com for details on the December 6th full Signature Concert!"
+   "desc": "Get an early taste of the holiday season with the Lancaster Handbell Ensemble as they present a special preview of Rare Rings of the Holiday Season! Enjoy a delightful selection of familiar Christmas favorites and lesser-known musical treasures, brought to life through shimmering handbells, rich harmonies, and lively rhythms. This slightly shorter performance offers a wonderful opportunity to experience the beauty and excitement of handbell music while getting into the holiday spirit. Join them for a festive evening filled with music, warmth, and a few unexpected sounds of the season! This event is free to attend. A goodwill offering will be taken.\n\n \n\nVisit www.lancasterhandbellensemble.org for details on the December 6th full Signature Concert!"
   },
   {
    "id": "vfc-32939",
@@ -13256,6 +13131,27 @@
    "desc": "Two stages. Ten acts. One unforgettable night. VergeFest 2026.\n\nCome experience the next wave of Columbus’ music scene at the official showcase of this year’s Better Together Music Incubator cohort. These artists are on the verge of something great. You don’t want to miss it!"
   },
   {
+   "id": "vfc-33029",
+   "title": "Breakfast with Santa at Pickerington Senior Center",
+   "start": "2026-12-05T08:00-05:00",
+   "end": "2026-12-05T12:00-05:00",
+   "allDay": false,
+   "venue": "150 Hereford Dr",
+   "address": "150 Hereford Dr, Pickerington, OH, USA",
+   "town": "Pickerington",
+   "lat": 39.8792742,
+   "lon": -82.74966739999999,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/breakfast-with-santa-at-pickerington-senior-center/",
+   "source": "Visit Fairfield County",
+   "desc": "Come meet Santa and enjoy pancakes, secret Santa shopping, photos, and more at the Pickerington Senior Center on Saturday, December 5th! Tickets are available online now and will not be sold at the event. Questions? Contact the Parks and Recreation office at (614) 833-2211.\n\n \n\nFor more information, please visit the City of Pickerington’s Facebook page."
+  },
+  {
    "id": "gahanna-1845",
    "title": "The Santa Race 5K and Little Reindeer Dash",
    "start": "2026-12-05T09:00-05:00",
@@ -17029,6 +16925,48 @@
    "url": "https://downtowncolumbus.com/event/portraits-of-courage-a-commander-in-chiefs-tribute-to-americas-warriors/2026-12-17/",
    "source": "Downtown Columbus",
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
+  },
+  {
+   "id": "crp-30544",
+   "title": "Conversations and Coffee: Matt Munhall",
+   "start": "2026-12-17T12:00-05:00",
+   "end": "2026-12-17T13:30-05:00",
+   "allDay": false,
+   "venue": "Priscilla R. Tyson Cultural Arts Center",
+   "address": "139 W Main St., Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://columbusrecparks.com/calendar/conversations-and-coffee-matt-munhall/",
+   "source": "Columbus Recreation & Parks",
+   "desc": "Pianist and Song Writer: Celebrating the Holidays"
+  },
+  {
+   "id": "grovecity-2725",
+   "title": "Books with Bo",
+   "start": "2026-12-17T16:30-05:00",
+   "end": "2026-12-17T17:30-05:00",
+   "allDay": false,
+   "venue": "Southwest Public Library: Grove CityLarge Meeting Room A",
+   "address": "3959 Broadway Grove City OH 43123",
+   "town": "Grove City",
+   "lat": 39.8814,
+   "lon": -83.0929,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35",
+   "source": "City of Grove City",
+   "desc": "https://www.grovecityohio.gov/calendar.aspx?EID=2725"
   }
  ]
 }
