@@ -1,112 +1,113 @@
 {
- "generated": "2026-11-04T16:11:41.704Z",
+ "generated": "2026-11-04T22:02:56.848Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
-   "rows": 284,
-   "kept": 239,
-   "ms": 5643
+   "rows": 285,
+   "kept": 241,
+   "ms": 4892
   },
   {
    "source": "Fairfield County District Library",
    "rows": 118,
-   "kept": 118,
-   "ms": 531
+   "kept": 114,
+   "ms": 493
   },
   {
    "source": "Pickerington Public Library",
    "rows": 282,
-   "kept": 282,
-   "ms": 656
+   "kept": 280,
+   "ms": 741
   },
   {
    "source": "City of Canal Winchester",
    "rows": 113,
    "kept": 8,
-   "ms": 377
+   "ms": 401
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 204
+   "ms": 241
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 44
+   "ms": 50
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 1664
+   "ms": 1032
   },
   {
    "source": "Downtown Columbus",
    "rows": 180,
-   "kept": 173,
-   "ms": 27507
+   "kept": 177,
+   "ms": 18954
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 28,
    "kept": 28,
-   "ms": 850
+   "ms": 838
   },
   {
    "source": "Metro Parks",
    "rows": 12,
    "kept": 12,
-   "ms": 1381
+   "ms": 1252
   },
   {
    "source": "Columbus Commons",
-   "error": "The operation was aborted due to timeout",
-   "ms": 25002
+   "rows": 35,
+   "kept": 35,
+   "ms": 1587
   },
   {
    "source": "Scioto Mile",
    "rows": 37,
-   "kept": 35,
-   "ms": 1093
+   "kept": 37,
+   "ms": 865
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
    "kept": 8,
-   "ms": 375
+   "ms": 509
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 78,
    "kept": 4,
-   "ms": 188
+   "ms": 85
   },
   {
    "source": "City of Grove City",
    "rows": 18,
    "kept": 17,
-   "ms": 273
+   "ms": 220
   },
   {
    "source": "City of Worthington",
    "rows": 101,
    "kept": 24,
-   "ms": 766
+   "ms": 530
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 234
+   "ms": 287
   },
   {
    "source": "Standing freebies",
    "rows": 9,
    "kept": 9,
-   "ms": 6
+   "ms": 8
   }
  ],
  "events": [
@@ -174,48 +175,6 @@
    "desc": "Not sure what to do with your new device? Locked out of an account? Struggling to figure out your mobile phone? Visit Guiding Ohio Online Technology Trainer Andrew at the branch for one-on-one assistance with your topic of choice.\n\nRegistration requested by calling the Baltimore Branch at (740) 862-8505 or email Andrew at FPLTechHelp@gmail.com to schedule an appointment. \n\nThis project was made possible in part by the Institute of Museum and Library Services and the State Library of Ohio."
   },
   {
-   "id": "ppl-16831305",
-   "title": "Toddler Time: Gators and Crocs",
-   "start": "2026-11-04T10:15-05:00",
-   "end": "2026-11-04T10:45-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room C",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16831305",
-   "source": "Pickerington Public Library",
-   "desc": "Sing, dance, and hear great stories in this interactive 6-week class for 2- to 3-year-olds and their caregivers. We will highlight early literacy practices such as reading, writing, playing, singing, and talking—all great ways to get your child ready to read!\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "fcdl-17068564",
-   "title": "Early Birds Family Storytime",
-   "start": "2026-11-04T10:30-05:00",
-   "end": "2026-11-04T11:00-05:00",
-   "allDay": false,
-   "venue": "Baltimore Branch Library · Meeting Room (Baltimore)",
-   "address": "205 E Market St, Baltimore, OH 43105",
-   "town": "Baltimore",
-   "lat": 39.8449,
-   "lon": -82.6016,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17068564",
-   "source": "Fairfield County District Library",
-   "desc": "Enjoy rhymes, songs, and stories as we move, play, and learn together!\n\nNo registration necessary."
-  },
-  {
    "id": "fcdl-17129281",
    "title": "Hometown Military Heroes Wall Display",
    "start": "2026-11-04T10:30-05:00",
@@ -235,90 +194,6 @@
    "url": "https://www.fcdlibrary.org/event/17129281",
    "source": "Fairfield County District Library",
    "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
-  },
-  {
-   "id": "fcdl-17141218",
-   "title": "Littlest Storytime",
-   "start": "2026-11-04T10:30-05:00",
-   "end": "2026-11-04T11:00-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Storytime Area",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17141218",
-   "source": "Fairfield County District Library",
-   "desc": "Stories, songs, and playtime for our youngest children. Come spend time with your little ones and help build those pre-literacy skills!\n\nNo registration necessary"
-  },
-  {
-   "id": "fcdl-17165484",
-   "title": "Family Storytime",
-   "start": "2026-11-04T10:30-05:00",
-   "end": "2026-11-04T11:00-05:00",
-   "allDay": false,
-   "venue": "Northwest Branch",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17165484",
-   "source": "Fairfield County District Library",
-   "desc": "Enjoy rhymes, songs, and stories as we move, play, and learn together! This program is designed to foster early literacy, social development, and fine and gross motor skills.\n\nNo registration necessary."
-  },
-  {
-   "id": "fcdl-17235856",
-   "title": "Family Storytime at Johns Branch",
-   "start": "2026-11-04T10:30-05:00",
-   "end": "2026-11-04T11:15-05:00",
-   "allDay": false,
-   "venue": "Johns Branch",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17235856",
-   "source": "Fairfield County District Library",
-   "desc": "Join us each week as we celebrate our ABCs with stories, songs and crafts. No registration required."
-  },
-  {
-   "id": "ppl-16831283",
-   "title": "Preschool Pals: Gators and Crocs",
-   "start": "2026-11-04T11:00-05:00",
-   "end": "2026-11-04T12:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Barn,Meeting Room C",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16831283",
-   "source": "Pickerington Public Library",
-   "desc": "Get your preschooler ready for kindergarten with Preschool Pals, a class for 4- to 5-year-olds who are ready to try storytime on their own! Early literacy practices used in class will start kids on the path to reading.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
    "id": "dtc-10022791",
@@ -12668,6 +12543,27 @@
    "desc": "Learn to create traditional Vanillekipferl from Austria with Danielle of the European Cottage Bakery at this workshop in Keller Market House! Vanillekipferl is a beloved traditional Christmas cookie made with nuts that has gained popularity in other countries. In this class, you’ll learn how to shape and roll the cookie dough into ropes and cut them individually to roll them out by hand for shaping, how to bake them, and how to cover them in sugar without breaking them and without sprinkling powder sugar on top. You will get your cookies all prepared here in the workshop, and then take them home to bake. You will need powdered sugar at home to finish.\n\nYou will also receive recipes to make marzipan from scratch and ideas for how to use it, plus a recipe to make Rumtopf (which takes a minimum of 3 months to create before using it) or dumplings. Tickets are $40 to the general public and $35 for friend of the market members. Register online today before seats sell out! The registration deadline is Saturday, November 28th. Each participant needs to bring at least 1 baking tray from home to transport their cookies. Aprons are welcome, and hair should be up. Fancy jewels should be pocket"
   },
   {
+   "id": "vfc-33056",
+   "title": "A Christmas Pottery Painting Party at Sorso Coffee",
+   "start": "2026-12-01T18:00-05:00",
+   "end": "2026-12-01T20:00-05:00",
+   "allDay": false,
+   "venue": "7849 Refugee Rd",
+   "address": "7849 Refugee Road, Pickerington, OH, USA",
+   "town": "Pickerington",
+   "lat": 39.9061032,
+   "lon": -82.7356063,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/a-christmas-pottery-painting-party-at-sorso-coffee/",
+   "source": "Visit Fairfield County",
+   "desc": "Celebrate the most wonderful time of the year with a little coffee, creativity, and Christmas cheer! Join Sorso Coffee for a cozy holiday pottery painting experience at the coffeehouse. Choose from festive ceramic Christmas trees, ornaments, and holiday mugs, then make them your own with your favorite colors and designs. Whether you’re creating a new holiday tradition for your home or making a special handmade gift, it’s the perfect way to slow down and enjoy a little creative time during the busy holiday season.\n\nYour ticket includes one 12 oz drink of your choice from Sorso Coffee, your choice of a ceramic Christmas tree, 2 ornaments, or a holiday mug to paint, all the supplies you need to create your masterpiece, and professional glazing and kiln firing by Create Joy DIY Studio. Once you’ve finished painting, they’ll take care of the rest! Your pottery will be ready for pickup in approximately two weeks, just in time to enjoy your creation or gift it to someone special. Reserve your seat today before tickets sell out! Grab a friend, order your favorite drink, and join them for a merry little morning of pottery, coffee, and Christmas magic. They can’t wait to create with you!\n\nFo"
+  },
+  {
    "id": "vfc-32872",
    "title": "Crafts with Crafts at Double Edge Brewing",
    "start": "2026-12-01T18:00-05:00",
@@ -19003,6 +18899,153 @@
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
    "source": "City of Worthington",
    "desc": "Worthington Chapter DAR, an official Wreaths Across America (WAA) fundraising group, will host a ceremony and wreath laying, joining more than 4,000 other locations across the country for National Wreaths Across America Day. Placing wreaths on the headstones of our fallen service members. This annual event seeks to further the WAA mission WAA to Remember, Honor and Teach, ensuring the memory of those who served our country endures. This year’s theme is \"Remember Me\". https://worthington.org/calendar.aspx?EID=9320"
+  },
+  {
+   "id": "dtc-10020478",
+   "title": "Uptown Scrooge: Abridged!",
+   "start": "2026-12-19T13:00-05:00",
+   "end": "2026-12-19T14:00-05:00",
+   "allDay": false,
+   "venue": "MadLab",
+   "address": "227 N 3rd St, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": 39.9673301,
+   "lon": -82.9990676,
+   "area": "Columbus",
+   "cost": "$16–$28",
+   "costNum": 16,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/uptown-scrooge-abridged/2026-12-19/1/",
+   "source": "Downtown Columbus",
+   "desc": "A family friendly event! Step into the holiday hilarity of Uptown Scrooge: Abridged!, Good Medicine Productions’ wildly interactive twist on Charles Dickens’ beloved classic. This isn’t a show where you sit quietly in the dark—it’s a Christmas party where the audience becomes part of the story.\n\nFilled with quick wit, outrageous characters, live music, and joyful audience participation, Uptown Scrooge delivers all the heart of Dickens with a healthy dose of laughter. Whether you’re cheering on Tiny Tim, booing Nephew Fred or finding yourself unexpectedly pulled into the action, every performance is a one-of-a-kind experience.\n\nPerfect for families, homeschool groups, date nights, office parties, and anyone looking to laugh their way into the Christmas spirit, Uptown Scrooge:Abridged! reminds us that it’s never too late to choose generosity, joy & silliness."
+  },
+  {
+   "id": "dtc-10020479",
+   "title": "Uptown Scrooge: Abridged!",
+   "start": "2026-12-19T15:00-05:00",
+   "end": "2026-12-19T16:00-05:00",
+   "allDay": false,
+   "venue": "MadLab",
+   "address": "227 N 3rd St, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": 39.9673301,
+   "lon": -82.9990676,
+   "area": "Columbus",
+   "cost": "$16–$28",
+   "costNum": 16,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/uptown-scrooge-abridged/2026-12-19/2/",
+   "source": "Downtown Columbus",
+   "desc": "A family friendly event! Step into the holiday hilarity of Uptown Scrooge: Abridged!, Good Medicine Productions’ wildly interactive twist on Charles Dickens’ beloved classic. This isn’t a show where you sit quietly in the dark—it’s a Christmas party where the audience becomes part of the story.\n\nFilled with quick wit, outrageous characters, live music, and joyful audience participation, Uptown Scrooge delivers all the heart of Dickens with a healthy dose of laughter. Whether you’re cheering on Tiny Tim, booing Nephew Fred or finding yourself unexpectedly pulled into the action, every performance is a one-of-a-kind experience.\n\nPerfect for families, homeschool groups, date nights, office parties, and anyone looking to laugh their way into the Christmas spirit, Uptown Scrooge:Abridged! reminds us that it’s never too late to choose generosity, joy & silliness."
+  },
+  {
+   "id": "vfc-32850",
+   "title": "2nd Annual Christmas Dinner Fundraiser at Lancaster Camp Ground",
+   "start": "2026-12-19T17:00-05:00",
+   "end": "2026-12-19T20:00-05:00",
+   "allDay": false,
+   "venue": "2151 W Fair Ave",
+   "address": "2151 W Fair Ave, Lancaster, Ohio 43130, United States",
+   "town": "Lancaster",
+   "lat": 39.7261331,
+   "lon": -82.6387431,
+   "area": "Fairfield County",
+   "cost": "$5–$30",
+   "costNum": 5,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/2nd-annual-christmas-dinner-fundraiser-at-lancaster-camp-ground-2/",
+   "source": "Visit Fairfield County",
+   "desc": "Celebrate the magic of Christmas with the Lancaster Camp Ground at their 2nd Annual Christmas Dinner Fundraiser! Enjoy a delicious holiday meal, festive fellowship, and an evening of Christmas cheer, all while supporting their Café Renovation Project! Enjoy your choice of roast beef or maple-glazed ham, delicious holiday sides, and festive desserts! Tickets are $30 per person, but reserve by November 13th and save $5 per ticket! Reservations open November 1st, so keep an eye out! Every ticket helps them preserve and improve a cherished gathering place for generations to come. They can’t wait to celebrate the season with you!\n\nFor more information, please visit the Lancaster Camp Ground’s website or Facebook page."
+  },
+  {
+   "id": "dtc-10022768",
+   "title": "FREE Wander Nights at Wanderlights",
+   "start": "2026-12-19T17:00-05:00",
+   "end": "2026-12-19T21:00-05:00",
+   "allDay": false,
+   "venue": "",
+   "address": "OH",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/free-wander-nights-at-wanderlights/2026-12-19/",
+   "source": "Downtown Columbus",
+   "desc": "Take part in an ultra-festive holiday atmosphere and free activities while exploring all three Wanderlights stops. During Wander Nights, you’ll find complimentary hot chocolate and carousel rides at Columbus Commons, crackling fire pits at the Scioto Mile Fountain, special visits from Santa in the Lazarus Building Galleria, and more!\n\nRide the free covered trolley as it makes stops at Columbus Commons, Bicentennial Park, and the Lazarus Building Galleria and  to explore the whole Wanderlights path and experience the butterfly light show at Nationwide Children’s Hospital. The trolley runs from 5 – 9 pm during all six Wander Nights.\n\nWander Nights take place on the following Fridays and Saturdays in December from 5 pm to 9 pm: 12/4, 12/5, 12/11, 12/12, 12/18 and 12/19. Learn more about Wanderlights and Wander Nights here!"
+  },
+  {
+   "id": "dtc-10022705",
+   "title": "FREE Wanderlights",
+   "start": "2026-12-19T17:00-05:00",
+   "end": "2026-12-19T22:00-05:00",
+   "allDay": false,
+   "venue": "",
+   "address": "OH",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/free-wanderlights-2/2026-12-19/",
+   "source": "Downtown Columbus",
+   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Bicentennial Park. Wander your way through the kaleidoscope of color in the heart of Downtown Columbus. Learn more about Wanderlights here! \n\nPlus, during Wander Nights at Wanderlights, find an ultra-festive atmosphere on Fridays and Saturdays from December 4 – 19."
+  },
+  {
+   "id": "scioto-10000590",
+   "title": "Wanderlights",
+   "start": "2026-12-19T17:00-05:00",
+   "end": "2026-12-19T22:00-05:00",
+   "allDay": false,
+   "venue": "Bicentennial Park",
+   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://www.sciotomile.com/event/wanderlights/2026-12-19/",
+   "source": "Scioto Mile",
+   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
+  },
+  {
+   "id": "scioto-10000560",
+   "title": "Wander Nights at Wanderlights",
+   "start": "2026-12-19T17:00-05:00",
+   "end": "2026-12-19T21:00-05:00",
+   "allDay": false,
+   "venue": "Bicentennial Park",
+   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://www.sciotomile.com/event/wander-nights-at-wanderlights/2026-12-19/",
+   "source": "Scioto Mile",
+   "desc": "Take part in an ultra-festive holiday atmosphere and free activities while exploring all three Wanderlights stops. During Wander Nights, you’ll find complimentary hot chocolate and carousel rides at Columbus Commons, crackling fire pits at the Scioto Mile Fountain, special visits from Santa in the Lazarus Building galleria, and more!"
   }
  ]
 }
