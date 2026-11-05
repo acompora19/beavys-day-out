@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-05T16:22:04.024Z",
+ "generated": "2026-11-05T22:02:33.681Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
-   "rows": 286,
-   "kept": 238,
-   "ms": 6106
+   "rows": 296,
+   "kept": 251,
+   "ms": 5047
   },
   {
    "source": "Fairfield County District Library",
-   "rows": 112,
-   "kept": 112,
-   "ms": 455
+   "rows": 114,
+   "kept": 111,
+   "ms": 655
   },
   {
    "source": "Pickerington Public Library",
    "rows": 272,
-   "kept": 272,
-   "ms": 672
+   "kept": 270,
+   "ms": 869
   },
   {
    "source": "City of Canal Winchester",
    "rows": 113,
    "kept": 8,
-   "ms": 405
+   "ms": 387
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 2389
+   "ms": 309
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 1084
+   "ms": 63
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 1126
+   "ms": 1558
   },
   {
    "source": "Downtown Columbus",
    "rows": 177,
-   "kept": 176,
-   "ms": 11035
+   "kept": 177,
+   "ms": 15670
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 28,
-   "kept": 28,
-   "ms": 787
+   "kept": 25,
+   "ms": 990
   },
   {
    "source": "Metro Parks",
    "rows": 12,
    "kept": 12,
-   "ms": 1600
+   "ms": 5853
   },
   {
    "source": "Columbus Commons",
    "rows": 37,
-   "kept": 35,
-   "ms": 1215
+   "kept": 37,
+   "ms": 11564
   },
   {
    "source": "Scioto Mile",
    "rows": 38,
-   "kept": 37,
-   "ms": 990
+   "kept": 38,
+   "ms": 1214
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
    "kept": 9,
-   "ms": 507
+   "ms": 705
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 78,
    "kept": 4,
-   "ms": 152
+   "ms": 98
   },
   {
    "source": "City of Grove City",
-   "rows": 19,
-   "kept": 18,
-   "ms": 210
+   "rows": 18,
+   "kept": 17,
+   "ms": 272
   },
   {
    "source": "City of Worthington",
    "rows": 101,
    "kept": 25,
-   "ms": 465
+   "ms": 519
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 233
+   "ms": 390
   },
   {
    "source": "Standing freebies",
    "rows": 10,
    "kept": 10,
-   "ms": 11
+   "ms": 6
   }
  ],
  "events": [
@@ -175,27 +175,6 @@
    "desc": "FALL SALE: Nov. 4 - 8 at Pickerington Main Library\n\nThe sale begins on Wednesday, Nov. 4, with a special pre-sale available exclusively to Friends members. Not a Friends member? No problem! Join at the door.\n\nFor sale is a variety of books, DVDs, CDs, and vinyl albums. Come early for the best selection!\n\nProceeds from the sale support Pickerington Public Library programs.\n\nFRIENDS NIGHT: \nWednesday, Nov. 4\n4:00 - 8:00 PM (Members only. Join at the door.)\n\nPUBLIC SALE: \nThursday-Saturday, Nov. 5-7\nDuring library hours\n\nPUBLIC SALE - BUY BOOKS BY THE BAG: \nSunday, Nov. 8\n12:00 - 3:00 PM\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
-   "id": "ppl-16802705",
-   "title": "Rhyme Time",
-   "start": "2026-11-05T09:30-05:00",
-   "end": "2026-11-05T10:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room C",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16802705",
-   "source": "Pickerington Public Library",
-   "desc": "Help your baby or young toddler develop a love of reading by introducing them to rhymes, songs, stories, and fingerplays! Rhyme Time is for children 0-23 months and their caregivers; siblings are also welcome. This interactive 6-week class will highlight early literacy practices such as reading, writing, playing, singing, and talking.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
    "id": "dtc-10017870",
    "title": "Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors",
    "start": "2026-11-05T10:00-05:00",
@@ -215,48 +194,6 @@
    "url": "https://downtowncolumbus.com/event/portraits-of-courage-a-commander-in-chiefs-tribute-to-americas-warriors/2026-11-05/",
    "source": "Downtown Columbus",
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
-  },
-  {
-   "id": "ppl-16831306",
-   "title": "Toddler Time: Gators and Crocs",
-   "start": "2026-11-05T10:15-05:00",
-   "end": "2026-11-05T10:45-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room C",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16831306",
-   "source": "Pickerington Public Library",
-   "desc": "Sing, dance, and hear great stories in this interactive 6-week class for 2- to 3-year-olds and their caregivers. We will highlight early literacy practices such as reading, writing, playing, singing, and talking—all great ways to get your child ready to read!\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "fcdl-17135770",
-   "title": "Fall Stories with the Fairfield County Park District",
-   "start": "2026-11-05T10:30-05:00",
-   "end": "2026-11-05T11:30-05:00",
-   "allDay": false,
-   "venue": "Bremen Branch Library · Meeting Room (Bremen)",
-   "address": "220 Marietta St, Bremen, OH 43107",
-   "town": "Bremen",
-   "lat": 39.7066,
-   "lon": -82.4258,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17135770",
-   "source": "Fairfield County District Library",
-   "desc": "Join us for a Special Storytime with the Parks District as we read a book and join a hummingbird on its big trip south. No registration necessary."
   },
   {
    "id": "fcdl-17129282",
@@ -280,48 +217,6 @@
    "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
   },
   {
-   "id": "fcdl-17141361",
-   "title": "Family Storytime",
-   "start": "2026-11-05T10:30-05:00",
-   "end": "2026-11-05T11:00-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Storytime Area",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17141361",
-   "source": "Fairfield County District Library",
-   "desc": "With a different theme each week, explore literacy and expand imaginations with stories, songs, and crafts. \n\nNo registration necessary"
-  },
-  {
-   "id": "fcdl-17166971",
-   "title": "Library Play Date",
-   "start": "2026-11-05T10:30-05:00",
-   "end": "2026-11-05T11:30-05:00",
-   "allDay": false,
-   "venue": "Northwest Branch",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17166971",
-   "source": "Fairfield County District Library",
-   "desc": "Play is a crucial part of building early literacy and social skills. There will be opportunities for imagination and skill building, plus socialization for both children and caregivers. Extend your child's learning through play!\n\nNo registration necessary."
-  },
-  {
    "id": "dtc-10022792",
    "title": "Spirit & Dust",
    "start": "2026-11-05T11:00-05:00",
@@ -341,69 +236,6 @@
    "url": "https://downtowncolumbus.com/event/spirit-dust/2026-11-05/",
    "source": "Downtown Columbus",
    "desc": "“Death is a Dialogue between / The Spirit and the Dust,” writes poet Emily Dickinson. Living is a daily conversation with death, and through art, we continue that dialogue with mortality, loss, and our own humanity. In Spirit & Dust, artists working across various disciplines—from photography and sculpture to poetry and dance—seek to create space for care and connection in confronting questions of death and dying. What do we gather from our grief? How is this knowledge embodied, and what can art provide for this relationship? What can death teach us about what it means to be alive?\n\nThe process of creating art serves as a mirror for thinking about dying as a verb, where time is experienced as cyclical rather than linear. Each artist’s medium of choice in Spirit & Dust experiments with how we can deepen our relationship with the process of dying, such as through abstraction in photography, blank space in poetry, the ephemerality of dance, and the fallibility of materials in sculpture.\n\nSpirit & Dust is on view concurrently with Experiencing Veterans and Artists Collaborations (EVAC) in the corridor space, which pairs veterans’ stories with original printmaking.\n\nCurated by Diane Cal"
-  },
-  {
-   "id": "crp-30533",
-   "title": "Conversations and Coffee: Alissa Ohashi",
-   "start": "2026-11-05T12:00-05:00",
-   "end": "2026-11-05T13:30-05:00",
-   "allDay": false,
-   "venue": "",
-   "address": "OH",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://columbusrecparks.com/calendar/conversations-and-coffee-alissa-ohashi/",
-   "source": "Columbus Recreation & Parks",
-   "desc": "Loft Gallery Artist in Mixed Media, “Communion with the Unconscious.”"
-  },
-  {
-   "id": "crp-10006246",
-   "title": "Glenwood – Mobile Produce Market",
-   "start": "2026-11-05T14:00-05:00",
-   "end": null,
-   "allDay": false,
-   "venue": "Glenwood Community Center",
-   "address": "1888 Fairmont Ave., Columbus, OH, 43223",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://columbusrecparks.com/calendar/glenwood-mobile-produce-market/2026-11-05/",
-   "source": "Columbus Recreation & Parks",
-   "desc": "Eligible families can pick up a one-week supply of fresh produce at no cost. Even is first-come, first-served while produce lasts."
-  },
-  {
-   "id": "crp-10006254",
-   "title": "Sullivant Gardens- Mobile Produce Market",
-   "start": "2026-11-05T14:00-05:00",
-   "end": null,
-   "allDay": false,
-   "venue": "Sullivant Gardens Community Center",
-   "address": "755 Renick St., Columbus, OH, 43223",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://columbusrecparks.com/calendar/sullivant-gardens-mobile-produce-market-2/2026-11-05/",
-   "source": "Columbus Recreation & Parks",
-   "desc": "Eligible families can pick up a one-week supply of fresh produce at no cost. Even is first-come, first-served while produce lasts."
   },
   {
    "id": "ppl-16423348",
@@ -13173,27 +13005,6 @@
    "desc": "Friday Chill is a dedicated space for students in grades 7-12 to relax at the end of the school week. Stop by for a snack to refuel before extracurricular activities, or stick around and hang out with friends! Each week, we'll have a different craft, video game, movie screening, or other activity to fill your afternoon.\n\nFriday Chill follows the PLSD scheduled school calendar.\n\nFor specific accommodation requests or inquiries, please contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
-   "id": "grovecity-2743",
-   "title": "Chicken & Noodles Dinner",
-   "start": "2026-12-04T16:00-05:00",
-   "end": "2026-12-04T19:00-05:00",
-   "allDay": false,
-   "venue": "Grove City Community Club",
-   "address": "3397 Civic Place Grove City OH 43123",
-   "town": "Grove City",
-   "lat": 39.8814,
-   "lon": -83.0929,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35",
-   "source": "City of Grove City",
-   "desc": "https://www.grovecityohio.gov/calendar.aspx?EID=2743"
-  },
-  {
    "id": "grovecity-2745",
    "title": "Mistletoe Market | Grove City Town Center",
    "start": "2026-12-04T16:00-05:00",
@@ -13824,6 +13635,27 @@
    "desc": "https://www.grovecityohio.gov/calendar.aspx?EID=2748"
   },
   {
+   "id": "vfc-33071",
+   "title": "Winter Tree ID at Mambourg Park",
+   "start": "2026-12-05T13:00-05:00",
+   "end": "2026-12-05T15:00-05:00",
+   "allDay": false,
+   "venue": "5531 Cincinnati Zanesville Rd NE",
+   "address": "5531 Cincinnati Zanesville Road Northeast, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7444243,
+   "lon": -82.48970059999999,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/winter-tree-id-at-mambourg-park/",
+   "source": "Visit Fairfield County",
+   "desc": "Here at Mambourg Park, they are good at ID-ing trees! They have bark, leaves, and grow tall. Things can get a little tricky when the leaves have fallen off! Whether you are just learning or need a refresher, this is the program for you! This program is for ages 18 and up. Meet inside the Nature Center.\n\nFor more information, please visit Mambourg Park’s Facebook page."
+  },
+  {
    "id": "fcdl-17623799",
    "title": "Family Storytime at The Big Book Nook ~ OFFSITE",
    "start": "2026-12-05T13:00-05:00",
@@ -14143,6 +13975,27 @@
    "desc": "America’s premiere interactive comedy true-crime mystery experience is now playing! Solve a hilarious mystery while you feast on a fantastic dinner. Just beware! The culprit is hiding in plain sight somewhere in the room, and you may find yourself as a Prime Suspect before you know it! Each ticket includes our signature award-winning true-crime mystery dinner theatre show (based on actual cold cases), along with a full plated dinner, waitstaff gratuity, and plenty of surprises during the show!"
   },
   {
+   "id": "vfc-33069",
+   "title": "Bend & Brew at Double Edge Brewing",
+   "start": "2026-12-06T10:00-05:00",
+   "end": "2026-12-06T11:00-05:00",
+   "allDay": false,
+   "venue": "158 W Chestnut St",
+   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7123144,
+   "lon": -82.6041679,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/bend-brew-at-double-edge-brewing/",
+   "source": "Visit Fairfield County",
+   "desc": "Join Dr. Monica for Yoga on Sunday, December 6th at 10 a.m. at Double Edge Brewing Co! Dr. Monica has over 8 years of experience treating patients and practicing physical medicine. Her classes take a biomechanical, body-aware approach to yoga. Think less about memorizing poses and more about getting the most out of every stretch. Expect clear verbal cues, helpful visualizations, and intentional breathwork. All skill levels are welcome! This is a ticketed event and there is a limited number of participants per class. Purchasing your ticket solidifies your place in the class. Drinks are sold separately and can be bought after class directly from Double Edge. They offer non-alcoholic, mocktails, ciders, seltzers and beer.\n\nPromotional image for Double Edge Brewing’s Facebook page."
+  },
+  {
    "id": "vfc-32805",
    "title": "Fused Glass Holiday Classes at the Ohio Glass Museum",
    "start": "2026-12-06T10:00-05:00",
@@ -14233,6 +14086,27 @@
     "garden",
     "free-day"
    ]
+  },
+  {
+   "id": "vfc-26480",
+   "title": "A Rock Mill Holiday",
+   "start": "2026-12-06T13:00-05:00",
+   "end": "2026-12-06T16:00-05:00",
+   "allDay": false,
+   "venue": "1429 Rock Ml Pl",
+   "address": "1429 Rockmill Place, Lancaster, OH 43130, USA",
+   "town": "Lancaster",
+   "lat": 39.7487397,
+   "lon": -82.71318079999999,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/a-rock-mill-holiday/",
+   "source": "Visit Fairfield County",
+   "desc": "Take a break from the hustle and bustle of the holiday season with a visit to this historical site – Stebelton Park at Rock Mill – a restored gristmill from the early 1800s. Cookies and hot drinks will be served. The park is open year-round during daylight hours. The mill, though, is only open during “Rock Mill Days” or special events such as this one. The 2026 season has ended but will resume in 2027.\n\nRock Mill stands at least 90’ above the gorge of Hocking River Falls. In 1905, it closed for business and fell into disrepair. After a decade-long restoration effort ending in 2017, it roared to life and milled grain again for the first time in over 100 years! Come see this amazing piece of history, enjoy the view from Rock Mill Covered Bridge and the beautiful setting! Bring your own drinking water. Potable water is not available at this location. There is no heat inside the mill so be sure to dress for the weather, including footwear. Pets are welcome in the park but are not allowed inside Rock Mill. Pets must be under control at all times and on a leash no longer than 6’. For the health and safety of all, pick up and properly dispose of pets’ waste.\n\nFor more information, please "
   },
   {
    "id": "grovecity-2749",
@@ -14406,7 +14280,7 @@
    "id": "vfc-25596",
    "title": "Fontanini Nativity Display",
    "start": "2026-12-06T18:00-05:00",
-   "end": "2026-12-30T21:00-05:00",
+   "end": "2027-01-06T20:00-05:00",
    "allDay": false,
    "venue": "2095 W Fair Ave",
    "address": "2095 West Fair Avenue, Lancaster, Ohio 43130, United States of America",
@@ -14421,7 +14295,7 @@
    "indoor": null,
    "url": "https://visitfairfieldcounty.org/events/fontanini-nativity-display/",
    "source": "Visit Fairfield County",
-   "desc": "Explore the sights, sounds, and smells of the first Christmas as you journey down the streets of Bethlehem, through the shepherd’s field and to the temple ruins where you will find the Christ child. Visit the almost life-size nativity display and experience Christmas in a unique way at this indoor nativity featuring Fontanini figures only at Crossroads every Sunday, Wednesday, and Friday from December 6-30.\n\nThe event is free admission and is open from 6 to 9 p.m.\n\nGroups can request a special showing by contacting the church office 740-653-3330."
+   "desc": "Explore the sights, sounds, and smells of the first Christmas as you journey down the streets of Bethlehem, through the shepherd’s field and to the temple ruins where you will find the Christ child. Visit the almost life-size nativity display and experience Christmas in a unique way at this indoor nativity featuring Fontanini figures only at Crossroads every Sunday, Wednesday, and Friday from December 6-January 6.\n\nThe event is free admission and is open from 6 to 8 p.m.\n\nGroups can request a special showing by contacting the church office 740-653-3330."
   },
   {
    "id": "vfc-14353",
@@ -14737,6 +14611,27 @@
    "url": "https://www.fcdlibrary.org/event/17183695",
    "source": "Fairfield County District Library",
    "desc": "Enjoy interactive stories, playful songs, and action rhymes with your baby. Older siblings are welcome and encouraged to bring their own “baby” (favorite stuffed animal or doll) to participate.\n\nNo registration necessary."
+  },
+  {
+   "id": "fcdl-17830884",
+   "title": "Medicare 101",
+   "start": "2026-12-08T11:00-05:00",
+   "end": "2026-12-08T12:00-05:00",
+   "allDay": false,
+   "venue": "*Main Library · Gallery (Lancaster)",
+   "address": "",
+   "town": "Lancaster",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17830884",
+   "source": "Fairfield County District Library",
+   "desc": "Learn how to make your medicare work for you in this free presentation!\nPresented in Partnership with Jessica Murphy from HealthMarkets Insurance Agency."
   },
   {
    "id": "ppl-16831278",
@@ -15201,6 +15096,27 @@
    "desc": "Connect with the Library on the second Wednesday of the month at the Senior Center to learn how to use a Cricut machine, get a free library card, and check out books!"
   },
   {
+   "id": "vfc-33074",
+   "title": "Wellness Hike at Mambourg Park",
+   "start": "2026-12-09T15:00-05:00",
+   "end": "2026-12-09T16:30-05:00",
+   "allDay": false,
+   "venue": "5531 Cincinnati Zanesville Rd NE",
+   "address": "5531 Cincinnati Zanesville Road Northeast, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7444243,
+   "lon": -82.48970059999999,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/wellness-hike-at-mambourg-park/",
+   "source": "Visit Fairfield County",
+   "desc": "Eat too much pie? That’s okay, so did they! Join Mambourg Park on a wellness hike to get a great workout in! Be prepared to hike up to 3 miles! This program is for ages 18 and up. Meet inside the Nature Center.\n\n \n\nFor more information, please visit the Fairfield County Park District’s Facebook page."
+  },
+  {
    "id": "ppl-16423365",
    "title": "Homework Help Center",
    "start": "2026-12-09T15:00-05:00",
@@ -15367,6 +15283,27 @@
    "url": "https://visitfairfieldcounty.org/events/2026-12-09-run-club-at-double-edge-brewing/",
    "source": "Visit Fairfield County",
    "desc": "Lace up your running shoes for Double Edge Brewing Co.’s Happy Hour Run Club happening every Wednesday at 5:30 p.m.! Meet them on the patio and get moving with a fun, laid-back run through the city. No pressure, no expectations just good vibes and movement at your pace. After the run, stick around to relax and reward yourself with $1 off pints and great company. There will be a Food Truck on the patio. All paces, ages, and abilities are welcome!\n\nFor more information, please visit Double Edge Brewing’s Facebook page."
+  },
+  {
+   "id": "fcdl-17412264",
+   "title": "Common Threads PM",
+   "start": "2026-12-09T18:00-05:00",
+   "end": "2026-12-09T20:00-05:00",
+   "allDay": false,
+   "venue": "*Main Library · Boardroom (Lancaster)",
+   "address": "",
+   "town": "Lancaster",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17412264",
+   "source": "Fairfield County District Library",
+   "desc": "yarn pm"
   },
   {
    "id": "ppl-16796360",
@@ -16251,6 +16188,27 @@
    "desc": "Experience Dr. Seuss’ How The Grinch Stole Christmas! The Musical at the Palace Theater this holiday season! The musical features the hit songs “You’re A Mean One Mr. Grinch” and “Welcome Christmas” from the original animated series. \n\nAge Recommendation: GRINCH is the perfect show for audiences of all ages"
   },
   {
+   "id": "vfc-33085",
+   "title": "Star Shower at Two Glaciers Park",
+   "start": "2026-12-11T20:30-05:00",
+   "end": "2026-12-11T22:00-05:00",
+   "allDay": false,
+   "venue": "2260 McDonald Rd SW",
+   "address": "2260 McDonald Rd SW, Lancaster, OH 43130, USA",
+   "town": "Lancaster",
+   "lat": 39.6101568,
+   "lon": -82.66104020000002,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/star-shower-at-two-glaciers-park/",
+   "source": "Visit Fairfield County",
+   "desc": "Come wish upon a falling star, or, if you’re lucky, a whole field of falling stars! Two Glaciers Park has some of the darkest skies in the park district and they’d love to share them with you. Bundle up and bring a chair or sit on the ground as they enjoy one of the best meteor showers of the year. This program is for all ages. Meet in the parking area.\n\nFor more information, please visit the Fairfield County Park District’s Facebook page."
+  },
+  {
    "id": "cw-3125",
    "title": "Breakfast with Santa",
    "start": "2026-12-12T08:30-05:00",
@@ -16648,6 +16606,27 @@
    "url": "https://downtowncolumbus.com/event/uptown-scrooge-abridged/2026-12-12/2/",
    "source": "Downtown Columbus",
    "desc": "A family friendly event! Step into the holiday hilarity of Uptown Scrooge: Abridged!, Good Medicine Productions’ wildly interactive twist on Charles Dickens’ beloved classic. This isn’t a show where you sit quietly in the dark—it’s a Christmas party where the audience becomes part of the story.\n\nFilled with quick wit, outrageous characters, live music, and joyful audience participation, Uptown Scrooge delivers all the heart of Dickens with a healthy dose of laughter. Whether you’re cheering on Tiny Tim, booing Nephew Fred or finding yourself unexpectedly pulled into the action, every performance is a one-of-a-kind experience.\n\nPerfect for families, homeschool groups, date nights, office parties, and anyone looking to laugh their way into the Christmas spirit, Uptown Scrooge:Abridged! reminds us that it’s never too late to choose generosity, joy & silliness."
+  },
+  {
+   "id": "vfc-33075",
+   "title": "Wild Wreathmaking at Mambourg Park",
+   "start": "2026-12-12T16:00-05:00",
+   "end": "2026-12-12T18:30-05:00",
+   "allDay": false,
+   "venue": "5531 Cincinnati Zanesville Rd NE",
+   "address": "5531 Cincinnati Zanesville Road Northeast, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7444243,
+   "lon": -82.48970059999999,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/wild-wreathmaking-at-mambourg-park/",
+   "source": "Visit Fairfield County",
+   "desc": "Take a break from the holiday hustle and join Mambourg Park for a cozy evening in on Saturday, December 12th. First, you will go on a hike to collect forest materials for the wreaths, then you will return to the nature center to craft, watch a movie, and enjoy themed refreshments. This program is for ages 18 and up. Registration is required for this program as space is limited, so be sure to reserve your spot today! Dress for the weather as you will be hiking up to 1 mile. Meet inside the Nature Center.\n\nFor more information, please visit the Fairfield County Park District’s Facebook page."
   },
   {
    "id": "vfc-26785",
@@ -18145,6 +18124,27 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
+   "id": "vfc-33077",
+   "title": "Seasonal Stories at Mambourg Park",
+   "start": "2026-12-18T10:30-05:00",
+   "end": "2026-12-18T11:00-05:00",
+   "allDay": false,
+   "venue": "5531 Cincinnati Zanesville Rd NE",
+   "address": "5531 Cincinnati Zanesville Road Northeast, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7444243,
+   "lon": -82.48970059999999,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/seasonal-stories-at-mambourg-park/",
+   "source": "Visit Fairfield County",
+   "desc": "Have you seen the white owl? At this story time at Mambourg Park, you’ll search for a barn owl and then make an owl for you to take home. This program is for ages 3 to 6. Meet inside the Nature Center.\n\nFor more information, please visit the Fairfield County Park District’s Facebook page."
+  },
+  {
    "id": "ppl-16833803",
    "title": "Teen Hang",
    "start": "2026-12-18T15:00-05:00",
@@ -18376,6 +18376,27 @@
    "desc": "Playing hits from the Great American Songbook as well as Holiday faves from the early 1960’s, these talented and seasoned members of the well known “Phil Dirt and the Dozers” band are sure to turn out another memorable show! Come enjoy the season and let the music take you back to a simpler time in America… of sharkskin suits, polaroid cameras and the whiskey sour… a time when every AM car radio played the tunes that would become the “Baby-Boomer” hits of today by Sinatra, Dean Martin, Nat Cole and more. \n \nJoin us at 6 pm for a dessert reception before the show! Our bar will also be opening at this time. \n \nThe MAC will be collecting canned foods to support our neighbors through the great work of the Worthington Resource Pantry. Please check their website for most needed items: https://www.worthingtonresourcepantry.org/givehelp https://worthington.org/calendar.aspx?EID=9453"
   },
   {
+   "id": "vfc-33078",
+   "title": "Christmas Bird Count at Mambourg Park",
+   "start": "2026-12-19T09:00-05:00",
+   "end": "2026-12-19T11:00-05:00",
+   "allDay": false,
+   "venue": "5531 Cincinnati Zanesville Rd NE",
+   "address": "5531 Cincinnati Zanesville Road Northeast, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7444243,
+   "lon": -82.48970059999999,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/christmas-bird-count-at-mambourg-park/",
+   "source": "Visit Fairfield County",
+   "desc": "The National Audubon Society has been conducting the Christmas Bird Count for over a century. Join Mambourg Park for a bird count on Saturday, December 19th! Venture out with binoculars, count birds within the park, and log them. Then, warm up at the nature center with a hot drink after! Be prepared to hike up to 2 miles. This program is for ages 13 and up. Meet inside the Nature Center.\n\nFor more information, please visit the Fairfield County Park District’s Facebook page."
+  },
+  {
    "id": "vfc-33050",
    "title": "Breakfast with Santa at Bellawood Farm",
    "start": "2026-12-19T09:00-05:00",
@@ -18563,6 +18584,27 @@
    "url": "https://downtowncolumbus.com/event/uptown-scrooge-abridged/2026-12-19/1/",
    "source": "Downtown Columbus",
    "desc": "A family friendly event! Step into the holiday hilarity of Uptown Scrooge: Abridged!, Good Medicine Productions’ wildly interactive twist on Charles Dickens’ beloved classic. This isn’t a show where you sit quietly in the dark—it’s a Christmas party where the audience becomes part of the story.\n\nFilled with quick wit, outrageous characters, live music, and joyful audience participation, Uptown Scrooge delivers all the heart of Dickens with a healthy dose of laughter. Whether you’re cheering on Tiny Tim, booing Nephew Fred or finding yourself unexpectedly pulled into the action, every performance is a one-of-a-kind experience.\n\nPerfect for families, homeschool groups, date nights, office parties, and anyone looking to laugh their way into the Christmas spirit, Uptown Scrooge:Abridged! reminds us that it’s never too late to choose generosity, joy & silliness."
+  },
+  {
+   "id": "vfc-33080",
+   "title": "Crafts and Cocoa at Mambourg Park",
+   "start": "2026-12-19T14:00-05:00",
+   "end": "2026-12-19T15:00-05:00",
+   "allDay": false,
+   "venue": "5531 Cincinnati Zanesville Rd NE",
+   "address": "5531 Cincinnati Zanesville Road Northeast, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7444243,
+   "lon": -82.48970059999999,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/crafts-and-cocoa-at-mambourg-park/",
+   "source": "Visit Fairfield County",
+   "desc": "The weather outside may be frightful (or not, it is Ohio after all), but creativity isn’t! Enjoy a cup of hot cocoa at Mambourg Park and create your very own nature-themed ornament to take home. This program is for all ages. Meet inside the Nature Center.\n\nFor more information, please visit the Fairfield County Park District’s Facebook page."
   },
   {
    "id": "dtc-10020479",
@@ -18882,6 +18924,153 @@
     "art",
     "museum"
    ]
+  },
+  {
+   "id": "vfc-32988",
+   "title": "Jingle All The Way Tour with Cork & Tap Excursions",
+   "start": "2026-12-20T12:00-05:00",
+   "end": "2026-12-20T16:00-05:00",
+   "allDay": false,
+   "venue": "1581 Parkland Dr",
+   "address": "1581 Parkland Drive, Lancaster, Ohio 43130, United States",
+   "town": "Lancaster",
+   "lat": 39.7262256,
+   "lon": -82.55396270000001,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/jingle-all-the-way-tour-with-cork-tap-excursions/",
+   "source": "Visit Fairfield County",
+   "desc": "It’s that time of the year to get your tickets for Cork & Tap Excursion’s Jingle All The Way Winery tours! On Sunday, December 20th, they will visit Rockside Winery and Vineyards, Rhonemus Cellars and Buckeye Lake Winery. Last year this event sold out very quickly, so don’t wait too long to reserve your spot! Purchase your tickets today!\n\n \n\nFor more information, please visit Cork & Tap Excursion’s Facebook page."
+  },
+  {
+   "id": "vfc-32350",
+   "title": "Paint and Sip at Buckeye Lake Winery",
+   "start": "2026-12-20T12:00-05:00",
+   "end": "2026-12-20T14:00-05:00",
+   "allDay": false,
+   "venue": "13750 Rosewood Dr NE",
+   "address": "13750 Rosewood Dr NE, Thornville, Ohio 43076, United States",
+   "town": "Thornville",
+   "lat": 39.9220166,
+   "lon": -82.4675908,
+   "area": "Fairfield County",
+   "cost": "$40",
+   "costNum": 40,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/paint-and-sip-at-buckeye-lake-winery-3/",
+   "source": "Visit Fairfield County",
+   "desc": "Join for a relaxing and creative afternoon at Buckeye Lake Winery for their Paint & Sip event on Sunday, December 20th! This event is open to the public and perfect for a fun outing with friends or a unique way to unwind. Tickets are $40 per person and includes 2 hours of guided instruction and one glass of wine with purchase. Purchase your ticket today before they sell out! No experience necessary—just bring your creativity and they’ll provide everything else you need. Come sip, paint, and enjoy the beautiful setting at Buckeye Lake Winery!\n\n \n\nFor more information, please visit Buckeye Lake Winery’s Facebook page."
+  },
+  {
+   "id": "vfc-32611",
+   "title": "Sci-Fi & Fantasy Book Club at Juniper & Ivy Coffeehouse",
+   "start": "2026-12-20T12:30-05:00",
+   "end": "2026-12-20T13:30-05:00",
+   "allDay": false,
+   "venue": "200 N Main St",
+   "address": "200 North Main Street, Baltimore, Ohio 43105, United States",
+   "town": "Baltimore",
+   "lat": 39.8463948,
+   "lon": -82.60116980000001,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/sci-fi-fantasy-book-club-at-juniper-ivy-coffeehouse-3/",
+   "source": "Visit Fairfield County",
+   "desc": "Meet at Juniper & Ivy Coffeehouse once a month to dive in to the vivid and enchanting worlds of Sci-Fi and Fantasy (Romantacy is made up…it’s all fantasy) and discuss your favorites. October will be Project Hail Mary by Andy Weir and November will be A House in the Cerulean Sea by TJ Klune.\n\n \n\nFor more information, please visit Juniper & Ivy’s Facebook page."
+  },
+  {
+   "id": "vfc-32932",
+   "title": "Rise Up Arts Alliance Presents: A Christmas Carol",
+   "start": "2026-12-20T14:00-05:00",
+   "end": "2026-12-20T17:00-05:00",
+   "allDay": false,
+   "venue": "632 W 5th Ave",
+   "address": "632 West 5th Avenue, Lancaster, OH, USA",
+   "town": "Lancaster",
+   "lat": 39.7187916,
+   "lon": -82.6139889,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/rise-up-arts-alliance-presents-a-christmas-carol-4/",
+   "source": "Visit Fairfield County",
+   "desc": "Experience the timeless story of A Christmas Carol, a heartwarming tale of redemption, generosity, and the true spirit of the holiday season, presented by Rise Up Arts Alliance at the Lancaster City Parks office! Follow the miserly Ebenezer Scrooge as a visit from three mysterious spirits leads him on an unforgettable journey through his past, present, and future—revealing that it’s never too late to change. Filled with memorable characters, festive cheer, and a message that has inspired generations, this beloved holiday classic is perfect for audiences of all ages. Tickets will sell quickly, so be sure to reserve your spot today! Join Rise Up Arts Alliance as they bring this cherished Christmas tradition to life on stage and celebrate the joy, hope, and wonder of the season.\n\nFor more information, please visit Rise Up Arts Alliance’s Facebook page."
+  },
+  {
+   "id": "dtc-10022706",
+   "title": "FREE Wanderlights",
+   "start": "2026-12-20T17:00-05:00",
+   "end": "2026-12-20T22:00-05:00",
+   "allDay": false,
+   "venue": "",
+   "address": "OH",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/free-wanderlights-2/2026-12-20/",
+   "source": "Downtown Columbus",
+   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Bicentennial Park. Wander your way through the kaleidoscope of color in the heart of Downtown Columbus. Learn more about Wanderlights here! \n\nPlus, during Wander Nights at Wanderlights, find an ultra-festive atmosphere on Fridays and Saturdays from December 4 – 19."
+  },
+  {
+   "id": "commons-10001497",
+   "title": "FREE Wander Nights at Wanderlights",
+   "start": "2026-12-20T17:00-05:00",
+   "end": "2026-12-20T21:00-05:00",
+   "allDay": false,
+   "venue": "Columbus Commons",
+   "address": "160 S High St , OH, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": 39.9587,
+   "lon": -82.9999,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://columbuscommons.org/event/free-wander-nights-at-wanderlights/2026-12-20/",
+   "source": "Columbus Commons",
+   "desc": "Take part in an ultra-festive holiday atmosphere and free activities while exploring all three Wanderlights stops. During Wander Nights, you’ll find complimentary hot chocolate and carousel rides at Columbus Commons, crackling fire pits at the Scioto Mile Fountain, special visits from Santa in the Lazarus Building Galleria, and more!\n\nRide the free covered trolley as it makes stops at Columbus Commons, Bicentennial Park, and the Lazarus Building Galleria and  to explore the whole Wanderlights path and experience the butterfly light show at Nationwide Children’s Hospital. The trolley runs from 5 – 9 pm during all six Wander Nights.\n\nWander Nights take place on the following Fridays and Saturdays in December from 5 pm to 9 pm: 12/4, 12/5, 12/11, 12/12, 12/18 and 12/19. Learn more about Wanderlights and Wander Nights here!"
+  },
+  {
+   "id": "scioto-10000591",
+   "title": "Wanderlights",
+   "start": "2026-12-20T17:00-05:00",
+   "end": "2026-12-20T22:00-05:00",
+   "allDay": false,
+   "venue": "Bicentennial Park",
+   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://www.sciotomile.com/event/wanderlights/2026-12-20/",
+   "source": "Scioto Mile",
+   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
   }
  ]
 }
