@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-06T16:04:52.539Z",
+ "generated": "2026-11-06T21:56:05.912Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
-   "rows": 296,
-   "kept": 246,
-   "ms": 6243
+   "rows": 303,
+   "kept": 253,
+   "ms": 5823
   },
   {
    "source": "Fairfield County District Library",
    "rows": 107,
-   "kept": 107,
-   "ms": 478
+   "kept": 106,
+   "ms": 607
   },
   {
    "source": "Pickerington Public Library",
    "rows": 262,
-   "kept": 262,
-   "ms": 812
+   "kept": 260,
+   "ms": 1774
   },
   {
    "source": "City of Canal Winchester",
    "rows": 113,
    "kept": 8,
-   "ms": 2589
+   "ms": 393
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 222
+   "ms": 287
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 37
+   "ms": 55
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 1544
+   "ms": 1402
   },
   {
    "source": "Downtown Columbus",
    "rows": 174,
    "kept": 173,
-   "ms": 16707
+   "ms": 6281
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 25,
-   "kept": 25,
-   "ms": 691
+   "kept": 23,
+   "ms": 857
   },
   {
    "source": "Metro Parks",
    "rows": 12,
    "kept": 12,
-   "ms": 1428
+   "ms": 1482
   },
   {
    "source": "Columbus Commons",
    "rows": 38,
    "kept": 37,
-   "ms": 1657
+   "ms": 984
   },
   {
    "source": "Scioto Mile",
    "rows": 39,
    "kept": 38,
-   "ms": 946
+   "ms": 963
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
    "kept": 9,
-   "ms": 306
+   "ms": 527
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 78,
    "kept": 4,
-   "ms": 93
+   "ms": 88
   },
   {
    "source": "City of Grove City",
-   "rows": 18,
-   "kept": 17,
-   "ms": 192
+   "rows": 17,
+   "kept": 16,
+   "ms": 280
   },
   {
    "source": "City of Worthington",
    "rows": 100,
    "kept": 24,
-   "ms": 306
+   "ms": 468
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 237
+   "ms": 262
   },
   {
    "source": "Standing freebies",
    "rows": 10,
    "kept": 10,
-   "ms": 10
+   "ms": 9
   }
  ],
  "events": [
@@ -217,48 +217,6 @@
    "desc": "Christmas is coming to The Robin’s Nest! Join them for their Christmas Open House, November 6–8, and be among the first to shop the store fully dressed for the season. They’ll have holiday décor, festive finds, gifts, home accents, seasonal inspiration, and plenty of Christmas cheer waiting throughout the shop.\n\n \n\nHours:\n\nFriday, November 6 | 10 AM – 5 PM\n\nSaturday, November 7 | 10 AM – 4 PM\n\nSunday, November 8 | 12 PM – 4 PM\n\nCome wander, get inspired, start checking off your gift list, and kick off the Christmas season with The Robin’s Nest Home Decor Market in Downtown Lancaster. Bring your shopping buddy and make a weekend of it! For more information, please visit The Robin’s Nest’s Facebook page."
   },
   {
-   "id": "ppl-16789361",
-   "title": "Play to Learn",
-   "start": "2026-11-06T10:00-05:00",
-   "end": "2026-11-06T12:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room C",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16789361",
-   "source": "Pickerington Public Library",
-   "desc": "When children play, their brains are hard at work. Playing helps children develop and strengthen their literacy, motor, language and vocabulary, and social skills. Playgroups are a fun way for kids and their families to play and learn together. The Library will provide a variety of developmentally appropriate learning toys, activities, and crafts.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "ppl-16823479",
-   "title": "Stories and Songs: Gators and Crocs",
-   "start": "2026-11-06T10:00-05:00",
-   "end": "2026-11-06T10:30-05:00",
-   "allDay": false,
-   "venue": "Sycamore Plaza  · Meeting Room",
-   "address": "7861 Refugee Rd, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.9173,
-   "lon": -82.7918,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16823479",
-   "source": "Pickerington Public Library",
-   "desc": "Great for the whole family, this early literacy class will get children ages 2 - 5 excited about reading! We feature talking, singing, reading, writing, and playing to help your child assemble the necessary building blocks of early literacy. Open to children, their caregivers, and siblings. Early literacy is what children learn and know about reading, writing, and math before they can read or write or perform basic math.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
    "id": "dtc-10017871",
    "title": "Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors",
    "start": "2026-11-06T10:00-05:00",
@@ -322,27 +280,6 @@
    "desc": "Start the Season at FYN & Co Mercantile as they unveil their Holiday 2026 collections throughout the weekend of November 6th-8th! Vintage, handmade, and curated new holiday goods are perfect intentional gifts. For decking your halls with all the merriment this season brings, they will also have all new winter and holiday scents from Feather Child Candle Co and Wild Plume’s new winter apparel and accessories! They will have a special holiday gift with any $50 or more purchase (while supplies last)! They’ll be sampling all of their delish gourmet goods all weekend, so don’t miss out!\n\nFor more information, please visit FYN & Co Mercantile’s Facebook page."
   },
   {
-   "id": "fcdl-17192561",
-   "title": "Search Like a Pro:  Getting the Most out of Google",
-   "start": "2026-11-06T11:00-05:00",
-   "end": "2026-11-06T12:00-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Boardroom (Lancaster)",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17192561",
-   "source": "Fairfield County District Library",
-   "desc": "Want to learn how to search the internet like a librarian? Join your Guiding Ohio Online Technology Trainer to explore some of the hidden tricks you can use to search the internet using the Internet’s most popular search engine, Google. \n\nRegister online, on our app, or by calling (740) 653-2745, extension 160."
-  },
-  {
    "id": "dtc-10022793",
    "title": "Spirit & Dust",
    "start": "2026-11-06T11:00-05:00",
@@ -362,69 +299,6 @@
    "url": "https://downtowncolumbus.com/event/spirit-dust/2026-11-06/",
    "source": "Downtown Columbus",
    "desc": "“Death is a Dialogue between / The Spirit and the Dust,” writes poet Emily Dickinson. Living is a daily conversation with death, and through art, we continue that dialogue with mortality, loss, and our own humanity. In Spirit & Dust, artists working across various disciplines—from photography and sculpture to poetry and dance—seek to create space for care and connection in confronting questions of death and dying. What do we gather from our grief? How is this knowledge embodied, and what can art provide for this relationship? What can death teach us about what it means to be alive?\n\nThe process of creating art serves as a mirror for thinking about dying as a verb, where time is experienced as cyclical rather than linear. Each artist’s medium of choice in Spirit & Dust experiments with how we can deepen our relationship with the process of dying, such as through abstraction in photography, blank space in poetry, the ephemerality of dance, and the fallibility of materials in sculpture.\n\nSpirit & Dust is on view concurrently with Experiencing Veterans and Artists Collaborations (EVAC) in the corridor space, which pairs veterans’ stories with original printmaking.\n\nCurated by Diane Cal"
-  },
-  {
-   "id": "grovecity-2752",
-   "title": "Veterans Resource Fair",
-   "start": "2026-11-06T12:00-05:00",
-   "end": "2026-11-06T15:00-05:00",
-   "allDay": false,
-   "venue": "Evans Center",
-   "address": "4330 Dudley Ave. Grove City OH 43123",
-   "town": "Grove City",
-   "lat": 39.8814,
-   "lon": -83.0929,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35",
-   "source": "City of Grove City",
-   "desc": "https://www.grovecityohio.gov/calendar.aspx?EID=2752"
-  },
-  {
-   "id": "crp-10006262",
-   "title": "Scioto Southland – Mobile Produce Market",
-   "start": "2026-11-06T14:00-05:00",
-   "end": null,
-   "allDay": false,
-   "venue": "Scioto Southland Community Center",
-   "address": "3901 Parsons Ave., Columbus, OH, 43207",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://columbusrecparks.com/calendar/scioto-southland-mobile-produce-market/2026-11-06/",
-   "source": "Columbus Recreation & Parks",
-   "desc": "Eligible families can pick up a one-week supply of fresh produce at no cost. Even is first-come, first-served while produce lasts."
-  },
-  {
-   "id": "crp-10006270",
-   "title": "Marion Franklin – Mobile Produce Market",
-   "start": "2026-11-06T14:00-05:00",
-   "end": null,
-   "allDay": false,
-   "venue": "Marion Franklin Community Center",
-   "address": "2801 Lockbourne Rd., Columbus, OH, 43207",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://columbusrecparks.com/calendar/marion-franklin-mobile-produce-market/2026-11-06/",
-   "source": "Columbus Recreation & Parks",
-   "desc": "Eligible families can pick up a one-week supply of fresh produce at no cost. Even is first-come, first-served while produce lasts."
   },
   {
    "id": "ppl-16833772",
@@ -1567,6 +1441,27 @@
    "url": "https://visitfairfieldcounty.org/events/start-the-season-at-fyn-co-mercantile-3/",
    "source": "Visit Fairfield County",
    "desc": "Start the Season at FYN & Co Mercantile as they unveil their Holiday 2026 collections throughout the weekend of November 6th-8th! Vintage, handmade, and curated new holiday goods are perfect intentional gifts. For decking your halls with all the merriment this season brings, they will also have all new winter and holiday scents from Feather Child Candle Co and Wild Plume’s new winter apparel and accessories! They will have a special holiday gift with any $50 or more purchase (while supplies last)! They’ll be sampling all of their delish gourmet goods all weekend, so don’t miss out!\n\nFor more information, please visit FYN & Co Mercantile’s Facebook page."
+  },
+  {
+   "id": "vfc-33103",
+   "title": "Meet the Maker at Keller Market House",
+   "start": "2026-11-08T12:00-05:00",
+   "end": "2026-11-08T14:00-05:00",
+   "allDay": false,
+   "venue": "134 S Columbus St",
+   "address": "134 South Columbus Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7126457,
+   "lon": -82.6043368,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/meet-the-maker-at-keller-market-house/",
+   "source": "Visit Fairfield County",
+   "desc": "Come meet the passionate Cambodian Chef and the creative mind behind Pocambo Hotsauce at Keller Market House on Sunday, November 8th! Growing up amidst the vibrant tapestry of Cambodian culture, Chef Poe developed an insatiable curiosity for the intricate dance of spices, the symphony of aromas, and the depth of flavors that define their culinary heritage. Every dish tells a story, weaving together generations of tradition and innovation. Poe’s mission is to honor these roots while daring to explore uncharted taste territories. Stop by between 12 p.m. to 2:00 p.m. to sample some of Pocambo’s hot sauces and truffle oils!\n\nFor more information, please visit Keller Market House’s Facebook page."
   },
   {
    "id": "ppl-16800064",
@@ -3541,6 +3436,27 @@
    "url": "https://pickeringtonlibrary.libnet.info/event/16833776",
    "source": "Pickerington Public Library",
    "desc": "A great space for kids over 12 years old to hang out and relax after school. Enjoy a snack after school while you wait for practice or a ride home. \n\nCrafts: Bedazzling, bracelet-making, coloring pages, nail art, and more!\n\nVideo Games: Choose from a selection of PS5 video games always available (Madden ‘26, NBA 2K ‘26, DreamWorks All-Star Kart Racing, and NC ‘26) or choose something else from our video game collection! A Nintendo Switch is also available for those looking for a solo game or Mario Kart dual with a friend. \n\nTeen Hang follows the PLSD School Calendar. However, video games and craft supplies are available upon request when school is not in session. \n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
+  },
+  {
+   "id": "vfc-33105",
+   "title": "Fall Art Show at Pickerington Historical Society",
+   "start": "2026-11-12T16:00-05:00",
+   "end": "2026-11-12T20:00-05:00",
+   "allDay": false,
+   "venue": "15 E Columbus St",
+   "address": "15 East Columbus Street, Pickerington, Ohio 43147, United States of America",
+   "town": "Pickerington",
+   "lat": 39.883841,
+   "lon": -82.7534455,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/fall-art-show-at-pickerington-historical-society/",
+   "source": "Visit Fairfield County",
+   "desc": "Join the Pickerington Violet Township Historical Society during the Pickerington Village November Shop Hop to view an exhibit of the best works from the visual arts students at Pickerington North and Central as determined by each school’s art department faculty. Works will be on display from 4:00 p.m. to 8:00 p.m. Other museum exhibits will be open on the upper and mezzanine levels. Free admission!\n\n \n\nFor more information, please visit the Pickerington Violet Township Historical Society’s Facebook page."
   },
   {
    "id": "vfc-27489",
@@ -12417,6 +12333,27 @@
    "desc": "Create four holiday-themed greeting cards using watercolor pencils in this guided class with artist Deb Waites. Discover the artist within you in this fun and interactive watercolor pencil class. Guided by experienced artist Deb Waites, participants will create four Holiday cards perfect for giving to friends and loved ones or displaying in a frame at home. To help you get started, everyone will begin with a pre-sketched picture, making it easy to focus on coloring, shading, and blending.\n\nThrough hands-on creativity, you’ll experiment with color and the unique effects watercolor pencils can create when combined with water. Perfect for beginners and experienced artists alike, this class is a great opportunity to try something new and enjoy the creative process. All materials will be provided—just bring your curiosity and creativity!\n\nAdults only. Class size is limited. Registration is required.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
+   "id": "vfc-33110",
+   "title": "Pickerington Historical Society Christmas Dinner",
+   "start": "2026-12-03T18:30-05:00",
+   "end": "2026-12-03T20:30-05:00",
+   "allDay": false,
+   "venue": "150 Hereford Dr",
+   "address": "150 Hereford Dr, Pickerington, OH, USA",
+   "town": "Pickerington",
+   "lat": 39.8792742,
+   "lon": -82.74966739999999,
+   "area": "Fairfield County",
+   "cost": "Free–$20",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/pickerington-historical-society-christmas-dinner/",
+   "source": "Visit Fairfield County",
+   "desc": "Join the Pickerington-Violet Township Historical Society for their annual Christmas Dinner on Thursday, December 3rd! Blue Moon Catering will offer a delicious spread including meatloaf, hot chicken salad, and incredible sides. Entertainment will be provided as well. The event is free to members and $20 for non-members. Reserve your seat by calling (614) 333-8951 or emailing pickhistsociety@hotmail.com.\n\n \n\nFor more information, please visit the Pickerington-Violet Township Historical Society’s Facebook page."
+  },
+  {
    "id": "vfc-31478",
    "title": "Crazy Train Trivia at Combustion Brewery",
    "start": "2026-12-03T19:00-05:00",
@@ -12604,6 +12541,27 @@
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35",
    "source": "City of Grove City",
    "desc": "https://www.grovecityohio.gov/calendar.aspx?EID=2745"
+  },
+  {
+   "id": "vfc-33107",
+   "title": "Christmas Village at the Museum",
+   "start": "2026-12-04T17:00-05:00",
+   "end": "2026-12-04T20:00-05:00",
+   "allDay": false,
+   "venue": "15 E Columbus St",
+   "address": "15 East Columbus Street, Pickerington, Ohio 43147, United States of America",
+   "town": "Pickerington",
+   "lat": 39.883841,
+   "lon": -82.7534455,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/christmas-village-at-the-museum/",
+   "source": "Visit Fairfield County",
+   "desc": "Stop by the lower level of the Pickerington-Violet Township Historical Society Museum during the Holiday Gathering and the December Shop Hop to enjoy the immense miniature Christmas Village curated by Trustee Keith Ebright. The display features many animated pieces including miniature trains and carnival rides.\n\n \n\nFor more information, please visit the Pickerington-Violet Township Historical Society’s Facebook page."
   },
   {
    "id": "vfc-18569",
@@ -15180,6 +15138,27 @@
    "desc": "A great space for kids over 12 years old to hang out and relax after school. Enjoy a snack after school while you wait for practice or a ride home. \n\nCrafts: Bedazzling, bracelet-making, coloring pages, nail art, and more!\n\nVideo Games: Choose from a selection of PS5 video games always available (Madden ‘26, NBA 2K ‘26, DreamWorks All-Star Kart Racing, and NC ‘26) or choose something else from our video game collection! A Nintendo Switch is also available for those looking for a solo game or Mario Kart dual with a friend. \n\nTeen Hang follows the PLSD School Calendar. However, video games and craft supplies are available upon request when school is not in session. \n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
+   "id": "vfc-33109",
+   "title": "Christmas Village at the Museum",
+   "start": "2026-12-10T16:00-05:00",
+   "end": "2026-12-10T20:00-05:00",
+   "allDay": false,
+   "venue": "15 E Columbus St",
+   "address": "15 East Columbus Street, Pickerington, Ohio 43147, United States of America",
+   "town": "Pickerington",
+   "lat": 39.883841,
+   "lon": -82.7534455,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/christmas-village-at-the-museum-2/",
+   "source": "Visit Fairfield County",
+   "desc": "Stop by the lower level of the Pickerington-Violet Township Historical Society Museum during the Holiday Gathering and the December Shop Hop to enjoy the immense miniature Christmas Village curated by Trustee Keith Ebright. The display features many animated pieces including miniature trains and carnival rides.\n\n \n\nFor more information, please visit the Pickerington-Violet Township Historical Society’s Facebook page."
+  },
+  {
    "id": "vfc-27490",
    "title": "December Pickerington Village Shop Hop",
    "start": "2026-12-10T16:00-05:00",
@@ -16526,6 +16505,48 @@
    "url": "https://pickeringtonlibrary.libnet.info/event/17506320",
    "source": "Pickerington Public Library",
    "desc": "Meet the cats from FurBaby 911, a local Pickerington cat rescue, while listening to fun feline stories. Give the cats comfort, companionship, and a little extra love while they wait for their forever homes.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
+  },
+  {
+   "id": "vfc-33088",
+   "title": "Lancaster Men’s Chorus Annual Christmas Concert",
+   "start": "2026-12-13T15:00-05:00",
+   "end": "2026-12-13T17:00-05:00",
+   "allDay": false,
+   "venue": "Fairfield Christian Church",
+   "address": "Fairfield Christian Church, North Columbus Street, Lancaster, OH, USA",
+   "town": "Lancaster",
+   "lat": 39.73584839999999,
+   "lon": -82.6210801,
+   "area": "Fairfield County",
+   "cost": "$10–$135",
+   "costNum": 10,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/lancaster-mens-chorus-annual-christmas-concert/",
+   "source": "Visit Fairfield County",
+   "desc": "Take a musical trip this holiday season as the Lancaster Men’s Chorus presents “Christmas Around the World,”  its annual Christmas concert at 3 p.m. on Sunday, December 13th at Fairfield Christian Church. With holiday songs ranging from traditional to whimsical, the LMC,  under the direction of Mark Severance, will present an afternoon of family entertainment for all ages. This year’s concert will also feature the Bloom-Carroll High School Chamber Singers, under the direction of Mark Yoder.\n\n \n\nThe concert will include music from Spain, Austria, Germany, England and the Caribbean, in addition to songs that have originated in the United States. The LMC Christmas concert provides an opportunity for the whole family to share an experience and create memories that can be enjoyed for years and raise scholarship money for local students. Some of the songs of the Christmas concert include the annual favorite, Raindeer of the Roof, and Where Are You Christmas, God Rest You Merry Gentlemen, Hark the Herald Angels Sing, Chillin’ Like a Snowman, Carol of the Bells, Adeste Fideles, Various Themes on Fa LaLa, and, of course, Silent Night.\n\n \n\nThis is the 60th year for the Lancaster Men’s Chorus"
+  },
+  {
+   "id": "vfc-26690",
+   "title": "Santa in the Village",
+   "start": "2026-12-13T15:00-05:00",
+   "end": "2026-12-13T17:00-05:00",
+   "allDay": false,
+   "venue": "161 Carter St",
+   "address": "161 Carter Street, Bremen, Ohio 43107, United States of America",
+   "town": "Bremen",
+   "lat": 39.7072401,
+   "lon": -82.4284692,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/santa-in-the-village/",
+   "source": "Visit Fairfield County",
+   "desc": "On December 13th from 3 p.m. to 5 p.m. come visit the Bremen Historical Society to visit Santa Clause! There will be children’s activities and crafts, and of course the opportunity to talk to Santa himself! Come see Santa and get some candy!"
   },
   {
    "id": "dtc-10018587",
