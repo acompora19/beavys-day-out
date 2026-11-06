@@ -1,107 +1,107 @@
 {
- "generated": "2026-11-05T22:02:33.681Z",
+ "generated": "2026-11-06T04:13:07.238Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 296,
-   "kept": 251,
-   "ms": 5047
+   "kept": 246,
+   "ms": 6200
   },
   {
    "source": "Fairfield County District Library",
    "rows": 114,
-   "kept": 111,
-   "ms": 655
+   "kept": 107,
+   "ms": 542
   },
   {
    "source": "Pickerington Public Library",
    "rows": 272,
-   "kept": 270,
-   "ms": 869
+   "kept": 262,
+   "ms": 717
   },
   {
    "source": "City of Canal Winchester",
    "rows": 113,
    "kept": 8,
-   "ms": 387
+   "ms": 379
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 309
+   "ms": 330
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 63
+   "ms": 62
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 1558
+   "ms": 1294
   },
   {
    "source": "Downtown Columbus",
    "rows": 177,
-   "kept": 177,
-   "ms": 15670
+   "kept": 174,
+   "ms": 8824
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 28,
    "kept": 25,
-   "ms": 990
+   "ms": 1015
   },
   {
    "source": "Metro Parks",
    "rows": 12,
    "kept": 12,
-   "ms": 5853
+   "ms": 4298
   },
   {
    "source": "Columbus Commons",
    "rows": 37,
    "kept": 37,
-   "ms": 11564
+   "ms": 1534
   },
   {
    "source": "Scioto Mile",
    "rows": 38,
    "kept": 38,
-   "ms": 1214
+   "ms": 1099
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
    "kept": 9,
-   "ms": 705
+   "ms": 647
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 78,
    "kept": 4,
-   "ms": 98
+   "ms": 90
   },
   {
    "source": "City of Grove City",
    "rows": 18,
    "kept": 17,
-   "ms": 272
+   "ms": 275
   },
   {
    "source": "City of Worthington",
-   "rows": 101,
-   "kept": 25,
-   "ms": 519
+   "rows": 100,
+   "kept": 24,
+   "ms": 530
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 390
+   "ms": 295
   },
   {
    "source": "Standing freebies",
@@ -152,405 +152,6 @@
    "url": "https://visitfairfieldcounty.org/events/color-improvisations-3-a-major-exhibition-of-contemporary-quilts/",
    "source": "Visit Fairfield County",
    "desc": "Color Improvisations 3: A Major Exhibition of Contemporary Quilts features 38 large quilts that explore color, scale, and improvisation in contemporary textile art. Curated by internationally recognized artist Nancy Crow, the exhibition at the Decorative Arts Center of Ohio includes works by quiltmakers from the United States, Canada, and New Zealand, highlighting the creativity, innovation and artistic excellence shaping contemporary quilt making today. Using bold abstract forms and richly worked fabrics, the artists balance exquisite skill with creative risk. Their quilts invite viewers to experience color as movement, texture, and feeling. This exhibition will run from October 3rd, 2026 to January 3rd, 2027.\n\n \n\nFor more information, please visit the Decorative Arts Center of Ohio’s website."
-  },
-  {
-   "id": "ppl-16800061",
-   "title": "Fall Book Sale 2026",
-   "start": "2026-11-05T09:00-05:00",
-   "end": "2026-11-05T20:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16800061",
-   "source": "Pickerington Public Library",
-   "desc": "FALL SALE: Nov. 4 - 8 at Pickerington Main Library\n\nThe sale begins on Wednesday, Nov. 4, with a special pre-sale available exclusively to Friends members. Not a Friends member? No problem! Join at the door.\n\nFor sale is a variety of books, DVDs, CDs, and vinyl albums. Come early for the best selection!\n\nProceeds from the sale support Pickerington Public Library programs.\n\nFRIENDS NIGHT: \nWednesday, Nov. 4\n4:00 - 8:00 PM (Members only. Join at the door.)\n\nPUBLIC SALE: \nThursday-Saturday, Nov. 5-7\nDuring library hours\n\nPUBLIC SALE - BUY BOOKS BY THE BAG: \nSunday, Nov. 8\n12:00 - 3:00 PM\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "dtc-10017870",
-   "title": "Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors",
-   "start": "2026-11-05T10:00-05:00",
-   "end": "2026-11-05T17:00-05:00",
-   "allDay": false,
-   "venue": "National Veterans Memorial and Museum",
-   "address": "300 W Broad Street, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/portraits-of-courage-a-commander-in-chiefs-tribute-to-americas-warriors/2026-11-05/",
-   "source": "Downtown Columbus",
-   "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
-  },
-  {
-   "id": "fcdl-17129282",
-   "title": "Hometown Military Heroes Wall Display",
-   "start": "2026-11-05T10:30-05:00",
-   "end": "2026-11-05T16:30-05:00",
-   "allDay": false,
-   "venue": "Bremen Branch Library",
-   "address": "220 Marietta St, Bremen, OH 43107",
-   "town": "Bremen",
-   "lat": 39.7066,
-   "lon": -82.4258,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17129282",
-   "source": "Fairfield County District Library",
-   "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
-  },
-  {
-   "id": "dtc-10022792",
-   "title": "Spirit & Dust",
-   "start": "2026-11-05T11:00-05:00",
-   "end": "2026-11-05T18:00-05:00",
-   "allDay": false,
-   "venue": "OSU Urban Arts Space",
-   "address": "50 W Town St, Columbus, OH",
-   "town": "Columbus",
-   "lat": 39.9591091,
-   "lon": -83.0010613,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/spirit-dust/2026-11-05/",
-   "source": "Downtown Columbus",
-   "desc": "“Death is a Dialogue between / The Spirit and the Dust,” writes poet Emily Dickinson. Living is a daily conversation with death, and through art, we continue that dialogue with mortality, loss, and our own humanity. In Spirit & Dust, artists working across various disciplines—from photography and sculpture to poetry and dance—seek to create space for care and connection in confronting questions of death and dying. What do we gather from our grief? How is this knowledge embodied, and what can art provide for this relationship? What can death teach us about what it means to be alive?\n\nThe process of creating art serves as a mirror for thinking about dying as a verb, where time is experienced as cyclical rather than linear. Each artist’s medium of choice in Spirit & Dust experiments with how we can deepen our relationship with the process of dying, such as through abstraction in photography, blank space in poetry, the ephemerality of dance, and the fallibility of materials in sculpture.\n\nSpirit & Dust is on view concurrently with Experiencing Veterans and Artists Collaborations (EVAC) in the corridor space, which pairs veterans’ stories with original printmaking.\n\nCurated by Diane Cal"
-  },
-  {
-   "id": "ppl-16423348",
-   "title": "Homework Help Center",
-   "start": "2026-11-05T15:00-05:00",
-   "end": "2026-11-05T18:00-05:00",
-   "allDay": false,
-   "venue": "Sycamore Plaza  · Meeting Room",
-   "address": "7861 Refugee Rd, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.9173,
-   "lon": -82.7918,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16423348",
-   "source": "Pickerington Public Library",
-   "desc": "The Homework Help Center is a community resource that serves the entire Pickerington Local School District. Unlike tutoring services that provide one-on-one help in specific subject areas, the Library’s Homework Help service supports students by ensuring they are able to complete specific work assigned by their classroom teachers. \n\nLibrary staff and volunteers are knowledgeable in guiding students through homework assignments in many subjects and grade levels. If the subject material is beyond the knowledge of staff and volunteers or students need more individual assistance than we can provide, we can direct them to resources for additional help.\n\nOpen Monday-Thursday following the PLSD calendar.\n\nFor more information and online resources, visit https://pickeringtonlibrary.org/homework-help-center/."
-  },
-  {
-   "id": "ppl-16833771",
-   "title": "Teen Hang",
-   "start": "2026-11-05T15:00-05:00",
-   "end": "2026-11-05T17:00-05:00",
-   "allDay": false,
-   "venue": "Sycamore Plaza  · Learning Kitchen",
-   "address": "7861 Refugee Rd, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.9173,
-   "lon": -82.7918,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16833771",
-   "source": "Pickerington Public Library",
-   "desc": "A great space for kids over 12 years old to hang out and relax after school. Enjoy a snack after school while you wait for practice or a ride home. \n\nCrafts: Bedazzling, bracelet-making, coloring pages, nail art, and more!\n\nVideo Games: Choose from a selection of PS5 video games always available (Madden ‘26, NBA 2K ‘26, DreamWorks All-Star Kart Racing, and NC ‘26) or choose something else from our video game collection! A Nintendo Switch is also available for those looking for a solo game or Mario Kart dual with a friend. \n\nTeen Hang follows the PLSD School Calendar. However, video games and craft supplies are available upon request when school is not in session. \n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "vfc-31759",
-   "title": "Making It Merry at FYN & Co Mercantile",
-   "start": "2026-11-05T16:00-05:00",
-   "end": "2026-11-05T20:00-05:00",
-   "allDay": false,
-   "venue": "36 W Columbus St",
-   "address": "36 W Columbus St, Pickerington, OH 43147, USA",
-   "town": "Pickerington",
-   "lat": 39.8843144,
-   "lon": -82.75462519999999,
-   "area": "Fairfield County",
-   "cost": "Free–$5",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/making-it-merry-at-fyn-co-mercantile/",
-   "source": "Visit Fairfield County",
-   "desc": "Come join FYN & Co Mercantile as they make it merry and unveil their holiday story for 2026 on Thursday, November 5th! They will have vintage, curated new and handcrafted holiday goods. Wild Plume will release their new holiday and winter apparel collections and Feather Child Candle Co. will release her new holiday scents this night! To kick off their holiday season, this event is ticketed to control the crowd and make it a pleasant and stress free shopping night for everyone. They will have just 30 guests arrive each hour, with four different arrival times to choose from this year. You arrive at the designated ticket time that you choose, but stay as long as you like! They will stay open until 9 p.m. (or until the last guest leaves) to give everyone plenty of time to shop, eat, laugh, and repeat!\n\nAll tickets are $5 each and every guest will receive a holiday swag bag filled with their favorite seasonal goods including their annual snowflake ornament. Tickets are on sale now, so be sure to reserve your spot today! Ticket times include 4 p.m., 5 p.m., 6 p.m., and 7 p.m. entry. Complimentary festive cocktails and nibbles will be served. Every guest must have a ticket and be 21 and o"
-  },
-  {
-   "id": "ppl-16802575",
-   "title": "Crochet+ Club",
-   "start": "2026-11-05T16:00-05:00",
-   "end": "2026-11-05T17:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Large Conference Room",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16802575",
-   "source": "Pickerington Public Library",
-   "desc": "Crochet+ Club is perfect for teens interested in crochet, knitting, embroidery, and other fiber arts. Meet other teens who share your hobbies while learning new skills and working on handmade crafts. We'll start with learning the basics and work on projects like scarves, hats, and stuffies. Whether you're a beginner or a practiced pro, you'll find something to to love! All supplies provided.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "vfc-32582",
-   "title": "Covered Bridge Music Series Fundraiser Event",
-   "start": "2026-11-05T18:00-05:00",
-   "end": "2026-11-05T21:00-05:00",
-   "allDay": false,
-   "venue": "431 S Columbus St",
-   "address": "431 South Columbus Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.70924189999999,
-   "lon": -82.6027955,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/covered-bridge-music-series-fundraiser-event/",
-   "source": "Visit Fairfield County",
-   "desc": "Join the Lancaster Festival for a casual evening of music and mingling at the Mill Event Center to benefit the Covered Bridge Music Series! Enjoy live music by Barefoot & Foster, sponsored by The Fairfield County Foundation. Delicious hors d’oeuvres and entertainment will be provided along with a cash bar. Limited tickets are available, so be sure to reserve your seat today! If your party is bigger than 8 guests please call 740-687-4808.\n\n \n\nFor more information, please visit the Lancaster Festival’s Facebook page."
-  },
-  {
-   "id": "fcdl-17139931",
-   "title": "School Age STEAM: Spiders",
-   "start": "2026-11-05T18:00-05:00",
-   "end": "2026-11-05T19:00-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Gallery (Lancaster)",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17139931",
-   "source": "Fairfield County District Library",
-   "desc": "Whether you love them or fear them, spiders are fascinating creatures. Get a look at how they live their lives with activities and a craft.\n\nRegister online, on our app, or by calling (740) 653-2745 ext 140"
-  },
-  {
-   "id": "fcdl-17080868",
-   "title": "Night Owls Family Storytime",
-   "start": "2026-11-05T18:00-05:00",
-   "end": "2026-11-05T18:30-05:00",
-   "allDay": false,
-   "venue": "Baltimore Branch Library · Meeting Room (Baltimore)",
-   "address": "205 E Market St, Baltimore, OH 43105",
-   "town": "Baltimore",
-   "lat": 39.8449,
-   "lon": -82.6016,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17080868",
-   "source": "Fairfield County District Library",
-   "desc": "Enjoy rhymes, songs, and stories as we move, play, and learn together!\n\nNo registration necessary."
-  },
-  {
-   "id": "fcdl-17212566",
-   "title": "Teen Media Club",
-   "start": "2026-11-05T18:00-05:00",
-   "end": "2026-11-05T19:30-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Boardroom (Lancaster)",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17212566",
-   "source": "Fairfield County District Library",
-   "desc": "Come talk about your favorite character, meme, video game, etc. If it’s not a book, this is the club for you!"
-  },
-  {
-   "id": "ppl-16423406",
-   "title": "Reading Buddies",
-   "start": "2026-11-05T18:00-05:00",
-   "end": "2026-11-05T19:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room C",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16423406",
-   "source": "Pickerington Public Library",
-   "desc": "Join us Wednesdays at Sycamore Plaza and Thursdays at Pickerington Main. Limited space. In-person registration begins at the start of the event. \n\nIn Reading Buddies, children in kindergarten through 4th grade build confidence and improve their reading skills by reading one-on-one with a volunteer or staff member. Kids can bring a favorite book from home or pick one off the library shelves, then enjoy a 20-minute session of reading practice. It’s a great way to develop skills, share stories, and make reading fun. \n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "ppl-16892426",
-   "title": "ROX: Ruling Our eXperiences",
-   "start": "2026-11-05T18:00-05:00",
-   "end": "2026-11-05T19:00-05:00",
-   "allDay": false,
-   "venue": "Sycamore Plaza  · Meeting Room",
-   "address": "7861 Refugee Rd, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.9173,
-   "lon": -82.7918,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16892426",
-   "source": "Pickerington Public Library",
-   "desc": "R.O.X. “Ruling Our eXperiences” is a non-profit, educational program for girls. During the 20-week curriculum, participants will be equipped with knowledge on topics such as confidence, healthy communications, navigating relationships, goal setting, and self-defense. Open to girls in grades 7-12.\n\nFacilitated by Sycamore Plaza Library’s Teen Services Librarian, participants will meet on Thursdays from 6:00-7:00 p.m. to engage in guided discussions and activities based on the R.O.X. curriculum. \n\nThe program is free and open to girls in grades 7-12. If you or your teen is interested, please contact Amanda at Sycamore Plaza Library in person or via email at amcevoy@pickeringtonlibrary.org.\n\nRegistering for this event does not guarantee your spot. Amanda will reach out to you with additional paperwork and information.\n\nTo learn more about R.O.X. please visit their website: Ruling Our eXperiences (ROX). \n\nThank you to South Central Power for graciously providing a grant for registration costs.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "worthington-9316",
-   "title": "Holidays on High Sip & Shop",
-   "start": "2026-11-05T18:00-05:00",
-   "end": "2026-11-05T21:00-05:00",
-   "allDay": false,
-   "venue": "",
-   "address": "- Old Worthington Worthington OH 43085",
-   "town": "Worthington",
-   "lat": 40.0931,
-   "lon": -83.018,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
-   "source": "City of Worthington",
-   "desc": "The official kick-off to holiday shopping in Old Worthington! Our merchants will stay open late, we'll have additional vendors on the sidewalks, and there will be plenty of holiday cheer. Make plans to get some shopping done early. https://worthington.org/calendar.aspx?EID=9316"
-  },
-  {
-   "id": "vfc-32894",
-   "title": "Trivia Night at Double Edge Brewing",
-   "start": "2026-11-05T19:00-05:00",
-   "end": "2026-11-05T21:00-05:00",
-   "allDay": false,
-   "venue": "158 W Chestnut St",
-   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7123144,
-   "lon": -82.6041679,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/trivia-night-at-double-edge-brewing-2/",
-   "source": "Visit Fairfield County",
-   "desc": "Double Edge Brewing is bringing brainpower back to the brewery with a familiar face behind the mic! The Leading Edge Club’s own Matt Green is officially your Trivia Night host the 1st Thursday of each month from 7 p.m. to 9 p.m.! 6 rounds, 6 different topics, with teams of up to 4 old-school style…no apps or anything like that! Matt will ask the questions, you’ll have a few seconds to scribble down your answers, and they’ll keep things moving. The winning team scores a DE gift card and bragging rights until next month! Kermit’s food truck will be on site from 4 p.m. to 8 p.m.\n\nFor more information, please visit Double Edge Brewing’s Facebook page."
-  },
-  {
-   "id": "vfc-32485",
-   "title": "Live Music by Red Light Go at The Local Joint",
-   "start": "2026-11-05T19:00-05:00",
-   "end": "2026-11-05T21:00-05:00",
-   "allDay": false,
-   "venue": "434 N Columbus St",
-   "address": "434 North Columbus Street, Lancaster, OH, USA",
-   "town": "Lancaster",
-   "lat": 39.71868449999999,
-   "lon": -82.6041679,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/live-music-by-red-light-go-at-the-local-joint-2/",
-   "source": "Visit Fairfield County",
-   "desc": "Start your weekend early with live music by Red Light Go at The Local Joint on Thursday, November 5th! This is sure to be an evening you don’t want to miss!\n\n \n\nFor more information, please visit The Local Joint’s Facebook page."
-  },
-  {
-   "id": "vfc-31474",
-   "title": "Crazy Train Trivia at Combustion Brewery",
-   "start": "2026-11-05T19:00-05:00",
-   "end": "2026-11-05T20:30-05:00",
-   "allDay": false,
-   "venue": "80 W Church St",
-   "address": "80 West Church Street, Pickerington, Ohio 43147, United States",
-   "town": "Pickerington",
-   "lat": 39.885268,
-   "lon": -82.754857,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/2026-11-05-crazy-train-trivia-at-combustion-brewery/",
-   "source": "Visit Fairfield County",
-   "desc": "Head out to Combustion Brewery & Taproom every Thursday from 7 p.m. to 8:30 p.m. for Crazy Train Trivia! This fun event is sure to be a night you don’t want to miss!\n\n \n\nFor more information, please visit Combustion Brewery’s Facebook page."
-  },
-  {
-   "id": "dtc-10018528",
-   "title": "Columbus Blue Jackets Game",
-   "start": "2026-11-05T19:00-05:00",
-   "end": null,
-   "allDay": false,
-   "venue": "Nationwide Arena",
-   "address": "200 W Nationwide Blvd, Columbus, OH",
-   "town": "Columbus",
-   "lat": 39.9692575,
-   "lon": -83.0059922,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/columbus-blue-jackets-game-6/2026-11-05/",
-   "source": "Downtown Columbus",
-   "desc": "Cheer on the Columbus Blue Jackets in this regular season game at Nationwide Arena!\n\nGet tickets here!"
   },
   {
    "id": "dtc-10018573",
@@ -1708,7 +1309,7 @@
    "desc": "Beautiful colors, fluffy critters, and seasonal smells. You never know what fall wonders await! Join Mambourg Park on an exploratory hike! Be prepared to hike up to 3 miles and some off trail exploration. This program is for ages 13 and up.\n\nFor more information, please visit the Fairfield County Park District’s Facebook page."
   },
   {
-   "id": "recurring-short-north-gallery-hop-2026-11-07",
+   "id": "recurring-short-north-gallery-hop-2026-11-06",
    "title": "Short North Gallery Hop",
    "start": "2026-11-07T16:00-05:00",
    "end": "2026-11-07T20:00-05:00",
@@ -1943,7 +1544,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-08",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-07",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-08T10:00-05:00",
    "end": "2026-11-08T17:00-05:00",
@@ -5517,7 +5118,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-15",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-14",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-15T10:00-05:00",
    "end": "2026-11-15T17:00-05:00",
@@ -8797,7 +8398,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-22",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-21",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-22T10:00-05:00",
    "end": "2026-11-22T17:00-05:00",
@@ -11300,7 +10901,7 @@
    "desc": "Ongoing at the farmhouse between 10am-4pm.\n\nEnjoy a display and some activities about Thanksgiving foods and traditions."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-29",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-28",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-29T10:00-05:00",
    "end": "2026-11-29T17:00-05:00",
@@ -13782,7 +13383,7 @@
    "desc": "https://www.reynoldsburg.gov/calendar.aspx?EID=1415"
   },
   {
-   "id": "recurring-short-north-gallery-hop-2026-12-05",
+   "id": "recurring-short-north-gallery-hop-2026-12-04",
    "title": "Short North Gallery Hop",
    "start": "2026-12-05T16:00-05:00",
    "end": "2026-12-05T20:00-05:00",
@@ -14038,7 +13639,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-06",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-05",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-06T10:00-05:00",
    "end": "2026-12-06T17:00-05:00",
@@ -14063,7 +13664,7 @@
    ]
   },
   {
-   "id": "recurring-community-day-at-franklin-park-conservatory-2026-12-06",
+   "id": "recurring-community-day-at-franklin-park-conservatory-2026-12-05",
    "title": "Community Day at Franklin Park Conservatory",
    "start": "2026-12-06T10:00-05:00",
    "end": "2026-12-06T17:00-05:00",
@@ -16881,7 +16482,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-13",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-12",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-13T10:00-05:00",
    "end": "2026-12-13T17:00-05:00",
@@ -18901,7 +18502,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-20",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-19",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-20T10:00-05:00",
    "end": "2026-12-20T17:00-05:00",
