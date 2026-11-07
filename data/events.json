@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-07T15:54:05.977Z",
+ "generated": "2026-11-07T21:52:54.964Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 303,
-   "kept": 249,
-   "ms": 5510
+   "kept": 243,
+   "ms": 6159
   },
   {
    "source": "Fairfield County District Library",
    "rows": 105,
-   "kept": 105,
-   "ms": 403
+   "kept": 99,
+   "ms": 606
   },
   {
    "source": "Pickerington Public Library",
    "rows": 260,
    "kept": 260,
-   "ms": 615
+   "ms": 627
   },
   {
    "source": "City of Canal Winchester",
    "rows": 113,
    "kept": 8,
-   "ms": 298
+   "ms": 370
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 207
+   "ms": 225
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 35
+   "ms": 50
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 1252
+   "ms": 1395
   },
   {
    "source": "Downtown Columbus",
    "rows": 171,
    "kept": 169,
-   "ms": 6336
+   "ms": 6760
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 23,
    "kept": 23,
-   "ms": 706
+   "ms": 816
   },
   {
    "source": "Metro Parks",
    "rows": 12,
-   "kept": 12,
-   "ms": 1521
+   "kept": 11,
+   "ms": 1562
   },
   {
    "source": "Columbus Commons",
    "rows": 39,
    "kept": 38,
-   "ms": 1218
+   "ms": 991
   },
   {
    "source": "Scioto Mile",
    "rows": 40,
    "kept": 39,
-   "ms": 839
+   "ms": 1031
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
    "kept": 9,
-   "ms": 440
+   "ms": 2807
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 78,
    "kept": 4,
-   "ms": 53
+   "ms": 785
   },
   {
    "source": "City of Grove City",
-   "rows": 17,
-   "kept": 16,
-   "ms": 194
+   "rows": 16,
+   "kept": 15,
+   "ms": 255
   },
   {
    "source": "City of Worthington",
-   "rows": 98,
-   "kept": 22,
-   "ms": 499
+   "rows": 97,
+   "kept": 21,
+   "ms": 446
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 239
+   "ms": 297
   },
   {
    "source": "Standing freebies",
    "rows": 10,
    "kept": 10,
-   "ms": 4
+   "ms": 7
   }
  ],
  "events": [
@@ -238,27 +238,6 @@
    "desc": "One Nation\n\nBill Walters\n\n614-226-3093"
   },
   {
-   "id": "vfc-32456",
-   "title": "Meditation Hike at Smeck Park",
-   "start": "2026-11-07T09:00-05:00",
-   "end": "2026-11-07T10:30-05:00",
-   "allDay": false,
-   "venue": "7395 Basil Rd",
-   "address": "7395 Basil Rd, Baltimore, OH, USA",
-   "town": "Baltimore",
-   "lat": 39.83463,
-   "lon": -82.62201999999999,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/meditation-hike-at-smeck-park/",
-   "source": "Visit Fairfield County",
-   "desc": "Celebrate the changing seasons with a calming meditation hike along the beautiful Goldenrod Trail at Smeck Park, an easy one mile hike through the goldenrod prairie. Led by Yoga in the Park instructor Jeannie Spencer, this easy, unpaved hike is designed to foster relaxation and mindfulness. Bring drinking water and an open mind.\n\n \n\nFor more information, please visit the Fairfield County Park District’s Facebook page."
-  },
-  {
    "id": "ppl-16800063",
    "title": "Fall Book Sale 2026",
    "start": "2026-11-07T09:00-05:00",
@@ -280,90 +259,6 @@
    "desc": "FALL SALE: Nov. 4 - 8 at Pickerington Main Library\n\nThe sale begins on Wednesday, Nov. 4, with a special pre-sale available exclusively to Friends members. Not a Friends member? No problem! Join at the door.\n\nFor sale is a variety of books, DVDs, CDs, and vinyl albums. Come early for the best selection!\n\nProceeds from the sale support Pickerington Public Library programs.\n\nFRIENDS NIGHT: \nWednesday, Nov. 4\n4:00 - 8:00 PM (Members only. Join at the door.)\n\nPUBLIC SALE: \nThursday-Saturday, Nov. 5-7\nDuring library hours\n\nPUBLIC SALE - BUY BOOKS BY THE BAG: \nSunday, Nov. 8\n12:00 - 3:00 PM\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
-   "id": "worthington-9224",
-   "title": "Worthington Farmers Market",
-   "start": "2026-11-07T09:00-05:00",
-   "end": "2026-11-07T12:00-05:00",
-   "allDay": false,
-   "venue": "",
-   "address": "- The Shops at Worthington Place 7227 N High St Worthington OH 43085",
-   "town": "Worthington",
-   "lat": 40.0931,
-   "lon": -83.018,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
-   "source": "City of Worthington",
-   "desc": "The Worthington Farmers Market was established in 1987 and is one of the largest and most respected markets in Ohio. The Market is held indoors at The Shops at Worthington Place during the months of November through April. During the summer months, the Market takes place outdoors in downtown Worthington. https://worthington.org/calendar.aspx?EID=9224"
-  },
-  {
-   "id": "vfc-32956",
-   "title": "Morning Chores at Slate Run Farm",
-   "start": "2026-11-07T09:30-05:00",
-   "end": "2026-11-07T10:30-05:00",
-   "allDay": false,
-   "venue": "1375 OH-674",
-   "address": "1375 OH-674, Canal Winchester, OH 43110, USA",
-   "town": "Canal Winchester",
-   "lat": 39.7591244,
-   "lon": -82.82766149999999,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/morning-chores-at-slate-run-farm/",
-   "source": "Visit Fairfield County",
-   "desc": "Join the farmer at Slate Run Living Historic Farm in feeding the animals and helping with other barnyard chores. Wear close-toed shoes for safety. The program begins at 9:30 a.m. at the farmhouse, and advanced registration is required. This program is for ages 5 and up!\n\n \n\nFor more information, please visit Slate Run Living Historic Farm’s website."
-  },
-  {
-   "id": "vfc-32713",
-   "title": "Pre-Holiday Reset at SunRay Farms",
-   "start": "2026-11-07T09:30-05:00",
-   "end": "2026-11-07T11:00-05:00",
-   "allDay": false,
-   "venue": "5773 Royalton Rd SW",
-   "address": "5773 Royalton Road Southwest, Lancaster, OH, USA",
-   "town": "Lancaster",
-   "lat": 39.7228833,
-   "lon": -82.7149938,
-   "area": "Fairfield County",
-   "cost": "$40–$100",
-   "costNum": 40,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/pre-holiday-reset-at-sunray-farms/",
-   "source": "Visit Fairfield County",
-   "desc": "Before the holiday hustle takes over, give yourself permission to pause! Join SunRay Farms for three Saturday mornings focused on self-care, self-connection, and letting go. Enjoy mindful movement, calming breathwork and relaxation, followed by some heartwarming time with their adorable farm animals (optional baby goat feed and cuddle add-on). Led by instructor Angie Gallis, you will practice outdoors when weather permits or inside their cozy, climate-controlled Gathering Stables. Tickets are $40 per class or $100 for the three class series pass. Three Saturdays, three intentions, one calmer you – and a few furry friends!\n\n \n\nTo purchase tickets and learn more, please visit SunRay Farm’s website."
-  },
-  {
-   "id": "vfc-32888",
-   "title": "Market Mornings: Popup Shop at Double Edge Brewing",
-   "start": "2026-11-07T10:00-05:00",
-   "end": "2026-11-07T12:00-05:00",
-   "allDay": false,
-   "venue": "158 W Chestnut St",
-   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7123144,
-   "lon": -82.6041679,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/market-mornings-popup-shop-at-double-edge-brewing/",
-   "source": "Visit Fairfield County",
-   "desc": "Market Mornings: Popup Shop Market is here! Double Edge Brewing is bringing Market Mornings inside the taproom for the colder months! Saturday’s from 10 a.m. to 12 p.m., they’ll spotlight a different local vendor, so you can shop small all winter long. Double Edge will have brunch drinks, their full bar including non-alcoholic options, and Kermit’s food truck serving up his famous brunch goodness! There is also Keller Market House right across the street with a full shop of local goodies! The first local vendor is Willow + Whimsy! You might recognize Nick & Heather from Willow Jayne & The Lazy Days! They’ve teamed up with their friend Pearl to bring you unique finds, including crochet, macrame, jewelry, miniature scenes, artwork, and collage work.\n\nFor more information, please visit Double Edge Brewing’s Facebook page."
-  },
-  {
    "id": "vfc-32845",
    "title": "Start the Season at FYN & Co Mercantile",
    "start": "2026-11-07T10:00-05:00",
@@ -383,48 +278,6 @@
    "url": "https://visitfairfieldcounty.org/events/start-the-season-at-fyn-co-mercantile-2/",
    "source": "Visit Fairfield County",
    "desc": "Start the Season at FYN & Co Mercantile as they unveil their Holiday 2026 collections throughout the weekend of November 6th-8th! Vintage, handmade, and curated new holiday goods are perfect intentional gifts. For decking your halls with all the merriment this season brings, they will also have all new winter and holiday scents from Feather Child Candle Co and Wild Plume’s new winter apparel and accessories! They will have a special holiday gift with any $50 or more purchase (while supplies last)! They’ll be sampling all of their delish gourmet goods all weekend, so don’t miss out!\n\nFor more information, please visit FYN & Co Mercantile’s Facebook page."
-  },
-  {
-   "id": "vfc-32785",
-   "title": "Fused Glass Holiday Classes at the Ohio Glass Museum",
-   "start": "2026-11-07T10:00-05:00",
-   "end": "2026-11-07T12:00-05:00",
-   "allDay": false,
-   "venue": "124 W Main St",
-   "address": "124 West Main Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7134997,
-   "lon": -82.60296450000001,
-   "area": "Fairfield County",
-   "cost": "$55",
-   "costNum": 55,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/2026-11-07-fused-glass-holiday-classes-at-the-ohio-glass-museum/",
-   "source": "Visit Fairfield County",
-   "desc": "Design your own Snowman or Candy Cane with crushed glass frit, round dots, stringers, and some Dicro glass to add some extra sparkle to this holiday season at the Ohio Glass Museum! Tickets are $55 per person with groups of up to 6. Please enter through the glass double doors in the front of the building. Walk through the front lobby and take the elevator to the lower level and it will take you straight into the Fused Glass Department. Purchase your tickets online today before they sell out!\n\n \n\nFor more information, please visit the Ohio Glass Museum’s Facebook page."
-  },
-  {
-   "id": "fcdl-17276742",
-   "title": "Fairfield County Creative Writers' Co-Op",
-   "start": "2026-11-07T10:00-05:00",
-   "end": "2026-11-07T12:00-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Gallery (Lancaster)",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17276742",
-   "source": "Fairfield County District Library",
-   "desc": "National Novel Writing Month (NaNoWriMo) Write-In\n\nIn conjunction with National Novel Writing Month, this month’s meeting will be a facilitated work session with writing exercises, guidelines and advice to help you achieve the goal of writng 50,000 words in one month. Bring your laptop or a pen and notebook and join the members of the Fairfield County Creative Writers Co-Op for this annual tradition."
   },
   {
    "id": "cw-3120",
@@ -469,132 +322,6 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "mp-58291",
-   "title": "Rocky Fork Wetland Exploration",
-   "start": "2026-11-07T10:00-05:00",
-   "end": "2026-11-07T11:30-05:00",
-   "allDay": false,
-   "venue": "",
-   "address": "OH",
-   "town": "",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://www.metroparks.net/event/rocky-fork-wetland-exploration/",
-   "source": "Metro Parks",
-   "desc": "Explore this newly opened section of Rocky Fork with the naturalist!\n\nCorrect Address is : 7878 Harlem Rd, Westerville, 43081\n\nGravel Parking lot; NO RESTROOM FACILITIES. Hike will be flat but possibly muddy and rugged in spots. 2 miles."
-  },
-  {
-   "id": "fcdl-17129284",
-   "title": "Hometown Military Heroes Wall Display",
-   "start": "2026-11-07T10:30-05:00",
-   "end": "2026-11-07T13:30-05:00",
-   "allDay": false,
-   "venue": "Bremen Branch Library",
-   "address": "220 Marietta St, Bremen, OH 43107",
-   "town": "Bremen",
-   "lat": 39.7066,
-   "lon": -82.4258,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17129284",
-   "source": "Fairfield County District Library",
-   "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
-  },
-  {
-   "id": "fcdl-17141393",
-   "title": "Saturday Storytime",
-   "start": "2026-11-07T10:30-05:00",
-   "end": "2026-11-07T11:00-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Storytime Area",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17141393",
-   "source": "Fairfield County District Library",
-   "desc": "Stories, songs, and crafts to help prepare children for preschool and beyond.\n\nNo registration necessary"
-  },
-  {
-   "id": "fcdl-17179828",
-   "title": "Carroll Cup Coffee Family Storytime",
-   "start": "2026-11-07T10:30-05:00",
-   "end": "2026-11-07T11:00-05:00",
-   "allDay": false,
-   "venue": "Offsite",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17179828",
-   "source": "Fairfield County District Library",
-   "desc": "Children from birth to age 6 (with a favorite adult) enjoy books, songs, rhymes and movement activities while building language and literacy skills."
-  },
-  {
-   "id": "vfc-32851",
-   "title": "Fall Health Fest at Lancaster Camp Ground",
-   "start": "2026-11-07T11:00-05:00",
-   "end": "2026-11-07T13:00-05:00",
-   "allDay": false,
-   "venue": "2151 W Fair Ave",
-   "address": "2151 W Fair Ave, Lancaster, Ohio 43130, United States",
-   "town": "Lancaster",
-   "lat": 39.7261331,
-   "lon": -82.6387431,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/fall-health-fest-at-lancaster-camp-ground/",
-   "source": "Visit Fairfield County",
-   "desc": "Join the Fairfield County Health Department for a family friendly Fall Health Fest event with health resources, music, games, and more! This free event will be at the Lancaster Camp Ground from 11 a.m. to 1 p.m. on Saturday, November 7th. See you there!\n\n \n\nFor more information, please visit the Fairfield County Health Department’s Facebook page."
-  },
-  {
-   "id": "fcdl-17192379",
-   "title": "Ohio Bird Sanctuary presents Birds of Prey",
-   "start": "2026-11-07T11:00-05:00",
-   "end": "2026-11-07T12:00-05:00",
-   "allDay": false,
-   "venue": "Northwest Branch",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17192379",
-   "source": "Fairfield County District Library",
-   "desc": "Learn about some of the amazing attributes of avians in this program featuring live birds of prey.\n\nRegister to receive reminders about the event! Register online, on our app, or by calling (740) 756-4391.\n\nPresented by the Ohio Bird Sanctuary."
-  },
-  {
    "id": "dtc-10022794",
    "title": "Spirit & Dust",
    "start": "2026-11-07T11:00-05:00",
@@ -616,27 +343,6 @@
    "desc": "“Death is a Dialogue between / The Spirit and the Dust,” writes poet Emily Dickinson. Living is a daily conversation with death, and through art, we continue that dialogue with mortality, loss, and our own humanity. In Spirit & Dust, artists working across various disciplines—from photography and sculpture to poetry and dance—seek to create space for care and connection in confronting questions of death and dying. What do we gather from our grief? How is this knowledge embodied, and what can art provide for this relationship? What can death teach us about what it means to be alive?\n\nThe process of creating art serves as a mirror for thinking about dying as a verb, where time is experienced as cyclical rather than linear. Each artist’s medium of choice in Spirit & Dust experiments with how we can deepen our relationship with the process of dying, such as through abstraction in photography, blank space in poetry, the ephemerality of dance, and the fallibility of materials in sculpture.\n\nSpirit & Dust is on view concurrently with Experiencing Veterans and Artists Collaborations (EVAC) in the corridor space, which pairs veterans’ stories with original printmaking.\n\nCurated by Diane Cal"
   },
   {
-   "id": "grovecity-2726",
-   "title": "Treats for Troops | Buckeye Military Moms",
-   "start": "2026-11-07T11:00-05:00",
-   "end": "2026-11-07T14:00-05:00",
-   "allDay": false,
-   "venue": "",
-   "address": "- 4011 Broadway Grove City OH 43123",
-   "town": "Grove City",
-   "lat": 39.8814,
-   "lon": -83.0929,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35",
-   "source": "City of Grove City",
-   "desc": "https://www.grovecityohio.gov/calendar.aspx?EID=2726"
-  },
-  {
    "id": "vfc-33051",
    "title": "Mistletoe Market at Brick House Studio",
    "start": "2026-11-07T12:00-05:00",
@@ -656,27 +362,6 @@
    "url": "https://visitfairfieldcounty.org/events/mistletoe-market-at-brick-house-studio/",
    "source": "Visit Fairfield County",
    "desc": "Mark your calendars! Brick House Studio & Events is hosting their Mistletoe Market on Saturday, November 7th and they would love to see you there! Entry is free, so bring a friend and come do a little Christmas shopping! They’ll have a variety of local vendors to shop from, plus you can grab a specialty drink from The Soda Social while you browse! There will be a pop up tattoo shop with Sculpted Ink- Kaylah Grimes! Come shop small, find some Christmas gifts, and support some awesome local businesses!\n\nFor more information, please visit Brick House Studio & Events’s Facebook page."
-  },
-  {
-   "id": "fcdl-17623798",
-   "title": "Family Storytime at The Big Book Nook ~ OFFSITE",
-   "start": "2026-11-07T13:00-05:00",
-   "end": "2026-11-07T13:30-05:00",
-   "allDay": false,
-   "venue": "Offsite",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17623798",
-   "source": "Fairfield County District Library",
-   "desc": "Family storytimes are early literacy programs designed for children (typically ages 0-6) and their caregivers. They feature a dynamic mix of read-aloud books, songs, rhymes, and movement activities meant to expand imaginations and build cooperative skills in a welcoming environment.\n\nThe Big Book Nook is located at 624 W. 5th Ave. Lancaster, Ohio."
   },
   {
    "id": "vfc-32955",
