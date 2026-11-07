@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-07T10:02:33.424Z",
+ "generated": "2026-11-07T15:54:05.977Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 303,
    "kept": 249,
-   "ms": 6018
+   "ms": 5510
   },
   {
    "source": "Fairfield County District Library",
    "rows": 105,
    "kept": 105,
-   "ms": 492
+   "ms": 403
   },
   {
    "source": "Pickerington Public Library",
    "rows": 260,
    "kept": 260,
-   "ms": 690
+   "ms": 615
   },
   {
    "source": "City of Canal Winchester",
    "rows": 113,
    "kept": 8,
-   "ms": 378
+   "ms": 298
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 390
+   "ms": 207
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 51
+   "ms": 35
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 1499
+   "ms": 1252
   },
   {
    "source": "Downtown Columbus",
    "rows": 171,
    "kept": 169,
-   "ms": 31090
+   "ms": 6336
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 23,
    "kept": 23,
-   "ms": 890
+   "ms": 706
   },
   {
    "source": "Metro Parks",
    "rows": 12,
    "kept": 12,
-   "ms": 1476
+   "ms": 1521
   },
   {
    "source": "Columbus Commons",
    "rows": 39,
    "kept": 38,
-   "ms": 1274
+   "ms": 1218
   },
   {
    "source": "Scioto Mile",
    "rows": 40,
    "kept": 39,
-   "ms": 1013
+   "ms": 839
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
    "kept": 9,
-   "ms": 490
+   "ms": 440
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 78,
    "kept": 4,
-   "ms": 91
+   "ms": 53
   },
   {
    "source": "City of Grove City",
    "rows": 17,
    "kept": 16,
-   "ms": 280
+   "ms": 194
   },
   {
    "source": "City of Worthington",
    "rows": 98,
    "kept": 22,
-   "ms": 430
+   "ms": 499
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 310
+   "ms": 239
   },
   {
    "source": "Standing freebies",
    "rows": 10,
    "kept": 10,
-   "ms": 9
+   "ms": 4
   }
  ],
  "events": [
