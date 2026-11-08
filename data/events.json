@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-08T10:02:27.810Z",
+ "generated": "2026-11-08T15:53:58.976Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 303,
    "kept": 236,
-   "ms": 5053
+   "ms": 4883
   },
   {
    "source": "Fairfield County District Library",
    "rows": 99,
    "kept": 99,
-   "ms": 522
+   "ms": 328
   },
   {
    "source": "Pickerington Public Library",
    "rows": 261,
    "kept": 261,
-   "ms": 557
+   "ms": 652
   },
   {
    "source": "City of Canal Winchester",
    "rows": 112,
    "kept": 7,
-   "ms": 293
+   "ms": 288
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 201
+   "ms": 206
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 34
+   "ms": 39
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 1269
+   "ms": 1503
   },
   {
    "source": "Downtown Columbus",
    "rows": 167,
-   "kept": 165,
-   "ms": 7479
+   "kept": 166,
+   "ms": 15428
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 19,
    "kept": 19,
-   "ms": 723
+   "ms": 632
   },
   {
    "source": "Metro Parks",
    "rows": 11,
    "kept": 11,
-   "ms": 1443
+   "ms": 1297
   },
   {
    "source": "Columbus Commons",
    "rows": 40,
    "kept": 39,
-   "ms": 15128
+   "ms": 1592
   },
   {
    "source": "Scioto Mile",
    "rows": 41,
    "kept": 40,
-   "ms": 766
+   "ms": 761
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
    "kept": 9,
-   "ms": 395
+   "ms": 332
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 78,
    "kept": 4,
-   "ms": 85
+   "ms": 100
   },
   {
    "source": "City of Grove City",
    "rows": 16,
    "kept": 15,
-   "ms": 228
+   "ms": 190
   },
   {
    "source": "City of Worthington",
    "rows": 97,
    "kept": 21,
-   "ms": 286
+   "ms": 265
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 223
+   "ms": 290
   },
   {
    "source": "Standing freebies",
    "rows": 9,
    "kept": 9,
-   "ms": 4
+   "ms": 7
   }
  ],
  "events": [
@@ -833,7 +833,7 @@
    "id": "ppl-15127228",
    "title": "Friends of the Pickerington Public Library",
    "start": "2026-11-09T18:30-05:00",
-   "end": "2026-11-09T20:00-05:00",
+   "end": "2026-11-09T19:30-05:00",
    "allDay": false,
    "venue": "Pickerington Main · Meeting Room A",
    "address": "201 Opportunity Way, Pickerington, OH 43147",
@@ -1688,7 +1688,7 @@
    "indoor": true,
    "url": "https://pickeringtonlibrary.libnet.info/event/17388797",
    "source": "Pickerington Public Library",
-   "desc": "Connect with the Library on the second Wednesday of the month at the Senior Center to learn how to use a Cricut machine, get a free library card, and check out books!"
+   "desc": "Connect with the Library on the second Wednesday of the month at Pickerington Senior Center to learn how to use a Cricut machine, get a free library card, and check out books!"
   },
   {
    "id": "vfc-32937",
@@ -13514,7 +13514,7 @@
    "indoor": true,
    "url": "https://pickeringtonlibrary.libnet.info/event/17388798",
    "source": "Pickerington Public Library",
-   "desc": "Connect with the Library on the second Wednesday of the month at the Senior Center to learn how to use a Cricut machine, get a free library card, and check out books!"
+   "desc": "Connect with the Library on the second Wednesday of the month at Pickerington Senior Center to learn how to use a Cricut machine, get a free library card, and check out books!"
   },
   {
    "id": "vfc-33074",
@@ -15645,7 +15645,7 @@
    "id": "ppl-15127229",
    "title": "Friends of the Pickerington Public Library",
    "start": "2026-12-14T18:30-05:00",
-   "end": "2026-12-14T20:00-05:00",
+   "end": "2026-12-14T19:30-05:00",
    "allDay": false,
    "venue": "Pickerington Main · Meeting Room A",
    "address": "201 Opportunity Way, Pickerington, OH 43147",
@@ -17870,6 +17870,27 @@
    "url": "https://downtowncolumbus.com/event/columbus-blue-jackets-game-6/2026-12-22/",
    "source": "Downtown Columbus",
    "desc": "Cheer on the Columbus Blue Jackets in this regular season game at Nationwide Arena!\n\nGet tickets here!"
+  },
+  {
+   "id": "dtc-10004706",
+   "title": "November Project Scioto Mile Free Workout",
+   "start": "2026-12-23T06:00-05:00",
+   "end": "2026-12-23T08:00-05:00",
+   "allDay": false,
+   "venue": "Genoa Park",
+   "address": "303 W Broad St, Columbus, OH",
+   "town": "Columbus",
+   "lat": 39.9598672,
+   "lon": -83.0054187,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/november-project-scioto-mile-free-workout/2026-12-23/",
+   "source": "Downtown Columbus",
+   "desc": "November Project is a free outside fitness group that started in Boston in 2011 to break down barriers to movement! Now in 53 cities around the globe, we create free, fun, scalable (adjustable to your fitness level) workouts for all ages – and doggos!\n\nOur workout starts at 6:14a every Wednesday morning in Genoa Park on the Scioto Mile (on the steps behind COSI). We work out for 45 minutes together until 7am, then walk down to One Line Coffee to hang out before work!\n\nCome join us if you’re an off-the-couch fitness newbie, a runner looking to cross-train, or any fitness level in between, we’d love to see you!"
   }
  ]
 }
