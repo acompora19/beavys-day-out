@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-08T15:53:58.976Z",
+ "generated": "2026-11-08T21:53:38.073Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 303,
-   "kept": 236,
-   "ms": 4883
+   "kept": 230,
+   "ms": 5580
   },
   {
    "source": "Fairfield County District Library",
    "rows": 99,
    "kept": 99,
-   "ms": 328
+   "ms": 685
   },
   {
    "source": "Pickerington Public Library",
    "rows": 261,
    "kept": 261,
-   "ms": 652
+   "ms": 515
   },
   {
    "source": "City of Canal Winchester",
    "rows": 112,
    "kept": 7,
-   "ms": 288
+   "ms": 281
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 206
+   "ms": 175
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 39
+   "ms": 38
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 1503
+   "ms": 555
   },
   {
    "source": "Downtown Columbus",
    "rows": 167,
    "kept": 166,
-   "ms": 15428
+   "ms": 33881
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 19,
    "kept": 19,
-   "ms": 632
+   "ms": 708
   },
   {
    "source": "Metro Parks",
    "rows": 11,
    "kept": 11,
-   "ms": 1297
+   "ms": 7615
   },
   {
    "source": "Columbus Commons",
    "rows": 40,
    "kept": 39,
-   "ms": 1592
+   "ms": 1973
   },
   {
    "source": "Scioto Mile",
    "rows": 41,
    "kept": 40,
-   "ms": 761
+   "ms": 814
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
    "kept": 9,
-   "ms": 332
+   "ms": 316
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 78,
    "kept": 4,
-   "ms": 100
+   "ms": 55
   },
   {
    "source": "City of Grove City",
    "rows": 16,
    "kept": 15,
-   "ms": 190
+   "ms": 186
   },
   {
    "source": "City of Worthington",
    "rows": 97,
    "kept": 21,
-   "ms": 265
+   "ms": 249
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 290
+   "ms": 172
   },
   {
    "source": "Standing freebies",
    "rows": 9,
    "kept": 9,
-   "ms": 7
+   "ms": 3
   }
  ],
  "events": [
@@ -154,27 +154,6 @@
    "desc": "Color Improvisations 3: A Major Exhibition of Contemporary Quilts features 38 large quilts that explore color, scale, and improvisation in contemporary textile art. Curated by internationally recognized artist Nancy Crow, the exhibition at the Decorative Arts Center of Ohio includes works by quiltmakers from the United States, Canada, and New Zealand, highlighting the creativity, innovation and artistic excellence shaping contemporary quilt making today. Using bold abstract forms and richly worked fabrics, the artists balance exquisite skill with creative risk. Their quilts invite viewers to experience color as movement, texture, and feeling. This exhibition will run from October 3rd, 2026 to January 3rd, 2027.\n\n \n\nFor more information, please visit the Decorative Arts Center of Ohio’s website."
   },
   {
-   "id": "vfc-28729",
-   "title": "Freedom’s Never Free",
-   "start": "2026-11-05T21:00-05:00",
-   "end": "2026-11-08T09:00-05:00",
-   "allDay": true,
-   "venue": "157 E Fair Ave",
-   "address": "157 East Fair Avenue, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7238438,
-   "lon": -82.59904240000002,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/freedoms-never-free/",
-   "source": "Visit Fairfield County",
-   "desc": "“Freedom’s Never Free” is an annual appreciation celebration for Veterans, Military, and 1st Responders the first weekend in November. They are a 501c3 non-profit and are all volunteers that run this event. The celebration spans several days with set‑up of the Field of Heroes, memorial escorts, ceremonies, and closing tributes.\n\nFreedom’s Never Free honors the brave men and women who have served our country — those who paid the cost of freedom with pride, courage, and an unwavering sense of duty. Their example of honor, integrity, strength, and selflessness reminds us what true service means. Event highlights include the Veterans Pinning Ceremony, USO Dance, Flag Retirement Ceremony, and other special tributes throughout the week.\n\nThroughout the event, they will be bringing 5 traveling memorials: The Traveling Vietnam Memorial, Global War On Terror (GWAT), The Cost of Freedom Memorial, Gold Star Family Memorial, and the POW Memorial. Admission is free.\n\nThe event concludes Saturday, November 8, with an Appreciation Ceremony and the presentation of American flag flown during the event—one to an honored living Veteran and one to a First Responder. Taps will be performed by a single "
-  },
-  {
    "id": "vfc-32725",
    "title": "Christmas Open House Weekend at The Robin’s Nest",
    "start": "2026-11-06T10:00-05:00",
@@ -194,69 +173,6 @@
    "url": "https://visitfairfieldcounty.org/events/christmas-open-house-weekend-at-the-robins-nest/",
    "source": "Visit Fairfield County",
    "desc": "Christmas is coming to The Robin’s Nest! Join them for their Christmas Open House, November 6–8, and be among the first to shop the store fully dressed for the season. They’ll have holiday décor, festive finds, gifts, home accents, seasonal inspiration, and plenty of Christmas cheer waiting throughout the shop.\n\n \n\nHours:\n\nFriday, November 6 | 10 AM – 5 PM\n\nSaturday, November 7 | 10 AM – 4 PM\n\nSunday, November 8 | 12 PM – 4 PM\n\nCome wander, get inspired, start checking off your gift list, and kick off the Christmas season with The Robin’s Nest Home Decor Market in Downtown Lancaster. Bring your shopping buddy and make a weekend of it! For more information, please visit The Robin’s Nest’s Facebook page."
-  },
-  {
-   "id": "vfc-32681",
-   "title": "Kegs & Eggs at Double Edge Brewing",
-   "start": "2026-11-08T09:00-05:00",
-   "end": "2026-11-08T12:00-05:00",
-   "allDay": false,
-   "venue": "158 W Chestnut St",
-   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7123144,
-   "lon": -82.6041679,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/kegs-eggs-at-double-edge-brewing-6/",
-   "source": "Visit Fairfield County",
-   "desc": "From 9 a.m. to 12 p.m., Kermit’s Food Truck will be posted up on the patio slinging some of the best brunch this side of Chestnut St. — and Double Edge Brewing is pouring the good stuff to go with it. They will have NFL games on the big screen and over the speakers, drink specials, as well as their regular beer, cider, and seltzers. They’ll be doing Kegs & Eggs every Sunday through November 15th, so make it part of your weekend routine. Grab some brunch, grab a beer, yell at the TV a little too loudly…you know, Sunday stuff.\n\nFor more information, please visit Double Edge Brewing’s Facebook page."
-  },
-  {
-   "id": "vfc-32941",
-   "title": "Fall Exploration Hike at Blacklick Woods Metro Park",
-   "start": "2026-11-08T10:00-05:00",
-   "end": "2026-11-08T11:00-05:00",
-   "allDay": false,
-   "venue": "6975 E Livingston Ave",
-   "address": "6975 East Livingston Avenue, Reynoldsburg, Ohio 43068, United States",
-   "town": "Reynoldsburg",
-   "lat": 39.94379499999999,
-   "lon": -82.811707,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/fall-exploration-hike-at-blacklick-woods-metro-park/",
-   "source": "Visit Fairfield County",
-   "desc": "Join Blacklick Woods Metro Park for a one-mile hike with a naturalist and explore the fall forest in search of wildlife, fungi, and anything else you can find! This program is for all ages!\n\n \n\nFor more information, please visit Blacklick Woods Metro Park’s website."
-  },
-  {
-   "id": "vfc-32797",
-   "title": "Fused Glass Holiday Classes at the Ohio Glass Museum",
-   "start": "2026-11-08T10:00-05:00",
-   "end": "2026-11-08T12:00-05:00",
-   "allDay": false,
-   "venue": "124 W Main St",
-   "address": "124 West Main Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7134997,
-   "lon": -82.60296450000001,
-   "area": "Fairfield County",
-   "cost": "$55",
-   "costNum": 55,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/2026-11-08-fused-glass-holiday-classes-at-the-ohio-glass-museum/",
-   "source": "Visit Fairfield County",
-   "desc": "Design your own snowman, candy cane, or gingerbread man with crushed glass frit, round dots, stringers, and some Dicro glass to add some extra sparkle to this holiday season at the Ohio Glass Museum! Tickets are $55 per person with groups of up to 6. Please enter through the glass double doors in the front of the building. Walk through the front lobby and take the elevator to the lower level and it will take you straight into the Fused Glass Department. Purchase your tickets online today before they sell out!\n\n \n\nFor more information, please visit the Ohio Glass Museum’s Facebook page."
   },
   {
    "id": "dtc-10017873",
@@ -326,27 +242,6 @@
    "desc": "Start the Season at FYN & Co Mercantile as they unveil their Holiday 2026 collections throughout the weekend of November 6th-8th! Vintage, handmade, and curated new holiday goods are perfect intentional gifts. For decking your halls with all the merriment this season brings, they will also have all new winter and holiday scents from Feather Child Candle Co and Wild Plume’s new winter apparel and accessories! They will have a special holiday gift with any $50 or more purchase (while supplies last)! They’ll be sampling all of their delish gourmet goods all weekend, so don’t miss out!\n\nFor more information, please visit FYN & Co Mercantile’s Facebook page."
   },
   {
-   "id": "vfc-33103",
-   "title": "Meet the Maker at Keller Market House",
-   "start": "2026-11-08T12:00-05:00",
-   "end": "2026-11-08T14:00-05:00",
-   "allDay": false,
-   "venue": "134 S Columbus St",
-   "address": "134 South Columbus Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7126457,
-   "lon": -82.6043368,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/meet-the-maker-at-keller-market-house/",
-   "source": "Visit Fairfield County",
-   "desc": "Come meet the passionate Cambodian Chef and the creative mind behind Pocambo Hotsauce at Keller Market House on Sunday, November 8th! Growing up amidst the vibrant tapestry of Cambodian culture, Chef Poe developed an insatiable curiosity for the intricate dance of spices, the symphony of aromas, and the depth of flavors that define their culinary heritage. Every dish tells a story, weaving together generations of tradition and innovation. Poe’s mission is to honor these roots while daring to explore uncharted taste territories. Stop by between 12 p.m. to 2:00 p.m. to sample some of Pocambo’s hot sauces and truffle oils!\n\nFor more information, please visit Keller Market House’s Facebook page."
-  },
-  {
    "id": "ppl-16800064",
    "title": "Fall Book Sale 2026",
    "start": "2026-11-08T12:00-05:00",
@@ -366,27 +261,6 @@
    "url": "https://pickeringtonlibrary.libnet.info/event/16800064",
    "source": "Pickerington Public Library",
    "desc": "FALL SALE: Nov. 4 - 8 at Pickerington Main Library\n\nThe sale begins on Wednesday, Nov. 4, with a special pre-sale available exclusively to Friends members. Not a Friends member? No problem! Join at the door.\n\nFor sale is a variety of books, DVDs, CDs, and vinyl albums. Come early for the best selection!\n\nProceeds from the sale support Pickerington Public Library programs.\n\nFRIENDS NIGHT: \nWednesday, Nov. 4\n4:00 - 8:00 PM (Members only. Join at the door.)\n\nPUBLIC SALE: \nThursday-Saturday, Nov. 5-7\nDuring library hours\n\nPUBLIC SALE - BUY BOOKS BY THE BAG: \nSunday, Nov. 8\n12:00 - 3:00 PM\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "vfc-31898",
-   "title": "Fall Discovery Hike at Wahkeena Nature Preserve",
-   "start": "2026-11-08T13:00-05:00",
-   "end": "2026-11-08T14:00-05:00",
-   "allDay": false,
-   "venue": "2200 Pump Station Rd SE",
-   "address": "2200 Pump Station Road Southeast, Sugar Grove, Ohio 43155, United States of America",
-   "town": "Sugar Grove",
-   "lat": 39.63065539999999,
-   "lon": -82.568294,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/fall-discovery-hike-at-wahkeena-nature-preserve-2/",
-   "source": "Visit Fairfield County",
-   "desc": "As the air cools and days get shorter, the forests put on a spectacular display of colors. Learn the secret behind this annual event at Wahkeena Nature Preserve and its importance to the woodland ecology. Other interesting topics of natural history will also be explored along the way. This program is for ages 16 and up.\n\n \n\nFor more information, please visit the Fairfield County Park District’s website."
   },
   {
    "id": "dtc-10018577",
