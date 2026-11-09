@@ -1,33 +1,33 @@
 {
- "generated": "2026-11-09T10:16:33.198Z",
+ "generated": "2026-11-09T16:23:03.377Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
-   "rows": 303,
-   "kept": 227,
-   "ms": 5217
+   "rows": 304,
+   "kept": 228,
+   "ms": 6047
   },
   {
    "source": "Fairfield County District Library",
    "rows": 100,
    "kept": 100,
-   "ms": 504
+   "ms": 432
   },
   {
    "source": "Pickerington Public Library",
    "rows": 261,
    "kept": 261,
-   "ms": 865
+   "ms": 564
   },
   {
    "source": "City of Canal Winchester",
    "error": "fetch failed",
-   "ms": 10286
+   "ms": 10025
   },
   {
    "source": "City of Lancaster",
    "error": "fetch failed",
-   "ms": 10491
+   "ms": 10494
   },
   {
    "source": "Lancaster Parks & Recreation",
@@ -38,52 +38,52 @@
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 766
+   "ms": 1253
   },
   {
    "source": "Downtown Columbus",
    "rows": 162,
-   "kept": 160,
-   "ms": 5445
+   "kept": 161,
+   "ms": 13139
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 19,
    "kept": 19,
-   "ms": 845
+   "ms": 737
   },
   {
    "source": "Metro Parks",
    "rows": 10,
    "kept": 10,
-   "ms": 1659
+   "ms": 1485
   },
   {
    "source": "Columbus Commons",
    "rows": 41,
    "kept": 40,
-   "ms": 2001
+   "ms": 1046
   },
   {
    "source": "Scioto Mile",
    "rows": 42,
    "kept": 41,
-   "ms": 1046
+   "ms": 928
   },
   {
    "source": "City of Gahanna",
    "error": "fetch failed",
-   "ms": 10461
+   "ms": 10468
   },
   {
    "source": "Gahanna Parks & Recreation",
    "error": "fetch failed",
-   "ms": 10491
+   "ms": 10493
   },
   {
    "source": "City of Grove City",
    "error": "fetch failed",
-   "ms": 10495
+   "ms": 10493
   },
   {
    "source": "City of Worthington",
@@ -93,13 +93,13 @@
   {
    "source": "City of Reynoldsburg",
    "error": "fetch failed",
-   "ms": 10492
+   "ms": 10493
   },
   {
    "source": "Standing freebies",
    "rows": 8,
    "kept": 8,
-   "ms": 8
+   "ms": 6
   }
  ],
  "events": [
@@ -340,11 +340,11 @@
    "start": "2026-11-09T18:00-05:00",
    "end": "2026-11-09T19:00-05:00",
    "allDay": false,
-   "venue": "Blacklick-Eastern Road Northwest",
-   "address": "3550 Blacklick-Eastern Road Northwest, Millersport, Liberty Township, OH, United States",
-   "town": "Liberty Township",
-   "lat": 39.9164055,
-   "lon": -82.6794417,
+   "venue": "3550 Blacklick-Eastern Rd NE",
+   "address": "3550 Blacklick-Eastern Rd NE, Millersport, OH 43046, USA",
+   "town": "Millersport",
+   "lat": 39.8920141,
+   "lon": -82.5171836,
    "area": "Fairfield County",
    "cost": "",
    "costNum": null,
@@ -1173,6 +1173,27 @@
    "url": "https://pickeringtonlibrary.libnet.info/event/17388797",
    "source": "Pickerington Public Library",
    "desc": "Connect with the Library on the second Wednesday of the month at Pickerington Senior Center to learn how to use a Cricut machine, get a free library card, and check out books!"
+  },
+  {
+   "id": "vfc-33125",
+   "title": "Veterans Day Rededication Ceremony & Celebration",
+   "start": "2026-11-11T15:00-05:00",
+   "end": "2026-11-11T19:00-05:00",
+   "allDay": false,
+   "venue": "3430 N Bank Rd",
+   "address": "3430 North Bank Road, Millersport, OH, USA",
+   "town": "Millersport",
+   "lat": 39.9220326,
+   "lon": -82.5146104,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/veterans-day-rededication-ceremony-celebration/",
+   "source": "Visit Fairfield County",
+   "desc": "The Veterans Memorial at the former VFW Post 1388 site has been fully restored after years of neglect! Join together on Veterans Day to honor our service members and see the before-and-after transformation. Enjoy a free bacon cheeseburger meal for all Veterans (with valid ID), 10% off regular menu items for all other guests, door prizes (you don’t have to be present to win), and live music! Please help spread the word and invite everyone you know to attend."
   },
   {
    "id": "vfc-32937",
@@ -2944,11 +2965,11 @@
    "start": "2026-11-14T12:00-05:00",
    "end": "2026-11-14T15:00-05:00",
    "allDay": false,
-   "venue": "Blacklick-Eastern Road Northwest",
-   "address": "3550 Blacklick-Eastern Road Northwest, Millersport, Liberty Township, OH, United States",
-   "town": "Liberty Township",
-   "lat": 39.9164055,
-   "lon": -82.6794417,
+   "venue": "3550 Blacklick-Eastern Rd NE",
+   "address": "3550 Blacklick-Eastern Rd NE, Millersport, OH 43046, USA",
+   "town": "Millersport",
+   "lat": 39.8920141,
+   "lon": -82.5171836,
    "area": "Fairfield County",
    "cost": "",
    "costNum": null,
@@ -3599,11 +3620,11 @@
    "start": "2026-11-16T18:00-05:00",
    "end": "2026-11-16T19:00-05:00",
    "allDay": false,
-   "venue": "Blacklick-Eastern Road Northwest",
-   "address": "3550 Blacklick-Eastern Road Northwest, Millersport, Liberty Township, OH, United States",
-   "town": "Liberty Township",
-   "lat": 39.9164055,
-   "lon": -82.6794417,
+   "venue": "3550 Blacklick-Eastern Rd NE",
+   "address": "3550 Blacklick-Eastern Rd NE, Millersport, OH 43046, USA",
+   "town": "Millersport",
+   "lat": 39.8920141,
+   "lon": -82.5171836,
    "area": "Fairfield County",
    "cost": "",
    "costNum": null,
@@ -6963,11 +6984,11 @@
    "start": "2026-11-23T18:00-05:00",
    "end": "2026-11-23T19:00-05:00",
    "allDay": false,
-   "venue": "Blacklick-Eastern Road Northwest",
-   "address": "3550 Blacklick-Eastern Road Northwest, Millersport, Liberty Township, OH, United States",
-   "town": "Liberty Township",
-   "lat": 39.9164055,
-   "lon": -82.6794417,
+   "venue": "3550 Blacklick-Eastern Rd NE",
+   "address": "3550 Blacklick-Eastern Rd NE, Millersport, OH 43046, USA",
+   "town": "Millersport",
+   "lat": 39.8920141,
+   "lon": -82.5171836,
    "area": "Fairfield County",
    "cost": "",
    "costNum": null,
@@ -12838,11 +12859,11 @@
    "start": "2026-12-10T18:00-05:00",
    "end": "2026-12-10T21:00-05:00",
    "allDay": false,
-   "venue": "Blacklick-Eastern Road Northwest",
-   "address": "3550 Blacklick-Eastern Road Northwest, Millersport, Liberty Township, OH, United States",
-   "town": "Liberty Township",
-   "lat": 39.9164055,
-   "lon": -82.6794417,
+   "venue": "3550 Blacklick-Eastern Rd NE",
+   "address": "3550 Blacklick-Eastern Rd NE, Millersport, OH 43046, USA",
+   "town": "Millersport",
+   "lat": 39.8920141,
+   "lon": -82.5171836,
    "area": "Fairfield County",
    "cost": "",
    "costNum": null,
@@ -13258,11 +13279,11 @@
    "start": "2026-12-11T17:30-05:00",
    "end": "2026-12-11T21:00-05:00",
    "allDay": false,
-   "venue": "Blacklick-Eastern Road Northwest",
-   "address": "3550 Blacklick-Eastern Road Northwest, Millersport, Liberty Township, OH, United States",
-   "town": "Liberty Township",
-   "lat": 39.9164055,
-   "lon": -82.6794417,
+   "venue": "3550 Blacklick-Eastern Rd NE",
+   "address": "3550 Blacklick-Eastern Rd NE, Millersport, OH 43046, USA",
+   "town": "Millersport",
+   "lat": 39.8920141,
+   "lon": -82.5171836,
    "area": "Fairfield County",
    "cost": "",
    "costNum": null,
@@ -13271,7 +13292,7 @@
    "indoor": null,
    "url": "https://visitfairfieldcounty.org/events/once-upon-a-christmas-at-the-pines-at-buckeye-ridge/",
    "source": "Visit Fairfield County",
-   "desc": "Step into a Christmas story unlike any other at The Pines at Buckeye Ridge! Your journey begins inside their beautifully decorated Christmas Story Barn, where you’ll travel through three magical chapters filled with beloved Christmas characters, including Rudolph, the Misfit Toys, the Abominable Snow Monster, the magical world of Whoville and the Grinch, and their old friend Mr. Tree. But the story doesn’t end when you leave the barn! Step outside and follow the lights, where Christmas magic continues along a beautifully illuminated woodland trail. Travel deeper into the forest as you discover magical scenes, whimsical characters, glowing displays, and surprises around every turn.\n\nAnd of course, your journey leads to Santa’s Workshop, where the magic of Christmas comes to life! Enjoy Christmas story scenes, Rudolph & the Misfit Toys, Whoville & the Grinch, The Abominable Snow Monster, the Enchanted Christmas Forest, a lighted woodland trail, Santa’s Workshop, Christmas animals, cozy holiday moments, cookies & cocoa, and Christmas memories for the whole family! This isn’t just a walk through Christmas lights, it’s a journey through a Christmas story. Come make memories, discover a "
+   "desc": "Step into a Christmas story unlike any other at The Pines at Buckeye Ridge! Your journey begins inside their beautifully decorated Christmas Story Barn, where you’ll travel through three magical chapters filled with beloved Christmas characters, including Rudolph, the Misfit Toys, the Abominable Snow Monster, the magical world of Whoville and the Grinch, and their old friend Mr. Tree. But the story doesn’t end when you leave the barn! Step outside and follow the lights, where Christmas magic continues along a beautifully illuminated woodland trail. Travel deeper into the forest as you discover magical scenes, whimsical characters, glowing displays, and surprises around every turn.\n\nAnd of course, your journey leads to Santa’s Workshop, where the magic of Christmas comes to life! Enjoy Christmas story scenes, Rudolph & the Misfit Toys, Whoville & the Grinch, The Abominable Snow Monster, the Enchanted Christmas Forest, a lighted woodland trail, Santa’s Workshop, Christmas animals, cozy holiday moments, cookies & cocoa, and Christmas memories for the whole family! Purchase your tickets today before they sell out! This isn’t just a walk through Christmas lights, it’s a journey through "
   },
   {
    "id": "vfc-27651",
@@ -15341,11 +15362,11 @@
    "start": "2026-12-18T17:30-05:00",
    "end": "2026-12-18T21:00-05:00",
    "allDay": false,
-   "venue": "Blacklick-Eastern Road Northwest",
-   "address": "3550 Blacklick-Eastern Road Northwest, Millersport, Liberty Township, OH, United States",
-   "town": "Liberty Township",
-   "lat": 39.9164055,
-   "lon": -82.6794417,
+   "venue": "3550 Blacklick-Eastern Rd NE",
+   "address": "3550 Blacklick-Eastern Rd NE, Millersport, OH 43046, USA",
+   "town": "Millersport",
+   "lat": 39.8920141,
+   "lon": -82.5171836,
    "area": "Fairfield County",
    "cost": "",
    "costNum": null,
@@ -15354,7 +15375,7 @@
    "indoor": null,
    "url": "https://visitfairfieldcounty.org/events/once-upon-a-christmas-at-the-pines-at-buckeye-ridge-2/",
    "source": "Visit Fairfield County",
-   "desc": "Step into a Christmas story unlike any other at The Pines at Buckeye Ridge! Your journey begins inside their beautifully decorated Christmas Story Barn, where you’ll travel through three magical chapters filled with beloved Christmas characters, including Rudolph, the Misfit Toys, the Abominable Snow Monster, the magical world of Whoville and the Grinch, and their old friend Mr. Tree. But the story doesn’t end when you leave the barn! Step outside and follow the lights, where Christmas magic continues along a beautifully illuminated woodland trail. Travel deeper into the forest as you discover magical scenes, whimsical characters, glowing displays, and surprises around every turn.\n\nAnd of course, your journey leads to Santa’s Workshop, where the magic of Christmas comes to life! Enjoy Christmas story scenes, Rudolph & the Misfit Toys, Whoville & the Grinch, The Abominable Snow Monster, the Enchanted Christmas Forest, a lighted woodland trail, Santa’s Workshop, Christmas animals, cozy holiday moments, cookies & cocoa, and Christmas memories for the whole family! This isn’t just a walk through Christmas lights, it’s a journey through a Christmas story. Come make memories, discover a "
+   "desc": "Step into a Christmas story unlike any other at The Pines at Buckeye Ridge! Your journey begins inside their beautifully decorated Christmas Story Barn, where you’ll travel through three magical chapters filled with beloved Christmas characters, including Rudolph, the Misfit Toys, the Abominable Snow Monster, the magical world of Whoville and the Grinch, and their old friend Mr. Tree. But the story doesn’t end when you leave the barn! Step outside and follow the lights, where Christmas magic continues along a beautifully illuminated woodland trail. Travel deeper into the forest as you discover magical scenes, whimsical characters, glowing displays, and surprises around every turn.\n\nAnd of course, your journey leads to Santa’s Workshop, where the magic of Christmas comes to life! Enjoy Christmas story scenes, Rudolph & the Misfit Toys, Whoville & the Grinch, The Abominable Snow Monster, the Enchanted Christmas Forest, a lighted woodland trail, Santa’s Workshop, Christmas animals, cozy holiday moments, cookies & cocoa, and Christmas memories for the whole family! Purchase your tickets today before they sell out! This isn’t just a walk through Christmas lights, it’s a journey through "
   },
   {
    "id": "vfc-32930",
@@ -15698,11 +15719,11 @@
    "start": "2026-12-19T17:30-05:00",
    "end": "2026-12-19T21:00-05:00",
    "allDay": false,
-   "venue": "Blacklick-Eastern Road Northwest",
-   "address": "3550 Blacklick-Eastern Road Northwest, Millersport, Liberty Township, OH, United States",
-   "town": "Liberty Township",
-   "lat": 39.9164055,
-   "lon": -82.6794417,
+   "venue": "3550 Blacklick-Eastern Rd NE",
+   "address": "3550 Blacklick-Eastern Rd NE, Millersport, OH 43046, USA",
+   "town": "Millersport",
+   "lat": 39.8920141,
+   "lon": -82.5171836,
    "area": "Fairfield County",
    "cost": "",
    "costNum": null,
@@ -15711,7 +15732,7 @@
    "indoor": null,
    "url": "https://visitfairfieldcounty.org/events/once-upon-a-christmas-at-the-pines-at-buckeye-ridge-3/",
    "source": "Visit Fairfield County",
-   "desc": "Step into a Christmas story unlike any other at The Pines at Buckeye Ridge! Your journey begins inside their beautifully decorated Christmas Story Barn, where you’ll travel through three magical chapters filled with beloved Christmas characters, including Rudolph, the Misfit Toys, the Abominable Snow Monster, the magical world of Whoville and the Grinch, and their old friend Mr. Tree. But the story doesn’t end when you leave the barn! Step outside and follow the lights, where Christmas magic continues along a beautifully illuminated woodland trail. Travel deeper into the forest as you discover magical scenes, whimsical characters, glowing displays, and surprises around every turn.\n\nAnd of course, your journey leads to Santa’s Workshop, where the magic of Christmas comes to life! Enjoy Christmas story scenes, Rudolph & the Misfit Toys, Whoville & the Grinch, The Abominable Snow Monster, the Enchanted Christmas Forest, a lighted woodland trail, Santa’s Workshop, Christmas animals, cozy holiday moments, cookies & cocoa, and Christmas memories for the whole family! This isn’t just a walk through Christmas lights, it’s a journey through a Christmas story. Come make memories, discover a "
+   "desc": "Step into a Christmas story unlike any other at The Pines at Buckeye Ridge! Your journey begins inside their beautifully decorated Christmas Story Barn, where you’ll travel through three magical chapters filled with beloved Christmas characters, including Rudolph, the Misfit Toys, the Abominable Snow Monster, the magical world of Whoville and the Grinch, and their old friend Mr. Tree. But the story doesn’t end when you leave the barn! Step outside and follow the lights, where Christmas magic continues along a beautifully illuminated woodland trail. Travel deeper into the forest as you discover magical scenes, whimsical characters, glowing displays, and surprises around every turn.\n\nAnd of course, your journey leads to Santa’s Workshop, where the magic of Christmas comes to life! Enjoy Christmas story scenes, Rudolph & the Misfit Toys, Whoville & the Grinch, The Abominable Snow Monster, the Enchanted Christmas Forest, a lighted woodland trail, Santa’s Workshop, Christmas animals, cozy holiday moments, cookies & cocoa, and Christmas memories for the whole family! Purchase your tickets today before they sell out! This isn’t just a walk through Christmas lights, it’s a journey through "
   },
   {
    "id": "dtc-10012282",
@@ -16430,6 +16451,27 @@
    "url": "https://visitfairfieldcounty.org/events/2026-12-23-run-club-at-double-edge-brewing/",
    "source": "Visit Fairfield County",
    "desc": "Lace up your running shoes for Double Edge Brewing Co.’s Happy Hour Run Club happening every Wednesday at 5:30 p.m.! Meet them on the patio and get moving with a fun, laid-back run through the city. No pressure, no expectations just good vibes and movement at your pace. After the run, stick around to relax and reward yourself with $1 off pints and great company. There will be a Food Truck on the patio. All paces, ages, and abilities are welcome!\n\nFor more information, please visit Double Edge Brewing’s Facebook page."
+  },
+  {
+   "id": "dtc-10017898",
+   "title": "Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors",
+   "start": "2026-12-24T10:00-05:00",
+   "end": "2026-12-24T17:00-05:00",
+   "allDay": false,
+   "venue": "National Veterans Memorial and Museum",
+   "address": "300 W Broad Street, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/portraits-of-courage-a-commander-in-chiefs-tribute-to-americas-warriors/2026-12-24/",
+   "source": "Downtown Columbus",
+   "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   }
  ]
 }
