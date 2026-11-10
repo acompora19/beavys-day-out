@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-10T04:09:41.978Z",
+ "generated": "2026-11-10T10:11:46.512Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 307,
    "kept": 227,
-   "ms": 4373
+   "ms": 7252
   },
   {
    "source": "Fairfield County District Library",
-   "rows": 101,
-   "kept": 98,
-   "ms": 507
+   "rows": 99,
+   "kept": 99,
+   "ms": 621
   },
   {
    "source": "Pickerington Public Library",
-   "rows": 261,
-   "kept": 253,
-   "ms": 792
+   "rows": 254,
+   "kept": 254,
+   "ms": 907
   },
   {
    "source": "City of Canal Winchester",
    "rows": 112,
    "kept": 7,
-   "ms": 387
+   "ms": 411
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 319
+   "ms": 321
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 69
+   "ms": 73
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 1601
+   "ms": 2338
   },
   {
    "source": "Downtown Columbus",
-   "rows": 162,
+   "rows": 164,
    "kept": 162,
-   "ms": 14748
+   "ms": 9560
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 19,
    "kept": 19,
-   "ms": 900
+   "ms": 845
   },
   {
    "source": "Metro Parks",
    "rows": 10,
    "kept": 10,
-   "ms": 1571
+   "ms": 3183
   },
   {
    "source": "Columbus Commons",
-   "rows": 41,
+   "rows": 42,
    "kept": 41,
-   "ms": 2655
+   "ms": 1340
   },
   {
    "source": "Scioto Mile",
-   "rows": 42,
+   "rows": 43,
    "kept": 42,
-   "ms": 1181
+   "ms": 1297
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
-   "kept": 10,
-   "ms": 680
+   "kept": 11,
+   "ms": 619
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 78,
-   "kept": 5,
-   "ms": 98
+   "kept": 6,
+   "ms": 103
   },
   {
    "source": "City of Grove City",
    "rows": 16,
    "kept": 15,
-   "ms": 252
+   "ms": 274
   },
   {
    "source": "City of Worthington",
    "rows": 96,
    "kept": 20,
-   "ms": 503
+   "ms": 480
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 282
+   "ms": 340
   },
   {
    "source": "Standing freebies",
    "rows": 8,
    "kept": 8,
-   "ms": 7
+   "ms": 8
   }
  ],
  "events": [
@@ -217,27 +217,6 @@
    "desc": "Sing, dance, and hear great stories in this interactive 6-week class for 2- to 3-year-olds and their caregivers. We will highlight early literacy practices such as reading, writing, playing, singing, and talking—all great ways to get your child ready to read!\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
-   "id": "fcdl-17079202",
-   "title": "Slow Cooking Made Simple",
-   "start": "2026-11-10T10:30-05:00",
-   "end": "2026-11-10T11:30-05:00",
-   "allDay": false,
-   "venue": "Baltimore Branch Library · Meeting Room (Baltimore)",
-   "address": "205 E Market St, Baltimore, OH 43105",
-   "town": "Baltimore",
-   "lat": 39.8449,
-   "lon": -82.6016,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17079202",
-   "source": "Fairfield County District Library",
-   "desc": "Discover how a slow cooker can be your secret for saving both time and money in the kitchen. In this fun and informative session, you’ll learn how to prepare easy, budget-friendly meals your whole family will love. Perfect for busy families, beginners, or anyone looking to simplify mealtime!\n\nRegistration requested."
-  },
-  {
    "id": "fcdl-17129285",
    "title": "Hometown Military Heroes Wall Display",
    "start": "2026-11-10T10:30-05:00",
@@ -257,6 +236,27 @@
    "url": "https://www.fcdlibrary.org/event/17129285",
    "source": "Fairfield County District Library",
    "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
+  },
+  {
+   "id": "fcdl-17079202",
+   "title": "Slow Cooking Made Simple",
+   "start": "2026-11-10T10:30-05:00",
+   "end": "2026-11-10T11:30-05:00",
+   "allDay": false,
+   "venue": "Baltimore Branch Library · Meeting Room (Baltimore)",
+   "address": "205 E Market St, Baltimore, OH 43105",
+   "town": "Baltimore",
+   "lat": 39.8449,
+   "lon": -82.6016,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17079202",
+   "source": "Fairfield County District Library",
+   "desc": "Discover how a slow cooker can be your secret for saving both time and money in the kitchen. In this fun and informative session, you’ll learn how to prepare easy, budget-friendly meals your whole family will love. Perfect for busy families, beginners, or anyone looking to simplify mealtime!\n\nRegistration requested."
   },
   {
    "id": "fcdl-17183691",
@@ -1372,27 +1372,6 @@
    "desc": "Sing, dance, and hear great stories in this interactive 6-week class for 2- to 3-year-olds and their caregivers. We will highlight early literacy practices such as reading, writing, playing, singing, and talking—all great ways to get your child ready to read!\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
-   "id": "fcdl-17081378",
-   "title": "Special Storytime: Veterans Day",
-   "start": "2026-11-12T10:30-05:00",
-   "end": "2026-11-12T11:30-05:00",
-   "allDay": false,
-   "venue": "Bremen Branch Library · Meeting Room (Bremen)",
-   "address": "220 Marietta St, Bremen, OH 43107",
-   "town": "Bremen",
-   "lat": 39.7066,
-   "lon": -82.4258,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17081378",
-   "source": "Fairfield County District Library",
-   "desc": "Join us for a Special Storytime as we enjoy stories, rhymes, songs and crafts while we learn, move and play together! No registration necessary."
-  },
-  {
    "id": "fcdl-17129286",
    "title": "Hometown Military Heroes Wall Display",
    "start": "2026-11-12T10:30-05:00",
@@ -1414,27 +1393,6 @@
    "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
   },
   {
-   "id": "fcdl-17141362",
-   "title": "Family Storytime",
-   "start": "2026-11-12T10:30-05:00",
-   "end": "2026-11-12T11:00-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Storytime Area",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17141362",
-   "source": "Fairfield County District Library",
-   "desc": "With a different theme each week, explore literacy and expand imaginations with stories, songs, and crafts. \n\nNo registration necessary"
-  },
-  {
    "id": "fcdl-17166972",
    "title": "Library Play Date",
    "start": "2026-11-12T10:30-05:00",
@@ -1454,6 +1412,48 @@
    "url": "https://www.fcdlibrary.org/event/17166972",
    "source": "Fairfield County District Library",
    "desc": "Play is a crucial part of building early literacy and social skills. There will be opportunities for imagination and skill building, plus socialization for both children and caregivers. Extend your child's learning through play!\n\nNo registration necessary."
+  },
+  {
+   "id": "fcdl-17081378",
+   "title": "Special Storytime: Veterans Day",
+   "start": "2026-11-12T10:30-05:00",
+   "end": "2026-11-12T11:30-05:00",
+   "allDay": false,
+   "venue": "Bremen Branch Library · Meeting Room (Bremen)",
+   "address": "220 Marietta St, Bremen, OH 43107",
+   "town": "Bremen",
+   "lat": 39.7066,
+   "lon": -82.4258,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17081378",
+   "source": "Fairfield County District Library",
+   "desc": "Join us for a Special Storytime as we enjoy stories, rhymes, songs and crafts while we learn, move and play together! No registration necessary."
+  },
+  {
+   "id": "fcdl-17141362",
+   "title": "Family Storytime",
+   "start": "2026-11-12T10:30-05:00",
+   "end": "2026-11-12T11:00-05:00",
+   "allDay": false,
+   "venue": "*Main Library · Storytime Area",
+   "address": "",
+   "town": "Lancaster",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17141362",
+   "source": "Fairfield County District Library",
+   "desc": "With a different theme each week, explore literacy and expand imaginations with stories, songs, and crafts. \n\nNo registration necessary"
   },
   {
    "id": "vfc-32769",
@@ -1792,27 +1792,6 @@
    "desc": "Join Rhonemus Cellars on Thursday, November 12th in their cellar for a night of Bourbon from the Bardstown Bourbon Company! Your ticket of $150 includes a welcome cocktail, 4 limited/exclusive Bardstown Bourbon Company Pours, hors d’oeuvres, 1 entree per guest, a Bardstown Bourbon Company glass, and other fun swag! Ala carte cocktails, wine, beer, and food will be available. Limited spots are available, so be sure to contact them at (740) 785-9900 or nathan@rhonemuscellars.com to purchase your ticket!\n\nFor more information, please visit Rhonemus Cellar’s Facebook page."
   },
   {
-   "id": "fcdl-17080869",
-   "title": "Night Owls Family Storytime",
-   "start": "2026-11-12T18:00-05:00",
-   "end": "2026-11-12T18:30-05:00",
-   "allDay": false,
-   "venue": "Baltimore Branch Library · Meeting Room (Baltimore)",
-   "address": "205 E Market St, Baltimore, OH 43105",
-   "town": "Baltimore",
-   "lat": 39.8449,
-   "lon": -82.6016,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17080869",
-   "source": "Fairfield County District Library",
-   "desc": "Enjoy rhymes, songs, and stories as we move, play, and learn together!\n\nNo registration necessary."
-  },
-  {
    "id": "fcdl-17192461",
    "title": "Books & Brews: Evening Edition",
    "start": "2026-11-12T18:00-05:00",
@@ -1832,6 +1811,27 @@
    "url": "https://www.fcdlibrary.org/event/17192461",
    "source": "Fairfield County District Library",
    "desc": "Wind down with a fun and casual book discussion with fellow readers. Books are available for checkout during book club or can be picked up at the Northwest Library. Attendees are also encouraged to share whatever you happen to be reading and suggest books for future discussions.\n\nRegister online, on our app, or by calling (740) 756-4391."
+  },
+  {
+   "id": "fcdl-17080869",
+   "title": "Night Owls Family Storytime",
+   "start": "2026-11-12T18:00-05:00",
+   "end": "2026-11-12T18:30-05:00",
+   "allDay": false,
+   "venue": "Baltimore Branch Library · Meeting Room (Baltimore)",
+   "address": "205 E Market St, Baltimore, OH 43105",
+   "town": "Baltimore",
+   "lat": 39.8449,
+   "lon": -82.6016,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17080869",
+   "source": "Fairfield County District Library",
+   "desc": "Enjoy rhymes, songs, and stories as we move, play, and learn together!\n\nNo registration necessary."
   },
   {
    "id": "ppl-16423407",
@@ -3220,7 +3220,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-14",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-15",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-15T10:00-05:00",
    "end": "2026-11-15T17:00-05:00",
@@ -3686,27 +3686,6 @@
    "desc": "Sing, dance, and hear great stories in this interactive 6-week class for 2- to 3-year-olds and their caregivers. We will highlight early literacy practices such as reading, writing, playing, singing, and talking—all great ways to get your child ready to read!\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
-   "id": "fcdl-17129289",
-   "title": "Hometown Military Heroes Wall Display",
-   "start": "2026-11-17T10:30-05:00",
-   "end": "2026-11-17T16:30-05:00",
-   "allDay": false,
-   "venue": "Bremen Branch Library",
-   "address": "220 Marietta St, Bremen, OH 43107",
-   "town": "Bremen",
-   "lat": 39.7066,
-   "lon": -82.4258,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17129289",
-   "source": "Fairfield County District Library",
-   "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
-  },
-  {
    "id": "fcdl-17183692",
    "title": "Baby Storytime",
    "start": "2026-11-17T10:30-05:00",
@@ -3726,6 +3705,27 @@
    "url": "https://www.fcdlibrary.org/event/17183692",
    "source": "Fairfield County District Library",
    "desc": "Enjoy interactive stories, playful songs, and action rhymes with your baby. Older siblings are welcome and encouraged to bring their own “baby” (favorite stuffed animal or doll) to participate.\n\nNo registration necessary."
+  },
+  {
+   "id": "fcdl-17129289",
+   "title": "Hometown Military Heroes Wall Display",
+   "start": "2026-11-17T10:30-05:00",
+   "end": "2026-11-17T16:30-05:00",
+   "allDay": false,
+   "venue": "Bremen Branch Library",
+   "address": "220 Marietta St, Bremen, OH 43107",
+   "town": "Bremen",
+   "lat": 39.7066,
+   "lon": -82.4258,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17129289",
+   "source": "Fairfield County District Library",
+   "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
   },
   {
    "id": "vfc-32947",
@@ -4169,27 +4169,6 @@
    "desc": "Sing, dance, and hear great stories in this interactive 6-week class for 2- to 3-year-olds and their caregivers. We will highlight early literacy practices such as reading, writing, playing, singing, and talking—all great ways to get your child ready to read!\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
-   "id": "fcdl-17068566",
-   "title": "Early Birds Family Storytime",
-   "start": "2026-11-18T10:30-05:00",
-   "end": "2026-11-18T11:00-05:00",
-   "allDay": false,
-   "venue": "Baltimore Branch Library · Meeting Room (Baltimore)",
-   "address": "205 E Market St, Baltimore, OH 43105",
-   "town": "Baltimore",
-   "lat": 39.8449,
-   "lon": -82.6016,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17068566",
-   "source": "Fairfield County District Library",
-   "desc": "Enjoy rhymes, songs, and stories as we move, play, and learn together!\n\nNo registration necessary."
-  },
-  {
    "id": "fcdl-17129290",
    "title": "Hometown Military Heroes Wall Display",
    "start": "2026-11-18T10:30-05:00",
@@ -4209,27 +4188,6 @@
    "url": "https://www.fcdlibrary.org/event/17129290",
    "source": "Fairfield County District Library",
    "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
-  },
-  {
-   "id": "fcdl-17141219",
-   "title": "Littlest Storytime",
-   "start": "2026-11-18T10:30-05:00",
-   "end": "2026-11-18T11:00-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Storytime Area",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17141219",
-   "source": "Fairfield County District Library",
-   "desc": "Stories, songs, and playtime for our youngest children. Come spend time with your little ones and help build those pre-literacy skills!\n\nNo registration necessary"
   },
   {
    "id": "fcdl-17165485",
@@ -4272,6 +4230,48 @@
    "url": "https://www.fcdlibrary.org/event/17235857",
    "source": "Fairfield County District Library",
    "desc": "Join us each week as we celebrate our ABCs with stories, songs and crafts. No registration required."
+  },
+  {
+   "id": "fcdl-17141219",
+   "title": "Littlest Storytime",
+   "start": "2026-11-18T10:30-05:00",
+   "end": "2026-11-18T11:00-05:00",
+   "allDay": false,
+   "venue": "*Main Library · Storytime Area",
+   "address": "",
+   "town": "Lancaster",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17141219",
+   "source": "Fairfield County District Library",
+   "desc": "Stories, songs, and playtime for our youngest children. Come spend time with your little ones and help build those pre-literacy skills!\n\nNo registration necessary"
+  },
+  {
+   "id": "fcdl-17068566",
+   "title": "Early Birds Family Storytime",
+   "start": "2026-11-18T10:30-05:00",
+   "end": "2026-11-18T11:00-05:00",
+   "allDay": false,
+   "venue": "Baltimore Branch Library · Meeting Room (Baltimore)",
+   "address": "205 E Market St, Baltimore, OH 43105",
+   "town": "Baltimore",
+   "lat": 39.8449,
+   "lon": -82.6016,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17068566",
+   "source": "Fairfield County District Library",
+   "desc": "Enjoy rhymes, songs, and stories as we move, play, and learn together!\n\nNo registration necessary."
   },
   {
    "id": "ppl-16831281",
@@ -4484,27 +4484,6 @@
    "desc": "Join our monthly Japanese/English language exchange! Participants can engage one another to practice their Japanese or English. All levels are welcome."
   },
   {
-   "id": "fcdl-17141540",
-   "title": "Family Crafting Storytime",
-   "start": "2026-11-18T18:00-05:00",
-   "end": "2026-11-18T19:00-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Gallery (Lancaster)",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17141540",
-   "source": "Fairfield County District Library",
-   "desc": "Families can enjoy a fall themed story then work together to create a festive fall craft.\n\nRegister online, on our app, or by calling (740) 653-2745 ext 140"
-  },
-  {
    "id": "fcdl-17181541",
    "title": "Dungeons and Dragons Jr",
    "start": "2026-11-18T18:00-05:00",
@@ -4524,6 +4503,27 @@
    "url": "https://www.fcdlibrary.org/event/17181541",
    "source": "Fairfield County District Library",
    "desc": "D&D Jr. scales the roleplaying game into an accessible, 60- to 90-minute collaborative storytelling experience.\n\nRegistration Required\n\nHeld at Big Brothers Big Sisters 604 W 5th Ave Lancaster, Ohio 43130"
+  },
+  {
+   "id": "fcdl-17141540",
+   "title": "Family Crafting Storytime",
+   "start": "2026-11-18T18:00-05:00",
+   "end": "2026-11-18T19:00-05:00",
+   "allDay": false,
+   "venue": "*Main Library · Gallery (Lancaster)",
+   "address": "",
+   "town": "Lancaster",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17141540",
+   "source": "Fairfield County District Library",
+   "desc": "Families can enjoy a fall themed story then work together to create a festive fall craft.\n\nRegister online, on our app, or by calling (740) 653-2745 ext 140"
   },
   {
    "id": "ppl-16796358",
@@ -4841,25 +4841,25 @@
    "desc": "Join us for a Special Storytime as we enjoy stories, rhymes, songs and crafts while we learn, move and play together! No registration necessary."
   },
   {
-   "id": "fcdl-17129291",
-   "title": "Hometown Military Heroes Wall Display",
+   "id": "fcdl-17166973",
+   "title": "Library Play Date",
    "start": "2026-11-19T10:30-05:00",
-   "end": "2026-11-19T16:30-05:00",
+   "end": "2026-11-19T11:30-05:00",
    "allDay": false,
-   "venue": "Bremen Branch Library",
-   "address": "220 Marietta St, Bremen, OH 43107",
-   "town": "Bremen",
-   "lat": 39.7066,
-   "lon": -82.4258,
+   "venue": "Northwest Branch",
+   "address": "",
+   "town": "Lancaster",
+   "lat": null,
+   "lon": null,
    "area": "Fairfield County",
    "cost": "Free",
    "costNum": 0,
    "free": true,
    "kids": true,
    "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17129291",
+   "url": "https://www.fcdlibrary.org/event/17166973",
    "source": "Fairfield County District Library",
-   "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
+   "desc": "Play is a crucial part of building early literacy and social skills. There will be opportunities for imagination and skill building, plus socialization for both children and caregivers. Extend your child's learning through play!\n\nNo registration necessary."
   },
   {
    "id": "fcdl-17141363",
@@ -4883,25 +4883,25 @@
    "desc": "With a different theme each week, explore literacy and expand imaginations with stories, songs, and crafts. \n\nNo registration necessary"
   },
   {
-   "id": "fcdl-17166973",
-   "title": "Library Play Date",
+   "id": "fcdl-17129291",
+   "title": "Hometown Military Heroes Wall Display",
    "start": "2026-11-19T10:30-05:00",
-   "end": "2026-11-19T11:30-05:00",
+   "end": "2026-11-19T16:30-05:00",
    "allDay": false,
-   "venue": "Northwest Branch",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
+   "venue": "Bremen Branch Library",
+   "address": "220 Marietta St, Bremen, OH 43107",
+   "town": "Bremen",
+   "lat": 39.7066,
+   "lon": -82.4258,
    "area": "Fairfield County",
    "cost": "Free",
    "costNum": 0,
    "free": true,
    "kids": true,
    "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17166973",
+   "url": "https://www.fcdlibrary.org/event/17129291",
    "source": "Fairfield County District Library",
-   "desc": "Play is a crucial part of building early literacy and social skills. There will be opportunities for imagination and skill building, plus socialization for both children and caregivers. Extend your child's learning through play!\n\nNo registration necessary."
+   "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
   },
   {
    "id": "crp-30538",
@@ -6017,27 +6017,6 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "fcdl-17129293",
-   "title": "Hometown Military Heroes Wall Display",
-   "start": "2026-11-21T10:30-05:00",
-   "end": "2026-11-21T13:30-05:00",
-   "allDay": false,
-   "venue": "Bremen Branch Library",
-   "address": "220 Marietta St, Bremen, OH 43107",
-   "town": "Bremen",
-   "lat": 39.7066,
-   "lon": -82.4258,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17129293",
-   "source": "Fairfield County District Library",
-   "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
-  },
-  {
    "id": "fcdl-17141395",
    "title": "Saturday Storytime",
    "start": "2026-11-21T10:30-05:00",
@@ -6057,6 +6036,27 @@
    "url": "https://www.fcdlibrary.org/event/17141395",
    "source": "Fairfield County District Library",
    "desc": "Stories, songs, and crafts to help prepare children for preschool and beyond.\n\nNo registration necessary"
+  },
+  {
+   "id": "fcdl-17129293",
+   "title": "Hometown Military Heroes Wall Display",
+   "start": "2026-11-21T10:30-05:00",
+   "end": "2026-11-21T13:30-05:00",
+   "allDay": false,
+   "venue": "Bremen Branch Library",
+   "address": "220 Marietta St, Bremen, OH 43107",
+   "town": "Bremen",
+   "lat": 39.7066,
+   "lon": -82.4258,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17129293",
+   "source": "Fairfield County District Library",
+   "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
   },
   {
    "id": "dtc-1045905",
@@ -6521,7 +6521,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-21",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-22",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-22T10:00-05:00",
    "end": "2026-11-22T17:00-05:00",
@@ -7155,27 +7155,6 @@
    "desc": "Sing, dance, and hear great stories in this interactive 6-week class for 2- to 3-year-olds and their caregivers. We will highlight early literacy practices such as reading, writing, playing, singing, and talking—all great ways to get your child ready to read!\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
-   "id": "fcdl-17129294",
-   "title": "Hometown Military Heroes Wall Display",
-   "start": "2026-11-24T10:30-05:00",
-   "end": "2026-11-24T16:30-05:00",
-   "allDay": false,
-   "venue": "Bremen Branch Library",
-   "address": "220 Marietta St, Bremen, OH 43107",
-   "town": "Bremen",
-   "lat": 39.7066,
-   "lon": -82.4258,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17129294",
-   "source": "Fairfield County District Library",
-   "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
-  },
-  {
    "id": "fcdl-17183693",
    "title": "Baby Storytime",
    "start": "2026-11-24T10:30-05:00",
@@ -7195,6 +7174,27 @@
    "url": "https://www.fcdlibrary.org/event/17183693",
    "source": "Fairfield County District Library",
    "desc": "Enjoy interactive stories, playful songs, and action rhymes with your baby. Older siblings are welcome and encouraged to bring their own “baby” (favorite stuffed animal or doll) to participate.\n\nNo registration necessary."
+  },
+  {
+   "id": "fcdl-17129294",
+   "title": "Hometown Military Heroes Wall Display",
+   "start": "2026-11-24T10:30-05:00",
+   "end": "2026-11-24T16:30-05:00",
+   "allDay": false,
+   "venue": "Bremen Branch Library",
+   "address": "220 Marietta St, Bremen, OH 43107",
+   "town": "Bremen",
+   "lat": 39.7066,
+   "lon": -82.4258,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17129294",
+   "source": "Fairfield County District Library",
+   "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
   },
   {
    "id": "ppl-16831276",
@@ -7575,27 +7575,6 @@
    "desc": "Sing, dance, and hear great stories in this interactive 6-week class for 2- to 3-year-olds and their caregivers. We will highlight early literacy practices such as reading, writing, playing, singing, and talking—all great ways to get your child ready to read!\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
-   "id": "fcdl-17129295",
-   "title": "Hometown Military Heroes Wall Display",
-   "start": "2026-11-25T10:30-05:00",
-   "end": "2026-11-25T16:30-05:00",
-   "allDay": false,
-   "venue": "Bremen Branch Library",
-   "address": "220 Marietta St, Bremen, OH 43107",
-   "town": "Bremen",
-   "lat": 39.7066,
-   "lon": -82.4258,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17129295",
-   "source": "Fairfield County District Library",
-   "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
-  },
-  {
    "id": "fcdl-17165486",
    "title": "Family Storytime",
    "start": "2026-11-25T10:30-05:00",
@@ -7636,6 +7615,27 @@
    "url": "https://www.fcdlibrary.org/event/17235858",
    "source": "Fairfield County District Library",
    "desc": "Join us each week as we celebrate our ABCs with stories, songs and crafts. No registration required."
+  },
+  {
+   "id": "fcdl-17129295",
+   "title": "Hometown Military Heroes Wall Display",
+   "start": "2026-11-25T10:30-05:00",
+   "end": "2026-11-25T16:30-05:00",
+   "allDay": false,
+   "venue": "Bremen Branch Library",
+   "address": "220 Marietta St, Bremen, OH 43107",
+   "town": "Bremen",
+   "lat": 39.7066,
+   "lon": -82.4258,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17129295",
+   "source": "Fairfield County District Library",
+   "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
   },
   {
    "id": "ppl-16831277",
@@ -9024,7 +9024,7 @@
    "desc": "Ongoing at the farmhouse between 10am-4pm.\n\nEnjoy a display and some activities about Thanksgiving foods and traditions."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-28",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-29",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-29T10:00-05:00",
    "end": "2026-11-29T17:00-05:00",
@@ -11548,7 +11548,7 @@
    "desc": "https://www.reynoldsburg.gov/calendar.aspx?EID=1415"
   },
   {
-   "id": "recurring-short-north-gallery-hop-2026-12-04",
+   "id": "recurring-short-north-gallery-hop-2026-12-05",
    "title": "Short North Gallery Hop",
    "start": "2026-12-05T16:00-05:00",
    "end": "2026-12-05T20:00-05:00",
@@ -11804,7 +11804,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-05",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-06",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-06T10:00-05:00",
    "end": "2026-12-06T17:00-05:00",
@@ -11829,7 +11829,7 @@
    ]
   },
   {
-   "id": "recurring-community-day-at-franklin-park-conservatory-2026-12-05",
+   "id": "recurring-community-day-at-franklin-park-conservatory-2026-12-06",
    "title": "Community Day at Franklin Park Conservatory",
    "start": "2026-12-06T10:00-05:00",
    "end": "2026-12-06T17:00-05:00",
@@ -14710,7 +14710,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-12",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-13",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-13T10:00-05:00",
    "end": "2026-12-13T17:00-05:00",
@@ -16772,7 +16772,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-19",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-20",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-20T10:00-05:00",
    "end": "2026-12-20T17:00-05:00",
@@ -17385,6 +17385,27 @@
    "desc": "Lace up your running shoes for Double Edge Brewing Co.’s Happy Hour Run Club happening every Wednesday at 5:30 p.m.! Meet them on the patio and get moving with a fun, laid-back run through the city. No pressure, no expectations just good vibes and movement at your pace. After the run, stick around to relax and reward yourself with $1 off pints and great company. There will be a Food Truck on the patio. All paces, ages, and abilities are welcome!\n\nFor more information, please visit Double Edge Brewing’s Facebook page."
   },
   {
+   "id": "fcdl-15405269",
+   "title": "Library Closed",
+   "start": "2026-12-24T00:00-05:00",
+   "end": "2026-12-24T23:59-05:00",
+   "allDay": true,
+   "venue": "All Library Locations",
+   "address": "",
+   "town": "Lancaster",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/15405269",
+   "source": "Fairfield County District Library",
+   "desc": "All Library locations are closed."
+  },
+  {
    "id": "gahanna-804",
    "title": "Christmas Holiday",
    "start": "2026-12-24T00:00-05:00",
@@ -17467,6 +17488,27 @@
    "url": "https://www.sciotomile.com/event/wanderlights/2026-12-24/",
    "source": "Scioto Mile",
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
+  },
+  {
+   "id": "gahanna-714",
+   "title": "Christmas Holiday",
+   "start": "2026-12-25T00:00-05:00",
+   "end": null,
+   "allDay": true,
+   "venue": "",
+   "address": "- Gahanna OH 43230",
+   "town": "Gahanna",
+   "lat": 40.0195,
+   "lon": -82.8793,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27",
+   "source": "City of Gahanna",
+   "desc": "City Recognized Holiday - Closed https://www.gahanna.gov/calendar.aspx?EID=714"
   }
  ]
 }
