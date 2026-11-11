@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-11T10:16:24.486Z",
+ "generated": "2026-11-11T16:09:31.592Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
-   "rows": 316,
-   "kept": 229,
-   "ms": 5941
+   "rows": 318,
+   "kept": 231,
+   "ms": 6582
   },
   {
    "source": "Fairfield County District Library",
    "rows": 126,
    "kept": 126,
-   "ms": 653
+   "ms": 433
   },
   {
    "source": "Pickerington Public Library",
    "rows": 245,
    "kept": 245,
-   "ms": 902
+   "ms": 635
   },
   {
    "source": "City of Canal Winchester",
    "rows": 112,
    "kept": 7,
-   "ms": 355
+   "ms": 391
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 311
+   "ms": 305
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 61
+   "ms": 62
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 1711
+   "ms": 1934
   },
   {
    "source": "Downtown Columbus",
    "rows": 164,
    "kept": 161,
-   "ms": 5964
+   "ms": 7363
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 18,
    "kept": 18,
-   "ms": 836
+   "ms": 823
   },
   {
    "source": "Metro Parks",
    "rows": 10,
    "kept": 10,
-   "ms": 2244
+   "ms": 2417
   },
   {
    "source": "Columbus Commons",
    "rows": 43,
    "kept": 42,
-   "ms": 2368
+   "ms": 1683
   },
   {
    "source": "Scioto Mile",
    "rows": 44,
    "kept": 43,
-   "ms": 1132
+   "ms": 1473
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
    "kept": 10,
-   "ms": 659
+   "ms": 619
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 78,
    "kept": 5,
-   "ms": 92
+   "ms": 94
   },
   {
    "source": "City of Grove City",
    "rows": 16,
    "kept": 15,
-   "ms": 316
+   "ms": 271
   },
   {
    "source": "City of Worthington",
    "rows": 96,
-   "kept": 20,
-   "ms": 536
+   "kept": 21,
+   "ms": 768
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 293
+   "ms": 295
   },
   {
    "source": "Standing freebies",
    "rows": 8,
    "kept": 8,
-   "ms": 5
+   "ms": 4
   }
  ],
  "events": [
@@ -173,27 +173,6 @@
    "url": "https://www.fcdlibrary.org/event/15405267",
    "source": "Fairfield County District Library",
    "desc": "All Library locations are closed."
-  },
-  {
-   "id": "dtc-10004700",
-   "title": "November Project Scioto Mile Free Workout",
-   "start": "2026-11-11T06:00-05:00",
-   "end": "2026-11-11T08:00-05:00",
-   "allDay": false,
-   "venue": "Genoa Park",
-   "address": "303 W Broad St, Columbus, OH",
-   "town": "Columbus",
-   "lat": 39.9598672,
-   "lon": -83.0054187,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/november-project-scioto-mile-free-workout/2026-11-11/",
-   "source": "Downtown Columbus",
-   "desc": "November Project is a free outside fitness group that started in Boston in 2011 to break down barriers to movement! Now in 53 cities around the globe, we create free, fun, scalable (adjustable to your fitness level) workouts for all ages – and doggos!\n\nOur workout starts at 6:14a every Wednesday morning in Genoa Park on the Scioto Mile (on the steps behind COSI). We work out for 45 minutes together until 7am, then walk down to One Line Coffee to hang out before work!\n\nCome join us if you’re an off-the-couch fitness newbie, a runner looking to cross-train, or any fitness level in between, we’d love to see you!"
   },
   {
    "id": "vfc-27646",
@@ -11833,6 +11812,27 @@
    "desc": "Celebrate the season with the Lancaster Handbell Ensemble as they present Rare Rings of the Holiday Season, a festive concert featuring a delightful collection of familiar holiday favorites and lesser-known musical treasures. From the timeless beauty of Carol of the Bells to unexpected arrangements and captivating seasonal melodies, this program offers a fresh take on the sounds of Christmas. Experience the rich harmonies, shimmering bells, lively rhythms, and a few musical surprises as they bring the magic of the holidays to life in a way you may not have heard before!\n\nTickets will be available at the door or ahead of time online at www.lancasterhandbellensemble.org."
   },
   {
+   "id": "vfc-33176",
+   "title": "The Nostalgics Christmas Show at Victoria Opera House",
+   "start": "2026-12-06T15:30-05:00",
+   "end": "2026-12-06T17:00-05:00",
+   "allDay": false,
+   "venue": "101 S Main St",
+   "address": "101 South Main Street, Baltimore, Ohio 43105, United States",
+   "town": "Baltimore",
+   "lat": 39.84086860000001,
+   "lon": -82.60264020000001,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/the-nostalgics-christmas-show-at-victoria-opera-house/",
+   "source": "Visit Fairfield County",
+   "desc": "Join The Nostalgics Big Band for a concert packed with your Christmas favorites at the Victoria Opera House on Sunday, December 6th! Admission is free. Bring your lawn chairs and stay for the Baltimore Lighted Holiday Parade afterwards! The parade passes right by the Opera House and starts at 6 p.m.\n\n \n\nFor more information, please visit the Baltimore Downtown Restoration’s Facebook page."
+  },
+  {
    "id": "dtc-10022692",
    "title": "FREE Wanderlights",
    "start": "2026-12-06T17:00-05:00",
@@ -13910,6 +13910,27 @@
    "url": "https://visitfairfieldcounty.org/events/once-upon-a-christmas-at-the-pines-at-buckeye-ridge/",
    "source": "Visit Fairfield County",
    "desc": "Step into a Christmas story unlike any other at The Pines at Buckeye Ridge! Your journey begins inside their beautifully decorated Christmas Story Barn, where you’ll travel through three magical chapters filled with beloved Christmas characters, including Rudolph, the Misfit Toys, the Abominable Snow Monster, the magical world of Whoville and the Grinch, and their old friend Mr. Tree. But the story doesn’t end when you leave the barn! Step outside and follow the lights, where Christmas magic continues along a beautifully illuminated woodland trail. Travel deeper into the forest as you discover magical scenes, whimsical characters, glowing displays, and surprises around every turn.\n\nAnd of course, your journey leads to Santa’s Workshop, where the magic of Christmas comes to life! Enjoy Christmas story scenes, Rudolph & the Misfit Toys, Whoville & the Grinch, The Abominable Snow Monster, the Enchanted Christmas Forest, a lighted woodland trail, Santa’s Workshop, Christmas animals, cozy holiday moments, cookies & cocoa, and Christmas memories for the whole family! Purchase your tickets today before they sell out! This isn’t just a walk through Christmas lights, it’s a journey through "
+  },
+  {
+   "id": "vfc-33180",
+   "title": "The Vision Board Social at The Molt and Moon",
+   "start": "2026-12-11T18:00-05:00",
+   "end": "2026-12-11T20:00-05:00",
+   "allDay": false,
+   "venue": "6 Lockville Rd",
+   "address": "6 Lockville Rd, Pickerington, OH, USA",
+   "town": "Pickerington",
+   "lat": 39.8838893,
+   "lon": -82.7529399,
+   "area": "Fairfield County",
+   "cost": "$25",
+   "costNum": 25,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/the-vision-board-social-at-the-molt-and-moon/",
+   "source": "Visit Fairfield County",
+   "desc": "Take a break from the holiday hustle and join The Molt and Moon for an evening of wine, light bites, meaningful conversation, and vision boarding! Whether you’re feeling inspired by what’s ahead, looking for a fresh perspective, or simply excited to meet new people, this is an opportunity to connect with yourself and others in a welcoming, relaxed atmosphere. The evening will be guided by Kaley, a certified Life Coach passionate about self-discovery, personal growth, and meaningful connection. Gather inspiration and explore possibilities for the year ahead, taking home a visual representation of what you’d like more of in your life. No coaching experience or artistic skills needed! Tickets are $25 per person and includes wine, light bites, all vision board supplies, and a 22×28 poster – yours to take home! Space will be limited to 15 spots to create an intimate and welcoming experience. Reserve your spot today and join them for an evening of connection, creativity, and possibility. Come solo or bring a friend. All you need is an open mind and a little curiosity!\n\n \n\nFor more information, please visit The Molt and Moon’s Facebook page."
   },
   {
    "id": "vfc-27651",
@@ -17908,6 +17929,48 @@
    "url": "https://www.sciotomile.com/event/wanderlights/2026-12-25/",
    "source": "Scioto Mile",
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
+  },
+  {
+   "id": "worthington-9231",
+   "title": "Worthington Farmers Market",
+   "start": "2026-12-26T09:00-05:00",
+   "end": "2026-12-26T12:00-05:00",
+   "allDay": false,
+   "venue": "",
+   "address": "- The Shops at Worthington Place 7227 N High St Worthington OH 43085",
+   "town": "Worthington",
+   "lat": 40.0931,
+   "lon": -83.018,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
+   "source": "City of Worthington",
+   "desc": "The Worthington Farmers Market was established in 1987 and is one of the largest and most respected markets in Ohio. The Market is held indoors at The Shops at Worthington Place during the months of November through April. During the summer months, the Market takes place outdoors in downtown Worthington. https://worthington.org/calendar.aspx?EID=9231"
+  },
+  {
+   "id": "dtc-10017900",
+   "title": "Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors",
+   "start": "2026-12-26T10:00-05:00",
+   "end": "2026-12-26T17:00-05:00",
+   "allDay": false,
+   "venue": "National Veterans Memorial and Museum",
+   "address": "300 W Broad Street, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/portraits-of-courage-a-commander-in-chiefs-tribute-to-americas-warriors/2026-12-26/",
+   "source": "Downtown Columbus",
+   "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   }
  ]
 }
