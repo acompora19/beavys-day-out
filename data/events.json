@@ -1,107 +1,107 @@
 {
- "generated": "2026-11-11T04:15:14.686Z",
+ "generated": "2026-11-11T10:16:24.486Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 316,
    "kept": 229,
-   "ms": 10925
+   "ms": 5941
   },
   {
    "source": "Fairfield County District Library",
-   "rows": 131,
-   "kept": 125,
-   "ms": 633
+   "rows": 126,
+   "kept": 126,
+   "ms": 653
   },
   {
    "source": "Pickerington Public Library",
-   "rows": 254,
-   "kept": 244,
-   "ms": 637
+   "rows": 245,
+   "kept": 245,
+   "ms": 902
   },
   {
    "source": "City of Canal Winchester",
    "rows": 112,
    "kept": 7,
-   "ms": 275
+   "ms": 355
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 218
+   "ms": 311
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 47
+   "ms": 61
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 602
+   "ms": 1711
   },
   {
    "source": "Downtown Columbus",
    "rows": 164,
-   "kept": 162,
-   "ms": 8587
+   "kept": 161,
+   "ms": 5964
   },
   {
    "source": "Columbus Recreation & Parks",
-   "rows": 19,
+   "rows": 18,
    "kept": 18,
-   "ms": 716
+   "ms": 836
   },
   {
    "source": "Metro Parks",
    "rows": 10,
    "kept": 10,
-   "ms": 1430
+   "ms": 2244
   },
   {
    "source": "Columbus Commons",
-   "rows": 42,
+   "rows": 43,
    "kept": 42,
-   "ms": 1520
+   "ms": 2368
   },
   {
    "source": "Scioto Mile",
-   "rows": 43,
+   "rows": 44,
    "kept": 43,
-   "ms": 792
+   "ms": 1132
   },
   {
    "source": "City of Gahanna",
    "rows": 83,
-   "kept": 11,
-   "ms": 315
+   "kept": 10,
+   "ms": 659
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 78,
-   "kept": 6,
-   "ms": 62
+   "kept": 5,
+   "ms": 92
   },
   {
    "source": "City of Grove City",
    "rows": 16,
    "kept": 15,
-   "ms": 229
+   "ms": 316
   },
   {
    "source": "City of Worthington",
    "rows": 96,
    "kept": 20,
-   "ms": 275
+   "ms": 536
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 168
+   "ms": 293
   },
   {
    "source": "Standing freebies",
@@ -154,27 +154,6 @@
    "desc": "Color Improvisations 3: A Major Exhibition of Contemporary Quilts features 38 large quilts that explore color, scale, and improvisation in contemporary textile art. Curated by internationally recognized artist Nancy Crow, the exhibition at the Decorative Arts Center of Ohio includes works by quiltmakers from the United States, Canada, and New Zealand, highlighting the creativity, innovation and artistic excellence shaping contemporary quilt making today. Using bold abstract forms and richly worked fabrics, the artists balance exquisite skill with creative risk. Their quilts invite viewers to experience color as movement, texture, and feeling. This exhibition will run from October 3rd, 2026 to January 3rd, 2027.\n\n \n\nFor more information, please visit the Decorative Arts Center of Ohio’s website."
   },
   {
-   "id": "dtc-1045689",
-   "title": "Blade Runner Live",
-   "start": "2026-11-10T19:30-05:00",
-   "end": "2026-11-10T21:30-05:00",
-   "allDay": false,
-   "venue": "Palace Theatre",
-   "address": "34 W Broad St, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": 39.9623526,
-   "lon": -83.0017092,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/blade-runner-live/",
-   "source": "Downtown Columbus",
-   "desc": "Experience Ridley Scott’s cult classic, Blade Runner, on a vast HD screen while Vangelis’s iconic, synthesizer-led score is performed live in sync with the film by The Avex Ensemble."
-  },
-  {
    "id": "fcdl-15405267",
    "title": "Library Closed",
    "start": "2026-11-11T00:00-05:00",
@@ -194,27 +173,6 @@
    "url": "https://www.fcdlibrary.org/event/15405267",
    "source": "Fairfield County District Library",
    "desc": "All Library locations are closed."
-  },
-  {
-   "id": "gahanna-774",
-   "title": "Veterans Day Holiday",
-   "start": "2026-11-11T00:00-05:00",
-   "end": null,
-   "allDay": true,
-   "venue": "",
-   "address": "- Gahanna OH 43230",
-   "town": "Gahanna",
-   "lat": 40.0195,
-   "lon": -82.8793,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27",
-   "source": "City of Gahanna",
-   "desc": "City Recognized Holiday - Closed https://www.gahanna.gov/calendar.aspx?EID=774"
   },
   {
    "id": "dtc-10004700",
@@ -2758,7 +2716,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-14",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-15",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-15T10:00-05:00",
    "end": "2026-11-15T17:00-05:00",
@@ -6080,7 +6038,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-21",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-22",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-22T10:00-05:00",
    "end": "2026-11-22T17:00-05:00",
@@ -8667,7 +8625,7 @@
    "desc": "Ongoing at the farmhouse between 10am-4pm.\n\nEnjoy a display and some activities about Thanksgiving foods and traditions."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-28",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-29",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-29T10:00-05:00",
    "end": "2026-11-29T17:00-05:00",
@@ -11443,7 +11401,7 @@
    "desc": "https://www.reynoldsburg.gov/calendar.aspx?EID=1415"
   },
   {
-   "id": "recurring-short-north-gallery-hop-2026-12-04",
+   "id": "recurring-short-north-gallery-hop-2026-12-05",
    "title": "Short North Gallery Hop",
    "start": "2026-12-05T16:00-05:00",
    "end": "2026-12-05T20:00-05:00",
@@ -11699,7 +11657,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-05",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-06",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-06T10:00-05:00",
    "end": "2026-12-06T17:00-05:00",
@@ -11724,7 +11682,7 @@
    ]
   },
   {
-   "id": "recurring-community-day-at-franklin-park-conservatory-2026-12-05",
+   "id": "recurring-community-day-at-franklin-park-conservatory-2026-12-06",
    "title": "Community Day at Franklin Park Conservatory",
    "start": "2026-12-06T10:00-05:00",
    "end": "2026-12-06T17:00-05:00",
@@ -14773,7 +14731,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-12",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-13",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-13T10:00-05:00",
    "end": "2026-12-13T17:00-05:00",
@@ -17045,7 +17003,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-19",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-20",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-20T10:00-05:00",
    "end": "2026-12-20T17:00-05:00",
@@ -17845,6 +17803,27 @@
    "url": "https://www.sciotomile.com/event/wanderlights/2026-12-24/",
    "source": "Scioto Mile",
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
+  },
+  {
+   "id": "fcdl-15405270",
+   "title": "Library Closed",
+   "start": "2026-12-25T00:00-05:00",
+   "end": "2026-12-25T23:59-05:00",
+   "allDay": true,
+   "venue": "All Library Locations",
+   "address": "",
+   "town": "Lancaster",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/15405270",
+   "source": "Fairfield County District Library",
+   "desc": "All Library locations are closed."
   },
   {
    "id": "gahanna-714",
