@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-12T11:27:26.526Z",
+ "generated": "2026-11-12T21:52:26.910Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
-   "rows": 328,
-   "kept": 230,
-   "ms": 11960
+   "rows": 337,
+   "kept": 238,
+   "ms": 6662
   },
   {
    "source": "Fairfield County District Library",
    "rows": 126,
-   "kept": 126,
-   "ms": 422
+   "kept": 123,
+   "ms": 667
   },
   {
    "source": "Pickerington Public Library",
    "rows": 233,
-   "kept": 233,
-   "ms": 528
+   "kept": 231,
+   "ms": 772
   },
   {
    "source": "City of Canal Winchester",
    "rows": 112,
    "kept": 7,
-   "ms": 255
+   "ms": 431
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 173
+   "ms": 380
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 34
+   "ms": 78
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 1426
+   "ms": 1660
   },
   {
    "source": "Downtown Columbus",
    "rows": 167,
-   "kept": 164,
-   "ms": 22332
+   "kept": 165,
+   "ms": 8553
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 18,
-   "kept": 18,
-   "ms": 602
+   "kept": 15,
+   "ms": 827
   },
   {
    "source": "Metro Parks",
    "rows": 10,
    "kept": 10,
-   "ms": 2171
+   "ms": 2811
   },
   {
    "source": "Columbus Commons",
    "rows": 44,
    "kept": 43,
-   "ms": 1315
+   "ms": 2044
   },
   {
    "source": "Scioto Mile",
    "rows": 45,
    "kept": 44,
-   "ms": 717
+   "ms": 1236
   },
   {
    "source": "City of Gahanna",
    "rows": 81,
    "kept": 9,
-   "ms": 317
+   "ms": 658
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 77,
    "kept": 5,
-   "ms": 72
+   "ms": 104
   },
   {
    "source": "City of Grove City",
    "rows": 15,
    "kept": 14,
-   "ms": 210
+   "ms": 287
   },
   {
    "source": "City of Worthington",
    "rows": 96,
    "kept": 21,
-   "ms": 399
+   "ms": 517
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 201
+   "ms": 281
   },
   {
    "source": "Standing freebies",
    "rows": 9,
-   "kept": 8,
-   "ms": 7
+   "kept": 9,
+   "ms": 8
   }
  ],
  "events": [
@@ -154,27 +154,6 @@
    "desc": "Color Improvisations 3: A Major Exhibition of Contemporary Quilts features 38 large quilts that explore color, scale, and improvisation in contemporary textile art. Curated by internationally recognized artist Nancy Crow, the exhibition at the Decorative Arts Center of Ohio includes works by quiltmakers from the United States, Canada, and New Zealand, highlighting the creativity, innovation and artistic excellence shaping contemporary quilt making today. Using bold abstract forms and richly worked fabrics, the artists balance exquisite skill with creative risk. Their quilts invite viewers to experience color as movement, texture, and feeling. This exhibition will run from October 3rd, 2026 to January 3rd, 2027.\n\n \n\nFor more information, please visit the Decorative Arts Center of Ohio’s website."
   },
   {
-   "id": "ppl-16802707",
-   "title": "Rhyme Time",
-   "start": "2026-11-12T09:30-05:00",
-   "end": "2026-11-12T10:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room A",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16802707",
-   "source": "Pickerington Public Library",
-   "desc": "Help your baby or young toddler develop a love of reading by introducing them to rhymes, songs, stories, and fingerplays! Rhyme Time is for children 0-23 months and their caregivers; siblings are also welcome. This interactive 6-week class will highlight early literacy practices such as reading, writing, playing, singing, and talking.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
    "id": "dtc-10017874",
    "title": "Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors",
    "start": "2026-11-12T10:00-05:00",
@@ -196,48 +175,6 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "ppl-16831287",
-   "title": "Toddler Time: Apples and Pumpkins",
-   "start": "2026-11-12T10:15-05:00",
-   "end": "2026-11-12T10:45-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Barn,Meeting Room A",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16831287",
-   "source": "Pickerington Public Library",
-   "desc": "Sing, dance, and hear great stories in this interactive 6-week class for 2- to 3-year-olds and their caregivers. We will highlight early literacy practices such as reading, writing, playing, singing, and talking—all great ways to get your child ready to read!\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "fcdl-17081378",
-   "title": "Special Storytime: Veterans Day",
-   "start": "2026-11-12T10:30-05:00",
-   "end": "2026-11-12T11:30-05:00",
-   "allDay": false,
-   "venue": "Bremen Branch Library · Meeting Room (Bremen)",
-   "address": "220 Marietta St, Bremen, OH 43107",
-   "town": "Bremen",
-   "lat": 39.7066,
-   "lon": -82.4258,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17081378",
-   "source": "Fairfield County District Library",
-   "desc": "Join us for a Special Storytime as we enjoy stories, rhymes, songs and crafts while we learn, move and play together! No registration necessary."
-  },
-  {
    "id": "fcdl-17129286",
    "title": "Hometown Military Heroes Wall Display",
    "start": "2026-11-12T10:30-05:00",
@@ -257,69 +194,6 @@
    "url": "https://www.fcdlibrary.org/event/17129286",
    "source": "Fairfield County District Library",
    "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
-  },
-  {
-   "id": "fcdl-17141362",
-   "title": "Family Storytime",
-   "start": "2026-11-12T10:30-05:00",
-   "end": "2026-11-12T11:00-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Storytime Area",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17141362",
-   "source": "Fairfield County District Library",
-   "desc": "With a different theme each week, explore literacy and expand imaginations with stories, songs, and crafts. \n\nNo registration necessary"
-  },
-  {
-   "id": "fcdl-17166972",
-   "title": "Library Play Date",
-   "start": "2026-11-12T10:30-05:00",
-   "end": "2026-11-12T11:30-05:00",
-   "allDay": false,
-   "venue": "Northwest Branch",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17166972",
-   "source": "Fairfield County District Library",
-   "desc": "Play is a crucial part of building early literacy and social skills. There will be opportunities for imagination and skill building, plus socialization for both children and caregivers. Extend your child's learning through play!\n\nNo registration necessary."
-  },
-  {
-   "id": "vfc-32769",
-   "title": "9th Annual Chili Cook Off with United Way",
-   "start": "2026-11-12T11:00-05:00",
-   "end": "2026-11-12T13:00-05:00",
-   "allDay": false,
-   "venue": "115 S Broad St",
-   "address": "115 South Broad Street, Lancaster, OH, USA",
-   "town": "Lancaster",
-   "lat": 39.713306,
-   "lon": -82.6025231,
-   "area": "Fairfield County",
-   "cost": "Free–$10",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/9th-annual-chili-cook-off-with-united-way/",
-   "source": "Visit Fairfield County",
-   "desc": "The public is welcome and encouraged to attend the 9th Annual Chili Cook-Off. In partnership with United Way of Fairfield County, Big Brothers Big Sisters provide you with a great lunch option while you support two amazing non-profits. Tickets are just $10 to eat, where you get 3 samples, 1 large bowl, a cookie, and a drink! It is also free to enter your chili! Contact Sarah at 740-687-9477 or by email sarah@bbbs-fairfieldoh.org to enter. Cash and Card accepted at the door. Please bring your friends, co-workers, or strangers you meet on the way. One great lunch for two great causes!\n\nFor more information, please visit United Way’s Facebook page."
   },
   {
    "id": "dtc-10022797",
@@ -362,69 +236,6 @@
    "url": "https://downtowncolumbus.com/event/artist-road-map/",
    "source": "Downtown Columbus",
    "desc": "Are you wanting to embark on the exciting journey of becoming a professional artist? At this FREE event, we are equipping young artists with the essential life skills needed to thrive in the world of the arts, including: financials, comparison and vulnerability, marketing and branding, and hiring insights. Join Opera Columbus immediately following Artist Road Map for OC All-Star Master Class Concert.\n\nVisit their website to RSVP."
-  },
-  {
-   "id": "crp-30536",
-   "title": "Conversations and Coffee: Vonnie M. Kriebel",
-   "start": "2026-11-12T12:00-05:00",
-   "end": "2026-11-12T13:30-05:00",
-   "allDay": false,
-   "venue": "Priscilla R. Tyson Cultural Arts Center",
-   "address": "139 W Main St., Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://columbusrecparks.com/calendar/conversations-and-coffee-vonnie-m-kriebel/",
-   "source": "Columbus Recreation & Parks",
-   "desc": "Artist in Chalk Pastels"
-  },
-  {
-   "id": "crp-10006278",
-   "title": "Dodge – Mobile Produce Market",
-   "start": "2026-11-12T14:00-05:00",
-   "end": null,
-   "allDay": false,
-   "venue": "Dodge Community Center",
-   "address": "667 Sullivant Ave, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://columbusrecparks.com/calendar/dodge-mobile-produce-market/2026-11-12/",
-   "source": "Columbus Recreation & Parks",
-   "desc": "Eligible families can pick up a one-week supply of fresh produce at no cost. Even is first-come, first-served while produce lasts."
-  },
-  {
-   "id": "crp-10006286",
-   "title": "Holton – Mobile Produce Market",
-   "start": "2026-11-12T14:00-05:00",
-   "end": null,
-   "allDay": false,
-   "venue": "Holton Community Center",
-   "address": "OH",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://columbusrecparks.com/calendar/holton-mobile-produce-market/2026-11-12/",
-   "source": "Columbus Recreation & Parks",
-   "desc": "Eligible families can pick up a one-week supply of fresh produce at no cost. Even is first-come, first-served while produce lasts."
   },
   {
    "id": "ppl-16423352",
@@ -1391,6 +1202,27 @@
    "url": "https://visitfairfieldcounty.org/events/united-way-of-fairfield-countys-annual-5k-run/",
    "source": "Visit Fairfield County",
    "desc": "Mark your calendars, as the United Way of Fairfield County’s Annual 5K Run comes back on Saturday, November 14th! They will be starting the morning off with their annual 5K Race followed with a Color Walk happening at 11:00 a.m. This year’s event is focused on helping support their Full Plate Club Program and Youth Opportunity Programs. They are asking individuals to bring in any shelf stable food items like cereal bars, fruit snacks, applesauce, fruit cups, and fun foods for the local kiddos! All food donations will get you a raffle ticket to win a fun prize! There will be a cash prize for the 5K race for the top female and male racers. There will also be a fun prize for the Color Walk Champions who fundraise the most money for their walk!\n\nTo learn more and purchase tickets, please visit United Way of Fairfield County’s website."
+  },
+  {
+   "id": "vfc-33218",
+   "title": "Pop Up Coffee Trailer at Lulu’s On Mulberry",
+   "start": "2026-11-14T08:00-05:00",
+   "end": "2026-11-14T12:00-05:00",
+   "allDay": false,
+   "venue": "219 N Columbus St",
+   "address": "219 N Columbus St, Lancaster, OH 43130, USA",
+   "town": "Lancaster",
+   "lat": 39.7160046,
+   "lon": -82.6054484,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/pop-up-coffee-trailer-at-lulus-on-mulberry/",
+   "source": "Visit Fairfield County",
+   "desc": "A little taste of Lulu’s On Mulberry is coming to Lancaster!\n\nBefore they open their doors in Spring of 2027, they will be bringing the coffee trailer out for a little Saturday morning coffee break at the Shumaker Lofts. Stop by, check out their specialty drink menu and get a first taste of what’s to come. They’d love to see you there!\n\nVisit Lulu’s on Mulberry’s Instagram page for further details."
   },
   {
    "id": "vfc-32450",
@@ -4694,6 +4526,27 @@
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
   },
   {
+   "id": "vfc-33205",
+   "title": "Live Music at Rockside Winery with David Tipple",
+   "start": "2026-11-20T18:00-05:00",
+   "end": "2026-11-20T20:00-05:00",
+   "allDay": false,
+   "venue": "",
+   "address": "2363 Lancaster-Newark Road Northeast, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 0,
+   "lon": 0,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/live-music-at-rockside-winery-with-david-tipple/",
+   "source": "Visit Fairfield County",
+   "desc": "Join Rockside Winery & Vineyards for incredible Ohio wine and the chill, unplugged vibes of the region’s best musicians! Whether you’re tucked away in the tasting room or enjoying the view of the vines, they invite you to pour a glass, grab a slice of wood-fired pizza, and let the stress of the week melt away.\n\nThis week, they are joined by David Tipple. David is an excellent acoustic musician and vocalist, playing the songs you love from past to present!\n\nPlease not their kitchen may be closed if a food truck is on site. Check their events calendar or call ahead of time to inquire about food availability. To help them keep local artists well-compensated and the music playing, they require a two-drink per person (or one bottle per couple) minimum. To maintain a safe, serene environment, they are a children-free venue every Friday, Saturday, and Sunday. Seating is first-come, first-served. Groups of 8 or more must call ahead in advance to discuss group policies and availability.\n\nVisit Rockside Winery and Vineyard’s Facebook page for further details!"
+  },
+  {
    "id": "worthington-9486",
    "title": "Family Night - Puzzles",
    "start": "2026-11-20T18:00-05:00",
@@ -5662,6 +5515,27 @@
    "url": "https://visitfairfieldcounty.org/events/sci-fi-fantasy-book-club-at-juniper-ivy-coffeehouse-2/",
    "source": "Visit Fairfield County",
    "desc": "Meet at Juniper & Ivy Coffeehouse once a month to dive in to the vivid and enchanting worlds of Sci-Fi and Fantasy (Romantacy is made up…it’s all fantasy) and discuss your favorites. October will be Project Hail Mary by Andy Weir and November will be A House in the Cerulean Sea by TJ Klune.\n\n \n\nFor more information, please visit Juniper & Ivy’s Facebook page."
+  },
+  {
+   "id": "vfc-33201",
+   "title": "Thanksgiving Cookie Class at Rhonemus Cellars",
+   "start": "2026-11-22T13:00-05:00",
+   "end": "2026-11-22T15:00-05:00",
+   "allDay": false,
+   "venue": "1511 George Rd NE",
+   "address": "1511 George Road Northeast, Lancaster, OH, USA",
+   "town": "Lancaster",
+   "lat": 39.7436328,
+   "lon": -82.5312751,
+   "area": "Fairfield County",
+   "cost": "$45",
+   "costNum": 45,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/thanksgiving-cookie-class-at-rhonemus-cellars/",
+   "source": "Visit Fairfield County",
+   "desc": "Grab your friends and family and come join Rhonemus Cellars as you learn step-by-step royal icing techniques on how to decorate 6 fall inspired sugar cookies. Featuring a mix of pumpkins, autumn leaves, delicious pies, festive turkeys, and all things fall!\n\nNo cookie decorating experience is needed. Tickets are $45. You can purchase yours here with the link. Drinks and bites will be available for additional purchase.\n\nSee Rhonemus Cellar’s Facebook Page for more details!"
   },
   {
    "id": "vfc-32950",
@@ -7279,6 +7153,27 @@
    "url": "https://visitfairfieldcounty.org/events/heart-of-christmas-craft-show-at-the-clum-auction-gallery/",
    "source": "Visit Fairfield County",
    "desc": "One of The Clum Auction Gallery’s favorite weekends of the entire year is coming, and they can’t wait to welcome everyone back to the Heart of Christmas Craft Show! If you’ve never been, this is not your ordinary craft show! Step inside the beautiful 1800s log & stone barn and experience Christmas the way it’s supposed to feel. The barn will be absolutely filled with thousands of unique items just waiting to be discovered! Whether you’re searching for that perfect Christmas gift, something special for your home, or maybe a little something for yourself, you’re sure to find it there. There’s just something magical about Christmas at The Clum Auction Gallery, and they would love for you to make it part of your holiday tradition! Grab your friends, bring your Christmas list, enjoy free admission, and come spend the day with them! You’ve never experienced Christmas shopping quite like this!\n\nFor more information, please visit the Heart of Christmas Craft Show’s Facebook page."
+  },
+  {
+   "id": "vfc-33215",
+   "title": "Ruby Joy Boutique Black Friday Weekend",
+   "start": "2026-11-27T10:00-05:00",
+   "end": "2026-11-28T18:00-05:00",
+   "allDay": false,
+   "venue": "88 W Church St",
+   "address": "88 West Church Street, Pickerington, Ohio 43147, United States",
+   "town": "Pickerington",
+   "lat": 39.88529449999999,
+   "lon": -82.7554573,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/ruby-joy-boutique-black-friday-weekend/",
+   "source": "Visit Fairfield County",
+   "desc": "Join Ruby Joy Boutique for Black Friday and Small Business Saturday! They are excited to see you this shopping season.\n\nVisit Ruby Joy Boutique’s Facebook page for further details."
   },
   {
    "id": "vfc-33190",
@@ -10330,6 +10225,27 @@
    "desc": "Take part in an ultra-festive holiday atmosphere and free activities while exploring all three Wanderlights stops. During Wander Nights, you’ll find complimentary hot chocolate and carousel rides at Columbus Commons, crackling fire pits at the Scioto Mile Fountain, special visits from Santa in the Lazarus Building galleria, and more!"
   },
   {
+   "id": "vfc-33207",
+   "title": "Kids’ Christmas Party at 4 Seasons Event Center",
+   "start": "2026-12-04T18:00-05:00",
+   "end": "2026-12-04T21:00-05:00",
+   "allDay": false,
+   "venue": "1306 Collins Rd NW",
+   "address": "1306 Collins Rd NW, Lancaster, OH, USA",
+   "town": "Lancaster",
+   "lat": 39.745601,
+   "lon": -82.6570524,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/kids-christmas-party-at-4-seasons-event-center/",
+   "source": "Visit Fairfield County",
+   "desc": "Get ready for an evening filled with Christmas magic, laughter, excitement, and unforgettable memories! 4 Seasons Event Center in Lancaster, Ohio, is excited to host a special Kids’ Christmas Party for the children and families in the community! They’ve planned a fun-filled evening featuring 9 exciting games, 8 creative Christmas crafts, pictures, snacks, prizes, and lots of holiday surprises! There’s something for every child to enjoy! Simply bring a canned food item to help support the local homeless shelter as your admission. It’s a wonderful opportunity to teach children the joy of giving while having a fantastic time! Their goal is simple – to bring the community together, put smiles on children’s faces, and create special Christmas memories that will last a lifetime!\n\n \n\nFor more information, please visit 4 Seasons Event Center’s Facebook page."
+  },
+  {
    "id": "cw-3123",
    "title": "Christmas in the Village",
    "start": "2026-12-04T18:00-05:00",
@@ -10769,6 +10685,27 @@
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35",
    "source": "City of Grove City",
    "desc": "https://www.grovecityohio.gov/calendar.aspx?EID=2747"
+  },
+  {
+   "id": "vfc-33212",
+   "title": "A Very Merry Christmas at the Lancaster Greenhouse",
+   "start": "2026-12-05T12:00-05:00",
+   "end": "2026-12-05T15:00-05:00",
+   "allDay": false,
+   "venue": "1281 Granville Pike",
+   "address": "1281 Granville Pike, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.731273,
+   "lon": -82.5914775,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/a-very-merry-christmas-at-the-lancaster-greenhouse/",
+   "source": "Visit Fairfield County",
+   "desc": "Join the Lancaster Greenhouse and Nursery for the reveal of their Christmas display and a selection of over 50 local vendors for your holiday shopping!\n\nThe most wonderful time of the year calls for a little extra magic! From holiday decorating to one-of-a-kind gifts, there’s so much to browse and enjoy. Embark on an afternoon of Christmas wine tasting with Cutting Edge, live music with Dan Neeley on guitar, and a holiday pop up with Dirt Floor Pottery.\n\nThere will be delicious bites and seasonal refreshments all afternoon. After shopping, make your holiday gifting a little more special by stopping by the wrapping station in the greenhouse.\n\nFind the perfect Christmas gift, refresh your holiday decorating, support local makers, and simply enjoy a Very Merry Christmas at the Lancaster Greenhouse!\n\nVisit the Lancaster Greenhouse and Nursery Facebook page for more information!"
   },
   {
    "id": "vfc-26546",
@@ -11327,6 +11264,27 @@
    "url": "https://visitfairfieldcounty.org/events/free-needle-felt-open-studio-at-mud-gallery/",
    "source": "Visit Fairfield County",
    "desc": "Needle Felt Open Studio at Mud Gallery on Sunday, December 6th is free and designed as a space to gather and needle-felt with others. Bring your own supplies and learn from and be inspired by each other! Mud Gallery also has a small selection of wool, needles, felting pads, and kits available for purchase.\n\n \n\nFor more information, please visit Mud Gallery’s Facebook page."
+  },
+  {
+   "id": "vfc-33210",
+   "title": "Needle Felt Ornaments Playshop at Mud Gallery",
+   "start": "2026-12-06T12:00-05:00",
+   "end": "2026-12-06T14:00-05:00",
+   "allDay": false,
+   "venue": "123 N Columbus St",
+   "address": "123 North Columbus Street, Lancaster, Ohio 43130, United States",
+   "town": "Lancaster",
+   "lat": 39.714615,
+   "lon": -82.60466339999999,
+   "area": "Fairfield County",
+   "cost": "$55",
+   "costNum": 55,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/needle-felt-ornaments-playshop-at-mud-gallery/",
+   "source": "Visit Fairfield County",
+   "desc": "Join Mud Gallery in making needle-felted ornaments! You will learn the basics of needle felting with step-by-step instructions. You’ll have everything you need to make ornaments of your own design, or copy one of theirs.\n\nYou will get a kit with colored wool, special felting needles, and a felting pad for you to keep so you can make more later! Tickets are $55 and can be purchased at the link here.\n\nThey are in the DORA district- alcoholic beverages allowed.\n\nVisit the Mud Gallery Facebook page to see further details!"
   },
   {
    "id": "vfc-26480",
@@ -15638,6 +15596,27 @@
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
   },
   {
+   "id": "vfc-33220",
+   "title": "Start Holiday Vacation at The Local Joint",
+   "start": "2026-12-17T18:00-05:00",
+   "end": null,
+   "allDay": false,
+   "venue": "434 N Columbus St",
+   "address": "434 North Columbus Street, Lancaster, OH, USA",
+   "town": "Lancaster",
+   "lat": 39.71868449999999,
+   "lon": -82.6041679,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/start-holiday-vacation-at-the-local-joint/",
+   "source": "Visit Fairfield County",
+   "desc": "Come join the Cameo League as they start holiday vacation at The Local Joint! The league’s endeavors are to bring cultural events to the citizens of Lancaster and Fairfield County. Enjoy live music by Joe Manning. Bring family and friends who come to town and 10% of drink sales from 6 – 9pm will benefit their fundraising efforts for the 2027 Lancaster Festival!\n\nVisit the Cameo League’s Facebook page for more details!"
+  },
+  {
    "id": "fcdl-17878802",
    "title": "Teen Anime Club",
    "start": "2026-12-17T18:00-05:00",
@@ -16623,6 +16602,27 @@
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27",
    "source": "City of Gahanna",
    "desc": "Presented by the Gahanna Historical Society https://www.gahanna.gov/calendar.aspx?EID=1848"
+  },
+  {
+   "id": "vfc-33203",
+   "title": "The Ugly Turtleneck Party at the Turtleneck Tavern",
+   "start": "2026-12-19T19:00-05:00",
+   "end": "2026-12-19T21:00-05:00",
+   "allDay": false,
+   "venue": "702 E Main St",
+   "address": "702 East Main Street, Lancaster, OH, USA",
+   "town": "Lancaster",
+   "lat": 39.7132832,
+   "lon": -82.5874985,
+   "area": "Fairfield County",
+   "cost": "Free–$1",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/the-ugly-turtleneck-party-at-the-turtleneck-tavern/",
+   "source": "Visit Fairfield County",
+   "desc": "Join the Turtleneck Tavern for their 1st annual Ugly Turtleneck Party! Everyone has an ugly sweater party. But have you been to an ugly turtleneck party? Thrift it, borrow it, design it. The uglier, the better.\n\nFosterHub is a local nonprofit that equips youth aging out of foster care with the life skills, education, and confidence they need to achieve lifelong independence and self-sufficiency. Every year, over 20,000 foster youth age out of the system, facing uncertain futures without permanent homes or adequate support.\n\nOrnament design station open all of December. $1 minimum donation per ornament, 100% goes to FosterHub. Decorate an ornament, hang it on their tree and help a young person build a home and future!\n\nYou can find the details of the event on the Turtleneck Tavern’s Facebook page!"
   },
   {
    "id": "vfc-32931",
@@ -17782,6 +17782,52 @@
    "url": "https://downtowncolumbus.com/event/the-dinner-detective-murder-mystery-dinner-show-6/2026-12-26/",
    "source": "Downtown Columbus",
    "desc": "America’s LARGEST interactive true crime mystery dinner show is now playing in Columbus, OH!\n\nAt The Dinner Detective Murder Mystery Dinner Show, you’ll tackle a challenging crime while you feast on a fantastic dinner. Just beware! The criminal is lurking somewhere in the room, and you may find yourself as a Prime Suspect before you know it!\n\nEach admission includes our fantastic dinner, mystery entertainment, wait staff gratuity, prize package for Top Sleuth, and much more!"
+  },
+  {
+   "id": "dtc-10017901",
+   "title": "Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors",
+   "start": "2026-12-27T10:00-05:00",
+   "end": "2026-12-27T17:00-05:00",
+   "allDay": false,
+   "venue": "National Veterans Memorial and Museum",
+   "address": "300 W Broad Street, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/portraits-of-courage-a-commander-in-chiefs-tribute-to-americas-warriors/2026-12-27/",
+   "source": "Downtown Columbus",
+   "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
+  },
+  {
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-27",
+   "title": "Free Sunday at Columbus Museum of Art",
+   "start": "2026-12-27T10:00-05:00",
+   "end": "2026-12-27T17:00-05:00",
+   "allDay": false,
+   "venue": "Columbus Museum of Art",
+   "address": "480 E Broad St, Columbus, OH 43215",
+   "town": "Columbus",
+   "lat": 39.964,
+   "lon": -82.9878,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.columbusmuseum.org/free-discounted-tickets",
+   "source": "Standing freebies",
+   "desc": "General admission is free every Sunday at the Broad Street museum. (Visitors 25 and under get in free every day.) Sunday hours 10–5.",
+   "tags": [
+    "art",
+    "museum"
+   ]
   }
  ]
 }
