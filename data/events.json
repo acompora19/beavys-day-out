@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-13T11:10:55.382Z",
+ "generated": "2026-11-13T21:28:09.824Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 337,
    "kept": 228,
-   "ms": 5609
+   "ms": 6855
   },
   {
    "source": "Fairfield County District Library",
-   "rows": 122,
-   "kept": 122,
-   "ms": 590
+   "rows": 124,
+   "kept": 123,
+   "ms": 556
   },
   {
    "source": "Pickerington Public Library",
    "rows": 222,
-   "kept": 222,
-   "ms": 635
+   "kept": 220,
+   "ms": 565
   },
   {
    "source": "City of Canal Winchester",
    "rows": 112,
    "kept": 7,
-   "ms": 399
+   "ms": 359
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 364
+   "ms": 4628
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 71
+   "ms": 4393
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 1485
+   "ms": 1449
   },
   {
    "source": "Downtown Columbus",
    "rows": 161,
-   "kept": 160,
-   "ms": 5965
+   "kept": 159,
+   "ms": 24742
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 15,
-   "kept": 15,
-   "ms": 820
+   "kept": 13,
+   "ms": 2659
   },
   {
    "source": "Metro Parks",
    "rows": 10,
    "kept": 10,
-   "ms": 1905
+   "ms": 2454
   },
   {
    "source": "Columbus Commons",
    "rows": 45,
    "kept": 44,
-   "ms": 1540
+   "ms": 4054
   },
   {
    "source": "Scioto Mile",
    "rows": 46,
    "kept": 45,
-   "ms": 1295
+   "ms": 991
   },
   {
    "source": "City of Gahanna",
    "rows": 81,
    "kept": 9,
-   "ms": 568
+   "ms": 479
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 77,
    "kept": 5,
-   "ms": 96
+   "ms": 111
   },
   {
    "source": "City of Grove City",
    "rows": 15,
    "kept": 14,
-   "ms": 272
+   "ms": 270
   },
   {
    "source": "City of Worthington",
    "rows": 96,
    "kept": 21,
-   "ms": 523
+   "ms": 437
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 298
+   "ms": 273
   },
   {
    "source": "Standing freebies",
    "rows": 9,
    "kept": 9,
-   "ms": 9
+   "ms": 6
   }
  ],
  "events": [
@@ -154,48 +154,6 @@
    "desc": "Color Improvisations 3: A Major Exhibition of Contemporary Quilts features 38 large quilts that explore color, scale, and improvisation in contemporary textile art. Curated by internationally recognized artist Nancy Crow, the exhibition at the Decorative Arts Center of Ohio includes works by quiltmakers from the United States, Canada, and New Zealand, highlighting the creativity, innovation and artistic excellence shaping contemporary quilt making today. Using bold abstract forms and richly worked fabrics, the artists balance exquisite skill with creative risk. Their quilts invite viewers to experience color as movement, texture, and feeling. This exhibition will run from October 3rd, 2026 to January 3rd, 2027.\n\n \n\nFor more information, please visit the Decorative Arts Center of Ohio’s website."
   },
   {
-   "id": "fcdl-15099479",
-   "title": "Community Playgroup",
-   "start": "2026-11-13T10:00-05:00",
-   "end": "2026-11-13T11:00-05:00",
-   "allDay": false,
-   "venue": "Northwest Branch",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/15099479",
-   "source": "Fairfield County District Library",
-   "desc": "This community playgroup is open to all and offers children time to interact and explore a creative space, participate in music and movement activities, and for parents and caregivers to connect. No registration necessary."
-  },
-  {
-   "id": "ppl-16823446",
-   "title": "Stories and Songs: Apples and Pumpkins",
-   "start": "2026-11-13T10:00-05:00",
-   "end": "2026-11-13T10:30-05:00",
-   "allDay": false,
-   "venue": "Sycamore Plaza  · Meeting Room",
-   "address": "7861 Refugee Rd, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.9173,
-   "lon": -82.7918,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16823446",
-   "source": "Pickerington Public Library",
-   "desc": "Great for the whole family, this early literacy class will get children ages 2 - 5 excited about reading! We feature talking, singing, reading, writing, and playing to help your child assemble the necessary building blocks of early literacy. Open to children, their caregivers, and siblings. Early literacy is what children learn and know about reading, writing, and math before they can read or write or perform basic math. \n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
    "id": "dtc-10017875",
    "title": "Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors",
    "start": "2026-11-13T10:00-05:00",
@@ -238,27 +196,6 @@
    "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
   },
   {
-   "id": "dtc-10022829",
-   "title": "Music of the Knights",
-   "start": "2026-11-13T10:30-05:00",
-   "end": "2026-11-13T12:30-05:00",
-   "allDay": false,
-   "venue": "Davidson Theater –  Riffe Center Theatre Complex",
-   "address": "77 S. High Street, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/music-of-the-knights/2026-11-13/1/",
-   "source": "Downtown Columbus",
-   "desc": "A thrilling musical celebration of three of Britain’s legendary songwriters! Sir Andrew Lloyd Webber, Sir Elton John and Sir Paul McCartney are not only knights — they also happen to be three of the most successful songwriters of all time with careers that span decades. “Music of the Knights” honors their lasting musical influence with songs like “Memory,” “Can You Feel the Love Tonight,” “Hey Jude” and many more!"
-  },
-  {
    "id": "dtc-10022798",
    "title": "Spirit & Dust",
    "start": "2026-11-13T11:00-05:00",
@@ -278,69 +215,6 @@
    "url": "https://downtowncolumbus.com/event/spirit-dust/2026-11-13/",
    "source": "Downtown Columbus",
    "desc": "“Death is a Dialogue between / The Spirit and the Dust,” writes poet Emily Dickinson. Living is a daily conversation with death, and through art, we continue that dialogue with mortality, loss, and our own humanity. In Spirit & Dust, artists working across various disciplines—from photography and sculpture to poetry and dance—seek to create space for care and connection in confronting questions of death and dying. What do we gather from our grief? How is this knowledge embodied, and what can art provide for this relationship? What can death teach us about what it means to be alive?\n\nThe process of creating art serves as a mirror for thinking about dying as a verb, where time is experienced as cyclical rather than linear. Each artist’s medium of choice in Spirit & Dust experiments with how we can deepen our relationship with the process of dying, such as through abstraction in photography, blank space in poetry, the ephemerality of dance, and the fallibility of materials in sculpture.\n\nSpirit & Dust is on view concurrently with Experiencing Veterans and Artists Collaborations (EVAC) in the corridor space, which pairs veterans’ stories with original printmaking.\n\nCurated by Diane Cal"
-  },
-  {
-   "id": "ppl-16832702",
-   "title": "Homeschool Connect with Fairfield County Park District",
-   "start": "2026-11-13T13:00-05:00",
-   "end": "2026-11-13T14:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room A",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16832702",
-   "source": "Pickerington Public Library",
-   "desc": "Homeschool Connect is a great way to make connections and network with other homeschool families. Classes will focus on science, art, literature, and more and are designed for children in grades K-5. This month we will learn about food on the Ohio frontier in the 1800s. We will even get to try some johnnycakes!\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "crp-10006294",
-   "title": "Barnett – Mobile Produce Market",
-   "start": "2026-11-13T14:00-05:00",
-   "end": null,
-   "allDay": false,
-   "venue": "Barnett Community Center",
-   "address": "1184 Barnett Rd., Columbus, OH, 43227",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://columbusrecparks.com/calendar/barnett-mobile-produce-market/2026-11-13/",
-   "source": "Columbus Recreation & Parks",
-   "desc": "Eligible families can pick up a one-week supply of fresh produce at no cost. Even is first-come, first-served while produce lasts."
-  },
-  {
-   "id": "crp-10006302",
-   "title": "Far East – Mobile Produce Market",
-   "start": "2026-11-13T14:00-05:00",
-   "end": null,
-   "allDay": false,
-   "venue": "Far East Community Center",
-   "address": "1826 Lattimer Dr., Columbus, OH, 43227",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://columbusrecparks.com/calendar/far-east-mobile-produce-market/2026-11-13/",
-   "source": "Columbus Recreation & Parks",
-   "desc": "Eligible families can pick up a one-week supply of fresh produce at no cost. Event is first-come, first-served while produce lasts."
   },
   {
    "id": "ppl-16833777",
@@ -8482,6 +8356,27 @@
    "desc": "Have you seen the white owl? At this storytime, we'll search for a barn owl and then make an owl for you to take home.\n\nNo registration necessary."
   },
   {
+   "id": "fcdl-17913235",
+   "title": "Family Storytime at Johns",
+   "start": "2026-12-02T10:30-05:00",
+   "end": "2026-12-02T11:15-05:00",
+   "allDay": false,
+   "venue": "Johns Branch",
+   "address": "",
+   "town": "Lancaster",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17913235",
+   "source": "Fairfield County District Library",
+   "desc": "Join us each week as we celebrate our ABCs with stories, songs and crafts. No registration necessary."
+  },
+  {
    "id": "ppl-16831275",
    "title": "Preschool Pals: Books That Sing",
    "start": "2026-12-02T11:00-05:00",
@@ -11747,6 +11642,27 @@
    "url": "https://www.fcdlibrary.org/event/17879446",
    "source": "Fairfield County District Library",
    "desc": "Come celebrate the holiday season with stories, songs, and a craft!\n\nNo registration necessary"
+  },
+  {
+   "id": "fcdl-17913236",
+   "title": "Family Storytime at Johns",
+   "start": "2026-12-09T10:30-05:00",
+   "end": "2026-12-09T11:15-05:00",
+   "allDay": false,
+   "venue": "Johns Branch",
+   "address": "",
+   "town": "Lancaster",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17913236",
+   "source": "Fairfield County District Library",
+   "desc": "Join us each week as we celebrate our ABCs with stories, songs and crafts. No registration necessary."
   },
   {
    "id": "vfc-28170",
@@ -15845,7 +15761,7 @@
    "indoor": true,
    "url": "https://www.fcdlibrary.org/event/17870712",
    "source": "Fairfield County District Library",
-   "desc": "Any skill level are welcome! We’ve got free dice for first-timers, stacks of character sheets, and friendly guides who would love to help you learn the ropes or find you your next campaign party.\n\nWant to run a game? E-mail Ben at bclaymier@fcdlibrary.org to learn how you can be a volunteer DM.\n\nRegister now by hopping online, using our app, or by calling us at (740) 653-2745 extension 160.\n\nHey! Listen! All attendees under high school age must be accompanied by an adult, please & thank you."
+   "desc": "Players and DM's of all levels are welcome! We’ve got dice, character sheets, and friendly guides who would love to help you learn the ropes, or find you your next campaign party.\n\nWant to run a game? E-mail Ben at bclaymier@fcdlibrary.org to learn how you can be a volunteer DM.\n\nRegister now by hopping online, using our app, or by calling us at (740) 653-2745 extension 160.\n\nHey! Listen! All attendees under high school age must be accompanied by an adult, please & thank you."
   },
   {
    "id": "dtc-10020479",
