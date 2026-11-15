@@ -1,59 +1,59 @@
 {
- "generated": "2026-11-15T01:06:44.646Z",
+ "generated": "2026-11-15T11:08:57.113Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 338,
-   "kept": 213,
-   "ms": 6432
+   "kept": 210,
+   "ms": 5642
   },
   {
    "source": "Fairfield County District Library",
-   "rows": 129,
-   "kept": 127,
-   "ms": 455
+   "rows": 128,
+   "kept": 128,
+   "ms": 704
   },
   {
    "source": "Pickerington Public Library",
-   "rows": 219,
-   "kept": 216,
-   "ms": 592
+   "rows": 218,
+   "kept": 218,
+   "ms": 666
   },
   {
    "source": "City of Canal Winchester",
    "rows": 112,
    "kept": 7,
-   "ms": 345
+   "ms": 387
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 251
+   "ms": 344
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 69
+   "ms": 74
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 206
+   "ms": 886
   },
   {
    "source": "Downtown Columbus",
-   "rows": 158,
-   "kept": 155,
-   "ms": 22433
+   "rows": 152,
+   "kept": 151,
+   "ms": 6268
   },
   {
    "source": "Columbus Recreation & Parks",
-   "rows": 12,
+   "rows": 11,
    "kept": 11,
-   "ms": 619
+   "ms": 705
   },
   {
    "source": "Metro Parks",
@@ -62,51 +62,51 @@
   },
   {
    "source": "Columbus Commons",
-   "rows": 46,
+   "rows": 47,
    "kept": 46,
-   "ms": 1959
+   "ms": 1498
   },
   {
    "source": "Scioto Mile",
-   "rows": 47,
+   "rows": 48,
    "kept": 47,
-   "ms": 965
+   "ms": 1278
   },
   {
    "source": "City of Gahanna",
    "rows": 81,
    "kept": 9,
-   "ms": 437
+   "ms": 1019
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 77,
    "kept": 5,
-   "ms": 126
+   "ms": 92
   },
   {
    "source": "City of Grove City",
    "rows": 15,
    "kept": 14,
-   "ms": 216
+   "ms": 278
   },
   {
    "source": "City of Worthington",
    "rows": 93,
    "kept": 18,
-   "ms": 385
+   "ms": 646
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 249
+   "ms": 288
   },
   {
    "source": "Standing freebies",
    "rows": 9,
    "kept": 9,
-   "ms": 8
+   "ms": 5
   }
  ],
  "events": [
@@ -151,174 +151,6 @@
    "url": "https://visitfairfieldcounty.org/events/color-improvisations-3-a-major-exhibition-of-contemporary-quilts/",
    "source": "Visit Fairfield County",
    "desc": "Color Improvisations 3: A Major Exhibition of Contemporary Quilts features 38 large quilts that explore color, scale, and improvisation in contemporary textile art. Curated by internationally recognized artist Nancy Crow, the exhibition at the Decorative Arts Center of Ohio includes works by quiltmakers from the United States, Canada, and New Zealand, highlighting the creativity, innovation and artistic excellence shaping contemporary quilt making today. Using bold abstract forms and richly worked fabrics, the artists balance exquisite skill with creative risk. Their quilts invite viewers to experience color as movement, texture, and feeling. This exhibition will run from October 3rd, 2026 to January 3rd, 2027.\n\n \n\nFor more information, please visit the Decorative Arts Center of Ohio’s website."
-  },
-  {
-   "id": "dtc-10012277",
-   "title": "The Dinner Detective Murder Mystery Dinner Show",
-   "start": "2026-11-14T18:00-05:00",
-   "end": "2026-11-14T21:00-05:00",
-   "allDay": false,
-   "venue": "Plaza Hotel Columbus at Capitol Square",
-   "address": "75 E State Street, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "$75",
-   "costNum": 75,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/the-dinner-detective-murder-mystery-dinner-show-6/2026-11-14/",
-   "source": "Downtown Columbus",
-   "desc": "America’s LARGEST interactive true crime mystery dinner show is now playing in Columbus, OH!\n\nAt The Dinner Detective Murder Mystery Dinner Show, you’ll tackle a challenging crime while you feast on a fantastic dinner. Just beware! The criminal is lurking somewhere in the room, and you may find yourself as a Prime Suspect before you know it!\n\nEach admission includes our fantastic dinner, mystery entertainment, wait staff gratuity, prize package for Top Sleuth, and much more!"
-  },
-  {
-   "id": "dtc-10018608",
-   "title": "Dinner Detective Columbus",
-   "start": "2026-11-14T18:00-05:00",
-   "end": "2026-11-14T21:00-05:00",
-   "allDay": false,
-   "venue": "Embassy Suites by Hilton Columbus",
-   "address": "2700 Corporate Exchange Dr C, Columbus, OH, 43231",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "$75",
-   "costNum": 75,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/dinner-detective-columbus/2026-11-14/",
-   "source": "Downtown Columbus",
-   "desc": "America’s premiere interactive comedy true-crime mystery experience is now playing! Solve a hilarious mystery while you feast on a fantastic dinner. Just beware! The culprit is hiding in plain sight somewhere in the room, and you may find yourself as a Prime Suspect before you know it! Each ticket includes our signature award-winning true-crime mystery dinner theatre show (based on actual cold cases), along with a full plated dinner, waitstaff gratuity, and plenty of surprises during the show!"
-  },
-  {
-   "id": "vfc-32945",
-   "title": "Lantern Hike at Blacklick Woods Metro Park",
-   "start": "2026-11-14T18:30-05:00",
-   "end": "2026-11-14T19:30-05:00",
-   "allDay": false,
-   "venue": "6975 E Livingston Ave",
-   "address": "6975 East Livingston Avenue, Reynoldsburg, Ohio 43068, United States",
-   "town": "Reynoldsburg",
-   "lat": 39.94379499999999,
-   "lon": -82.811707,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/lantern-hike-at-blacklick-woods-metro-park/",
-   "source": "Visit Fairfield County",
-   "desc": "Join Blacklick Woods Metro Park to take a guided, 1.5-mile, lantern-lit hike through the Walter Tucker State Nature Preserve. This program is for all ages!\n\n \n\nFor more information, please visit Blacklick Woods Metro Park’s website."
-  },
-  {
-   "id": "vfc-29516",
-   "title": "Kristin Nicole Live Music at Manchester Hill Winery",
-   "start": "2026-11-14T19:00-05:00",
-   "end": "2026-11-14T21:00-05:00",
-   "allDay": false,
-   "venue": "13160 Tarlton Rd",
-   "address": "13160 Tarlton Road, Circleville, Ohio 43113, United States",
-   "town": "Circleville",
-   "lat": 39.5559423,
-   "lon": -82.7844702,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/kristin-nicole-live-music-at-manchester-hill-winery-3/",
-   "source": "Visit Fairfield County",
-   "desc": "Head out to Manchester Hill Winery to enjoy live music by Kristin Nicole on Saturday, November 14th! Kristin Nicole is a singer-songwriter based in Columbus, Ohio. Mixing acoustic vibes, pop melodies and rock n’ roll soul, you can catch her playing covers and originals around the area, playing bands Snack Time and Red Healer or singing the National Anthem at local events. Check out her most recent single “Watch Me Go” as well as music from her side project Eternal Midnight, now available everywhere music is sold. Cheers!\n\n \n\n \n\nFor more information, please visit Manchester Hill Winery’s Facebook page."
-  },
-  {
-   "id": "dtc-10018531",
-   "title": "Columbus Blue Jackets Game",
-   "start": "2026-11-14T19:00-05:00",
-   "end": null,
-   "allDay": false,
-   "venue": "Nationwide Arena",
-   "address": "200 W Nationwide Blvd, Columbus, OH",
-   "town": "Columbus",
-   "lat": 39.9692575,
-   "lon": -83.0059922,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/columbus-blue-jackets-game-6/2026-11-14/",
-   "source": "Downtown Columbus",
-   "desc": "Cheer on the Columbus Blue Jackets in this regular season game at Nationwide Arena!\n\nGet tickets here!"
-  },
-  {
-   "id": "dtc-1044975",
-   "title": "Palace 100: The Genius of Ray Charles",
-   "start": "2026-11-14T19:30-05:00",
-   "end": "2026-11-14T21:30-05:00",
-   "allDay": false,
-   "venue": "Palace Theatre",
-   "address": "34 W Broad St, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": 39.9623526,
-   "lon": -83.0017092,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/palace-100-the-genius-of-ray-charles/",
-   "source": "Downtown Columbus",
-   "desc": "In celebration of the Palace Theatre’s 100th birthday, an extraordinary lineup of artists takes the Palace stage to honor the music and legacy of the legendary Ray Charles, who performed at the theatre multiple times throughout his career.\n\nHosted by legendary bandleader and television personality Paul Shaffer, the concert features Patti Austin, Aloe Blacc, Blessing Offor, Lisa Fischer, Billy Valentine and more, with Grammy-winning drummer and producer Gregg Field bringing together this remarkable cast of artists."
-  },
-  {
-   "id": "dtc-1045696",
-   "title": "The Jinkx & DeLa Holiday Show",
-   "start": "2026-11-14T20:00-05:00",
-   "end": "2026-11-14T22:00-05:00",
-   "allDay": false,
-   "venue": "Southern Theatre",
-   "address": "21 E Main St, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": 39.9560565,
-   "lon": -82.9986564,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/the-jinkx-dela-holiday-show/",
-   "source": "Downtown Columbus",
-   "desc": "The greatest holiday show south of the North Pole is back with another brand spankin’ new wintertide wonder! Award-winning comedy icons, writers, actors, and drag queen powerhouses BenDeLaCreme & Jinkx Monsoon are coming back to town with the wildly successful, internationally acclaimed, “The Jinkx & DeLa Holiday Show.”"
-  },
-  {
-   "id": "vfc-32896",
-   "title": "Double Edge After Dark at Double Edge Brewing",
-   "start": "2026-11-14T21:00-05:00",
-   "end": "2026-11-14T23:59-05:00",
-   "allDay": false,
-   "venue": "158 W Chestnut St",
-   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7123144,
-   "lon": -82.6041679,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/double-edge-after-dark-at-double-edge-brewing/",
-   "source": "Visit Fairfield County",
-   "desc": "They’re turning Double Edge Brewing Co. into a dance club once again with their friends at Queens Entertainment on Saturday, November 14th! That’s right…the brewery becomes a dance party and DEAD: Double Edge After Dark is back baby! Lights down, music up, and suddenly you remember every word to a song you haven’t heard since your MySpace days. The holidays are coming, so consider this your excuse to get everyone together before the family chaos kicks in. Or, if family gatherings aren’t exactly your thing, consider this your official excuse to get out of one. DEAD is more than a dance party. The Queens started Double Edge After Dark because they know what it feels like to be out somewhere and still feel out of place. They wanted to create the kind of space where everyone is welcome, everyone can be themselves, and nobody has to wonder if they belong. So come out, let loose, and party the night away! This is a 21+ only event.\n\nFor more information, please visit Queens Entertainment’s Facebook page."
   },
   {
    "id": "vfc-32682",
@@ -405,7 +237,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-14",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-15",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-15T10:00-05:00",
    "end": "2026-11-15T17:00-05:00",
@@ -3853,7 +3685,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-21",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-22",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-22T10:00-05:00",
    "end": "2026-11-22T17:00-05:00",
@@ -6398,7 +6230,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-28",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-29",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-29T10:00-05:00",
    "end": "2026-11-29T17:00-05:00",
@@ -9279,7 +9111,7 @@
    "desc": "https://www.reynoldsburg.gov/calendar.aspx?EID=1415"
   },
   {
-   "id": "recurring-short-north-gallery-hop-2026-12-04",
+   "id": "recurring-short-north-gallery-hop-2026-12-05",
    "title": "Short North Gallery Hop",
    "start": "2026-12-05T16:00-05:00",
    "end": "2026-12-05T20:00-05:00",
@@ -9535,7 +9367,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-05",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-06",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-06T10:00-05:00",
    "end": "2026-12-06T17:00-05:00",
@@ -9560,7 +9392,7 @@
    ]
   },
   {
-   "id": "recurring-community-day-at-franklin-park-conservatory-2026-12-05",
+   "id": "recurring-community-day-at-franklin-park-conservatory-2026-12-06",
    "title": "Community Day at Franklin Park Conservatory",
    "start": "2026-12-06T10:00-05:00",
    "end": "2026-12-06T17:00-05:00",
@@ -12735,7 +12567,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-12",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-13",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-13T10:00-05:00",
    "end": "2026-12-13T17:00-05:00",
@@ -15217,7 +15049,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-19",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-20",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-20T10:00-05:00",
    "end": "2026-12-20T17:00-05:00",
@@ -16313,7 +16145,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-26",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-27",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-27T10:00-05:00",
    "end": "2026-12-27T17:00-05:00",
@@ -16548,6 +16380,69 @@
    "desc": "What makes a bath bomb fizz? There’s a little science behind the bubbles!\n\nSatisfy your curiosity at our December Monday Makers class. Create homemade bath fizzies using common household supplies and the special ingredient that makes them fizz. Then personalize your creations with essential oils, dried flowers, and other fun surprises.\n\nAll supplies are provided. Registration is required.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
+   "id": "fcdl-17878105",
+   "title": "All About Axolotls",
+   "start": "2026-12-29T14:00-05:00",
+   "end": "2026-12-29T15:00-05:00",
+   "allDay": false,
+   "venue": "*Main Library · Gallery (Lancaster)",
+   "address": "",
+   "town": "Lancaster",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17878105",
+   "source": "Fairfield County District Library",
+   "desc": "Get ready for this year's Winter Reading Challenge: Let's All Read-A-Lotl! Learn about these amazing aquatic salamanders: facts, crafts, and more.\n\nRegister online, on our app, by by calling (740) 653 - 2745 ext. 140"
+  },
+  {
+   "id": "ppl-17409123",
+   "title": "Board Game Club",
+   "start": "2026-12-29T16:00-05:00",
+   "end": "2026-12-29T18:00-05:00",
+   "allDay": false,
+   "venue": "Pickerington Main · Atrium",
+   "address": "201 Opportunity Way, Pickerington, OH 43147",
+   "town": "Pickerington",
+   "lat": 39.8958,
+   "lon": -82.7563,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://pickeringtonlibrary.libnet.info/event/17409123",
+   "source": "Pickerington Public Library",
+   "desc": "Stop by the Pickerington Main Library on Tuesday afternoon to play board games! Hosted by Tom, a local board game enthusiast, this club offers a welcoming space to play, learn new games, and enjoy great company. All games are provided, just bring your interest and love for board games!\n\nFor specific accommodation requests or inquiries, please contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
+  },
+  {
+   "id": "ppl-16855420",
+   "title": "Teen Advisory Board (TAB)",
+   "start": "2026-12-29T17:00-05:00",
+   "end": "2026-12-29T18:00-05:00",
+   "allDay": false,
+   "venue": "Pickerington Main · Large Conference Room",
+   "address": "201 Opportunity Way, Pickerington, OH 43147",
+   "town": "Pickerington",
+   "lat": 39.8958,
+   "lon": -82.7563,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://pickeringtonlibrary.libnet.info/event/16855420",
+   "source": "Pickerington Public Library",
+   "desc": "The Teen Advisory Board (TAB) is a group of teenage volunteers who collaborate with library staff on programs, services, and resources relevant to teens. The primary goal of a Teen Advisory Board is to give teens a voice in shaping the library's offerings, ensuring the library remains engaging and responsive to the needs of its younger customers. Members share ideas, help plan teen events, suggest new books or media, and make a difference in the community, all while developing leadership and teamwork skills. \n\nTAB is open to all teens in grades 7-12. Through this process, teens will sign up as volunteers and earn volunteer hours if needed. Teens may join TAB at any time throughout the year.\n\nMeetings will occur on the last Tuesday of each month at both locations from 5:00-6:00 p.m. Teens should choose one location, either Pickerington Main Library or Sycamore Plaza Library, as their home base for TAB and attend all meetings there. Note: The Dec. 29 meeting will be held at Pickerington Main Library as a combined meeting of the TAB from each location. \n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
+  },
+  {
    "id": "dtc-10022715",
    "title": "FREE Wanderlights",
    "start": "2026-12-29T17:00-05:00",
@@ -16630,6 +16525,27 @@
    "url": "https://visitfairfieldcounty.org/events/2026-12-29-combustion-run-at-combustion-brewery/",
    "source": "Visit Fairfield County",
    "desc": "Join Combustion Brewery & Taproom for Combustion RUN, kicking off every Tuesday from the taproom at 6:30 p.m! You’ll move together along a three mile paved loop through Pickerington before returning to Combustion where you can enjoy fresh bevvies from the brewery, a meal from the food truck, dinner from a local business, or all three! If you’re not up for three miles, do less, and if you’re itching to go long, do more; they’re not there to judge. Pace doesn’t matter – as long as you’re moving, they’re here for it!\n\n \n\nFor more information, please visit Combustion Brewery’s Facebook page."
+  },
+  {
+   "id": "dtc-10004707",
+   "title": "November Project Scioto Mile Free Workout",
+   "start": "2026-12-30T06:00-05:00",
+   "end": "2026-12-30T08:00-05:00",
+   "allDay": false,
+   "venue": "Genoa Park",
+   "address": "303 W Broad St, Columbus, OH",
+   "town": "Columbus",
+   "lat": 39.9598672,
+   "lon": -83.0054187,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/november-project-scioto-mile-free-workout/2026-12-30/",
+   "source": "Downtown Columbus",
+   "desc": "November Project is a free outside fitness group that started in Boston in 2011 to break down barriers to movement! Now in 53 cities around the globe, we create free, fun, scalable (adjustable to your fitness level) workouts for all ages – and doggos!\n\nOur workout starts at 6:14a every Wednesday morning in Genoa Park on the Scioto Mile (on the steps behind COSI). We work out for 45 minutes together until 7am, then walk down to One Line Coffee to hang out before work!\n\nCome join us if you’re an off-the-couch fitness newbie, a runner looking to cross-train, or any fitness level in between, we’d love to see you!"
   }
  ]
 }
