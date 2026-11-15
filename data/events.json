@@ -1,59 +1,59 @@
 {
- "generated": "2026-11-15T11:08:57.113Z",
+ "generated": "2026-11-15T20:26:25.913Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 338,
-   "kept": 210,
-   "ms": 5642
+   "kept": 207,
+   "ms": 6452
   },
   {
    "source": "Fairfield County District Library",
    "rows": 128,
    "kept": 128,
-   "ms": 704
+   "ms": 464
   },
   {
    "source": "Pickerington Public Library",
    "rows": 218,
    "kept": 218,
-   "ms": 666
+   "ms": 575
   },
   {
    "source": "City of Canal Winchester",
    "rows": 112,
-   "kept": 7,
-   "ms": 387
+   "kept": 8,
+   "ms": 397
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 344
+   "ms": 228
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 74
+   "ms": 60
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 886
+   "ms": 206
   },
   {
    "source": "Downtown Columbus",
    "rows": 152,
    "kept": 151,
-   "ms": 6268
+   "ms": 11760
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 11,
    "kept": 11,
-   "ms": 705
+   "ms": 584
   },
   {
    "source": "Metro Parks",
@@ -64,49 +64,49 @@
    "source": "Columbus Commons",
    "rows": 47,
    "kept": 46,
-   "ms": 1498
+   "ms": 6607
   },
   {
    "source": "Scioto Mile",
    "rows": 48,
    "kept": 47,
-   "ms": 1278
+   "ms": 845
   },
   {
    "source": "City of Gahanna",
    "rows": 81,
    "kept": 9,
-   "ms": 1019
+   "ms": 420
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 77,
    "kept": 5,
-   "ms": 92
+   "ms": 88
   },
   {
    "source": "City of Grove City",
    "rows": 15,
    "kept": 14,
-   "ms": 278
+   "ms": 208
   },
   {
    "source": "City of Worthington",
    "rows": 93,
    "kept": 18,
-   "ms": 646
+   "ms": 492
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 288
+   "ms": 271
   },
   {
    "source": "Standing freebies",
    "rows": 9,
    "kept": 9,
-   "ms": 5
+   "ms": 8
   }
  ],
  "events": [
@@ -151,69 +151,6 @@
    "url": "https://visitfairfieldcounty.org/events/color-improvisations-3-a-major-exhibition-of-contemporary-quilts/",
    "source": "Visit Fairfield County",
    "desc": "Color Improvisations 3: A Major Exhibition of Contemporary Quilts features 38 large quilts that explore color, scale, and improvisation in contemporary textile art. Curated by internationally recognized artist Nancy Crow, the exhibition at the Decorative Arts Center of Ohio includes works by quiltmakers from the United States, Canada, and New Zealand, highlighting the creativity, innovation and artistic excellence shaping contemporary quilt making today. Using bold abstract forms and richly worked fabrics, the artists balance exquisite skill with creative risk. Their quilts invite viewers to experience color as movement, texture, and feeling. This exhibition will run from October 3rd, 2026 to January 3rd, 2027.\n\n \n\nFor more information, please visit the Decorative Arts Center of Ohio’s website."
-  },
-  {
-   "id": "vfc-32682",
-   "title": "Kegs & Eggs at Double Edge Brewing",
-   "start": "2026-11-15T09:00-05:00",
-   "end": "2026-11-15T12:00-05:00",
-   "allDay": false,
-   "venue": "158 W Chestnut St",
-   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7123144,
-   "lon": -82.6041679,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/kegs-eggs-at-double-edge-brewing-7/",
-   "source": "Visit Fairfield County",
-   "desc": "From 9 a.m. to 12 p.m., Kermit’s Food Truck will be posted up on the patio slinging some of the best brunch this side of Chestnut St. — and Double Edge Brewing is pouring the good stuff to go with it. They will have NFL games on the big screen and over the speakers, drink specials, as well as their regular beer, cider, and seltzers. They’ll be doing Kegs & Eggs every Sunday through November 15th, so make it part of your weekend routine. Grab some brunch, grab a beer, yell at the TV a little too loudly…you know, Sunday stuff.\n\nFor more information, please visit Double Edge Brewing’s Facebook page."
-  },
-  {
-   "id": "vfc-31891",
-   "title": "The Alley Trail Classic at Alley Park",
-   "start": "2026-11-15T09:00-05:00",
-   "end": "2026-11-15T12:00-05:00",
-   "allDay": false,
-   "venue": "2805 Old Logan Rd SE",
-   "address": "2805 Old Logan Road Southeast, Lancaster, Ohio 43130, United States",
-   "town": "Lancaster",
-   "lat": 39.6814216,
-   "lon": -82.5740962,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/the-alley-trail-classic-at-alley-park/",
-   "source": "Visit Fairfield County",
-   "desc": "Presented by TINAR Race Series and RacePenguin, The Alley Trail Classic features an introductory 5km trail race and a challenging, multi-loop 28km endurance challenge. They will have cash prizes paying three places deep and finisher medals, shirts, and a free plant-based meal for all participants. If you loved the Alley Trail Marathon, this race is for you. TINAR is back, returning to where it all begin: Alley Park in Lancaster, Ohio. Join them this fall on the trails—they can’t wait to see you again!\n\nFor more information and to register, please visit Alley Trail Classic’s website."
-  },
-  {
-   "id": "vfc-32799",
-   "title": "Fused Glass Holiday Classes at the Ohio Glass Museum",
-   "start": "2026-11-15T10:00-05:00",
-   "end": "2026-11-15T12:00-05:00",
-   "allDay": false,
-   "venue": "124 W Main St",
-   "address": "124 West Main Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7134997,
-   "lon": -82.60296450000001,
-   "area": "Fairfield County",
-   "cost": "$55",
-   "costNum": 55,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/2026-11-15-fused-glass-holiday-classes-at-the-ohio-glass-museum/",
-   "source": "Visit Fairfield County",
-   "desc": "Design your own snowman, candy cane, or gingerbread man with crushed glass frit, round dots, stringers, and some Dicro glass to add some extra sparkle to this holiday season at the Ohio Glass Museum! Tickets are $55 per person with groups of up to 6. Please enter through the glass double doors in the front of the building. Walk through the front lobby and take the elevator to the lower level and it will take you straight into the Fused Glass Department. Purchase your tickets online today before they sell out!\n\n \n\nFor more information, please visit the Ohio Glass Museum’s Facebook page."
   },
   {
    "id": "dtc-10017877",
@@ -16546,6 +16483,27 @@
    "url": "https://downtowncolumbus.com/event/november-project-scioto-mile-free-workout/2026-12-30/",
    "source": "Downtown Columbus",
    "desc": "November Project is a free outside fitness group that started in Boston in 2011 to break down barriers to movement! Now in 53 cities around the globe, we create free, fun, scalable (adjustable to your fitness level) workouts for all ages – and doggos!\n\nOur workout starts at 6:14a every Wednesday morning in Genoa Park on the Scioto Mile (on the steps behind COSI). We work out for 45 minutes together until 7am, then walk down to One Line Coffee to hang out before work!\n\nCome join us if you’re an off-the-couch fitness newbie, a runner looking to cross-train, or any fitness level in between, we’d love to see you!"
+  },
+  {
+   "id": "cw-2927",
+   "title": "Kid Zone",
+   "start": "2026-12-30T09:00-05:00",
+   "end": "2026-12-30T11:00-05:00",
+   "allDay": false,
+   "venue": "",
+   "address": "- City Hall Council Chambers 45 E. Waterloo Street Canal Winchester OH 43110",
+   "town": "Canal Winchester",
+   "lat": 39.8428,
+   "lon": -82.8046,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25",
+   "source": "City of Canal Winchester",
+   "desc": "https://www.canalwinchesterohio.gov/calendar.aspx?EID=2927"
   }
  ]
 }
