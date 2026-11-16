@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-16T11:37:54.036Z",
+ "generated": "2026-11-16T23:46:13.602Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
-   "rows": 338,
-   "kept": 207,
-   "ms": 7072
+   "rows": 347,
+   "kept": 216,
+   "ms": 4897
   },
   {
    "source": "Fairfield County District Library",
    "rows": 126,
-   "kept": 126,
-   "ms": 373
+   "kept": 124,
+   "ms": 674
   },
   {
    "source": "Pickerington Public Library",
-   "rows": 220,
-   "kept": 220,
-   "ms": 585
+   "rows": 221,
+   "kept": 217,
+   "ms": 801
   },
   {
    "source": "City of Canal Winchester",
    "rows": 112,
    "kept": 8,
-   "ms": 336
+   "ms": 360
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 228
+   "ms": 344
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 61
+   "ms": 69
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 1123
+   "ms": 855
   },
   {
    "source": "Downtown Columbus",
    "rows": 154,
-   "kept": 151,
-   "ms": 8315
+   "kept": 154,
+   "ms": 8030
   },
   {
    "source": "Columbus Recreation & Parks",
-   "rows": 11,
-   "kept": 11,
-   "ms": 615
+   "rows": 13,
+   "kept": 13,
+   "ms": 809
   },
   {
    "source": "Metro Parks",
    "rows": 9,
    "kept": 9,
-   "ms": 7201
+   "ms": 1894
   },
   {
    "source": "Columbus Commons",
    "rows": 48,
-   "kept": 47,
-   "ms": 1537
+   "kept": 48,
+   "ms": 4405
   },
   {
    "source": "Scioto Mile",
    "rows": 49,
-   "kept": 48,
-   "ms": 869
+   "kept": 49,
+   "ms": 1318
   },
   {
    "source": "City of Gahanna",
    "rows": 81,
    "kept": 9,
-   "ms": 435
+   "ms": 646
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 77,
    "kept": 5,
-   "ms": 90
+   "ms": 94
   },
   {
    "source": "City of Grove City",
-   "rows": 15,
+   "rows": 14,
    "kept": 14,
-   "ms": 207
+   "ms": 427
   },
   {
    "source": "City of Worthington",
    "rows": 93,
    "kept": 18,
-   "ms": 501
+   "ms": 519
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 263
+   "ms": 286
   },
   {
    "source": "Standing freebies",
    "rows": 8,
    "kept": 8,
-   "ms": 7
+   "ms": 5
   }
  ],
  "events": [
@@ -152,132 +152,6 @@
    "url": "https://visitfairfieldcounty.org/events/color-improvisations-3-a-major-exhibition-of-contemporary-quilts/",
    "source": "Visit Fairfield County",
    "desc": "Color Improvisations 3: A Major Exhibition of Contemporary Quilts features 38 large quilts that explore color, scale, and improvisation in contemporary textile art. Curated by internationally recognized artist Nancy Crow, the exhibition at the Decorative Arts Center of Ohio includes works by quiltmakers from the United States, Canada, and New Zealand, highlighting the creativity, innovation and artistic excellence shaping contemporary quilt making today. Using bold abstract forms and richly worked fabrics, the artists balance exquisite skill with creative risk. Their quilts invite viewers to experience color as movement, texture, and feeling. This exhibition will run from October 3rd, 2026 to January 3rd, 2027.\n\n \n\nFor more information, please visit the Decorative Arts Center of Ohio’s website."
-  },
-  {
-   "id": "grovecity-2738",
-   "title": "Christmas Light Disposal",
-   "start": "2026-11-16T08:00-05:00",
-   "end": "2026-11-16T17:00-05:00",
-   "allDay": false,
-   "venue": "Lobbies of Grove City buildings with public offices.",
-   "address": "Grove City OH 43123",
-   "town": "Grove City",
-   "lat": 39.8814,
-   "lon": -83.0929,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35",
-   "source": "City of Grove City",
-   "desc": "https://www.grovecityohio.gov/calendar.aspx?EID=2738"
-  },
-  {
-   "id": "fcdl-16996817",
-   "title": "Common Threads - Morning",
-   "start": "2026-11-16T10:00-05:00",
-   "end": "2026-11-16T11:30-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Boardroom (Lancaster)",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/16996817",
-   "source": "Fairfield County District Library",
-   "desc": "Whether you want to spin a yarn or find a tight-knit community, Common Threads is the place for you.\n\nGather with fellow fiber enthusiasts for a relaxing session whatever yarn or thread-based craft fits your fancy.\n\nAll skill levels, including beginners, are encouraged to attend!\n\nWhile these sessions are communal, specific tutorials will be offered during our Wednesday meetups.\n\nRegister now on our website, our app, or by calling (740) 653-2745, extension 160."
-  },
-  {
-   "id": "ppl-16831288",
-   "title": "Toddler Time: F is for Friends",
-   "start": "2026-11-16T10:15-05:00",
-   "end": "2026-11-16T10:45-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room A",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16831288",
-   "source": "Pickerington Public Library",
-   "desc": "Sing, dance, and hear great stories in this interactive 6-week class for 2- to 3-year-olds and their caregivers. We will highlight early literacy practices such as reading, writing, playing, singing, and talking—all great ways to get your child ready to read!\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "fcdl-17141200",
-   "title": "Read, Stay, and Play",
-   "start": "2026-11-16T10:30-05:00",
-   "end": "2026-11-16T11:00-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Storytime Area",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17141200",
-   "source": "Fairfield County District Library",
-   "desc": "One of the best ways for young children to learn is through play. Join us for a short storytime followed by exploratory time with fun activities!\n\nNo registration necessary"
-  },
-  {
-   "id": "ppl-16802619",
-   "title": "Page Turners Book Club",
-   "start": "2026-11-16T13:00-05:00",
-   "end": "2026-11-16T14:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room A",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16802619",
-   "source": "Pickerington Public Library",
-   "desc": "Page Turners Book Club meets every Monday. We read aloud and discuss the book together in a relaxed atmosphere. \n\nAll reading levels are welcome. For specific accommodation requests or inquiries, please contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "ppl-16822706",
-   "title": "Stories and Songs: F is for Friends",
-   "start": "2026-11-16T13:00-05:00",
-   "end": "2026-11-16T13:30-05:00",
-   "allDay": false,
-   "venue": "Sycamore Plaza  · Meeting Room",
-   "address": "7861 Refugee Rd, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.9173,
-   "lon": -82.7918,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16822706",
-   "source": "Pickerington Public Library",
-   "desc": "Great for the whole family, this early literacy class will get children ages 2 - 5 excited about reading! We feature talking, singing, reading, writing, and playing to help your child assemble the necessary building blocks of early literacy. Open to children, their caregivers, and siblings. Early literacy is what children learn and know about reading, writing, and math before they can read or write or perform basic math. \n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
    "id": "ppl-16423353",
@@ -390,7 +264,7 @@
    "start": "2026-11-16T18:00-05:00",
    "end": "2026-11-16T20:00-05:00",
    "allDay": false,
-   "venue": "Pickerington Main · Meeting Room A",
+   "venue": "Pickerington Main",
    "address": "201 Opportunity Way, Pickerington, OH 43147",
    "town": "Pickerington",
    "lat": 39.8958,
@@ -1624,6 +1498,27 @@
    "desc": "Help your baby or young toddler develop a love of reading by introducing them to rhymes, songs, stories, and fingerplays! Rhyme Time is for children 0-23 months and their caregivers; siblings are also welcome. This interactive 6-week class will highlight early literacy practices such as reading, writing, playing, singing, and talking.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
+   "id": "vfc-33228",
+   "title": "Ceramic Ornament Making at the Decorative Arts Center",
+   "start": "2026-11-19T10:00-05:00",
+   "end": "2026-11-19T11:30-05:00",
+   "allDay": false,
+   "venue": "145 E Main St",
+   "address": "145 East Main Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7140429,
+   "lon": -82.60017739999999,
+   "area": "Fairfield County",
+   "cost": "$25–$30",
+   "costNum": 25,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/ceramic-ornament-making-at-the-decorative-arts-center/",
+   "source": "Visit Fairfield County",
+   "desc": "Visit the Decorative Arts Center of Ohio on Thursday, November 19th to learn how to make a ceramic ornament with instructor Peg Mahler! Students will make 6-8 ornaments, which will be fired in the kiln, returned to glaze, and prepared for one last firing. This is a perfect opportunity to create holiday décor for your home or craft treasured gifts! After final firing, ornaments will be ready for pickup starting Monday, December 7th. Tickets are $30 per person or $25 for members. Purchase your ticket today before classes sell out! The class is open to all ages and students under 10 must be accompanied by an adult.\n\nFor more information, please visit the Decorative Arts Center of Ohio’s Facebook page."
+  },
+  {
    "id": "fcdl-16846366",
    "title": "Masterpiece Mornings",
    "start": "2026-11-19T10:00-05:00",
@@ -2126,6 +2021,27 @@
    "url": "https://pickeringtonlibrary.libnet.info/event/16858683",
    "source": "Pickerington Public Library",
    "desc": "Get into the holiday spirit with a relaxing and creative painting class led by local artist Deb Waites. Whether you're new to painting or have experience, Deb will provide step-by-step instruction as you create a beautiful holiday-themed artwork using either watercolor or acrylic paint. All materials are included, so just bring your creativity and enjoy an evening of festive fun. This program is for adults ages 18 and older. Registration is required, as space is limited.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
+  },
+  {
+   "id": "vfc-33230",
+   "title": "Ceramic Ornament Making at the Decorative Arts Center",
+   "start": "2026-11-19T18:30-05:00",
+   "end": "2026-11-19T20:00-05:00",
+   "allDay": false,
+   "venue": "145 E Main St",
+   "address": "145 East Main Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7140429,
+   "lon": -82.60017739999999,
+   "area": "Fairfield County",
+   "cost": "$25–$30",
+   "costNum": 25,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/ceramic-ornament-making-at-the-decorative-arts-center-2/",
+   "source": "Visit Fairfield County",
+   "desc": "Visit the Decorative Arts Center of Ohio on Thursday, November 19th to learn how to make a ceramic ornament with instructor Peg Mahler! Students will make 6-8 ornaments, which will be fired in the kiln, returned to glaze, and prepared for one last firing. This is a perfect opportunity to create holiday décor for your home or craft treasured gifts! After final firing, ornaments will be ready for pickup starting Monday, December 7th. Tickets are $30 per person or $25 for members. Purchase your ticket today before classes sell out! The class is open to all ages and students under 10 must be accompanied by an adult.\n\nFor more information, please visit the Decorative Arts Center of Ohio’s Facebook page."
   },
   {
    "id": "vfc-32632",
@@ -5261,6 +5177,27 @@
    "desc": "One of The Clum Auction Gallery’s favorite weekends of the entire year is coming, and they can’t wait to welcome everyone back to the Heart of Christmas Craft Show! If you’ve never been, this is not your ordinary craft show! Step inside the beautiful 1800s log & stone barn and experience Christmas the way it’s supposed to feel. The barn will be absolutely filled with thousands of unique items just waiting to be discovered! Whether you’re searching for that perfect Christmas gift, something special for your home, or maybe a little something for yourself, you’re sure to find it there. There’s just something magical about Christmas at The Clum Auction Gallery, and they would love for you to make it part of your holiday tradition! Grab your friends, bring your Christmas list, enjoy free admission, and come spend the day with them! You’ve never experienced Christmas shopping quite like this!\n\nFor more information, please visit the Heart of Christmas Craft Show’s Facebook page."
   },
   {
+   "id": "vfc-33236",
+   "title": "Christmas Open House at The Frame Shop of Lancaster",
+   "start": "2026-11-27T10:00-05:00",
+   "end": "2026-11-28T17:00-05:00",
+   "allDay": false,
+   "venue": "339 N Columbus St",
+   "address": "339 North Columbus Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7174321,
+   "lon": -82.6046324,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/christmas-open-house-at-the-frame-shop-of-lancaster/",
+   "source": "Visit Fairfield County",
+   "desc": "Join The Frame Shop for some holiday cheer! Explore their beautiful selection of custom framing and find the perfect gift. There will be specials, refreshments, giveaways, and gift certificates available.\n\nVisit The Frame Shop’s Facebook page for more details!"
+  },
+  {
    "id": "vfc-33215",
    "title": "Ruby Joy Boutique Black Friday Weekend",
    "start": "2026-11-27T10:00-05:00",
@@ -5448,6 +5385,27 @@
    "url": "https://www.fcdlibrary.org/event/17129296",
    "source": "Fairfield County District Library",
    "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
+  },
+  {
+   "id": "vfc-33234",
+   "title": "Angels We Have Heard on High: 600 Years of Celebrating the Nativity",
+   "start": "2026-11-27T11:00-05:00",
+   "end": "2027-01-03T16:00-05:00",
+   "allDay": false,
+   "venue": "145 E Main St",
+   "address": "145 East Main Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7140429,
+   "lon": -82.60017739999999,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/angels-we-have-heard-on-high-600-years-of-celebrating-the-nativity/",
+   "source": "Visit Fairfield County",
+   "desc": "A Christmas Tradition Returns to the Decorative Arts Center of Ohio! Celebrate six centuries of Christmas traditions with “Angels We Have Heard on High: 600 Years of Celebrating the Nativity,” opening November 27th, 2026, and on view through January 3rd, 2027. Featuring a remarkable collection of nativity scenes, sculptures, artwork, and decorative objects from the George and Jeanne Johnson Collection, the exhibition spans the 15th through 21st centuries and highlights Christmas traditions from around the world. Discover centuries of artistry, history, and the many ways cultures have celebrated the birth of Jesus. Many pieces have never before been displayed at DACO! Admission is always free!\n\nFor more information, please visit the Decorative Arts Center of Ohio’s Facebook page."
   },
   {
    "id": "fcdl-17639957",
@@ -6609,6 +6567,27 @@
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
   },
   {
+   "id": "ppl-17922012",
+   "title": "Library Board of Trustees Meeting",
+   "start": "2026-11-30T18:00-05:00",
+   "end": "2026-11-30T20:00-05:00",
+   "allDay": false,
+   "venue": "Pickerington Main · Meeting Room A",
+   "address": "201 Opportunity Way, Pickerington, OH 43147",
+   "town": "Pickerington",
+   "lat": 39.8958,
+   "lon": -82.7563,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": true,
+   "url": "https://pickeringtonlibrary.libnet.info/event/17922012",
+   "source": "Pickerington Public Library",
+   "desc": "The Pickerington Public Library Board of Trustees meetings are held on the third Monday of the month, unless the 3rd Monday falls on a holiday, then the meeting is held on the 4th Monday.\n\nThe public is welcome to attend and sign in for public participation.\n\nThe Finance Advisory Board Committee meets 30 minutes prior to most regular Board meetings."
+  },
+  {
    "id": "ppl-16819238",
    "title": "Monday Makers - The Leftover Night",
    "start": "2026-11-30T18:00-05:00",
@@ -7554,6 +7533,27 @@
    "desc": "Help your baby or young toddler develop a love of reading by introducing them to rhymes, songs, stories, and fingerplays! Rhyme Time is for children 0-23 months and their caregivers; siblings are also welcome. This interactive 6-week class will highlight early literacy practices such as reading, writing, playing, singing, and talking.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
+   "id": "vfc-33233",
+   "title": "Ceramic Ornament Making at the Decorative Arts Center",
+   "start": "2026-12-03T10:00-05:00",
+   "end": "2026-12-03T11:30-05:00",
+   "allDay": false,
+   "venue": "145 E Main St",
+   "address": "145 East Main Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7140429,
+   "lon": -82.60017739999999,
+   "area": "Fairfield County",
+   "cost": "$25–$30",
+   "costNum": 25,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/ceramic-ornament-making-at-the-decorative-arts-center-4/",
+   "source": "Visit Fairfield County",
+   "desc": "Visit the Decorative Arts Center of Ohio on Thursday, December 3rd to learn how to make a ceramic ornament with instructor Peg Mahler! Students will make 6-8 ornaments, which will be fired in the kiln, returned to glaze, and prepared for one last firing. This is a perfect opportunity to create holiday décor for your home or craft treasured gifts! After final firing, ornaments will be ready for pickup starting Monday, December 7th. Tickets are $30 per person or $25 for members. Purchase your ticket today before classes sell out! The class is open to all ages and students under 10 must be accompanied by an adult.\n\nFor more information, please visit the Decorative Arts Center of Ohio’s Facebook page."
+  },
+  {
    "id": "vfc-32792",
    "title": "Fused Glass Holiday Classes at the Ohio Glass Museum",
    "start": "2026-12-03T10:00-05:00",
@@ -7909,6 +7909,27 @@
    "url": "https://pickeringtonlibrary.libnet.info/event/17440546",
    "source": "Pickerington Public Library",
    "desc": "Create four holiday-themed greeting cards using watercolor pencils in this guided class with artist Deb Waites. Discover the artist within you in this fun and interactive watercolor pencil class. Guided by experienced artist Deb Waites, participants will create four Holiday cards perfect for giving to friends and loved ones or displaying in a frame at home. To help you get started, everyone will begin with a pre-sketched picture, making it easy to focus on coloring, shading, and blending.\n\nThrough hands-on creativity, you’ll experiment with color and the unique effects watercolor pencils can create when combined with water. Perfect for beginners and experienced artists alike, this class is a great opportunity to try something new and enjoy the creative process. All materials will be provided—just bring your curiosity and creativity!\n\nAdults only. Class size is limited. Registration is required.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
+  },
+  {
+   "id": "vfc-33232",
+   "title": "Ceramic Ornament Making at the Decorative Arts Center",
+   "start": "2026-12-03T18:30-05:00",
+   "end": "2026-12-03T20:00-05:00",
+   "allDay": false,
+   "venue": "145 E Main St",
+   "address": "145 East Main Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7140429,
+   "lon": -82.60017739999999,
+   "area": "Fairfield County",
+   "cost": "$25–$30",
+   "costNum": 25,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/ceramic-ornament-making-at-the-decorative-arts-center-3/",
+   "source": "Visit Fairfield County",
+   "desc": "Visit the Decorative Arts Center of Ohio on Thursday, December 3rd to learn how to make a ceramic ornament with instructor Peg Mahler! Students will make 6-8 ornaments, which will be fired in the kiln, returned to glaze, and prepared for one last firing. This is a perfect opportunity to create holiday décor for your home or craft treasured gifts! After final firing, ornaments will be ready for pickup starting Monday, December 7th. Tickets are $30 per person or $25 for members. Purchase your ticket today before classes sell out! The class is open to all ages and students under 10 must be accompanied by an adult.\n\nFor more information, please visit the Decorative Arts Center of Ohio’s Facebook page."
   },
   {
    "id": "vfc-33110",
@@ -8395,7 +8416,7 @@
   },
   {
    "id": "crp-29603",
-   "title": "Main Gallery:  Common Threads by Char Norman  |  Opening Reception",
+   "title": "Main Gallery:  A Common Thread  |  Opening Reception",
    "start": "2026-12-04T18:00-05:00",
    "end": "2026-12-04T20:00-05:00",
    "allDay": false,
@@ -8412,11 +8433,11 @@
    "indoor": null,
    "url": "https://columbusrecparks.com/calendar/main-gallery-common-threads-char-norman-opening-reception/",
    "source": "Columbus Recreation & Parks",
-   "desc": "Join us for the opening reception of “Common Threads,” by Char Norman, located in the Main Gallery at the Priscilla R. Tyson Cultural Arts Center, on Dec. 4 from 6-8 p.m.; food and drinks will be provided."
+   "desc": "Join us for the opening reception of “A Common Thread,” located in the Main Gallery at the Priscilla R. Tyson Cultural Arts Center, on Dec. 4 from 6-8 p.m.; food and drinks will be provided."
   },
   {
    "id": "crp-29682",
-   "title": "Loft Gallery: Chasing the Light: Artists Speak  |  Opening Reception",
+   "title": "Loft Gallery: Light Speaks |  Opening Reception",
    "start": "2026-12-04T18:00-05:00",
    "end": "2026-12-04T20:00-05:00",
    "allDay": false,
@@ -8433,7 +8454,7 @@
    "indoor": null,
    "url": "https://columbusrecparks.com/calendar/loft-gallery-chasing-the-light-artists-speak-opening-reception/",
    "source": "Columbus Recreation & Parks",
-   "desc": "Join us for the opening reception of “Chasing the Light: Artists Speak,” located in the Loft Gallery at the Priscilla R. Tyson Cultural Arts Center, on Dec. 4 from 6-8 p.m.; food and drinks will be provided."
+   "desc": "Join us for the opening reception of “Lights Speak,” located in the Loft Gallery at the Priscilla R. Tyson Cultural Arts Center, on Dec. 4 from 6-8 p.m.; food and drinks will be provided."
   },
   {
    "id": "dtc-10022879",
@@ -8814,6 +8835,27 @@
    "desc": "https://www.grovecityohio.gov/calendar.aspx?EID=2747"
   },
   {
+   "id": "vfc-33240",
+   "title": "Make an Ornament at Mud Gallery During WinterFest",
+   "start": "2026-12-05T12:00-05:00",
+   "end": "2026-12-05T17:00-05:00",
+   "allDay": false,
+   "venue": "123 N Columbus St",
+   "address": "123 North Columbus Street, Lancaster, Ohio 43130, United States",
+   "town": "Lancaster",
+   "lat": 39.714615,
+   "lon": -82.60466339999999,
+   "area": "Fairfield County",
+   "cost": "$15",
+   "costNum": 15,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/make-an-ornament-at-mud-gallery-during-winterfest/",
+   "source": "Visit Fairfield County",
+   "desc": "The Mud Gallery invites you to make an ornament with stoneware clay during this year’s WinterFest! Cut a shape using one of their cookie cutters, then decorate it with various pottery tools and stamps. Ornaments are $15 each. Primitive Mud Pottery Studio will finish your ornament with a white glaze and it will be ready for pickup before Christmas. No registration needed.\n\nVisit the Mud Gallery Facebook page for further details."
+  },
+  {
    "id": "vfc-33212",
    "title": "A Very Merry Christmas at the Lancaster Greenhouse",
    "start": "2026-12-05T12:00-05:00",
@@ -9022,6 +9064,27 @@
    "url": "https://downtowncolumbus.com/event/holiday-open-house-free/",
    "source": "Downtown Columbus",
    "desc": "Get in the holiday spirit at Thurber House during this FREE pop-in family-friendly event! Join us for seasonal music, treats, arts and crafts, free museum tours, and a special holiday sale at our bookstore.\n\nNo registration is required. Just pop by any time to explore the museum and get some one-of-a-kind holiday gifts!\n\nBookstore discount during this event: $5 off purchases of $25 or more."
+  },
+  {
+   "id": "vfc-33238",
+   "title": "WinterFest Market and Toy Drive at Ohio Glass Museum",
+   "start": "2026-12-05T14:00-05:00",
+   "end": "2026-12-05T19:00-05:00",
+   "allDay": false,
+   "venue": "124 W Main St",
+   "address": "124 West Main Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7134997,
+   "lon": -82.60296450000001,
+   "area": "Fairfield County",
+   "cost": "Free–$25",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/winterfest-market-and-toy-drive-at-ohio-glass-museum/",
+   "source": "Visit Fairfield County",
+   "desc": "Put the Ohio Glass Museum on your list of stops during WinterFest in downtown Lancaster! Join them on Saturday for an afternoon of local shopping, glass demonstrations, and holiday fun. They’ll have more than 15 local artists set up throughout the museum, along with free hot cocoa, artists demonstrations, raffles, and more!\n\nThey’re also collecting toys for Lancaster Firefighters, Toys for Kids, Local Chapter 291. Bring a brand-new toy valued at $25 to the museum on December 5th and receive a free glass ornament as a thank-you for your donation. One ornament per person.\n\nShop local handmade gifts, enjoy the holiday season, and swing by the museum while you’re out celebrating. They can’t wait to see you!\n\nVisit the Ohio Glass Museum and Glass Blowing Studio’s Facebook page for further details."
   },
   {
    "id": "dtc-10020475",
@@ -10651,6 +10714,27 @@
    "url": "https://pickeringtonlibrary.libnet.info/event/17534731",
    "source": "Pickerington Public Library",
    "desc": "Looking for a way to complete your community service? This event is a great opportunity to give back and secure the required hours for your academic or professional program.\n\nCelebrate the holidays by spreading kindness to our community! Teens are invited to create handmade cards filled with cheerful messages, colorful designs, and thoughtful touches for residents at local senior centers. All art supplies are provided—just bring your creativity and an open heart. After the program, the library will deliver your cards, helping you make someone’s day a little brighter this holiday season.\n\nFor specific accommodation requests or inquiries, please contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
+  },
+  {
+   "id": "crp-30832",
+   "title": "East Side Rail Trail Second Public Open House",
+   "start": "2026-12-09T16:00-05:00",
+   "end": "2026-12-09T19:00-05:00",
+   "allDay": false,
+   "venue": "Barnett Community Center",
+   "address": "1184 Barnett Rd., Columbus, OH, 43227",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://columbusrecparks.com/calendar/east-side-rail-trail-second-public-open-house/",
+   "source": "Columbus Recreation & Parks",
+   "desc": "We want to hear from you as we work to shape the future of Columbus’ newest greenway trail! Learn about the East Side Rail Trail, which will transform a former rail corridor into a 3-mile linear park stretching from Broad Street to Bostwick Road, creating the first greenway trail in Columbus’ central east side. Join us for a second public open house on Wednesday, Dec. 9, from 4-7 p.m. at Barnett Community Center.\n\nCan’t make the open house? We still want to hear from you! Take our 10-minute survey to share your ideas for the trail. The survey also includes information presented at our Sept. 23 open house, but you can skip straight to the questions. The survey closes on Wednesday, Dec. 2. Share your feedback today.\n\nWant to learn more? Check out the East Side Rail Trail’s capital improvement page here."
   },
   {
    "id": "fcdl-17771275",
@@ -12587,6 +12671,27 @@
    "url": "https://pickeringtonlibrary.libnet.info/event/17506320",
    "source": "Pickerington Public Library",
    "desc": "Meet the cats from FurBaby 911, a local Pickerington cat rescue, while listening to fun feline stories. Give the cats comfort, companionship, and a little extra love while they wait for their forever homes.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
+  },
+  {
+   "id": "crp-30839",
+   "title": "Spotlight! A Columbus Performing Arts Center Open House",
+   "start": "2026-12-13T14:00-05:00",
+   "end": "2026-12-13T17:00-05:00",
+   "allDay": false,
+   "venue": "Columbus Performing Arts Center",
+   "address": "549 Franklin Ave., Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://columbusrecparks.com/calendar/spotlight-a-columbus-performing-arts-center-open-house/",
+   "source": "Columbus Recreation & Parks",
+   "desc": "You are invited to Spotlight! A Columbus Performing Arts Center (CPAC) open house on Sunday, Dec. 13! It will be held from 2-5 p.m. Join us for this free open house and enjoy tours of our theatres and studios. Try a free workshop with our acting, improvisation and music instructors. Enjoy performances by some of our favorite 2026 artists, and find out what we have planned for 2027.\n\nCPAC is located at 549 Franklin Ave., Columbus, 43215.\n\nWe hope to see you on Sunday, Dec. 13!"
   },
   {
    "id": "vfc-33088",
@@ -16690,6 +16795,132 @@
    "url": "https://visitfairfieldcounty.org/events/2026-12-30-euchre-night-at-double-edge-brewing/",
    "source": "Visit Fairfield County",
    "desc": "Come join the fun at Euchre Night at Double Edge Brewing! They’re kicking things off at 7 p.m., so arrive a few minutes early to get settled and snag a seat before the cards fly. Bring your best partner and your sharpest strategy—the 1st and 2nd place teams will walk away with prizes! Entry is free, and there will be a food truck on site to serve your hunger needs! Round up your friends, practice your trump calls, and get ready for a night of good games, good laughs, and good company!\n\nFor more information, please visit Double Edge Brewing’s Facebook page."
+  },
+  {
+   "id": "dtc-10017902",
+   "title": "Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors",
+   "start": "2026-12-31T10:00-05:00",
+   "end": "2026-12-31T17:00-05:00",
+   "allDay": false,
+   "venue": "National Veterans Memorial and Museum",
+   "address": "300 W Broad Street, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/portraits-of-courage-a-commander-in-chiefs-tribute-to-americas-warriors/2026-12-31/",
+   "source": "Downtown Columbus",
+   "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
+  },
+  {
+   "id": "grovecity-2750",
+   "title": "Noon Year's Eve Family Party",
+   "start": "2026-12-31T11:00-05:00",
+   "end": "2026-12-31T12:00-05:00",
+   "allDay": false,
+   "venue": "Beulah Pavilion",
+   "address": "3700 Glacial Lane Grove City OH 43123",
+   "town": "Grove City",
+   "lat": 39.8814,
+   "lon": -83.0929,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35",
+   "source": "City of Grove City",
+   "desc": "https://www.grovecityohio.gov/calendar.aspx?EID=2750"
+  },
+  {
+   "id": "dtc-10018541",
+   "title": "Columbus Blue Jackets Game",
+   "start": "2026-12-31T14:00-05:00",
+   "end": null,
+   "allDay": false,
+   "venue": "Nationwide Arena",
+   "address": "200 W Nationwide Blvd, Columbus, OH",
+   "town": "Columbus",
+   "lat": 39.9692575,
+   "lon": -83.0059922,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/columbus-blue-jackets-game-6/2026-12-31/",
+   "source": "Downtown Columbus",
+   "desc": "Cheer on the Columbus Blue Jackets in this regular season game at Nationwide Arena!\n\nGet tickets here!"
+  },
+  {
+   "id": "vfc-32763",
+   "title": "Family Board and Card Game New Year’s Eve Afternoon",
+   "start": "2026-12-31T15:00-05:00",
+   "end": "2026-12-31T18:00-05:00",
+   "allDay": false,
+   "venue": "134 N Broad St",
+   "address": "134 North Broad Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.71478889999999,
+   "lon": -82.60150759999999,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/family-board-and-card-game-new-years-eve-afternoon/",
+   "source": "Visit Fairfield County",
+   "desc": "Traditional New Year’s Eve activities barely begin before many children (and some adults) want to go to bed. So St. John’s Episcopal Church is hosting a Family Board and Card Game New Year’s Eve Afternoon! This is for anyone who wants to play some card and board games with friends and family (you don’t have to have children to come to the event) and perhaps welcome the New Year a little earlier in the evening. They will have a table full of card and board games, and you are welcome to bring some of your own. You can also bring a game-friendly snack to share!\n\n \n\nFor more information, please visit St. John’s Episcopal Church’s Facebook page."
+  },
+  {
+   "id": "dtc-10022717",
+   "title": "FREE Wanderlights",
+   "start": "2026-12-31T17:00-05:00",
+   "end": "2026-12-31T22:00-05:00",
+   "allDay": false,
+   "venue": "",
+   "address": "OH",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/free-wanderlights-2/2026-12-31/",
+   "source": "Downtown Columbus",
+   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Bicentennial Park. Wander your way through the kaleidoscope of color in the heart of Downtown Columbus. Learn more about Wanderlights here! \n\nPlus, during Wander Nights at Wanderlights, find an ultra-festive atmosphere on Fridays and Saturdays from December 4 – 19."
+  },
+  {
+   "id": "scioto-10000602",
+   "title": "Wanderlights",
+   "start": "2026-12-31T17:00-05:00",
+   "end": "2026-12-31T22:00-05:00",
+   "allDay": false,
+   "venue": "Bicentennial Park",
+   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://www.sciotomile.com/event/wanderlights/2026-12-31/",
+   "source": "Scioto Mile",
+   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
   }
  ]
 }
