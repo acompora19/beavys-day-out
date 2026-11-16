@@ -1,112 +1,113 @@
 {
- "generated": "2026-11-15T20:26:25.913Z",
+ "generated": "2026-11-16T01:06:56.472Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 338,
    "kept": 207,
-   "ms": 6452
+   "ms": 11741
   },
   {
    "source": "Fairfield County District Library",
    "rows": 128,
-   "kept": 128,
-   "ms": 464
+   "kept": 125,
+   "ms": 517
   },
   {
    "source": "Pickerington Public Library",
    "rows": 218,
    "kept": 218,
-   "ms": 575
+   "ms": 635
   },
   {
    "source": "City of Canal Winchester",
    "rows": 112,
    "kept": 8,
-   "ms": 397
+   "ms": 276
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 228
+   "ms": 226
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 60
+   "ms": 55
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 3,
-   "ms": 206
+   "ms": 1484
   },
   {
    "source": "Downtown Columbus",
    "rows": 152,
    "kept": 151,
-   "ms": 11760
+   "ms": 10512
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 11,
    "kept": 11,
-   "ms": 584
+   "ms": 637
   },
   {
    "source": "Metro Parks",
-   "error": "The operation was aborted due to timeout",
-   "ms": 25001
+   "rows": 9,
+   "kept": 9,
+   "ms": 1614
   },
   {
    "source": "Columbus Commons",
    "rows": 47,
-   "kept": 46,
-   "ms": 6607
+   "kept": 47,
+   "ms": 2217
   },
   {
    "source": "Scioto Mile",
    "rows": 48,
-   "kept": 47,
-   "ms": 845
+   "kept": 48,
+   "ms": 935
   },
   {
    "source": "City of Gahanna",
    "rows": 81,
    "kept": 9,
-   "ms": 420
+   "ms": 379
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 77,
    "kept": 5,
-   "ms": 88
+   "ms": 68
   },
   {
    "source": "City of Grove City",
    "rows": 15,
    "kept": 14,
-   "ms": 208
+   "ms": 192
   },
   {
    "source": "City of Worthington",
    "rows": 93,
    "kept": 18,
-   "ms": 492
+   "ms": 361
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 271
+   "ms": 218
   },
   {
    "source": "Standing freebies",
-   "rows": 9,
-   "kept": 9,
-   "ms": 8
+   "rows": 8,
+   "kept": 8,
+   "ms": 5
   }
  ],
  "events": [
@@ -151,178 +152,6 @@
    "url": "https://visitfairfieldcounty.org/events/color-improvisations-3-a-major-exhibition-of-contemporary-quilts/",
    "source": "Visit Fairfield County",
    "desc": "Color Improvisations 3: A Major Exhibition of Contemporary Quilts features 38 large quilts that explore color, scale, and improvisation in contemporary textile art. Curated by internationally recognized artist Nancy Crow, the exhibition at the Decorative Arts Center of Ohio includes works by quiltmakers from the United States, Canada, and New Zealand, highlighting the creativity, innovation and artistic excellence shaping contemporary quilt making today. Using bold abstract forms and richly worked fabrics, the artists balance exquisite skill with creative risk. Their quilts invite viewers to experience color as movement, texture, and feeling. This exhibition will run from October 3rd, 2026 to January 3rd, 2027.\n\n \n\nFor more information, please visit the Decorative Arts Center of Ohio’s website."
-  },
-  {
-   "id": "dtc-10017877",
-   "title": "Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors",
-   "start": "2026-11-15T10:00-05:00",
-   "end": "2026-11-15T17:00-05:00",
-   "allDay": false,
-   "venue": "National Veterans Memorial and Museum",
-   "address": "300 W Broad Street, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/portraits-of-courage-a-commander-in-chiefs-tribute-to-americas-warriors/2026-11-15/",
-   "source": "Downtown Columbus",
-   "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
-  },
-  {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-15",
-   "title": "Free Sunday at Columbus Museum of Art",
-   "start": "2026-11-15T10:00-05:00",
-   "end": "2026-11-15T17:00-05:00",
-   "allDay": false,
-   "venue": "Columbus Museum of Art",
-   "address": "480 E Broad St, Columbus, OH 43215",
-   "town": "Columbus",
-   "lat": 39.964,
-   "lon": -82.9878,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.columbusmuseum.org/free-discounted-tickets",
-   "source": "Standing freebies",
-   "desc": "General admission is free every Sunday at the Broad Street museum. (Visitors 25 and under get in free every day.) Sunday hours 10–5.",
-   "tags": [
-    "art",
-    "museum"
-   ]
-  },
-  {
-   "id": "vfc-33147",
-   "title": "Holiday Market at the River Valley Mall",
-   "start": "2026-11-15T12:00-05:00",
-   "end": "2026-11-15T16:00-05:00",
-   "allDay": false,
-   "venue": "1635 River Valley Cir N",
-   "address": "1635 River Valley Circle North, Lancaster, OH, USA",
-   "town": "Lancaster",
-   "lat": 39.7322267,
-   "lon": -82.628423,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/holiday-market-at-the-river-valley-mall/",
-   "source": "Visit Fairfield County",
-   "desc": "Kick off your holiday shopping season and join the River Valley Mall for a festive day of local shopping, unique handmade gifts, and sweet treats at their upcoming Holiday Market. Discover amazing local makers, boutiques, and artisans all in one place. Whether you’re looking for the perfect gift or just want to soak in the festive cheer, this is an event you won’t want to miss! Admission is free and open to the public!\n\n \n\nFor more information, please visit the River Valley Mall’s Facebook page."
-  },
-  {
-   "id": "vfc-32618",
-   "title": "8th Annual Chili Cook-Off at Double Edge Brewing",
-   "start": "2026-11-15T12:00-05:00",
-   "end": "2026-11-15T15:00-05:00",
-   "allDay": false,
-   "venue": "158 W Chestnut St",
-   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7123144,
-   "lon": -82.6041679,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/8th-annual-chili-cook-off-at-double-edge-brewing/",
-   "source": "Visit Fairfield County",
-   "desc": "Break out the crockpots, sharpen those spoons, and get ready for the 8th Annual Double Edge Brewing Chili Cook-Off on Sunday, November 15th! They’re bringing together some of the best chili slingers around for a day of big flavors, friendly competition, and bragging rights. Three awards include Chef’s Choice, People’s Choice, and the Champion’s Award. Want to compete? Sign up today to have your chili in the running! Grab your friends and family and join them downtown for one of their favorite traditions. They’ll have plenty of beer and non-alcoholic options for the whole crew.\n\nFor more information, please visit Double Edge Brewing’s Facebook page."
-  },
-  {
-   "id": "fcdl-17180938",
-   "title": "Books, Banter, and Occasional Dragons",
-   "start": "2026-11-15T12:30-05:00",
-   "end": "2026-11-15T13:30-05:00",
-   "allDay": false,
-   "venue": "Offsite",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17180938",
-   "source": "Fairfield County District Library",
-   "desc": "Meet at Juniper & Ivy Coffee once a month to dive in to the vivid and enchanting worlds of Sci-Fi and Fantasy (Romantacy is made up…it’s all fantasy) We will discuss.\n\nSeptember: Legends & Lattes by Travis Baldree\n\nOctober: Project Hail Mary by Andy Weir\n\nNovember: A House in the Cerulean Sea by TJ Klune"
-  },
-  {
-   "id": "fcdl-17180223",
-   "title": "Juniper and Ivy Coffee Family Storytime",
-   "start": "2026-11-15T13:30-05:00",
-   "end": "2026-11-15T14:00-05:00",
-   "allDay": false,
-   "venue": "Offsite",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17180223",
-   "source": "Fairfield County District Library",
-   "desc": "Children from birth to age 6 (with a favorite adult) enjoy books, songs, rhymes and movement activities while building language and literacy skills."
-  },
-  {
-   "id": "fcdl-17140729",
-   "title": "International Game Day",
-   "start": "2026-11-15T14:00-05:00",
-   "end": "2026-11-15T16:00-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Gallery (Lancaster)",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17140729",
-   "source": "Fairfield County District Library",
-   "desc": "Children everywhere love playing games. Local foreign exchange students will be here to help children learn some new games that are played in their home countries.\n\nRegister online, on our app, or by calling (740) 653-2745 ext 140"
-  },
-  {
-   "id": "vfc-32831",
-   "title": "Lancaster Community Chorus “Earth & Sky & Sea” Concert",
-   "start": "2026-11-15T15:00-05:00",
-   "end": "2026-11-15T16:00-05:00",
-   "allDay": false,
-   "venue": "2095 W Fair Ave",
-   "address": "2095 West Fair Avenue, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7274434,
-   "lon": -82.6350922,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/lancaster-community-chorus-earth-sky-sea-concert/",
-   "source": "Visit Fairfield County",
-   "desc": "Make plans to experience the first concert of Lancaster Community Chorus’s 26-27 season, “Earth & Sky & Sea”, on Sunday, November 15th at Crossroads Ministry Center! Featuring the large multi-movement “Sunrise Mass” by Ola Gjeilo, a beautiful work with string accompaniment that exemplifies the composer’s breath-taking cinematic signature sound, along with other songs matching the concert’s “elemental” theme, it will be an afternoon of beautiful music! Tickets are available online, or from any singer.\n\n \n\nFor more information, please visit Lancaster Community Chorus’s Facebook page."
   },
   {
    "id": "grovecity-2738",
@@ -2131,6 +1960,27 @@
    "desc": "Crochet+ Club is perfect for teens interested in crochet, knitting, embroidery, and other fiber arts. Meet other teens who share your hobbies while learning new skills and working on handmade crafts. We'll start with learning the basics and work on projects like scarves, hats, and stuffies. Whether you're a beginner or a practiced pro, you'll find something to to love! All supplies provided.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
+   "id": "mp-58298",
+   "title": "Sunset Archery",
+   "start": "2026-11-19T16:00-05:00",
+   "end": "2026-11-19T17:30-05:00",
+   "allDay": false,
+   "venue": "Scioto Grove",
+   "address": "5172 Jackson Pike, Grove City, OH, 43123",
+   "town": "Grove City",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://www.metroparks.net/event/sunset-archery/",
+   "source": "Metro Parks",
+   "desc": "Join the Outdoor Adventure team for a Sunset Archery Session! Open to beginners and advanced shooters, please meet at the Archery Range at Scioto Grove Metro Park."
+  },
+  {
    "id": "grovecity-2724",
    "title": "Books with Bo",
    "start": "2026-11-19T16:30-05:00",
@@ -2675,6 +2525,27 @@
    "url": "https://pickeringtonlibrary.libnet.info/event/16859141",
    "source": "Pickerington Public Library",
    "desc": "Friday Chill is a dedicated space for students in grades 7-12 to relax at the end of the school week. Stop by for a snack to refuel before extracurricular activities, or stick around and hang out with friends! Each week, we'll have a different craft, video game, movie screening, or other activity to fill your afternoon.\n\nFriday Chill follows the PLSD scheduled school calendar.\n\nFor specific accommodation requests or inquiries, please contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
+  },
+  {
+   "id": "mp-58303",
+   "title": "Leaf Tie-Dye",
+   "start": "2026-11-20T16:00-05:00",
+   "end": "2026-11-20T17:00-05:00",
+   "allDay": false,
+   "venue": "Quarry Trails Dog Park",
+   "address": "OH",
+   "town": "",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://www.metroparks.net/event/leaf-tie-dye-2/",
+   "source": "Metro Parks",
+   "desc": "Meet at the dog park and take a hike to collect leaves. Bring them back to leaf tie-dye your own bag, pants, shirt or hat."
   },
   {
    "id": "dtc-10022676",
@@ -3622,7 +3493,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-22",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-21",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-22T10:00-05:00",
    "end": "2026-11-22T17:00-05:00",
@@ -3876,6 +3747,27 @@
    "url": "https://downtowncolumbus.com/event/ordinary-woman/2026-11-22/",
    "source": "Downtown Columbus",
    "desc": "An extraordinary new musical featuring the songs of Sheryl Crow.\n\nThis world premiere and unique collaboration between CAPA, BalletMet and European production company ODD Continent reimagines Grammy-winner Sheryl Crow’s most powerful songs – from “Steve McQueen” to “Strong Enough” – through drama, ballet, and live on-stage music.\n\nOrdinary Woman is the story of estranged midwestern sisters who must reconcile conflicting memories of the past when forced back together by environmental and social unrest.\n\nMade in Columbus by a local and international team, including BalletMet artistic director Remi Wörtmeyer, Ordinary Woman plays a very limited run of three performances only. Don’t miss your chance to see it before the rest of the world!"
+  },
+  {
+   "id": "mp-58304",
+   "title": "Craft Workshop",
+   "start": "2026-11-22T14:00-05:00",
+   "end": "2026-11-22T16:00-05:00",
+   "allDay": false,
+   "venue": "Inniswood Metro Gardens",
+   "address": "940 S. Hempstead Rd., Westerville, OH, 43081",
+   "town": "Westerville",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://www.metroparks.net/event/craft-workshop/",
+   "source": "Metro Parks",
+   "desc": "Join us for an afternoon of crafting and gift-making! This event is for all ages, and all supplies are provided. Bring a bag to take your creations home. Meet in the Greenhouse Multipurpose Center."
   },
   {
    "id": "gahanna-1844",
@@ -4676,6 +4568,27 @@
    "desc": "Not sure what to do with that new device? Locked out of an account? Struggling to figure out your mobile phone? Meet with Guiding Ohio Online Technology Trainer Andrew for one-on-one assistance with a variety of technology topics. Drop in between 10 am and 4 pm, or schedule an appointment online: https://appt.link/FPLTechHelp\n\nThis project was made possible in part by the Institute of Museum and Library Services and the State Library of Ohio."
   },
   {
+   "id": "mp-10004104",
+   "title": "Thanksgiving Traditions",
+   "start": "2026-11-25T10:00-05:00",
+   "end": "2026-11-25T16:00-05:00",
+   "allDay": false,
+   "venue": "Slate Run Living Historical Farm",
+   "address": "1375 OH-674, Canal Winchester, OH, 43110",
+   "town": "Canal Winchester",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://www.metroparks.net/event/thanksgiving-traditions-3/2026-11-25/",
+   "source": "Metro Parks",
+   "desc": "Ongoing at the farmhouse between 10am-4pm.\n\nEnjoy a display and some activities about Thanksgiving foods and traditions."
+  },
+  {
    "id": "ppl-16831298",
    "title": "Toddler Time: Circus and Zoo",
    "start": "2026-11-25T10:15-05:00",
@@ -5117,6 +5030,27 @@
    "desc": "Eligible families can pick up a one-week supply of fresh produce at no cost. Event is first-come, first-served while produce lasts."
   },
   {
+   "id": "mp-58306",
+   "title": "Wheel Before the Big Meal",
+   "start": "2026-11-26T15:00-05:00",
+   "end": "2026-11-26T16:30-05:00",
+   "allDay": false,
+   "venue": "Battelle Darby Creek",
+   "address": "1775 Darby Creek Drive, Galloway, OH, 43119",
+   "town": "Galloway",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://www.metroparks.net/event/wheel-before-the-big-meal-2/",
+   "source": "Metro Parks",
+   "desc": "Join us for a leisurely bike ride at Battelle Darby Creek Metro Park! Bikes (with helmet) are available to borrow by registering for this program. Each person who needs a bike must register to reserve their equipment! If you plan to bring your own bike, you do not need to register. Bikes will not be available if you do not register for one! Meet at the Ranger Station at Cedar Ridge Area, 1775 Darby Creek Dr. Galloway"
+  },
+  {
    "id": "dtc-10022682",
    "title": "FREE Wanderlights",
    "start": "2026-11-26T17:00-05:00",
@@ -5472,6 +5406,27 @@
    "url": "https://downtowncolumbus.com/event/portraits-of-courage-a-commander-in-chiefs-tribute-to-americas-warriors/2026-11-27/",
    "source": "Downtown Columbus",
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
+  },
+  {
+   "id": "mp-10004105",
+   "title": "Thanksgiving Traditions",
+   "start": "2026-11-27T10:00-05:00",
+   "end": "2026-11-27T16:00-05:00",
+   "allDay": false,
+   "venue": "Slate Run Living Historical Farm",
+   "address": "1375 OH-674, Canal Winchester, OH, 43110",
+   "town": "Canal Winchester",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://www.metroparks.net/event/thanksgiving-traditions-3/2026-11-27/",
+   "source": "Metro Parks",
+   "desc": "Ongoing at the farmhouse between 10am-4pm.\n\nEnjoy a display and some activities about Thanksgiving foods and traditions."
   },
   {
    "id": "fcdl-17129296",
@@ -5957,6 +5912,27 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
+   "id": "mp-10004106",
+   "title": "Thanksgiving Traditions",
+   "start": "2026-11-28T10:00-05:00",
+   "end": "2026-11-28T16:00-05:00",
+   "allDay": false,
+   "venue": "Slate Run Living Historical Farm",
+   "address": "1375 OH-674, Canal Winchester, OH, 43110",
+   "town": "Canal Winchester",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://www.metroparks.net/event/thanksgiving-traditions-3/2026-11-28/",
+   "source": "Metro Parks",
+   "desc": "Ongoing at the farmhouse between 10am-4pm.\n\nEnjoy a display and some activities about Thanksgiving foods and traditions."
+  },
+  {
    "id": "fcdl-17129297",
    "title": "Hometown Military Heroes Wall Display",
    "start": "2026-11-28T10:30-05:00",
@@ -5997,6 +5973,27 @@
    "url": "https://visitfairfieldcounty.org/events/fall-exploration-hike-at-blacklick-woods-metro-park-2/",
    "source": "Visit Fairfield County",
    "desc": "Join Blacklick Woods Metro Park to take a 1-mile hike with a naturalist and explore the fall forest in search of wildlife, fungi, and anything else you can find! This program is for all ages!\n\n \n\nFor more information, please visit Blacklick Woods Metro Park’s website."
+  },
+  {
+   "id": "mp-58308",
+   "title": "Turkey Trek",
+   "start": "2026-11-28T14:00-05:00",
+   "end": "2026-11-28T15:00-05:00",
+   "allDay": false,
+   "venue": "Blendon Woods",
+   "address": "4265 E Dublin Granville Road, Columbus, OH, 43081",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://www.metroparks.net/event/turkey-trek-2/",
+   "source": "Metro Parks",
+   "desc": "Learn about our wild turkeys and then look for them along the trail. We may walk farther if we know where to find them."
   },
   {
    "id": "dtc-10022684",
@@ -6167,7 +6164,28 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-29",
+   "id": "mp-10004107",
+   "title": "Thanksgiving Traditions",
+   "start": "2026-11-29T10:00-05:00",
+   "end": "2026-11-29T16:00-05:00",
+   "allDay": false,
+   "venue": "Slate Run Living Historical Farm",
+   "address": "1375 OH-674, Canal Winchester, OH, 43110",
+   "town": "Canal Winchester",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://www.metroparks.net/event/thanksgiving-traditions-3/2026-11-29/",
+   "source": "Metro Parks",
+   "desc": "Ongoing at the farmhouse between 10am-4pm.\n\nEnjoy a display and some activities about Thanksgiving foods and traditions."
+  },
+  {
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-28",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-29T10:00-05:00",
    "end": "2026-11-29T17:00-05:00",
@@ -9048,7 +9066,7 @@
    "desc": "https://www.reynoldsburg.gov/calendar.aspx?EID=1415"
   },
   {
-   "id": "recurring-short-north-gallery-hop-2026-12-05",
+   "id": "recurring-short-north-gallery-hop-2026-12-04",
    "title": "Short North Gallery Hop",
    "start": "2026-12-05T16:00-05:00",
    "end": "2026-12-05T20:00-05:00",
@@ -9304,7 +9322,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-06",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-05",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-06T10:00-05:00",
    "end": "2026-12-06T17:00-05:00",
@@ -9329,7 +9347,7 @@
    ]
   },
   {
-   "id": "recurring-community-day-at-franklin-park-conservatory-2026-12-06",
+   "id": "recurring-community-day-at-franklin-park-conservatory-2026-12-05",
    "title": "Community Day at Franklin Park Conservatory",
    "start": "2026-12-06T10:00-05:00",
    "end": "2026-12-06T17:00-05:00",
@@ -12504,7 +12522,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-13",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-12",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-13T10:00-05:00",
    "end": "2026-12-13T17:00-05:00",
@@ -14986,7 +15004,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-20",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-19",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-20T10:00-05:00",
    "end": "2026-12-20T17:00-05:00",
@@ -16082,7 +16100,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-27",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-26",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-27T10:00-05:00",
    "end": "2026-12-27T17:00-05:00",
@@ -16504,6 +16522,111 @@
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25",
    "source": "City of Canal Winchester",
    "desc": "https://www.canalwinchesterohio.gov/calendar.aspx?EID=2927"
+  },
+  {
+   "id": "dtc-10022716",
+   "title": "FREE Wanderlights",
+   "start": "2026-12-30T17:00-05:00",
+   "end": "2026-12-30T22:00-05:00",
+   "allDay": false,
+   "venue": "",
+   "address": "OH",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/free-wanderlights-2/2026-12-30/",
+   "source": "Downtown Columbus",
+   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Bicentennial Park. Wander your way through the kaleidoscope of color in the heart of Downtown Columbus. Learn more about Wanderlights here! \n\nPlus, during Wander Nights at Wanderlights, find an ultra-festive atmosphere on Fridays and Saturdays from December 4 – 19."
+  },
+  {
+   "id": "scioto-10000601",
+   "title": "Wanderlights",
+   "start": "2026-12-30T17:00-05:00",
+   "end": "2026-12-30T22:00-05:00",
+   "allDay": false,
+   "venue": "Bicentennial Park",
+   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://www.sciotomile.com/event/wanderlights/2026-12-30/",
+   "source": "Scioto Mile",
+   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
+  },
+  {
+   "id": "vfc-32679",
+   "title": "Run Club at Double Edge Brewing",
+   "start": "2026-12-30T17:30-05:00",
+   "end": "2026-12-30T18:30-05:00",
+   "allDay": false,
+   "venue": "158 W Chestnut St",
+   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7123144,
+   "lon": -82.6041679,
+   "area": "Fairfield County",
+   "cost": "$1",
+   "costNum": 1,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/2026-12-30-run-club-at-double-edge-brewing/",
+   "source": "Visit Fairfield County",
+   "desc": "Lace up your running shoes for Double Edge Brewing Co.’s Happy Hour Run Club happening every Wednesday at 5:30 p.m.! Meet them on the patio and get moving with a fun, laid-back run through the city. No pressure, no expectations just good vibes and movement at your pace. After the run, stick around to relax and reward yourself with $1 off pints and great company. There will be a Food Truck on the patio. All paces, ages, and abilities are welcome!\n\nFor more information, please visit Double Edge Brewing’s Facebook page."
+  },
+  {
+   "id": "vfc-32247",
+   "title": "Last Wednesday Open Mic at Mud Gallery",
+   "start": "2026-12-30T18:30-05:00",
+   "end": "2026-12-30T20:30-05:00",
+   "allDay": false,
+   "venue": "123 N Columbus St",
+   "address": "123 North Columbus Street, Lancaster, Ohio 43130, United States",
+   "town": "Lancaster",
+   "lat": 39.714615,
+   "lon": -82.60466339999999,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/2026-12-30-last-wednesday-open-mic-at-mud-gallery/",
+   "source": "Visit Fairfield County",
+   "desc": "Welcome poets, comedians, improvisers, storytellers, musicians, and seekers of entertainment! Bring your body, voice, or instrument (bring your own small amp if needed) and play with Mud Gallery in a judgment-free zone! Mark your calendars for the last Wednesday of the month for open mic poetry, comedy, storytelling, improv, and music. Sign-up begins at 6:30 p.m. Entertain the crowd or just enjoy the vibe! No amplification is needed – they are a cozy little space! Mud Gallery is in the DORA district in downtown Lancaster. Hadouken Barcade is right across the street if you want to grab a drink!\n\nFor more information, please visit Mud Gallery’s Facebook page."
+  },
+  {
+   "id": "vfc-32886",
+   "title": "Euchre Night at Double Edge Brewing",
+   "start": "2026-12-30T19:00-05:00",
+   "end": "2026-12-30T21:00-05:00",
+   "allDay": false,
+   "venue": "158 W Chestnut St",
+   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7123144,
+   "lon": -82.6041679,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/2026-12-30-euchre-night-at-double-edge-brewing/",
+   "source": "Visit Fairfield County",
+   "desc": "Come join the fun at Euchre Night at Double Edge Brewing! They’re kicking things off at 7 p.m., so arrive a few minutes early to get settled and snag a seat before the cards fly. Bring your best partner and your sharpest strategy—the 1st and 2nd place teams will walk away with prizes! Entry is free, and there will be a food truck on site to serve your hunger needs! Round up your friends, practice your trump calls, and get ready for a night of good games, good laughs, and good company!\n\nFor more information, please visit Double Edge Brewing’s Facebook page."
   }
  ]
 }
