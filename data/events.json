@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-17T12:01:21.508Z",
+ "generated": "2026-11-17T22:58:07.358Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
-   "rows": 347,
-   "kept": 215,
-   "ms": 6640
+   "rows": 356,
+   "kept": 222,
+   "ms": 5303
   },
   {
    "source": "Fairfield County District Library",
    "rows": 125,
-   "kept": 125,
-   "ms": 450
+   "kept": 124,
+   "ms": 424
   },
   {
    "source": "Pickerington Public Library",
    "rows": 213,
-   "kept": 213,
-   "ms": 660
+   "kept": 210,
+   "ms": 633
   },
   {
    "source": "City of Canal Winchester",
    "rows": 112,
    "kept": 8,
-   "ms": 516
+   "ms": 329
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 314
+   "ms": 293
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 72
+   "ms": 60
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 4,
-   "ms": 1578
+   "ms": 1619
   },
   {
    "source": "Downtown Columbus",
-   "rows": 154,
-   "kept": 153,
-   "ms": 33445
+   "rows": 156,
+   "kept": 156,
+   "ms": 17423
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 13,
    "kept": 13,
-   "ms": 831
+   "ms": 852
   },
   {
    "source": "Metro Parks",
    "rows": 9,
    "kept": 9,
-   "ms": 2150
+   "ms": 3540
   },
   {
    "source": "Columbus Commons",
    "rows": 49,
-   "kept": 48,
-   "ms": 2581
+   "kept": 49,
+   "ms": 2458
   },
   {
    "source": "Scioto Mile",
    "rows": 50,
-   "kept": 49,
-   "ms": 1427
+   "kept": 50,
+   "ms": 1185
   },
   {
    "source": "City of Gahanna",
    "rows": 81,
    "kept": 10,
-   "ms": 568
+   "ms": 519
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 77,
    "kept": 6,
-   "ms": 113
+   "ms": 88
   },
   {
    "source": "City of Grove City",
    "rows": 14,
    "kept": 14,
-   "ms": 3724
+   "ms": 342
   },
   {
    "source": "City of Worthington",
    "rows": 93,
    "kept": 18,
-   "ms": 509
+   "ms": 456
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 276
+   "ms": 264
   },
   {
    "source": "Standing freebies",
    "rows": 8,
    "kept": 8,
-   "ms": 8
+   "ms": 4
   }
  ],
  "events": [
@@ -154,69 +154,6 @@
    "desc": "Color Improvisations 3: A Major Exhibition of Contemporary Quilts features 38 large quilts that explore color, scale, and improvisation in contemporary textile art. Curated by internationally recognized artist Nancy Crow, the exhibition at the Decorative Arts Center of Ohio includes works by quiltmakers from the United States, Canada, and New Zealand, highlighting the creativity, innovation and artistic excellence shaping contemporary quilt making today. Using bold abstract forms and richly worked fabrics, the artists balance exquisite skill with creative risk. Their quilts invite viewers to experience color as movement, texture, and feeling. This exhibition will run from October 3rd, 2026 to January 3rd, 2027.\n\n \n\nFor more information, please visit the Decorative Arts Center of Ohio’s website."
   },
   {
-   "id": "ppl-16802708",
-   "title": "Rhyme Time",
-   "start": "2026-11-17T09:30-05:00",
-   "end": "2026-11-17T10:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room A",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16802708",
-   "source": "Pickerington Public Library",
-   "desc": "Help your baby or young toddler develop a love of reading by introducing them to rhymes, songs, stories, and fingerplays! Rhyme Time is for children 0-23 months and their caregivers; siblings are also welcome. This interactive 6-week class will highlight early literacy practices such as reading, writing, playing, singing, and talking.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "vfc-32946",
-   "title": "You Can Eat That at Blacklick Woods Metro Park",
-   "start": "2026-11-17T10:00-05:00",
-   "end": "2026-11-17T11:00-05:00",
-   "allDay": false,
-   "venue": "6975 E Livingston Ave",
-   "address": "6975 East Livingston Avenue, Reynoldsburg, Ohio 43068, United States",
-   "town": "Reynoldsburg",
-   "lat": 39.94379499999999,
-   "lon": -82.811707,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/you-can-eat-that-at-blacklick-woods-metro-park/",
-   "source": "Visit Fairfield County",
-   "desc": "Join Blacklick Woods Metro Park to join a naturalist for a half-mile hike while they talk about wild edible plants and mushrooms. This program is for ages 6 to 13 years old!\n\n \n\nFor more information, please visit Blacklick Woods Metro Park’s website."
-  },
-  {
-   "id": "ppl-16831289",
-   "title": "Toddler Time: F is for Friends",
-   "start": "2026-11-17T10:15-05:00",
-   "end": "2026-11-17T10:45-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room A",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16831289",
-   "source": "Pickerington Public Library",
-   "desc": "Sing, dance, and hear great stories in this interactive 6-week class for 2- to 3-year-olds and their caregivers. We will highlight early literacy practices such as reading, writing, playing, singing, and talking—all great ways to get your child ready to read!\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
    "id": "fcdl-17129289",
    "title": "Hometown Military Heroes Wall Display",
    "start": "2026-11-17T10:30-05:00",
@@ -236,69 +173,6 @@
    "url": "https://www.fcdlibrary.org/event/17129289",
    "source": "Fairfield County District Library",
    "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
-  },
-  {
-   "id": "fcdl-17183692",
-   "title": "Baby Storytime",
-   "start": "2026-11-17T10:30-05:00",
-   "end": "2026-11-17T11:00-05:00",
-   "allDay": false,
-   "venue": "Northwest Branch",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17183692",
-   "source": "Fairfield County District Library",
-   "desc": "Enjoy interactive stories, playful songs, and action rhymes with your baby. Older siblings are welcome and encouraged to bring their own “baby” (favorite stuffed animal or doll) to participate.\n\nNo registration necessary."
-  },
-  {
-   "id": "vfc-32947",
-   "title": "You Can Eat That at Blacklick Woods Metro Park",
-   "start": "2026-11-17T13:00-05:00",
-   "end": "2026-11-17T14:00-05:00",
-   "allDay": false,
-   "venue": "6975 E Livingston Ave",
-   "address": "6975 East Livingston Avenue, Reynoldsburg, Ohio 43068, United States",
-   "town": "Reynoldsburg",
-   "lat": 39.94379499999999,
-   "lon": -82.811707,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/you-can-eat-that-at-blacklick-woods-metro-park-2/",
-   "source": "Visit Fairfield County",
-   "desc": "Join Blacklick Woods Metro Park to join a naturalist for a half-mile hike while they talk about wild edible plants and mushrooms. This program is for ages 6 to 13 years old!\n\n \n\nFor more information, please visit Blacklick Woods Metro Park’s website."
-  },
-  {
-   "id": "ppl-16831280",
-   "title": "Preschool Pals: F is for Friends",
-   "start": "2026-11-17T13:00-05:00",
-   "end": "2026-11-17T14:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Barn,Meeting Room A",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16831280",
-   "source": "Pickerington Public Library",
-   "desc": "Get your preschooler ready for kindergarten with Preschool Pals, a class for 4- to 5-year-olds who are ready to try storytime on their own! Early literacy practices used in class will start kids on the path to reading.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
    "id": "ppl-16864052",
@@ -1874,6 +1748,27 @@
    "url": "https://visitfairfieldcounty.org/events/ohio-genealogical-society-meeting/",
    "source": "Visit Fairfield County",
    "desc": "The Ohio Genealogical Society, Fairfield County Chapter meeting will be on November 19th at the Genealogical Research Library. Refreshments will begin at 6:30 p.m. with the business meeting at 7:00 p.m., followed by the program on “Migration Patterns into Ohio” by Deborah Lichtner Deal, Ohio Genealogical Society’s 1st Vice President. All are welcome!\n\n \n\nFor more information, please visit the Fairfield County Chapter of Ohio Genealogical Society’s Facebook page."
+  },
+  {
+   "id": "vfc-33246",
+   "title": "Live Music at The Local Joint with Pete’s Best",
+   "start": "2026-11-19T19:00-05:00",
+   "end": "2026-11-19T21:00-05:00",
+   "allDay": false,
+   "venue": "434 N Columbus St",
+   "address": "434 North Columbus Street, Lancaster, OH, USA",
+   "town": "Lancaster",
+   "lat": 39.71868449999999,
+   "lon": -82.6041679,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/live-music-at-the-local-joint-with-petes-best/",
+   "source": "Visit Fairfield County",
+   "desc": "Come down to The Local Joint to enjoy some live music! Matt Egger as Pete’s Best. He is a solo acoustic performer. He does covers and originals from Dylan to Radiohead.\n\nVisit The Joint’s Facebook page for further details."
   },
   {
    "id": "vfc-32967",
@@ -7617,6 +7512,27 @@
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
   },
   {
+   "id": "vfc-33250",
+   "title": "Christmas Wreath Decorating Workshop at Lancaster Greenhouse & Nursery",
+   "start": "2026-12-03T18:00-05:00",
+   "end": "2026-12-03T20:00-05:00",
+   "allDay": false,
+   "venue": "1281 Granville Pike",
+   "address": "1281 Granville Pike, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.731273,
+   "lon": -82.5914775,
+   "area": "Fairfield County",
+   "cost": "$55.2",
+   "costNum": 55.2,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/christmas-wreath-decorating-workshop-at-lancaster-greenhouse-nursery/",
+   "source": "Visit Fairfield County",
+   "desc": "Join Lancaster Greenhouse and Nursery for a festive workshop where you’ll get to decorate live fresh pine wreaths perfect for your holiday decor! They offer a large variety of decorating supplies including ribbons, ornaments, and many other charming accents to customize your wreath and make it uniquely yours. Its the perfect spot to craft a beautiful wreath that will brighten your home.\n\nTickets are $55.20 You can purchase your workshop ticket here.\n\nVisit the Lancaster Greenhouse and Nursery Facebook page for further details."
+  },
+  {
    "id": "fcdl-17691269",
    "title": "Books & Brews: Evening Edition",
    "start": "2026-12-03T18:00-05:00",
@@ -8394,6 +8310,27 @@
    "desc": "Come meet Santa and enjoy pancakes, secret Santa shopping, photos, and more at the Pickerington Senior Center on Saturday, December 5th! Tickets are available online now and will not be sold at the event. Questions? Contact the Parks and Recreation office at (614) 833-2211.\n\n \n\nFor more information, please visit the City of Pickerington’s Facebook page."
   },
   {
+   "id": "vfc-33252",
+   "title": "Market Morning at Double Edge Brewery: Featuring Warner Crafts LLC",
+   "start": "2026-12-05T09:00-05:00",
+   "end": "2026-12-05T12:00-05:00",
+   "allDay": false,
+   "venue": "158 W Chestnut St",
+   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7123144,
+   "lon": -82.6041679,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/market-morning-at-double-edge-brewery-featuring-warner-crafts-llc/",
+   "source": "Visit Fairfield County",
+   "desc": "Double Edge Brewery is bringing Market Mornings inside the taproom for the colder months. Every Saturday, they’ll be featuring a different local vendor, giving you a chance to shop small, support local, and knock out a little Christmas shopping while you’re at it. This week they are highlighting Warner Crafts LLC. They specialize in meticulously crafted, handmade wood products, and these pieces would make some pretty fantastic gifts. Even better, they’ll be taking custom orders! So if you’ve got something special in mind, stop by and have a chat. In addition, Kermit’s food truck serving up his famous brunch goodness.\n\nCome grab some brunch, sip something delicious, shop small, and find a few Christmas presents along the way.\n\nSee Double Edge Brewery’s Facebook page for more details."
+  },
+  {
    "id": "gahanna-1845",
    "title": "The Santa Race 5K and Little Reindeer Dash",
    "start": "2026-12-05T09:00-05:00",
@@ -8875,6 +8812,27 @@
    "url": "https://downtowncolumbus.com/event/holiday-open-house-free/",
    "source": "Downtown Columbus",
    "desc": "Get in the holiday spirit at Thurber House during this FREE pop-in family-friendly event! Join us for seasonal music, treats, arts and crafts, free museum tours, and a special holiday sale at our bookstore.\n\nNo registration is required. Just pop by any time to explore the museum and get some one-of-a-kind holiday gifts!\n\nBookstore discount during this event: $5 off purchases of $25 or more."
+  },
+  {
+   "id": "dtc-1046928",
+   "title": "Thurber House: Holiday Open House",
+   "start": "2026-12-05T13:00-05:00",
+   "end": "2026-12-05T16:00-05:00",
+   "allDay": false,
+   "venue": "Thurber House",
+   "address": "77 Jefferson Ave, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": 39.9657708,
+   "lon": -82.9852043,
+   "area": "Columbus",
+   "cost": "Free–$25",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/thurber-house-holiday-open-house/",
+   "source": "Downtown Columbus",
+   "desc": "Get in the holiday spirit at Thurber House during this FREE pop-in family-friendly event! Join us for seasonal music, treats, arts and crafts, free museum tours, and a special holiday sale at our bookstore.\n\nNo registration is required. Just pop by any time to explore the museum and get some one-of-a-kind holiday gifts!\n\nBookstore discount during this event: $5 off purchases of $25 or more.\n\nParking Info: \n\nParking on Jefferson Avenue: Free, easy street parking is available all along the Jefferson Avenue oval. Note: only the spots along the one-way oval are free; the spots along the two-way ends of Jefferson Avenue (near Broad Street and Long Street) are not free.\n\nParking off N. 11th Street (behind Thurber House): Free visitor parking is available in the small lot directly behind Thurber House, accessible off N. 11th Street and located here. There is no time limit as long as you are visiting Thurber House. All other parking lots do not belong to Thurber House and you may be towed."
   },
   {
    "id": "vfc-33238",
@@ -11703,6 +11661,27 @@
    "desc": "https://www.canalwinchesterohio.gov/calendar.aspx?EID=3125"
   },
   {
+   "id": "vfc-33248",
+   "title": "Used Book Sale at the Wagnalls Community Building",
+   "start": "2026-12-12T09:00-05:00",
+   "end": "2026-12-12T15:00-05:00",
+   "allDay": false,
+   "venue": "150 E Columbus St",
+   "address": "150 East Columbus Street, Lithopolis, Ohio 43136, United States of America",
+   "town": "Lithopolis",
+   "lat": 39.8020299,
+   "lon": -82.8052297,
+   "area": "Fairfield County",
+   "cost": "$5",
+   "costNum": 5,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/used-book-sale-at-the-wagnalls-community-building/",
+   "source": "Visit Fairfield County",
+   "desc": "Join The Wagnalls Memorial and Friends of the Wagnalls Memorial Library to shop for second hand books at the Wagnalls Community Building/Theater! Give the gift of reading this holiday season by filling a bag for $5.00. Excited to shop? You can get a sneak peek Friday, December 11th during set up from 12p.m. – 6:3op.m.\n\nVisit the Friends of the Wagnalls Memorial Library Facebook page for further details."
+  },
+  {
    "id": "vfc-33048",
    "title": "Breakfast with Santa at Bellawood Farm",
    "start": "2026-12-12T09:00-05:00",
@@ -11848,6 +11827,27 @@
    "url": "https://visitfairfieldcounty.org/events/holiday-stretch-sip-at-sunray-farms-2/",
    "source": "Visit Fairfield County",
    "desc": "From hot cocoa and holiday treats to BYOBrunch with friends and the joy of giving, each class at SunRay Farms brings its own festive twist to yoga. Enjoy a refreshing yoga practice, followed by adorable farm animal snuggles at every class (optional baby goat feed and cuddle add-on). Led by instructor Angie Gallis, you will practice outdoors when weather permits or inside their cozy, climate-controlled Gathering Stables. Tickets are $40 per class or $100 for the three class series pass. Three Saturdays, plenty of cheer, and feel-good moments to share!\n\n \n\nTo purchase tickets and learn more, visit SunRay Farm’s website."
+  },
+  {
+   "id": "vfc-33255",
+   "title": "Market Mornings at Double Edge Brewery: Featuring Cookies from the Hart",
+   "start": "2026-12-12T10:00-05:00",
+   "end": "2026-12-12T12:00-05:00",
+   "allDay": false,
+   "venue": "158 W Chestnut St",
+   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7123144,
+   "lon": -82.6041679,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/market-mornings-at-double-edge-brewery-featuring-cookies-from-the-hart/",
+   "source": "Visit Fairfield County",
+   "desc": "Double Edge Brewing Co. is bringing Market Mornings inside the taproom for the colder months. They’ll be featuring a different local vendor, giving you a chance to shop small, support local, and knock out a little Christmas shopping while you’re at it. This week they are welcoming Cookies from the Hart: A self-taught home baker specializing in sugar cookies. She’ll bring plenty of sweet creations your way. These cookies would make the perfect addition to your holiday parties, a sweet treat to share with friends, or something to bring along to your next Christmas gathering! In addition, Kermit’s food truck will be serving up his famous brunch goodness from 10a.m – 1p.m.\n\nVisit Double Edge Brewing’s Facebook page for more details."
   },
   {
    "id": "vfc-32806",
@@ -13744,6 +13744,48 @@
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
   },
   {
+   "id": "vfc-33244",
+   "title": "DIY Spa Gifting Items with Sheena Hanscel at the Pickerington Public Library",
+   "start": "2026-12-17T18:00-05:00",
+   "end": "2026-12-17T19:30-05:00",
+   "allDay": false,
+   "venue": "201 Opportunity Way",
+   "address": "201 Opportunity Way, Pickerington, OH 43147, USA",
+   "town": "Pickerington",
+   "lat": 39.8749358,
+   "lon": -82.7585725,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/diy-spa-gifting-items-with-sheena-hanscel-at-the-pickerington-public-library/",
+   "source": "Visit Fairfield County",
+   "desc": "Join Sheena Hanscel at the Pickerington Public Library to craft your own DIY bath and body care products for the holiday season! Discover how they can become thoughtful handmade gifts. In this hands-on workshop, explore the traditional uses and benefits of botanical oils and essential oils while creating your own personalized self care items.\n\nParticipants will make two body scrubs using their choice of salt, sugar, or coffee bases, along with botanical and essential oils. You’ll also create two shower steamers and receive reusable silicone molds to continue crafting at home. Make one set to enjoy yourself and one to share with someone special.\n\nSheena is an Indigenous educator, herbalist, and founder of The Pollen Patch, an urban educational space and native ethnobotanical garden in Columbus, Ohio. Through hands-on workshops and storytelling, she makes plant knowledge approachable and practical.\n\nThis program is for adults aged 18 and older.  Registration is required. Grab your spot at the link for the class here! The event will be held at the main location in meeting room A.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 6"
+  },
+  {
+   "id": "vfc-33242",
+   "title": "Fairfield County Chapter of the Ohio Genealogical Society’s Christmas Party",
+   "start": "2026-12-17T18:00-05:00",
+   "end": null,
+   "allDay": false,
+   "venue": "1572 Timbertop St",
+   "address": "1572 Timbertop Street, Lancaster, OH, USA",
+   "town": "Lancaster",
+   "lat": 39.7410096,
+   "lon": -82.62499,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/fairfield-county-chapter-of-the-ohio-genealogical-societys-christmas-party/",
+   "source": "Visit Fairfield County",
+   "desc": "The Fairfield Genealogical Society would like to invite you to their Christmas party! The Executive Board is providing ham, coffee, hot tea, water and table service. Please bring bring a covered dish and or dessert to share, and a small gift for the White Elephant exchange. It will be held at Kingsbury Senior Living. The pub is in the main building, past the desk to the right. Please RSVP to 740-653-2573 if you plan to attend. All are welcome!\n\nVisit the Fairfield Genealogical Society’s Facebook page for more info about their organization."
+  },
+  {
    "id": "vfc-33220",
    "title": "Start Holiday Vacation at The Local Joint",
    "start": "2026-12-17T18:00-05:00",
@@ -14395,6 +14437,27 @@
    "desc": "From hot cocoa and holiday treats to BYOBrunch with friends and the joy of giving, each class at SunRay Farms brings its own festive twist to yoga. Enjoy a refreshing yoga practice, followed by adorable farm animal snuggles at every class (optional baby goat feed and cuddle add-on). Led by instructor Angie Gallis, you will practice outdoors when weather permits or inside their cozy, climate-controlled Gathering Stables. Tickets are $40 per class or $100 for the three class series pass. Three Saturdays, plenty of cheer, and feel-good moments to share!\n\n \n\nTo purchase tickets and learn more, visit SunRay Farm’s website."
   },
   {
+   "id": "vfc-33258",
+   "title": "Market Mornings at Double Edge Brewing Co. Featuring Nef’s Stems and Gems",
+   "start": "2026-12-19T10:00-05:00",
+   "end": "2026-12-19T12:00-05:00",
+   "allDay": false,
+   "venue": "158 W Chestnut St",
+   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7123144,
+   "lon": -82.6041679,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/market-mornings-at-double-edge-brewing-co-featuring-nefs-stems-and-gems/",
+   "source": "Visit Fairfield County",
+   "desc": "Double Edge Brewing Co. is bringing Market Mornings inside the taproom for the colder months. They’re featuring a different local vendor, giving you a chance to shop small, support local, and pick up some unique gifts along the way. Come stroll through and share Nef’s love for her three favorite P’s: Plants, propagation, and pretty things! She’s bringing all sorts of goodies that would make the perfect gift for your favorite plant parent. Kermit’s Food Truck serving his famous brunch menu from 10am – 1pm\n\nVisit Double Edge Brewing’s Facebook page for more details."
+  },
+  {
    "id": "vfc-32808",
    "title": "Fused Glass Holiday Classes at the Ohio Glass Museum",
    "start": "2026-12-19T10:00-05:00",
@@ -14561,6 +14624,27 @@
    "url": "https://downtowncolumbus.com/event/uptown-scrooge-abridged/2026-12-19/1/",
    "source": "Downtown Columbus",
    "desc": "A family friendly event! Step into the holiday hilarity of Uptown Scrooge: Abridged!, Good Medicine Productions’ wildly interactive twist on Charles Dickens’ beloved classic. This isn’t a show where you sit quietly in the dark—it’s a Christmas party where the audience becomes part of the story.\n\nFilled with quick wit, outrageous characters, live music, and joyful audience participation, Uptown Scrooge delivers all the heart of Dickens with a healthy dose of laughter. Whether you’re cheering on Tiny Tim, booing Nephew Fred or finding yourself unexpectedly pulled into the action, every performance is a one-of-a-kind experience.\n\nPerfect for families, homeschool groups, date nights, office parties, and anyone looking to laugh their way into the Christmas spirit, Uptown Scrooge:Abridged! reminds us that it’s never too late to choose generosity, joy & silliness."
+  },
+  {
+   "id": "dtc-1046924",
+   "title": "Shuck & Sip: An Oyster Shucking Class by Hank’s",
+   "start": "2026-12-19T13:00-05:00",
+   "end": "2026-12-19T15:00-05:00",
+   "allDay": false,
+   "venue": "Hank’s Low Country Seafood & Raw Bar",
+   "address": "6 W Gay St, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/shuck-sip-an-oyster-shucking-class-by-hanks/",
+   "source": "Downtown Columbus",
+   "desc": "Make an afternoon of it on December 19! Join us at 1 PM for an oyster shucking class and a little holiday shopping. We’ll have a mini wine market set up with bottles perfect for pre-holiday host gifts, holiday parties, and all your seasonal celebrations.\n\nWhether you’re planning a fun afternoon date, gathering with friends, or checking a few gifts off your holiday list, it’s the perfect way to learn something new, enjoy some oysters, and find something special for the hosts on your list. You’ll get schooled on three different oysters — six shells total — guided by Hank’s Executive Chef. No experience necessary, just a love of the briny stuff.\n\nEach ticket comes with:\n\nHands-on shucking instruction for 3 oyster varieties (6 oysters total)\n\nA glass of sparkling wine to pair alongside\n\nA take-home “How to Shuck an Oyster” card so the skills stick\n\nA “Hanks” oyster knife to take home\n\nAdditional food and drinks are available to add on\n\nGrab your ticket and get ready to shuck with us at Hank’s!"
   },
   {
    "id": "vfc-33080",
@@ -14792,6 +14876,27 @@
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27",
    "source": "City of Gahanna",
    "desc": "Presented by the Gahanna Historical Society https://www.gahanna.gov/calendar.aspx?EID=1848"
+  },
+  {
+   "id": "vfc-33261",
+   "title": "Holiday Karaoke at Double Edge Brewing Co.",
+   "start": "2026-12-19T19:00-05:00",
+   "end": "2026-12-19T22:00-05:00",
+   "allDay": false,
+   "venue": "158 W Chestnut St",
+   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7123144,
+   "lon": -82.6041679,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/holiday-karaoke-at-double-edge-brewing-co/",
+   "source": "Visit Fairfield County",
+   "desc": "Time to break out the ugly sweaters and questionable singing voices! Double Edge Brewing Co. is throwing a holiday karaoke party, and you’re invited. From classic Christmas songs to your favorite Top 100 hits, sing whatever your heart desires. Queens Entertainment will have the lyrics and music ready to go. All you have to do is grab the mic and give them your best performance! There are prizes up for grabs within these categories: Most Tacky/Ugly Sweater, Best Backup Dancer, and Crowd Favorite. There will be drink specials and jello shots. Fine Smoke BBQ will be hanging out on the patio from 4p.m. – 9p.m. serving up some delicious food. Come hungry!\n\nRound up your friends and come spend the night singing, laughing, and getting into the holiday spirit!\n\nThis is an 18+ event.\n\nVisit Double Edge Brewing’s Facebook page for more details."
   },
   {
    "id": "vfc-33203",
@@ -16879,6 +16984,48 @@
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27",
    "source": "City of Gahanna",
    "desc": "City Recognized Holiday - Closed https://www.gahanna.gov/calendar.aspx?EID=704"
+  },
+  {
+   "id": "dtc-10022718",
+   "title": "FREE Wanderlights",
+   "start": "2027-01-01T17:00-05:00",
+   "end": "2027-01-01T22:00-05:00",
+   "allDay": false,
+   "venue": "",
+   "address": "OH",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/free-wanderlights-2/2027-01-01/",
+   "source": "Downtown Columbus",
+   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Bicentennial Park. Wander your way through the kaleidoscope of color in the heart of Downtown Columbus. Learn more about Wanderlights here! \n\nPlus, during Wander Nights at Wanderlights, find an ultra-festive atmosphere on Fridays and Saturdays from December 4 – 19."
+  },
+  {
+   "id": "scioto-10000603",
+   "title": "Wanderlights",
+   "start": "2027-01-01T17:00-05:00",
+   "end": "2027-01-01T22:00-05:00",
+   "allDay": false,
+   "venue": "Bicentennial Park",
+   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://www.sciotomile.com/event/wanderlights/2027-01-01/",
+   "source": "Scioto Mile",
+   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
   }
  ]
 }
