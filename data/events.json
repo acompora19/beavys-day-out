@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-16T23:46:13.602Z",
+ "generated": "2026-11-17T12:01:21.508Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 347,
-   "kept": 216,
-   "ms": 4897
+   "kept": 215,
+   "ms": 6640
   },
   {
    "source": "Fairfield County District Library",
-   "rows": 126,
-   "kept": 124,
-   "ms": 674
+   "rows": 125,
+   "kept": 125,
+   "ms": 450
   },
   {
    "source": "Pickerington Public Library",
-   "rows": 221,
-   "kept": 217,
-   "ms": 801
+   "rows": 213,
+   "kept": 213,
+   "ms": 660
   },
   {
    "source": "City of Canal Winchester",
    "rows": 112,
    "kept": 8,
-   "ms": 360
+   "ms": 516
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 344
+   "ms": 314
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 69
+   "ms": 72
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
-   "kept": 3,
-   "ms": 855
+   "kept": 4,
+   "ms": 1578
   },
   {
    "source": "Downtown Columbus",
    "rows": 154,
-   "kept": 154,
-   "ms": 8030
+   "kept": 153,
+   "ms": 33445
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 13,
    "kept": 13,
-   "ms": 809
+   "ms": 831
   },
   {
    "source": "Metro Parks",
    "rows": 9,
    "kept": 9,
-   "ms": 1894
+   "ms": 2150
   },
   {
    "source": "Columbus Commons",
-   "rows": 48,
+   "rows": 49,
    "kept": 48,
-   "ms": 4405
+   "ms": 2581
   },
   {
    "source": "Scioto Mile",
-   "rows": 49,
+   "rows": 50,
    "kept": 49,
-   "ms": 1318
+   "ms": 1427
   },
   {
    "source": "City of Gahanna",
    "rows": 81,
-   "kept": 9,
-   "ms": 646
+   "kept": 10,
+   "ms": 568
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 77,
-   "kept": 5,
-   "ms": 94
+   "kept": 6,
+   "ms": 113
   },
   {
    "source": "City of Grove City",
    "rows": 14,
    "kept": 14,
-   "ms": 427
+   "ms": 3724
   },
   {
    "source": "City of Worthington",
    "rows": 93,
    "kept": 18,
-   "ms": 519
+   "ms": 509
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 286
+   "ms": 276
   },
   {
    "source": "Standing freebies",
    "rows": 8,
    "kept": 8,
-   "ms": 5
+   "ms": 8
   }
  ],
  "events": [
@@ -152,195 +152,6 @@
    "url": "https://visitfairfieldcounty.org/events/color-improvisations-3-a-major-exhibition-of-contemporary-quilts/",
    "source": "Visit Fairfield County",
    "desc": "Color Improvisations 3: A Major Exhibition of Contemporary Quilts features 38 large quilts that explore color, scale, and improvisation in contemporary textile art. Curated by internationally recognized artist Nancy Crow, the exhibition at the Decorative Arts Center of Ohio includes works by quiltmakers from the United States, Canada, and New Zealand, highlighting the creativity, innovation and artistic excellence shaping contemporary quilt making today. Using bold abstract forms and richly worked fabrics, the artists balance exquisite skill with creative risk. Their quilts invite viewers to experience color as movement, texture, and feeling. This exhibition will run from October 3rd, 2026 to January 3rd, 2027.\n\n \n\nFor more information, please visit the Decorative Arts Center of Ohio’s website."
-  },
-  {
-   "id": "ppl-16423353",
-   "title": "Homework Help Center",
-   "start": "2026-11-16T15:00-05:00",
-   "end": "2026-11-16T18:00-05:00",
-   "allDay": false,
-   "venue": "Sycamore Plaza  · Meeting Room",
-   "address": "7861 Refugee Rd, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.9173,
-   "lon": -82.7918,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16423353",
-   "source": "Pickerington Public Library",
-   "desc": "The Homework Help Center is a community resource that serves the entire Pickerington Local School District. Unlike tutoring services that provide one-on-one help in specific subject areas, the Library’s Homework Help service supports students by ensuring they are able to complete specific work assigned by their classroom teachers. \n\nLibrary staff and volunteers are knowledgeable in guiding students through homework assignments in many subjects and grade levels. If the subject material is beyond the knowledge of staff and volunteers or students need more individual assistance than we can provide, we can direct them to resources for additional help.\n\nOpen Monday-Thursday following the PLSD calendar.\n\nFor more information and online resources, visit https://pickeringtonlibrary.org/homework-help-center/."
-  },
-  {
-   "id": "ppl-16833780",
-   "title": "Teen Hang",
-   "start": "2026-11-16T15:00-05:00",
-   "end": "2026-11-16T17:00-05:00",
-   "allDay": false,
-   "venue": "Sycamore Plaza  · Learning Kitchen",
-   "address": "7861 Refugee Rd, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.9173,
-   "lon": -82.7918,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16833780",
-   "source": "Pickerington Public Library",
-   "desc": "A great space for kids over 12 years old to hang out and relax after school. Enjoy a snack after school while you wait for practice or a ride home. \n\nCrafts: Bedazzling, bracelet-making, coloring pages, nail art, and more!\n\nVideo Games: Choose from a selection of PS5 video games always available (Madden ‘26, NBA 2K ‘26, DreamWorks All-Star Kart Racing, and NC ‘26) or choose something else from our video game collection! A Nintendo Switch is also available for those looking for a solo game or Mario Kart dual with a friend. \n\nTeen Hang follows the PLSD School Calendar. However, video games and craft supplies are available upon request when school is not in session. \n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "vfc-33188",
-   "title": "Holiday Wine Tasting at Ale House 1890",
-   "start": "2026-11-16T18:00-05:00",
-   "end": "2026-11-16T20:00-05:00",
-   "allDay": false,
-   "venue": "149 W Main St",
-   "address": "149 West Main Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7141331,
-   "lon": -82.60378790000001,
-   "area": "Fairfield County",
-   "cost": "$39",
-   "costNum": 39,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/holiday-wine-tasting-at-ale-house-1890/",
-   "source": "Visit Fairfield County",
-   "desc": "Join Ale House 1890 on Monday, November 16th from 6 p.m. to 8 p.m. for an evening of curated wines, relaxed conversation, and a little holiday cheer at their Holiday Wine Tasting! Whether you know exactly what you love or just want to discover a few new bottles for the season, this tasting is designed to be approachable, enjoyable, and worth lingering over. Tickets are $39 per person and includes entry to the Holiday Wine Tasting, tasting notes and score sheets to guide your experience, and a light charcuterie plate for grazing throughout the evening. Plus, guests will have the option to receive 10% off any 6-bottle order placed during the event, perfect for stocking the wine rack, holiday hosting, or checking a few gifts off your list! Tickets are limited, so be sure to reserve your seat today before they sell out!\n\nGuests must be 21+ with a valid ID to taste or purchase wine. No exceptions. Tickets are non-refundable. Ticket transfers are permitted up to 48 hours before the event by contacting Ale House 1890. If purchasing more than one ticket, please list the names of your additional guests in the Notes section during checkout. Doors will open 5 minutes before the scheduled star"
-  },
-  {
-   "id": "vfc-33186",
-   "title": "Paint & Sip at Turtleneck Tavern",
-   "start": "2026-11-16T18:00-05:00",
-   "end": "2026-11-16T20:00-05:00",
-   "allDay": false,
-   "venue": "702 E Main St",
-   "address": "702 East Main Street, Lancaster, OH, USA",
-   "town": "Lancaster",
-   "lat": 39.7132832,
-   "lon": -82.5874985,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/paint-sip-at-turtleneck-tavern/",
-   "source": "Visit Fairfield County",
-   "desc": "Choose the Snowman or Santa image to paint, acrylic on a 12×12″ square canvas, just in time for the holidays at Turtleneck Tavern on Tuesday, November 17th! Images will be pre-drawn. No experience needed. Limited space is available, so please reserve your spot today! Drinks will be available for purchase.\n\n \n\nFor more information, please visit Turtleneck Tavern’s Facebook page."
-  },
-  {
-   "id": "vfc-32650",
-   "title": "Community Meditation Nights at Buckeye Ridge",
-   "start": "2026-11-16T18:00-05:00",
-   "end": "2026-11-16T19:00-05:00",
-   "allDay": false,
-   "venue": "3550 Blacklick-Eastern Rd NE",
-   "address": "3550 Blacklick-Eastern Rd NE, Millersport, OH 43046, USA",
-   "town": "Millersport",
-   "lat": 39.8920141,
-   "lon": -82.5171836,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/2026-11-16-community-meditation-nights-at-buckeye-ridge/",
-   "source": "Visit Fairfield County",
-   "desc": "Community Meditation Nights are continuing at Buckeye Ridge Rescue & Retreat! Whether you’ve joined them before or you’re stepping into meditation for the first time, you’re invited to come as you are and make space to slow down, breathe, and reconnect. Each Monday, they’ll gather in the Gathering Place for an hour of meditation, mindfulness, meaningful conversation, and practical tools you can carry with you long after the evening ends. No experience is needed. There’s no pressure to have meditation “figured out.” Just find a comfortable spot, settle in, and give yourself the gift of being present.\n\nEach week at The Pines at Buckeye Ridge will offer something a little different, from guided meditations and intentional breathing to mindfulness, grounding, stress relief, compassion, and creating a practice that fits into your everyday life. Please register ahead of time to let them know you’re coming! Come for one evening. Come whenever your schedule allows. Or make Monday nights part of your weekly rhythm.\n\nFor more information, please visit Buckeye Ridge’s Facebook page."
-  },
-  {
-   "id": "ppl-15126681",
-   "title": "Library Board of Trustees Meeting",
-   "start": "2026-11-16T18:00-05:00",
-   "end": "2026-11-16T20:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/15126681",
-   "source": "Pickerington Public Library",
-   "desc": "The Pickerington Public Library Board of Trustees meetings are held on the third Monday of the month, unless the 3rd Monday falls on a holiday, then the meeting is held on the 4th Monday.\n\nThe public is welcome to attend and sign in for public participation.\n\nThe Finance Advisory Board Committee meets 30 minutes prior to most regular Board meetings."
-  },
-  {
-   "id": "ppl-16288787",
-   "title": "Google Workspace: A Powerful Suite of Tools",
-   "start": "2026-11-16T18:00-05:00",
-   "end": "2026-11-16T19:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room C",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16288787",
-   "source": "Pickerington Public Library",
-   "desc": "Whether you're applying for a job, managing a household, or starting a new business venture, Google Workspace offers a powerful suite of tools that live entirely in the cloud—your work is always with you, no matter what device you're using. \n\nMonday, August 17: An overview of Google Docs, Slides, Sheets, Keep, and more\n\nMonday, November 16: A deep-dive into Google Docs\n\nPlease bring your personal laptop or tablet to this program.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "ppl-16818303",
-   "title": "Monday Makers - Squeegee Painting",
-   "start": "2026-11-16T18:00-05:00",
-   "end": "2026-11-16T20:00-05:00",
-   "allDay": false,
-   "venue": "Sycamore Plaza  · Meeting Room",
-   "address": "7861 Refugee Rd, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.9173,
-   "lon": -82.7918,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16818303",
-   "source": "Pickerington Public Library",
-   "desc": "Register today and learn a new abstract painting technique using paint, squeegees, and masking tape. Choose one of our autumn or holiday designs or create one of your own.\n\nAll supplies are provided. Registration is required.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "dtc-1042700",
-   "title": "Adult Writing Workshop: A Ticket to the Truth: Writing Personal Essay and Memoir (In-Person OR Virtual)",
-   "start": "2026-11-16T18:00-05:00",
-   "end": "2026-11-16T20:00-05:00",
-   "allDay": false,
-   "venue": "Thurber Center",
-   "address": "91 Jefferson Ave, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "$55",
-   "costNum": 55,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/adult-writing-workshop-a-ticket-to-the-truth-writing-personal-essay-and-memoir-in-person-or-virtual/",
-   "source": "Downtown Columbus",
-   "desc": "In our lives, we are both always experts and novices. Personal essay and book-length memoirs allow writers to explore compelling, central moments, experiences, and material from their lives to communicate meaning, universal themes, and takeaways to readers, transforming experience into narrative art. What are the ethics of writing about others? We will explore conventions of the form, such as self-disclosure and deep examination, creating tension, character arc, using scenes and dialogue, distilling the “one big thing” your piece is about, and the blurry boundaries of fact and imagination in creative nonfiction—the only writing form defined by what it is not. Discussion questions may include: how do you maximize self-inquiry while avoiding “navel gazing”? What elements make stories engaging to readers? How do you craft a persona on the page?\n\nBy the end of the session, you will possess an understanding of personal essay and memoir writing fundamentals: honesty, self-reflection, tension, balancing scenes and exposition, distilling your memoir or essay’s “about-ness” (i.e., theme), and what to include versus what to omit. Toward the end of our time together, we will discuss the proce"
   },
   {
    "id": "ppl-16802708",
@@ -16797,6 +16608,27 @@
    "desc": "Come join the fun at Euchre Night at Double Edge Brewing! They’re kicking things off at 7 p.m., so arrive a few minutes early to get settled and snag a seat before the cards fly. Bring your best partner and your sharpest strategy—the 1st and 2nd place teams will walk away with prizes! Entry is free, and there will be a food truck on site to serve your hunger needs! Round up your friends, practice your trump calls, and get ready for a night of good games, good laughs, and good company!\n\nFor more information, please visit Double Edge Brewing’s Facebook page."
   },
   {
+   "id": "fcdl-15405273",
+   "title": "Library Closed",
+   "start": "2026-12-31T00:00-05:00",
+   "end": "2026-12-31T23:59-05:00",
+   "allDay": true,
+   "venue": "All Library Locations",
+   "address": "",
+   "town": "Lancaster",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/15405273",
+   "source": "Fairfield County District Library",
+   "desc": "All Library locations are closed."
+  },
+  {
    "id": "dtc-10017902",
    "title": "Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors",
    "start": "2026-12-31T10:00-05:00",
@@ -16816,6 +16648,27 @@
    "url": "https://downtowncolumbus.com/event/portraits-of-courage-a-commander-in-chiefs-tribute-to-americas-warriors/2026-12-31/",
    "source": "Downtown Columbus",
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
+  },
+  {
+   "id": "ppl-17595210",
+   "title": "Noon Year's Eve",
+   "start": "2026-12-31T11:00-05:00",
+   "end": "2026-12-31T13:00-05:00",
+   "allDay": false,
+   "venue": "Sycamore Plaza  · Conference Room,Learning Kitchen,Meeting Room",
+   "address": "7861 Refugee Rd, Pickerington, OH 43147",
+   "town": "Pickerington",
+   "lat": 39.9173,
+   "lon": -82.7918,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://pickeringtonlibrary.libnet.info/event/17595210",
+   "source": "Pickerington Public Library",
+   "desc": "It’s all the excitement of New Year’s Eve, perfectly timed for little ones (and their parents, too!).\n\nBring the kids for a festive countdown to noon! We will have face painters and balloon twisters, along with crafts, games, and a big balloon drop. Right after, we’ll turn up the music for a dance party and celebrate with light refreshments.\n\nRing in the New Year—without the midnight meltdown!\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
    "id": "grovecity-2750",
@@ -16881,6 +16734,27 @@
    "desc": "Traditional New Year’s Eve activities barely begin before many children (and some adults) want to go to bed. So St. John’s Episcopal Church is hosting a Family Board and Card Game New Year’s Eve Afternoon! This is for anyone who wants to play some card and board games with friends and family (you don’t have to have children to come to the event) and perhaps welcome the New Year a little earlier in the evening. They will have a table full of card and board games, and you are welcome to bring some of your own. You can also bring a game-friendly snack to share!\n\n \n\nFor more information, please visit St. John’s Episcopal Church’s Facebook page."
   },
   {
+   "id": "ppl-14967629",
+   "title": "Library Closing at 5:00 PM",
+   "start": "2026-12-31T17:00-05:00",
+   "end": "2026-12-31T20:00-05:00",
+   "allDay": false,
+   "venue": "Pickerington Main",
+   "address": "201 Opportunity Way, Pickerington, OH 43147",
+   "town": "Pickerington",
+   "lat": 39.8958,
+   "lon": -82.7563,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://pickeringtonlibrary.libnet.info/event/14967629",
+   "source": "Pickerington Public Library",
+   "desc": "Both library locations will close early in observance of the holiday. Our eBranch is open 24/7."
+  },
+  {
    "id": "dtc-10022717",
    "title": "FREE Wanderlights",
    "start": "2026-12-31T17:00-05:00",
@@ -16921,6 +16795,90 @@
    "url": "https://www.sciotomile.com/event/wanderlights/2026-12-31/",
    "source": "Scioto Mile",
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
+  },
+  {
+   "id": "vfc-27122",
+   "title": "Night at the Museum with The Ohio Glass Museum",
+   "start": "2026-12-31T20:00-05:00",
+   "end": "2026-12-31T23:00-05:00",
+   "allDay": false,
+   "venue": "124 W Main St",
+   "address": "124 West Main Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7134997,
+   "lon": -82.60296450000001,
+   "area": "Fairfield County",
+   "cost": "Free–$10",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/night-at-the-museum-back-to-the-future/",
+   "source": "Visit Fairfield County",
+   "desc": "Celebrate the New Year with an unforgettable, family-friendly evening at The Ohio Glass Museum! Enjoy a special showing of Home Alone and Home Alone 2, along with popcorn, snacks, face painting, a coloring contest, and other fun activities throughout the night. Admission is $5 per person and children under 5 are free.\n\nCreate a Fused Glass Ornament!Participants can make a unique fused glass ornament inspired by the globe that ascends at midnight.Cost: $10 per personLast acceptance for the fused glass class is at 10:30 p.m.\n\nFor more information, please visit The Ohio Glass Museum’s website."
+  },
+  {
+   "id": "ddl-612a864210efec7483457396",
+   "title": "Glass Town Countdown",
+   "start": "2026-12-31T22:00-05:00",
+   "end": "2027-01-01T01:00-05:00",
+   "allDay": false,
+   "venue": "",
+   "address": "Downtown, Lancaster, OH 43130",
+   "town": "Lancaster",
+   "lat": 40.7207559,
+   "lon": -74.0007613,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://www.destinationdowntownlancaster.com/events/glasstowncountdown",
+   "source": "Destination Downtown Lancaster",
+   "desc": ""
+  },
+  {
+   "id": "vfc-10188",
+   "title": "Glass Town Countdown",
+   "start": "2026-12-31T22:30-05:00",
+   "end": "2027-01-01T00:00-05:00",
+   "allDay": false,
+   "venue": "104 N Broad St",
+   "address": "104 North Broad Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7138083,
+   "lon": -82.6019278,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/glass-town-countdown/",
+   "source": "Visit Fairfield County",
+   "desc": "Join your friends, family, and neighbors for an unforgettable New Year’s Eve celebration! Visit historic downtown Lancaster for a family-friendly street party where you will taste fantastic food and spirits at local restaurants and pubs, watch the ascent of the giant glass globe, and light up the sky with a spectacular fireworks show!\n\nThis event celebrates the importance of glass in Lancaster’s history as the community creates a beautiful piece of glass art for this fun party. On New Year’s Eve, the globe rises high above Zane Square and rings in the new year. The event is completely free for everyone to watch and enjoy.\n\nTo learn more or to follow this event, visit the Glass Town Countdown Facebook page."
+  },
+  {
+   "id": "gahanna-704",
+   "title": "New Years Day",
+   "start": "2027-01-01T00:00-05:00",
+   "end": null,
+   "allDay": true,
+   "venue": "",
+   "address": "- 200 S Hamilton Rd Gahanna OH 43230",
+   "town": "Gahanna",
+   "lat": 40.0195,
+   "lon": -82.8793,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27",
+   "source": "City of Gahanna",
+   "desc": "City Recognized Holiday - Closed https://www.gahanna.gov/calendar.aspx?EID=704"
   }
  ]
 }
