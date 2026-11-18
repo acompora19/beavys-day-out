@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-17T22:58:07.358Z",
+ "generated": "2026-11-18T11:53:32.916Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 356,
-   "kept": 222,
-   "ms": 5303
+   "kept": 219,
+   "ms": 6304
   },
   {
    "source": "Fairfield County District Library",
-   "rows": 125,
-   "kept": 124,
-   "ms": 424
+   "rows": 119,
+   "kept": 119,
+   "ms": 471
   },
   {
    "source": "Pickerington Public Library",
-   "rows": 213,
-   "kept": 210,
-   "ms": 633
+   "rows": 201,
+   "kept": 201,
+   "ms": 512
   },
   {
    "source": "City of Canal Winchester",
    "rows": 112,
    "kept": 8,
-   "ms": 329
+   "ms": 287
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 293
+   "ms": 203
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 60
+   "ms": 49
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 4,
-   "ms": 1619
+   "ms": 598
   },
   {
    "source": "Downtown Columbus",
-   "rows": 156,
+   "rows": 159,
    "kept": 156,
-   "ms": 17423
+   "ms": 18515
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 13,
    "kept": 13,
-   "ms": 852
+   "ms": 835
   },
   {
    "source": "Metro Parks",
    "rows": 9,
    "kept": 9,
-   "ms": 3540
+   "ms": 1482
   },
   {
    "source": "Columbus Commons",
-   "rows": 49,
+   "rows": 50,
    "kept": 49,
-   "ms": 2458
+   "ms": 1344
   },
   {
    "source": "Scioto Mile",
-   "rows": 50,
+   "rows": 51,
    "kept": 50,
-   "ms": 1185
+   "ms": 1375
   },
   {
    "source": "City of Gahanna",
    "rows": 81,
    "kept": 10,
-   "ms": 519
+   "ms": 394
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 77,
    "kept": 6,
-   "ms": 88
+   "ms": 76
   },
   {
    "source": "City of Grove City",
    "rows": 14,
    "kept": 14,
-   "ms": 342
+   "ms": 229
   },
   {
    "source": "City of Worthington",
    "rows": 93,
    "kept": 18,
-   "ms": 456
+   "ms": 298
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 264
+   "ms": 246
   },
   {
    "source": "Standing freebies",
-   "rows": 8,
+   "rows": 9,
    "kept": 8,
-   "ms": 4
+   "ms": 3
   }
  ],
  "events": [
@@ -152,342 +152,6 @@
    "url": "https://visitfairfieldcounty.org/events/color-improvisations-3-a-major-exhibition-of-contemporary-quilts/",
    "source": "Visit Fairfield County",
    "desc": "Color Improvisations 3: A Major Exhibition of Contemporary Quilts features 38 large quilts that explore color, scale, and improvisation in contemporary textile art. Curated by internationally recognized artist Nancy Crow, the exhibition at the Decorative Arts Center of Ohio includes works by quiltmakers from the United States, Canada, and New Zealand, highlighting the creativity, innovation and artistic excellence shaping contemporary quilt making today. Using bold abstract forms and richly worked fabrics, the artists balance exquisite skill with creative risk. Their quilts invite viewers to experience color as movement, texture, and feeling. This exhibition will run from October 3rd, 2026 to January 3rd, 2027.\n\n \n\nFor more information, please visit the Decorative Arts Center of Ohio’s website."
-  },
-  {
-   "id": "fcdl-17129289",
-   "title": "Hometown Military Heroes Wall Display",
-   "start": "2026-11-17T10:30-05:00",
-   "end": "2026-11-17T16:30-05:00",
-   "allDay": false,
-   "venue": "Bremen Branch Library",
-   "address": "220 Marietta St, Bremen, OH 43107",
-   "town": "Bremen",
-   "lat": 39.7066,
-   "lon": -82.4258,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17129289",
-   "source": "Fairfield County District Library",
-   "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
-  },
-  {
-   "id": "ppl-16864052",
-   "title": "Library On-The-Go Parks Tour",
-   "start": "2026-11-17T14:00-05:00",
-   "end": "2026-11-17T16:00-05:00",
-   "allDay": false,
-   "venue": "Independence Park · 3065 Dewbourne Dr, Reynoldsburg, OH 43068 ",
-   "address": "",
-   "town": "Pickerington",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16864052",
-   "source": "Pickerington Public Library",
-   "desc": "The Library On-The-Go is a full-service mobile library loaded with books and other materials for all ages!\n\nVisitors can sign up for a free library card (children under 18 must have parent or guardian permission) and check out materials during their visit.\n\nEach stop may also feature engaging activities such as early literacy, crafts, games, nature kits, and more, with offerings varying by location and date.\n\nPlease reach out to outreach@pickeringtonlibrary.org with questions about the Library On-The-Go or to request services. See you in the park!\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221"
-  },
-  {
-   "id": "ppl-16423354",
-   "title": "Homework Help Center",
-   "start": "2026-11-17T15:00-05:00",
-   "end": "2026-11-17T18:00-05:00",
-   "allDay": false,
-   "venue": "Sycamore Plaza  · Meeting Room",
-   "address": "7861 Refugee Rd, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.9173,
-   "lon": -82.7918,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16423354",
-   "source": "Pickerington Public Library",
-   "desc": "The Homework Help Center is a community resource that serves the entire Pickerington Local School District. Unlike tutoring services that provide one-on-one help in specific subject areas, the Library’s Homework Help service supports students by ensuring they are able to complete specific work assigned by their classroom teachers. \n\nLibrary staff and volunteers are knowledgeable in guiding students through homework assignments in many subjects and grade levels. If the subject material is beyond the knowledge of staff and volunteers or students need more individual assistance than we can provide, we can direct them to resources for additional help.\n\nOpen Monday-Thursday following the PLSD calendar.\n\nFor more information and online resources, visit https://pickeringtonlibrary.org/homework-help-center/."
-  },
-  {
-   "id": "ppl-16833781",
-   "title": "Teen Hang",
-   "start": "2026-11-17T15:00-05:00",
-   "end": "2026-11-17T17:00-05:00",
-   "allDay": false,
-   "venue": "Sycamore Plaza  · Learning Kitchen",
-   "address": "7861 Refugee Rd, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.9173,
-   "lon": -82.7918,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16833781",
-   "source": "Pickerington Public Library",
-   "desc": "A great space for kids over 12 years old to hang out and relax after school. Enjoy a snack after school while you wait for practice or a ride home. \n\nCrafts: Bedazzling, bracelet-making, coloring pages, nail art, and more!\n\nVideo Games: Choose from a selection of PS5 video games always available (Madden ‘26, NBA 2K ‘26, DreamWorks All-Star Kart Racing, and NC ‘26) or choose something else from our video game collection! A Nintendo Switch is also available for those looking for a solo game or Mario Kart dual with a friend. \n\nTeen Hang follows the PLSD School Calendar. However, video games and craft supplies are available upon request when school is not in session. \n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "fcdl-17829934",
-   "title": "School Age STEAM: Spiders",
-   "start": "2026-11-17T16:00-05:00",
-   "end": "2026-11-17T17:00-05:00",
-   "allDay": false,
-   "venue": "Johns Branch",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17829934",
-   "source": "Fairfield County District Library",
-   "desc": "Whether you love them or fear them, spiders are fascinating creatures. Get a look at how they live their lives with activities and a craft.\n\nRegister online, on our app, or by calling the Amanda Branch at (740) 969-2785"
-  },
-  {
-   "id": "ppl-16856357",
-   "title": "Board Game Club",
-   "start": "2026-11-17T16:00-05:00",
-   "end": "2026-11-17T18:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Atrium",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16856357",
-   "source": "Pickerington Public Library",
-   "desc": "Stop by the library on Tuesday afternoons to play board games! Hosted by Tom, a local board game enthusiast, this club offers a welcoming space to play, learn new games, and enjoy great company. All games are provided, just bring your interest and love for board games!\n\nFor specific accommodation requests or inquiries, please contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "ppl-17599241",
-   "title": "Silly Stories in the Park",
-   "start": "2026-11-17T16:00-05:00",
-   "end": "2026-11-17T17:00-05:00",
-   "allDay": false,
-   "venue": "Independence Park - 3065 Dewbourne Dr, Reynoldsburg, OH 43068",
-   "address": "",
-   "town": "Pickerington",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/17599241",
-   "source": "Pickerington Public Library",
-   "desc": "Can't get enough of our Early Literacy Classes? Need an outlet for after-school sillies? This outdoor early literacy program is perfect for you!\n\nThe Library is bringing the joys of early literacy to Independence Park! Join the Library Outreach Team for silly stories, silly songs, and silly activities that help children build early literacy skills like reading, writing, singing, talking, and playing. Grown-ups and children alike will love the funny and engaging stories, and kids ages 3-5 will discover their own love of reading through humor and play.\n\nCheck out books, browse resources, get a free library card, and more at the Library On-The-Go, too! \n\nPlease reach out to outreach@pickeringtonlibrary.org with questions about the Library On-The-Go or to request services.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221"
-  },
-  {
-   "id": "fcdl-17135730",
-   "title": "Diamond Art Bookmark",
-   "start": "2026-11-17T16:30-05:00",
-   "end": "2026-11-17T17:30-05:00",
-   "allDay": false,
-   "venue": "Bremen Branch Library · Meeting Room (Bremen)",
-   "address": "220 Marietta St, Bremen, OH 43107",
-   "town": "Bremen",
-   "lat": 39.7066,
-   "lon": -82.4258,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17135730",
-   "source": "Fairfield County District Library",
-   "desc": "Make a Diamond Art bookmark! All supplies provided. Register online, on our app, or by calling the Bremen Branch at (740) 569-7246."
-  },
-  {
-   "id": "fcdl-15359434",
-   "title": "Legal Aid",
-   "start": "2026-11-17T17:00-05:00",
-   "end": "2026-11-17T19:00-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Gallery (Lancaster)",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/15359434",
-   "source": "Fairfield County District Library",
-   "desc": "The Fairfield County Pro Bono Legal Clinic is offering FREE legal advice on civil (not criminal) matters to income eligible individuals who cannot afford private counsel. Services are provided on a first-come/first-serve basis with limited availability. Anyone attending the clinic should bring with them all documentation and paperwork regarding the issues in question.\n\nFor additional information regarding the clinic, please call Fairfield County 211 (Information and Referral) by dialing 211 or 740-687-0500."
-  },
-  {
-   "id": "vfc-32870",
-   "title": "Crafts with Crafts at Double Edge Brewing",
-   "start": "2026-11-17T18:00-05:00",
-   "end": "2026-11-17T20:00-05:00",
-   "allDay": false,
-   "venue": "158 W Chestnut St",
-   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7123144,
-   "lon": -82.6041679,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/2026-11-17-crafts-with-crafts-at-double-edge-brewing/",
-   "source": "Visit Fairfield County",
-   "desc": "Crafts with Crafts happens every Tuesday at 6 p.m. at Double Edge Brewing! Once a month they will do a guided craft class, then all other weeks are bring your own craft and hang! Forgot supplies? They’ll have a box of free crafts to keep you busy. No pressure to drink—though they’ve got plenty of beer, cider, cocktails & NA options, as well as a food truck on site to fill your hunger needs. Come craft, hang, and make some new friends!\n\nFor more information, please visit Double Edge Brewing’s Facebook page."
-  },
-  {
-   "id": "fcdl-17210686",
-   "title": "Teen Writing Club",
-   "start": "2026-11-17T18:00-05:00",
-   "end": "2026-11-17T19:00-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Boardroom (Lancaster)",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17210686",
-   "source": "Fairfield County District Library",
-   "desc": "Hone your writing skills and share your creative talents among peers. Every meeting we will focus on a different topic that will be challenging and fun."
-  },
-  {
-   "id": "ppl-16858462",
-   "title": "Holiday Paint Night",
-   "start": "2026-11-17T18:00-05:00",
-   "end": "2026-11-17T19:00-05:00",
-   "allDay": false,
-   "venue": "Sycamore Plaza  · Meeting Room",
-   "address": "7861 Refugee Rd, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.9173,
-   "lon": -82.7918,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16858462",
-   "source": "Pickerington Public Library",
-   "desc": "Get into the holiday spirit with a relaxing and creative painting class led by local artist Deb Waites. Whether you're new to painting or have experience, Deb will provide step-by-step instruction as you create a beautiful holiday-themed artwork using either watercolor or acrylic paint. All materials are included, so just bring your creativity and enjoy an evening of festive fun. This program is for adults ages 18 and older. Registration is required, as space is limited.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "vfc-31501",
-   "title": "Combustion RUN at Combustion Brewery",
-   "start": "2026-11-17T18:30-05:00",
-   "end": "2026-11-17T19:30-05:00",
-   "allDay": false,
-   "venue": "80 W Church St",
-   "address": "80 West Church Street, Pickerington, Ohio 43147, United States",
-   "town": "Pickerington",
-   "lat": 39.885268,
-   "lon": -82.754857,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/2026-11-17-combustion-run-at-combustion-brewery/",
-   "source": "Visit Fairfield County",
-   "desc": "Join Combustion Brewery & Taproom for Combustion RUN, kicking off every Tuesday from the taproom at 6:30 p.m! You’ll move together along a three mile paved loop through Pickerington before returning to Combustion where you can enjoy fresh bevvies from the brewery, a meal from the food truck, dinner from a local business, or all three! If you’re not up for three miles, do less, and if you’re itching to go long, do more; they’re not there to judge. Pace doesn’t matter – as long as you’re moving, they’re here for it!\n\n \n\nFor more information, please visit Combustion Brewery’s Facebook page."
-  },
-  {
-   "id": "ppl-16802143",
-   "title": "Cooking for One or Two: Simple Tips for Delicious Meals",
-   "start": "2026-11-17T18:30-05:00",
-   "end": "2026-11-17T19:30-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room C",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16802143",
-   "source": "Pickerington Public Library",
-   "desc": "Preparing meals for just one or two people can sometimes feel like a challenge—but it doesn’t have to be! Join us to discover practical tips and creative ideas for smart shopping, cooking efficiently, and making the most of leftovers. Whether you're cooking for yourself or with a partner, you'll learn how to enjoy tasty, satisfying meals without the hassle.\n\nPresented by Shannon Carter, Assistant Professor, Family and Consumer Sciences, The Ohio State University.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "vfc-32686",
-   "title": "Ornament Workshop at Double Edge Brewing",
-   "start": "2026-11-17T19:00-05:00",
-   "end": "2026-11-17T21:00-05:00",
-   "allDay": false,
-   "venue": "158 W Chestnut St",
-   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7123144,
-   "lon": -82.6041679,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/ornament-workshop-at-double-edge-brewing/",
-   "source": "Visit Fairfield County",
-   "desc": "Let’s get a little crafty and festive! Join Double Edge Brewing on November 17th from 7 p.m. to 9 p.m. for a fun evening of painting Christmas ornaments and making some holiday memories. You don’t have to be an arts-and-crafts pro to join in! Even if you’re the person who accidentally paints their fingers instead of the ornament, you’re in the right place. They’ll provide all the supplies you need, so just show up ready to have some fun and create something special for your Christmas tree.\n\nAll ages are welcome! They’ve got a full bar for the grown-ups and a full non-alcoholic menu, so there’s something for everyone! Fine Smoke BBQ Food Truck will be serving from 5 p.m. to 8 p.m. Spots are limited, so grab your tickets and join them for a little holiday creativity at the Edge. Bring the kids, bring the family, and make it a night to remember. They can’t wait to make some memories with you!\n\nFor more information, please visit Double Edge Brewing’s Facebook page."
-  },
-  {
-   "id": "ppl-14575527",
-   "title": "PPL Book Club",
-   "start": "2026-11-17T19:00-05:00",
-   "end": "2026-11-17T20:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room A",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/14575527",
-   "source": "Pickerington Public Library",
-   "desc": "The PPL Book Club meets every month on the third Tuesday of the month at Pickerington Main Library. ​\n\nFor more information, please email the coordinator, Terrie Albright. \n\nDate\nBook Title\nAuthor\nGenre\n\nJan. 2026\nThe Women\nKristen Hannah\nHistorical Fiction\n\nFeb. 2026\nBroken Country\nClare Leslie Hall\nFiction\n\nMar. 2026\nRunning With Sherman\nChristopher McDougall\nNon-Fiction\n\nApr. 2026\nHow to Read a Book\nMonica Wood\nFiction\n\nMay 2026\nMy Friends\nFredrik Backman\nFiction\n\nJune 2026\n-- Book Selection Meeting --\n\nJuly 2026\nThe Wedding People\nAlison Espach\nFiction\n\nAugust 2026\nIn An Instant\nSuzanne Redfern\nYA Fiction\n\nSeptember 2026\nAsk Again, Yes\nMary Beth Keane\nFamily Epic Fiction\n\nOctober 2026\nPaper Girl\nBeth Macy\nMemoir Non-Fiction\n\nNovember 2026\nNorth Woods\nDaniel Mason\nHistorical Fiction\n\nDecember 2026\nWest With Giraffes\nLynda Rutledge\nHistorical Fiction\n\nJanuary 2027\nThe Bright Years\nSarah Damoff\nDomestic Fiction\n\nFebruary 2027\nThe Lion Women of Tehran\nMarjan Kamali\nComing of Age Historical Fiction\n\nMarch 2027\nThe Correspondent\nVirginia Evans\nEpistolary Fiction\n\nApril 2027\nHeartwood\nAmity Gaige\nThriller Fiction\n\nMay 2027\nMore Than Enough\nAnna Quindlen\nLiterary Fiction\n\nJune 2027\n - "
   },
   {
    "id": "dtc-10004701",
@@ -2272,7 +1936,7 @@
    "indoor": null,
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
    "source": "City of Worthington",
-   "desc": "https://worthington.org/calendar.aspx?EID=9486"
+   "desc": "https://worthington.org/m/calendar/event/detail/9486"
   },
   {
    "id": "vfc-33192",
@@ -2356,7 +2020,7 @@
    "indoor": null,
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
    "source": "City of Worthington",
-   "desc": "About Jason Carter - https://jasoncarterband.com/about \n \nAbout Michael Cleveland - https://www.michaelclevelandfiddle.com/the-band/ \n \nThe Ramblin’ Bluegrass Ensemble is a super-group of roots-based musicians pulled from active central Ohio bluegrass bands. United by a shared love for Appalachian heritage, harmony singing and innovative improvisational acoustic instrumentation, they each share their unique talents to perform a mix of traditional bluegrass covers with a touch of Western swing and original compositions \n \n https://worthington.org/calendar.aspx?EID=9451"
+   "desc": "About Jason Carter - https://jasoncarterband.com/about \n \nAbout Michael Cleveland - https://www.michaelclevelandfiddle.com/the-band/ \n \nThe Ramblin’ Bluegrass Ensemble is a super-group of roots-based musicians pulled from active central Ohio bluegrass bands. United by a shared love for Appalachian heritage, harmony singing and innovative improvisational acoustic instrumentation, they each share their unique talents to perform a mix of traditional bluegrass covers with a touch of Western swing and original compositions \n \n https://worthington.org/m/calendar/event/detail/9451"
   },
   {
    "id": "dtc-10022833",
@@ -2440,7 +2104,7 @@
    "indoor": null,
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
    "source": "City of Worthington",
-   "desc": "The Worthington Farmers Market was established in 1987 and is one of the largest and most respected markets in Ohio. The Market is held indoors at The Shops at Worthington Place during the months of November through April. During the summer months, the Market takes place outdoors in downtown Worthington. https://worthington.org/calendar.aspx?EID=9226"
+   "desc": "The Worthington Farmers Market was established in 1987 and is one of the largest and most respected markets in Ohio. The Market is held indoors at The Shops at Worthington Place during the months of November through April. During the summer months, the Market takes place outdoors in downtown Worthington. https://worthington.org/m/calendar/event/detail/9226"
   },
   {
    "id": "vfc-32716",
@@ -3200,7 +2864,7 @@
    "indoor": null,
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
    "source": "City of Worthington",
-   "desc": "https://worthington.org/calendar.aspx?EID=9488"
+   "desc": "https://worthington.org/m/calendar/event/detail/9488"
   },
   {
    "id": "vfc-32610",
@@ -5447,7 +5111,7 @@
    "indoor": null,
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
    "source": "City of Worthington",
-   "desc": "The Worthington Farmers Market was established in 1987 and is one of the largest and most respected markets in Ohio. The Market is held indoors at The Shops at Worthington Place during the months of November through April. During the summer months, the Market takes place outdoors in downtown Worthington. https://worthington.org/calendar.aspx?EID=9227"
+   "desc": "The Worthington Farmers Market was established in 1987 and is one of the largest and most respected markets in Ohio. The Market is held indoors at The Shops at Worthington Place during the months of November through April. During the summer months, the Market takes place outdoors in downtown Worthington. https://worthington.org/m/calendar/event/detail/9227"
   },
   {
    "id": "vfc-32965",
@@ -5913,7 +5577,7 @@
    "indoor": null,
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
    "source": "City of Worthington",
-   "desc": "Bring the family to enjoy the sights and sounds of the holiday season, including, horse-drawn carriage rides, live music and a photo opportunity with Santa. Local retailers will be offering special promotions and sidewalk sales. Beginning at 5pm, activities also begin on the southeast Village Green, prior to the 5:30 tree lighting celebration. https://worthington.org/calendar.aspx?EID=9317"
+   "desc": "Bring the family to enjoy the sights and sounds of the holiday season, including, horse-drawn carriage rides, live music and a photo opportunity with Santa. Local retailers will be offering special promotions and sidewalk sales. Beginning at 5pm, activities also begin on the southeast Village Green, prior to the 5:30 tree lighting celebration. https://worthington.org/m/calendar/event/detail/9317"
   },
   {
    "id": "vfc-32688",
@@ -6060,7 +5724,7 @@
    "indoor": null,
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
    "source": "City of Worthington",
-   "desc": "https://worthington.org/calendar.aspx?EID=9315"
+   "desc": "https://worthington.org/m/calendar/event/detail/9315"
   },
   {
    "id": "grovecity-2742",
@@ -7110,7 +6774,7 @@
    "indoor": null,
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
    "source": "City of Worthington",
-   "desc": "Enjoy an evening with family and friends for dinner, drinks, shopping and live holiday music in historic Old Worthington. Amid festive luminaries lining High Street, local retailers will be open late to offer special sales as part of the annual Illuminated Shopping event. https://worthington.org/calendar.aspx?EID=9318"
+   "desc": "Enjoy an evening with family and friends for dinner, drinks, shopping and live holiday music in historic Old Worthington. Amid festive luminaries lining High Street, local retailers will be open late to offer special sales as part of the annual Illuminated Shopping event. https://worthington.org/m/calendar/event/detail/9318"
   },
   {
    "id": "dtc-10017919",
@@ -8370,7 +8034,7 @@
    "indoor": null,
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
    "source": "City of Worthington",
-   "desc": "The Worthington Farmers Market was established in 1987 and is one of the largest and most respected markets in Ohio. The Market is held indoors at The Shops at Worthington Place during the months of November through April. During the summer months, the Market takes place outdoors in downtown Worthington. https://worthington.org/calendar.aspx?EID=9228"
+   "desc": "The Worthington Farmers Market was established in 1987 and is one of the largest and most respected markets in Ohio. The Market is held indoors at The Shops at Worthington Place during the months of November through April. During the summer months, the Market takes place outdoors in downtown Worthington. https://worthington.org/m/calendar/event/detail/9228"
   },
   {
    "id": "reynoldsburg-1576",
@@ -8391,7 +8055,7 @@
    "indoor": null,
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
    "source": "City of Reynoldsburg",
-   "desc": "https://www.reynoldsburg.gov/calendar.aspx?EID=1576"
+   "desc": "https://www.reynoldsburg.gov/m/calendar/event/detail/1576"
   },
   {
    "id": "vfc-32717",
@@ -8895,7 +8559,7 @@
    "indoor": null,
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
    "source": "City of Reynoldsburg",
-   "desc": "https://www.reynoldsburg.gov/calendar.aspx?EID=1415"
+   "desc": "https://www.reynoldsburg.gov/m/calendar/event/detail/1415"
   },
   {
    "id": "recurring-short-north-gallery-hop-2026-12-05",
@@ -11574,7 +11238,7 @@
    "indoor": null,
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
    "source": "City of Worthington",
-   "desc": "Kick off the holidays at our Holiday Party—a festive evening filled with fun for all ages. Enjoy visits with Santa, meet his reindeer, play carnival games, and soak in the seasonal cheer. Whether you're starting a new tradition or continuing a favorite one, it’s the perfect way to make holiday memories with family and friends. https://worthington.org/calendar.aspx?EID=9540"
+   "desc": "Kick off the holidays at our Holiday Party—a festive evening filled with fun for all ages. Enjoy visits with Santa, meet his reindeer, play carnival games, and soak in the seasonal cheer. Whether you're starting a new tradition or continuing a favorite one, it’s the perfect way to make holiday memories with family and friends. https://worthington.org/m/calendar/event/detail/9540"
   },
   {
    "id": "dtc-10022880",
@@ -11784,7 +11448,7 @@
    "indoor": null,
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
    "source": "City of Worthington",
-   "desc": "The Worthington Farmers Market was established in 1987 and is one of the largest and most respected markets in Ohio. The Market is held indoors at The Shops at Worthington Place during the months of November through April. During the summer months, the Market takes place outdoors in downtown Worthington. https://worthington.org/calendar.aspx?EID=9229"
+   "desc": "The Worthington Farmers Market was established in 1987 and is one of the largest and most respected markets in Ohio. The Market is held indoors at The Shops at Worthington Place during the months of November through April. During the summer months, the Market takes place outdoors in downtown Worthington. https://worthington.org/m/calendar/event/detail/9229"
   },
   {
    "id": "worthington-9319",
@@ -11805,7 +11469,7 @@
    "indoor": null,
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
    "source": "City of Worthington",
-   "desc": "The Worthington Division of Fire is collecting toys for children in need this holiday season through the Firefighters for Kids toy drive. Donations can be dropped off anytime 24/7 between now and Christmas Eve. Worthington area residents are also invited to drive through the Worthington Fire Department, 6500 N. High Street, and drop off toy donations at the drive-thru event, scheduled for Saturday, December 12th between 8:00 a.m. and 3:00 p.m. \n \nFood donations benefiting the Worthington Resource Pantry will also be collected. A list of needed food items can be found online at worthingtonresourcepantry.org. Please bring food items to drop off during the Drive from 8am-3pm. https://worthington.org/calendar.aspx?EID=9319"
+   "desc": "The Worthington Division of Fire is collecting toys for children in need this holiday season through the Firefighters for Kids toy drive. Donations can be dropped off anytime 24/7 between now and Christmas Eve. Worthington area residents are also invited to drive through the Worthington Fire Department, 6500 N. High Street, and drop off toy donations at the drive-thru event, scheduled for Saturday, December 12th between 8:00 a.m. and 3:00 p.m. \n \nFood donations benefiting the Worthington Resource Pantry will also be collected. A list of needed food items can be found online at worthingtonresourcepantry.org. Please bring food items to drop off during the Drive from 8am-3pm. https://worthington.org/m/calendar/event/detail/9319"
   },
   {
    "id": "vfc-32718",
@@ -13993,7 +13657,7 @@
    "indoor": null,
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
    "source": "City of Worthington",
-   "desc": "Playing hits from the Great American Songbook as well as Holiday faves from the early 1960’s, these talented and seasoned members of the well known “Phil Dirt and the Dozers” band are sure to turn out another memorable show! Come enjoy the season and let the music take you back to a simpler time in America… of sharkskin suits, polaroid cameras and the whiskey sour… a time when every AM car radio played the tunes that would become the “Baby-Boomer” hits of today by Sinatra, Dean Martin, Nat Cole and more. \n \nJoin us at 6 pm for a dessert reception before the show! Our bar will also be opening at this time. \n \nThe MAC will be collecting canned foods to support our neighbors through the great work of the Worthington Resource Pantry. Please check their website for most needed items: https://www.worthingtonresourcepantry.org/givehelp https://worthington.org/calendar.aspx?EID=9452"
+   "desc": "Playing hits from the Great American Songbook as well as Holiday faves from the early 1960’s, these talented and seasoned members of the well known “Phil Dirt and the Dozers” band are sure to turn out another memorable show! Come enjoy the season and let the music take you back to a simpler time in America… of sharkskin suits, polaroid cameras and the whiskey sour… a time when every AM car radio played the tunes that would become the “Baby-Boomer” hits of today by Sinatra, Dean Martin, Nat Cole and more. \n \nJoin us at 6 pm for a dessert reception before the show! Our bar will also be opening at this time. \n \nThe MAC will be collecting canned foods to support our neighbors through the great work of the Worthington Resource Pantry. Please check their website for most needed items: https://www.worthingtonresourcepantry.org/givehelp https://worthington.org/m/calendar/event/detail/9452"
   },
   {
    "id": "fcdl-17514639",
@@ -14350,7 +14014,7 @@
    "indoor": null,
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
    "source": "City of Worthington",
-   "desc": "Playing hits from the Great American Songbook as well as Holiday faves from the early 1960’s, these talented and seasoned members of the well known “Phil Dirt and the Dozers” band are sure to turn out another memorable show! Come enjoy the season and let the music take you back to a simpler time in America… of sharkskin suits, polaroid cameras and the whiskey sour… a time when every AM car radio played the tunes that would become the “Baby-Boomer” hits of today by Sinatra, Dean Martin, Nat Cole and more. \n \nJoin us at 6 pm for a dessert reception before the show! Our bar will also be opening at this time. \n \nThe MAC will be collecting canned foods to support our neighbors through the great work of the Worthington Resource Pantry. Please check their website for most needed items: https://www.worthingtonresourcepantry.org/givehelp https://worthington.org/calendar.aspx?EID=9453"
+   "desc": "Playing hits from the Great American Songbook as well as Holiday faves from the early 1960’s, these talented and seasoned members of the well known “Phil Dirt and the Dozers” band are sure to turn out another memorable show! Come enjoy the season and let the music take you back to a simpler time in America… of sharkskin suits, polaroid cameras and the whiskey sour… a time when every AM car radio played the tunes that would become the “Baby-Boomer” hits of today by Sinatra, Dean Martin, Nat Cole and more. \n \nJoin us at 6 pm for a dessert reception before the show! Our bar will also be opening at this time. \n \nThe MAC will be collecting canned foods to support our neighbors through the great work of the Worthington Resource Pantry. Please check their website for most needed items: https://www.worthingtonresourcepantry.org/givehelp https://worthington.org/m/calendar/event/detail/9453"
   },
   {
    "id": "vfc-33078",
@@ -14413,7 +14077,7 @@
    "indoor": null,
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
    "source": "City of Worthington",
-   "desc": "The Worthington Farmers Market was established in 1987 and is one of the largest and most respected markets in Ohio. The Market is held indoors at The Shops at Worthington Place during the months of November through April. During the summer months, the Market takes place outdoors in downtown Worthington. https://worthington.org/calendar.aspx?EID=9230"
+   "desc": "The Worthington Farmers Market was established in 1987 and is one of the largest and most respected markets in Ohio. The Market is held indoors at The Shops at Worthington Place during the months of November through April. During the summer months, the Market takes place outdoors in downtown Worthington. https://worthington.org/m/calendar/event/detail/9230"
   },
   {
    "id": "vfc-32719",
@@ -14581,7 +14245,7 @@
    "indoor": null,
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
    "source": "City of Worthington",
-   "desc": "Worthington Chapter DAR, an official Wreaths Across America (WAA) fundraising group, will host a ceremony and wreath laying, joining more than 4,000 other locations across the country for National Wreaths Across America Day. Placing wreaths on the headstones of our fallen service members. This annual event seeks to further the WAA mission WAA to Remember, Honor and Teach, ensuring the memory of those who served our country endures. This year’s theme is \"Remember Me\". https://worthington.org/calendar.aspx?EID=9320"
+   "desc": "Worthington Chapter DAR, an official Wreaths Across America (WAA) fundraising group, will host a ceremony and wreath laying, joining more than 4,000 other locations across the country for National Wreaths Across America Day. Placing wreaths on the headstones of our fallen service members. This annual event seeks to further the WAA mission WAA to Remember, Honor and Teach, ensuring the memory of those who served our country endures. This year’s theme is \"Remember Me\". https://worthington.org/m/calendar/event/detail/9320"
   },
   {
    "id": "fcdl-17623800",
@@ -14980,7 +14644,7 @@
    "indoor": null,
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
    "source": "City of Worthington",
-   "desc": "Playing hits from the Great American Songbook as well as Holiday faves from the early 1960’s, these talented and seasoned members of the well known “Phil Dirt and the Dozers” band are sure to turn out another memorable show! Come enjoy the season and let the music take you back to a simpler time in America… of sharkskin suits, polaroid cameras and the whiskey sour… a time when every AM car radio played the tunes that would become the “Baby-Boomer” hits of today by Sinatra, Dean Martin, Nat Cole and more. \n \nJoin us at 6 pm for a dessert reception before the show! Our bar will also be opening at this time. \n \nThe MAC will be collecting canned foods to support our neighbors through the great work of the Worthington Resource Pantry. Please check their website for most needed items: https://www.worthingtonresourcepantry.org/givehelp https://worthington.org/calendar.aspx?EID=9454"
+   "desc": "Playing hits from the Great American Songbook as well as Holiday faves from the early 1960’s, these talented and seasoned members of the well known “Phil Dirt and the Dozers” band are sure to turn out another memorable show! Come enjoy the season and let the music take you back to a simpler time in America… of sharkskin suits, polaroid cameras and the whiskey sour… a time when every AM car radio played the tunes that would become the “Baby-Boomer” hits of today by Sinatra, Dean Martin, Nat Cole and more. \n \nJoin us at 6 pm for a dessert reception before the show! Our bar will also be opening at this time. \n \nThe MAC will be collecting canned foods to support our neighbors through the great work of the Worthington Resource Pantry. Please check their website for most needed items: https://www.worthingtonresourcepantry.org/givehelp https://worthington.org/m/calendar/event/detail/9454"
   },
   {
    "id": "vfc-32809",
@@ -15971,7 +15635,7 @@
    "indoor": null,
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
    "source": "City of Worthington",
-   "desc": "The Worthington Farmers Market was established in 1987 and is one of the largest and most respected markets in Ohio. The Market is held indoors at The Shops at Worthington Place during the months of November through April. During the summer months, the Market takes place outdoors in downtown Worthington. https://worthington.org/calendar.aspx?EID=9231"
+   "desc": "The Worthington Farmers Market was established in 1987 and is one of the largest and most respected markets in Ohio. The Market is held indoors at The Shops at Worthington Place during the months of November through April. During the summer months, the Market takes place outdoors in downtown Worthington. https://worthington.org/m/calendar/event/detail/9231"
   },
   {
    "id": "dtc-10017900",
@@ -16963,6 +16627,27 @@
    "url": "https://visitfairfieldcounty.org/events/glass-town-countdown/",
    "source": "Visit Fairfield County",
    "desc": "Join your friends, family, and neighbors for an unforgettable New Year’s Eve celebration! Visit historic downtown Lancaster for a family-friendly street party where you will taste fantastic food and spirits at local restaurants and pubs, watch the ascent of the giant glass globe, and light up the sky with a spectacular fireworks show!\n\nThis event celebrates the importance of glass in Lancaster’s history as the community creates a beautiful piece of glass art for this fun party. On New Year’s Eve, the globe rises high above Zane Square and rings in the new year. The event is completely free for everyone to watch and enjoy.\n\nTo learn more or to follow this event, visit the Glass Town Countdown Facebook page."
+  },
+  {
+   "id": "ppl-17748183",
+   "title": "Library Closed",
+   "start": "2027-01-01T00:00-05:00",
+   "end": "2027-01-01T23:59-05:00",
+   "allDay": true,
+   "venue": "Pickerington Main",
+   "address": "201 Opportunity Way, Pickerington, OH 43147",
+   "town": "Pickerington",
+   "lat": 39.8958,
+   "lon": -82.7563,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://pickeringtonlibrary.libnet.info/event/17748183",
+   "source": "Pickerington Public Library",
+   "desc": "Both library locations are closed in observance of the holiday. Our eBranch is open 24/7."
   },
   {
    "id": "gahanna-704",
