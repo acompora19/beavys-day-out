@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-19T11:51:29.100Z",
+ "generated": "2026-11-19T22:42:24.372Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
-   "rows": 361,
-   "kept": 217,
-   "ms": 7696
+   "rows": 366,
+   "kept": 221,
+   "ms": 5435
   },
   {
    "source": "Fairfield County District Library",
    "rows": 110,
-   "kept": 110,
-   "ms": 432
+   "kept": 106,
+   "ms": 366
   },
   {
    "source": "Pickerington Public Library",
    "rows": 191,
-   "kept": 191,
-   "ms": 566
+   "kept": 188,
+   "ms": 548
   },
   {
    "source": "City of Canal Winchester",
    "rows": 111,
    "kept": 7,
-   "ms": 295
+   "ms": 268
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 219
+   "ms": 337
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 54
+   "ms": 47
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 4,
-   "ms": 1121
+   "ms": 459
   },
   {
    "source": "Downtown Columbus",
    "rows": 183,
-   "kept": 182,
-   "ms": 56064
+   "kept": 183,
+   "ms": 32167
   },
   {
    "source": "Columbus Recreation & Parks",
-   "rows": 13,
-   "kept": 13,
-   "ms": 700
+   "rows": 15,
+   "kept": 12,
+   "ms": 623
   },
   {
    "source": "Metro Parks",
    "rows": 9,
    "kept": 9,
-   "ms": 1408
+   "ms": 2954
   },
   {
    "source": "Columbus Commons",
    "rows": 51,
-   "kept": 50,
-   "ms": 7732
+   "kept": 51,
+   "ms": 2021
   },
   {
    "source": "Scioto Mile",
    "rows": 52,
-   "kept": 51,
-   "ms": 1363
+   "kept": 52,
+   "ms": 1262
   },
   {
    "source": "City of Gahanna",
    "rows": 81,
    "kept": 10,
-   "ms": 406
+   "ms": 408
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 77,
    "kept": 6,
-   "ms": 83
+   "ms": 113
   },
   {
    "source": "City of Grove City",
-   "rows": 14,
-   "kept": 14,
-   "ms": 222
+   "rows": 13,
+   "kept": 13,
+   "ms": 231
   },
   {
    "source": "City of Worthington",
    "rows": 93,
    "kept": 19,
-   "ms": 406
+   "ms": 623
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 12,
    "kept": 2,
-   "ms": 231
+   "ms": 357
   },
   {
    "source": "Standing freebies",
    "rows": 11,
-   "kept": 9,
-   "ms": 6
+   "kept": 11,
+   "ms": 4
   }
  ],
  "events": [
@@ -154,69 +154,6 @@
    "desc": "Color Improvisations 3: A Major Exhibition of Contemporary Quilts features 38 large quilts that explore color, scale, and improvisation in contemporary textile art. Curated by internationally recognized artist Nancy Crow, the exhibition at the Decorative Arts Center of Ohio includes works by quiltmakers from the United States, Canada, and New Zealand, highlighting the creativity, innovation and artistic excellence shaping contemporary quilt making today. Using bold abstract forms and richly worked fabrics, the artists balance exquisite skill with creative risk. Their quilts invite viewers to experience color as movement, texture, and feeling. This exhibition will run from October 3rd, 2026 to January 3rd, 2027.\n\n \n\nFor more information, please visit the Decorative Arts Center of Ohio’s website."
   },
   {
-   "id": "ppl-16802709",
-   "title": "Rhyme Time",
-   "start": "2026-11-19T09:30-05:00",
-   "end": "2026-11-19T10:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room A",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16802709",
-   "source": "Pickerington Public Library",
-   "desc": "Help your baby or young toddler develop a love of reading by introducing them to rhymes, songs, stories, and fingerplays! Rhyme Time is for children 0-23 months and their caregivers; siblings are also welcome. This interactive 6-week class will highlight early literacy practices such as reading, writing, playing, singing, and talking.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "vfc-33228",
-   "title": "Ceramic Ornament Making at the Decorative Arts Center",
-   "start": "2026-11-19T10:00-05:00",
-   "end": "2026-11-19T11:30-05:00",
-   "allDay": false,
-   "venue": "145 E Main St",
-   "address": "145 East Main Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7140429,
-   "lon": -82.60017739999999,
-   "area": "Fairfield County",
-   "cost": "$25–$30",
-   "costNum": 25,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/ceramic-ornament-making-at-the-decorative-arts-center/",
-   "source": "Visit Fairfield County",
-   "desc": "Visit the Decorative Arts Center of Ohio on Thursday, November 19th to learn how to make a ceramic ornament with instructor Peg Mahler! Students will make 6-8 ornaments, which will be fired in the kiln, returned to glaze, and prepared for one last firing. This is a perfect opportunity to create holiday décor for your home or craft treasured gifts! After final firing, ornaments will be ready for pickup starting Monday, December 7th. Tickets are $30 per person or $25 for members. Purchase your ticket today before classes sell out! The class is open to all ages and students under 10 must be accompanied by an adult.\n\nFor more information, please visit the Decorative Arts Center of Ohio’s Facebook page."
-  },
-  {
-   "id": "fcdl-16846366",
-   "title": "Masterpiece Mornings",
-   "start": "2026-11-19T10:00-05:00",
-   "end": "2026-11-19T11:30-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Gallery (Lancaster)",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/16846366",
-   "source": "Fairfield County District Library",
-   "desc": "Masterpiece Mornings is a practicing art series aimed at helping you explore new styles and methods of artistic expression. Each month we will be working on a new practice or project that you can take with you outside of class to grow your creativity.\n\nHere's what's coming up during Autumn 2026: \n\nSeptember – Painting with Abby Pennington\nOctober - Figure Drawing round 2!\nNovember - Drawing from Imagination\n\nRegister online, on our app, or by calling (740) 653-2745, extension 160."
-  },
-  {
    "id": "dtc-10017878",
    "title": "Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors",
    "start": "2026-11-19T10:00-05:00",
@@ -238,48 +175,6 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "ppl-16831291",
-   "title": "Toddler Time: F is for Friends",
-   "start": "2026-11-19T10:15-05:00",
-   "end": "2026-11-19T10:45-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room A",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16831291",
-   "source": "Pickerington Public Library",
-   "desc": "Sing, dance, and hear great stories in this interactive 6-week class for 2- to 3-year-olds and their caregivers. We will highlight early literacy practices such as reading, writing, playing, singing, and talking—all great ways to get your child ready to read!\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "fcdl-17081466",
-   "title": "Special Storytime: Thanksgiving Themed",
-   "start": "2026-11-19T10:30-05:00",
-   "end": "2026-11-19T11:30-05:00",
-   "allDay": false,
-   "venue": "Bremen Branch Library · Meeting Room (Bremen)",
-   "address": "220 Marietta St, Bremen, OH 43107",
-   "town": "Bremen",
-   "lat": 39.7066,
-   "lon": -82.4258,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17081466",
-   "source": "Fairfield County District Library",
-   "desc": "Join us for a Special Storytime as we enjoy stories, rhymes, songs and crafts while we learn, move and play together! No registration necessary."
-  },
-  {
    "id": "fcdl-17129291",
    "title": "Hometown Military Heroes Wall Display",
    "start": "2026-11-19T10:30-05:00",
@@ -299,132 +194,6 @@
    "url": "https://www.fcdlibrary.org/event/17129291",
    "source": "Fairfield County District Library",
    "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
-  },
-  {
-   "id": "fcdl-17141363",
-   "title": "Family Storytime",
-   "start": "2026-11-19T10:30-05:00",
-   "end": "2026-11-19T11:00-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Storytime Area",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17141363",
-   "source": "Fairfield County District Library",
-   "desc": "With a different theme each week, explore literacy and expand imaginations with stories, songs, and crafts. \n\nNo registration necessary"
-  },
-  {
-   "id": "fcdl-17166973",
-   "title": "Library Play Date",
-   "start": "2026-11-19T10:30-05:00",
-   "end": "2026-11-19T11:30-05:00",
-   "allDay": false,
-   "venue": "Northwest Branch",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17166973",
-   "source": "Fairfield County District Library",
-   "desc": "Play is a crucial part of building early literacy and social skills. There will be opportunities for imagination and skill building, plus socialization for both children and caregivers. Extend your child's learning through play!\n\nNo registration necessary."
-  },
-  {
-   "id": "crp-30538",
-   "title": "Conversations and Coffee: Teather Cantor",
-   "start": "2026-11-19T12:00-05:00",
-   "end": "2026-11-19T13:30-05:00",
-   "allDay": false,
-   "venue": "Priscilla R. Tyson Cultural Arts Center",
-   "address": "139 W Main St., Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://columbusrecparks.com/calendar/conversations-and-coffee-teather-cantor/",
-   "source": "Columbus Recreation & Parks",
-   "desc": "Instructor at Open Door with artists, Kristy Stepp and Amanda Stover, “The Art of Curating and Facilitating.”"
-  },
-  {
-   "id": "ppl-14748199",
-   "title": "Brown Bag Book Club",
-   "start": "2026-11-19T13:00-05:00",
-   "end": "2026-11-19T14:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room A",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/14748199",
-   "source": "Pickerington Public Library",
-   "desc": "Brown Bag Book Club meets the third Thursday of every month for a spirited discussion of popular and classic books in a variety of genres.\n\nNo registration is required to attend.\n\n**If you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221.\n\nJanuary\nThe Book Club for Troublesome Women\nMarie Bostwick\n\nFebruary\nEverything is Tuberculous\nJohn Green\n\nMarch\nDear Committee Members\nJulie Schumacher\n\nApril\nThe God of the Woods\nLiz Moore\n\nMay\nMrs. Dalloway/The Hours (two titles)\nVirginia Woolf/Michael Cunningham\n\nJune\nI Must Betray You\nRuta Septys\n\nJuly\nProject Hail Mary\nAndrew Weir\n\nAugust\nThis Motherless Land\nNikki May\n\nSeptember \nFun Home: A Family Tragicomic\nAlison Bechdel\n\nOctober\nWe Used to Live Here\nMarcus Kliewer\n\nNovember\nIn the Dream House\nCarmen Maria Machado\n\nDecember\nSmall Things Like These\nClaire Keegan"
-  },
-  {
-   "id": "crp-10006310",
-   "title": "Linden – Mobile Produce Market",
-   "start": "2026-11-19T14:00-05:00",
-   "end": null,
-   "allDay": false,
-   "venue": "Linden Community Center",
-   "address": "1350 Briarwood Ave., Columbus, OH, 43211",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://columbusrecparks.com/calendar/linden-mobile-produce-market/2026-11-19/",
-   "source": "Columbus Recreation & Parks",
-   "desc": "Eligible families can pick up a one-week supply of fresh produce at no cost. Even is first-come, first-served while produce lasts."
-  },
-  {
-   "id": "crp-10006318",
-   "title": "Tuttle – Mobile Produce Market",
-   "start": "2026-11-19T14:00-05:00",
-   "end": null,
-   "allDay": false,
-   "venue": "Tuttle Community Center",
-   "address": "240 W. Oakland Ave., Columbus, OH, 43201",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://columbusrecparks.com/calendar/tuttle-mobile-produce-market/2026-11-19/",
-   "source": "Columbus Recreation & Parks",
-   "desc": "Eligible families can pick up a one-week supply of fresh produce at no cost. Even is first-come, first-served while produce lasts."
   },
   {
    "id": "ppl-16423356",
@@ -551,27 +320,6 @@
    "url": "https://www.metroparks.net/event/sunset-archery/",
    "source": "Metro Parks",
    "desc": "Join the Outdoor Adventure team for a Sunset Archery Session! Open to beginners and advanced shooters, please meet at the Archery Range at Scioto Grove Metro Park."
-  },
-  {
-   "id": "grovecity-2724",
-   "title": "Books with Bo",
-   "start": "2026-11-19T16:30-05:00",
-   "end": "2026-11-19T17:30-05:00",
-   "allDay": false,
-   "venue": "Southwest Public Library: Grove CityLarge Meeting Room A",
-   "address": "3959 Broadway Grove City OH 43123",
-   "town": "Grove City",
-   "lat": 39.8814,
-   "lon": -83.0929,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35",
-   "source": "City of Grove City",
-   "desc": "https://www.grovecityohio.gov/calendar.aspx?EID=2724"
   },
   {
    "id": "vfc-33025",
@@ -6189,6 +5937,27 @@
    "desc": "Adult Writers’ Studio is a welcoming and creative community of serious writers 18+ who gather to share and discuss their writing, participate in generative exercises, provide/receive feedback about each other’s work, engage in topical discussions, and support each other through peer motivation and kind, constructive criticism.\n\nLed by writer and facilitator Diane Callahan, the AWS program is designed for serious writers in all genres. Peer feedback groups will be intentionally curated based on writing level so participants can exchange feedback and receive support that best aligns with their needs.\n\nPlease note: this Adult Writers’ Studio is not geared toward beginner writers."
   },
   {
+   "id": "vfc-33291",
+   "title": "That’s Not My Name Music Bingo at Combustion Brewery",
+   "start": "2026-12-02T19:00-05:00",
+   "end": "2026-12-02T21:00-05:00",
+   "allDay": false,
+   "venue": "80 W Church St",
+   "address": "80 West Church Street, Pickerington, Ohio 43147, United States",
+   "town": "Pickerington",
+   "lat": 39.885268,
+   "lon": -82.754857,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/thats-not-my-name-music-bingo-at-combustion-brewery/",
+   "source": "Visit Fairfield County",
+   "desc": "Get ready to sing it loud, shout it out, and see if you can put a name to the tune! Join Combustion Brewery and Taproom for a night of music bingo. From iconic anthems and classic love songs to pop hits and rock-and-roll favorites, they’re playing songs with names woven right into the lyrics or titles. Think you know who the singer’s muse? Better pay attention, because these names are everywhere! Grab your friends, warm up those vocal cords, and get ready to mark your bingo cards.\n\nVisit Combustion Brewery and Taproom’s Facebook page for more details."
+  },
+  {
    "id": "vfc-32882",
    "title": "Euchre Night at Double Edge Brewing",
    "start": "2026-12-02T19:00-05:00",
@@ -6756,6 +6525,27 @@
    "desc": "Join the Pickerington-Violet Township Historical Society for their annual Christmas Dinner on Thursday, December 3rd! Blue Moon Catering will offer a delicious spread including meatloaf, hot chicken salad, and incredible sides. Entertainment will be provided as well. The event is free to members and $20 for non-members. Reserve your seat by calling (614) 333-8951 or emailing pickhistsociety@hotmail.com.\n\n \n\nFor more information, please visit the Pickerington-Violet Township Historical Society’s Facebook page."
   },
   {
+   "id": "vfc-33289",
+   "title": "One-ish Hit Wonders Music Bingo at Tavern 22",
+   "start": "2026-12-03T19:00-05:00",
+   "end": "2026-12-03T21:00-05:00",
+   "allDay": false,
+   "venue": "5270 Sand Hill Rd",
+   "address": "5270 Sand Hill Road, Amanda, OH, USA",
+   "town": "Amanda",
+   "lat": 39.65356609999999,
+   "lon": -82.74096639999999,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/one-ish-hit-wonders-music-bingo-at-tavern-22/",
+   "source": "Visit Fairfield County",
+   "desc": "The Queens are bringing back one of Tavern 22’s favorite Music Bingo themes! Get ready for a playlist packed with those unforgettable hits from artists you might only remember for one song. Some of them had a few more bangers. They’re talking nostalgic favorites, unexpected throwbacks, plenty of sing-along moments, and songs that’ll have you saying; “Wait, I forgot about this one!”\n\nGrab the friends that refuse to leave the group chat and let them entertain you for the night! They’ll supply the bingo cards. You supply the excitement.\n\nVisit Tavern 22’s Facebook Page for more information."
+  },
+  {
    "id": "vfc-33175",
    "title": "Trivia Night at Double Edge Brewing",
    "start": "2026-12-03T19:00-05:00",
@@ -6985,6 +6775,48 @@
    "url": "https://pickeringtonlibrary.libnet.info/event/17409923",
    "source": "Pickerington Public Library",
    "desc": "Friday Chill is a dedicated space for students in grades 7-12 to relax at the end of the school week. Stop by for a snack to refuel before extracurricular activities, or stick around and hang out with friends! Each week, we'll have a different craft, video game, movie screening, or other activity to fill your afternoon.\n\nFriday Chill follows the PLSD scheduled school calendar.\n\nFor specific accommodation requests or inquiries, please contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
+  },
+  {
+   "id": "crp-30858",
+   "title": "Golden Hobby Gift Shop: Sip & Shop",
+   "start": "2026-12-04T16:00-05:00",
+   "end": "2026-12-04T20:00-05:00",
+   "allDay": false,
+   "venue": "Golden Hobby Gift Shop",
+   "address": "865 E Capital St, Columbus, OH, 43205",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "$1",
+   "costNum": 1,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://columbusrecparks.com/calendar/golden-hobby-gift-shop-sip-shop/",
+   "source": "Columbus Recreation & Parks",
+   "desc": "Join us on Friday, December 4, from 4-8 p.m. for the annual Sip & Shop at the Golden Hobby Gift Shop at the Fran Ryan Center. Find one-of-a-kind holiday gifts, festive decor and unique creations while supporting local senior artists! Admission is $1 at the door and includes a beverage.\n\nLearn more about the Golden Hobby Gift Shop."
+  },
+  {
+   "id": "crp-30862",
+   "title": "Season & Hue: Opening Reception",
+   "start": "2026-12-04T16:00-05:00",
+   "end": "2026-12-04T19:30-05:00",
+   "allDay": false,
+   "venue": "Fran Ryan Center",
+   "address": "865 E Capital S, Columbus, OH, 43204",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://columbusrecparks.com/calendar/season-hue-exhibition-opening-reception/",
+   "source": "Columbus Recreation & Parks",
+   "desc": "Join us at the Fran Ryan Center for the opening reception of Season & Hue on Dec. 4 from 4-7:30 pm. Enjoy Columbus nostalgia and say hello to the Talking Tree from the former Lazarus display window. The exhibit runs from Dec. 4 to Jan. 11, 2027."
   },
   {
    "id": "grovecity-2745",
@@ -8251,6 +8083,27 @@
    "desc": "America’s premiere interactive comedy true-crime mystery experience is now playing! Solve a hilarious mystery while you feast on a fantastic dinner. Just beware! The culprit is hiding in plain sight somewhere in the room, and you may find yourself as a Prime Suspect before you know it! Each ticket includes our signature award-winning true-crime mystery dinner theatre show (based on actual cold cases), along with a full plated dinner, waitstaff gratuity, and plenty of surprises during the show!"
   },
   {
+   "id": "vfc-33287",
+   "title": "Slay Bells and Brain Cells Holiday Trivia with Rockside Winery and Vineyards",
+   "start": "2026-12-05T19:00-05:00",
+   "end": "2026-12-05T21:00-05:00",
+   "allDay": false,
+   "venue": "",
+   "address": "2363 Lancaster-Newark Road Northeast, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 0,
+   "lon": 0,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/slay-bells-and-brain-cells-holiday-trivia-with-rockside-winery-and-vineyards/",
+   "source": "Visit Fairfield County",
+   "desc": "‘Tis the season to put your holiday knowledge to the test! Grab your friends, gather your team, and get ready for a festive night of trivia with Queens Entertainment at Rockside Winery!\n\nFrom holiday traditions and seasonal favorites to movies, music, pop culture, and all the little things that make this time of year special. They’re bringing the questions, the competition, and plenty of holiday fun. Think you know your holiday classics? Have a team full of random facts and questionable confidence? This is your chance to put that knowledge to work!\n\nSo grab your crew, brush up on your holiday knowledge, and join them for a festive night of holiday trivia.\n\nVisit Rockside Winery and Vineyard’s Facebook page for more information."
+  },
+  {
    "id": "vfc-33069",
    "title": "Bend & Brew at Double Edge Brewing",
    "start": "2026-12-06T10:00-05:00",
@@ -9267,6 +9120,27 @@
    "desc": "Do you love to crochet or knit? Are you looking for fellow crafters who share your passion?\n\nJoin this needlecrafting group that meets every month to work on projects, chat, and learn from each other. Both beginners and experienced crafters are welcome!\n\nIf you’re looking to learn a new skill, we’ll either teach you or guide you to resources to help you learn.\n\nSupplies are limited. It's recommended that experienced crafters bring their own supplies.\n\nNo registration is required. Stitching in the Stacks is open to teens and adults. \n\n**If you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
+   "id": "vfc-33285",
+   "title": "Party Music Bingo at the Pink Cricket",
+   "start": "2026-12-08T19:00-05:00",
+   "end": "2026-12-08T21:00-05:00",
+   "allDay": false,
+   "venue": "929 E Main St",
+   "address": "929 East Main Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7136943,
+   "lon": -82.5821852,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/party-music-bingo-at-the-pink-cricket/",
+   "source": "Visit Fairfield County",
+   "desc": "Join the Pink Cricket for a little bit of everything and a whole lot of fun! They bringing together a playlist packed with crowd favorites, feel-good anthems, throwback hits, guilty pleasures, and songs that’ll have you singing along before you even realize it. From pop and rock to hip hop, R&B, dance hits, and everything in between, there’s something for everyone. Here for the nostalgia, the sing-alongs, or just a good excuse to get out with your favorite people? Queens Entertainment will be there to keep the party going!\n\nVisit the Pink Cricket Facebook page for more details."
+  },
+  {
    "id": "vfc-33169",
    "title": "Ornament Workshop at Double Edge Brewing",
    "start": "2026-12-08T19:00-05:00",
@@ -9853,6 +9727,27 @@
    "url": "https://pickeringtonlibrary.libnet.info/event/17534199",
    "source": "Pickerington Public Library",
    "desc": "What actually makes a great mocktail taste great?\n\nParticipants will explore the science behind flavor while learning how sweetness, acidity, aroma, herbs, spices, texture, and other elements work together to create a balanced beverage. Interactive activities and a hands-on signature winter mocktail will bring these concepts to life in a fun and approachable way.\n\nThis class is open to adults aged 18 and older. Registration is required.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
+  },
+  {
+   "id": "vfc-33283",
+   "title": "Get Stuffed Music Bingo with Double Edge Brewing Co.",
+   "start": "2026-12-09T19:00-05:00",
+   "end": "2026-12-09T21:00-05:00",
+   "allDay": false,
+   "venue": "158 W Chestnut St",
+   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
+   "town": "Lancaster",
+   "lat": 39.7123144,
+   "lon": -82.6041679,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/get-stuffed-music-bingo-with-double-edge-brewing-co/",
+   "source": "Visit Fairfield County",
+   "desc": "Deck the halls, pour yourself a drink, and leave your holiday stress at the door. It’s time to GET STUFFED!\n\nDouble Edge Brewing Co. is serving up a heaping helping of feel-good classics, funky favorites, and a few songs for anyone who’s ready to sleigh the season. This playlist has something for everyone. Queen’s Entertainment will be there dishing out feel-good throwbacks and party favorites to flirty bangers, breakup anthems, and songs with just the right amount of sass.\n\nVisit Double Edge Brewing’s Facebook page for more info."
   },
   {
    "id": "ppl-16182607",
@@ -12652,27 +12547,6 @@
    "desc": "A great space for kids over 12 years old to hang out and relax after school. Enjoy a snack after school while you wait for practice or a ride home. \n\nCrafts: Bedazzling, bracelet-making, coloring pages, nail art, and more!\n\nVideo Games: Choose from a selection of PS5 video games always available (Madden ‘26, NBA 2K ‘26, DreamWorks All-Star Kart Racing, and NC ‘26) or choose something else from our video game collection! A Nintendo Switch is also available for those looking for a solo game or Mario Kart dual with a friend. \n\nTeen Hang follows the PLSD School Calendar. However, video games and craft supplies are available upon request when school is not in session. \n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
-   "id": "fcdl-17514896",
-   "title": "Third Thursday Book Club",
-   "start": "2026-12-16T15:30-05:00",
-   "end": "2026-12-16T16:30-05:00",
-   "allDay": false,
-   "venue": "Bremen Branch Library · Meeting Room (Bremen)",
-   "address": "220 Marietta St, Bremen, OH 43107",
-   "town": "Bremen",
-   "lat": 39.7066,
-   "lon": -82.4258,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17514896",
-   "source": "Fairfield County District Library",
-   "desc": "Join us on December 17th for a discussion of Tapestry of Fortunes by Elizabeth Berg. Books are available at the Circulation Desk for checkout. The following month's book can be checked out during book club or picked up at a later time at the Bremen Branch."
-  },
-  {
    "id": "ppl-15778445",
    "title": "Open Play Chess Club",
    "start": "2026-12-16T17:00-05:00",
@@ -13070,6 +12944,27 @@
    "url": "https://pickeringtonlibrary.libnet.info/event/16833802",
    "source": "Pickerington Public Library",
    "desc": "A great space for kids over 12 years old to hang out and relax after school. Enjoy a snack after school while you wait for practice or a ride home. \n\nCrafts: Bedazzling, bracelet-making, coloring pages, nail art, and more!\n\nVideo Games: Choose from a selection of PS5 video games always available (Madden ‘26, NBA 2K ‘26, DreamWorks All-Star Kart Racing, and NC ‘26) or choose something else from our video game collection! A Nintendo Switch is also available for those looking for a solo game or Mario Kart dual with a friend. \n\nTeen Hang follows the PLSD School Calendar. However, video games and craft supplies are available upon request when school is not in session. \n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
+  },
+  {
+   "id": "fcdl-17970107",
+   "title": "Third Thursday Book Club",
+   "start": "2026-12-17T15:30-05:00",
+   "end": "2026-12-17T16:30-05:00",
+   "allDay": false,
+   "venue": "Bremen Branch Library · Meeting Room (Bremen)",
+   "address": "220 Marietta St, Bremen, OH 43107",
+   "town": "Bremen",
+   "lat": 39.7066,
+   "lon": -82.4258,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17970107",
+   "source": "Fairfield County District Library",
+   "desc": "Join us on December 17th for a discussion of Tapestry of Fortunes by Elizabeth Berg. Books are available at the Circulation Desk for checkout. The following month's book can be checked out during book club or picked up at a later time at the Bremen Branch."
   },
   {
    "id": "grovecity-2725",
@@ -14246,6 +14141,27 @@
    "url": "https://www.sciotomile.com/event/wanderlights/2026-12-19/",
    "source": "Scioto Mile",
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
+  },
+  {
+   "id": "scioto-10000560",
+   "title": "Wander Nights at Wanderlights",
+   "start": "2026-12-19T17:00-05:00",
+   "end": "2026-12-19T21:00-05:00",
+   "allDay": false,
+   "venue": "Bicentennial Park",
+   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://www.sciotomile.com/event/wander-nights-at-wanderlights/2026-12-19/",
+   "source": "Scioto Mile",
+   "desc": "Take part in an ultra-festive holiday atmosphere and free activities while exploring all three Wanderlights stops. During Wander Nights, you’ll find complimentary hot chocolate and carousel rides at Columbus Commons, crackling fire pits at the Scioto Mile Fountain, special visits from Santa in the Lazarus Building galleria, and more!"
   },
   {
    "id": "vfc-32757",
@@ -16883,6 +16799,98 @@
    "url": "https://downtowncolumbus.com/event/columbus-blue-jackets-game-6/2027-01-02/",
    "source": "Downtown Columbus",
    "desc": "Cheer on the Columbus Blue Jackets in this regular season game at Nationwide Arena!\n\nGet tickets here!"
+  },
+  {
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2027-01-03",
+   "title": "Free Sunday at Columbus Museum of Art",
+   "start": "2027-01-03T10:00-05:00",
+   "end": "2027-01-03T17:00-05:00",
+   "allDay": false,
+   "venue": "Columbus Museum of Art",
+   "address": "480 E Broad St, Columbus, OH 43215",
+   "town": "Columbus",
+   "lat": 39.964,
+   "lon": -82.9878,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.columbusmuseum.org/free-discounted-tickets",
+   "source": "Standing freebies",
+   "desc": "General admission is free every Sunday at the Broad Street museum. (Visitors 25 and under get in free every day.) Sunday hours 10–5.",
+   "tags": [
+    "art",
+    "museum"
+   ]
+  },
+  {
+   "id": "recurring-community-day-at-franklin-park-conservatory-2027-01-03",
+   "title": "Community Day at Franklin Park Conservatory",
+   "start": "2027-01-03T10:00-05:00",
+   "end": "2027-01-03T17:00-05:00",
+   "allDay": false,
+   "venue": "Franklin Park Conservatory",
+   "address": "1777 E Broad St, Columbus, OH 43203",
+   "town": "Columbus",
+   "lat": 39.9634,
+   "lon": -82.9558,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fpconservatory.org/community-days/",
+   "source": "Standing freebies",
+   "desc": "First Sunday of the month: free general admission for Columbus and Franklin County residents. Bring a photo ID plus proof of address (a utility bill or mail works). 10–5, or 10–4 in Nov–Jan.",
+   "tags": [
+    "garden",
+    "free-day"
+   ]
+  },
+  {
+   "id": "dtc-10022720",
+   "title": "FREE Wanderlights",
+   "start": "2027-01-03T17:00-05:00",
+   "end": "2027-01-03T22:00-05:00",
+   "allDay": false,
+   "venue": "",
+   "address": "OH",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/free-wanderlights-2/2027-01-03/",
+   "source": "Downtown Columbus",
+   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Bicentennial Park. Wander your way through the kaleidoscope of color in the heart of Downtown Columbus. Learn more about Wanderlights here! \n\nPlus, during Wander Nights at Wanderlights, find an ultra-festive atmosphere on Fridays and Saturdays from December 4 – 19."
+  },
+  {
+   "id": "scioto-10000605",
+   "title": "Wanderlights",
+   "start": "2027-01-03T17:00-05:00",
+   "end": "2027-01-03T22:00-05:00",
+   "allDay": false,
+   "venue": "Bicentennial Park",
+   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://www.sciotomile.com/event/wanderlights/2027-01-03/",
+   "source": "Scioto Mile",
+   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
   }
  ]
 }
