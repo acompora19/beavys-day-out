@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-20T11:51:31.584Z",
+ "generated": "2026-11-20T22:16:08.408Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
-   "rows": 366,
+   "rows": 371,
    "kept": 213,
-   "ms": 6869
+   "ms": 6908
   },
   {
    "source": "Fairfield County District Library",
    "rows": 101,
-   "kept": 101,
-   "ms": 499
+   "kept": 100,
+   "ms": 461
   },
   {
    "source": "Pickerington Public Library",
    "rows": 182,
-   "kept": 182,
-   "ms": 716
+   "kept": 180,
+   "ms": 548
   },
   {
    "source": "City of Canal Winchester",
    "rows": 111,
    "kept": 7,
-   "ms": 503
+   "ms": 296
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 239
+   "ms": 179
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 65
+   "ms": 148
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 4,
-   "ms": 1111
+   "ms": 1370
   },
   {
    "source": "Downtown Columbus",
-   "rows": 182,
-   "kept": 181,
-   "ms": 11203
+   "rows": 183,
+   "kept": 183,
+   "ms": 19346
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 12,
    "kept": 12,
-   "ms": 591
+   "ms": 550
   },
   {
    "source": "Metro Parks",
-   "rows": 8,
-   "kept": 8,
-   "ms": 1459
+   "rows": 11,
+   "kept": 11,
+   "ms": 3699
   },
   {
    "source": "Columbus Commons",
    "rows": 52,
-   "kept": 51,
-   "ms": 2173
+   "kept": 52,
+   "ms": 2143
   },
   {
    "source": "Scioto Mile",
    "rows": 53,
-   "kept": 52,
-   "ms": 1538
+   "kept": 53,
+   "ms": 1275
   },
   {
    "source": "City of Gahanna",
    "rows": 81,
    "kept": 10,
-   "ms": 438
+   "ms": 266
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 77,
    "kept": 6,
-   "ms": 86
+   "ms": 66
   },
   {
    "source": "City of Grove City",
    "rows": 13,
    "kept": 13,
-   "ms": 207
+   "ms": 167
   },
   {
    "source": "City of Worthington",
    "rows": 93,
    "kept": 19,
-   "ms": 350
+   "ms": 254
   },
   {
    "source": "City of Reynoldsburg",
-   "rows": 12,
-   "kept": 2,
-   "ms": 242
+   "rows": 13,
+   "kept": 3,
+   "ms": 211
   },
   {
    "source": "Standing freebies",
    "rows": 11,
    "kept": 11,
-   "ms": 10
+   "ms": 8
   }
  ],
  "events": [
@@ -154,6 +154,27 @@
    "desc": "Color Improvisations 3: A Major Exhibition of Contemporary Quilts features 38 large quilts that explore color, scale, and improvisation in contemporary textile art. Curated by internationally recognized artist Nancy Crow, the exhibition at the Decorative Arts Center of Ohio includes works by quiltmakers from the United States, Canada, and New Zealand, highlighting the creativity, innovation and artistic excellence shaping contemporary quilt making today. Using bold abstract forms and richly worked fabrics, the artists balance exquisite skill with creative risk. Their quilts invite viewers to experience color as movement, texture, and feeling. This exhibition will run from October 3rd, 2026 to January 3rd, 2027.\n\n \n\nFor more information, please visit the Decorative Arts Center of Ohio’s website."
   },
   {
+   "id": "vfc-27105",
+   "title": "Downtown Holiday Window Display Contest",
+   "start": "2026-11-20T00:00-05:00",
+   "end": "2026-12-04T23:00-05:00",
+   "allDay": true,
+   "venue": "128 N Broad St",
+   "address": "128 North Broad Street, Lancaster, OH, USA",
+   "town": "Lancaster",
+   "lat": 39.714634,
+   "lon": -82.601592,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/downtown-holiday-window-display-contest/",
+   "source": "Visit Fairfield County",
+   "desc": "Plan a trip to Downtown Lancaster and admire the beautiful Holiday Window Displays. You can vote for your favorite beginning on Saturday, November 21st through Friday, December 4th.\n\nThe first, second, and third place winners will be announced at the tree lighting ceremony during Downtown Lancaster’s Winterfest on December 5th!\n\nVote for you favorite here!"
+  },
+  {
    "id": "vfc-33194",
    "title": "5th Annual Pink Friday at Ruby Joy Boutique",
    "start": "2026-11-20T10:00-05:00",
@@ -196,69 +217,6 @@
    "desc": "Join Slate Run Living Historic Farm to try some indoor games and toys and challenge your mind with some 19th century puzzles. This program is for all ages!\n\n \n\nFor more information, please visit Slate Run Living Historic Farm’s website."
   },
   {
-   "id": "vfc-32948",
-   "title": "Tots on Trails at Blacklick Woods Metro Park",
-   "start": "2026-11-20T10:00-05:00",
-   "end": "2026-11-20T11:00-05:00",
-   "allDay": false,
-   "venue": "6975 E Livingston Ave",
-   "address": "6975 East Livingston Avenue, Reynoldsburg, Ohio 43068, United States",
-   "town": "Reynoldsburg",
-   "lat": 39.94379499999999,
-   "lon": -82.811707,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/tots-on-trails-at-blacklick-woods-metro-park/",
-   "source": "Visit Fairfield County",
-   "desc": "Join Blacklick Woods Metro Park to share a slow-paced, half-mile hike with your toddler and discover nature together. This program is for ages 0 to 5 years old!\n\n \n\nFor more information, please visit Blacklick Woods Metro Park’s website."
-  },
-  {
-   "id": "ppl-16822707",
-   "title": "Stories and Songs: F is for Friends",
-   "start": "2026-11-20T10:00-05:00",
-   "end": "2026-11-20T10:30-05:00",
-   "allDay": false,
-   "venue": "Sycamore Plaza  · Meeting Room",
-   "address": "7861 Refugee Rd, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.9173,
-   "lon": -82.7918,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16822707",
-   "source": "Pickerington Public Library",
-   "desc": "Great for the whole family, this early literacy class will get children ages 2 - 5 excited about reading! We feature talking, singing, reading, writing, and playing to help your child assemble the necessary building blocks of early literacy. Open to children, their caregivers, and siblings. Early literacy is what children learn and know about reading, writing, and math before they can read or write or perform basic math. \n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "ppl-16821907",
-   "title": "Play to Learn",
-   "start": "2026-11-20T10:00-05:00",
-   "end": "2026-11-20T12:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Barn,Meeting Room A",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16821907",
-   "source": "Pickerington Public Library",
-   "desc": "When children play, their brains are hard at work. Playing helps children develop and strengthen their literacy, motor, language and vocabulary, and social skills. Playgroups are a fun way for kids and their families to play and learn together. The Library will provide a variety of developmentally appropriate learning toys, activities, and crafts.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
    "id": "dtc-10017879",
    "title": "Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors",
    "start": "2026-11-20T10:00-05:00",
@@ -280,27 +238,6 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "vfc-31910",
-   "title": "Seasonal Stories at Mambourg Park",
-   "start": "2026-11-20T10:30-05:00",
-   "end": "2026-11-20T11:00-05:00",
-   "allDay": false,
-   "venue": "5531 Cincinnati Zanesville Rd NE",
-   "address": "5531 Cincinnati Zanesville Road Northeast, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7444243,
-   "lon": -82.48970059999999,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/seasonal-stories-at-mambourg-park-2/",
-   "source": "Visit Fairfield County",
-   "desc": "Join Mambourg Park as they read a book and join a hummingbird on their big trip south! This program is for ages 3 to 7 years old.\n\nFor more information, please visit the Fairfield County Park District’s Facebook page."
-  },
-  {
    "id": "fcdl-17129292",
    "title": "Hometown Military Heroes Wall Display",
    "start": "2026-11-20T10:30-05:00",
@@ -320,27 +257,6 @@
    "url": "https://www.fcdlibrary.org/event/17129292",
    "source": "Fairfield County District Library",
    "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
-  },
-  {
-   "id": "fcdl-17192605",
-   "title": "Everyday Cybersecurity",
-   "start": "2026-11-20T11:00-05:00",
-   "end": "2026-11-20T12:00-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Boardroom (Lancaster)",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17192605",
-   "source": "Fairfield County District Library",
-   "desc": "Join your Guiding Ohio Online Technology Trainer in a one-hour exploration of the best practices for keeping yourself safe while on the internet. You’ll learn what makes a secure password and why password security is so important, and how to keep your computer’s security software up to date. You’ll also learn how to recognize and defend against social engineering and learn some of the common scams you may encounter when using your computer or mobile device. \n\nRegister online, on our app, or by calling (740) 653-2745, extension 160."
   },
   {
    "id": "vfc-31761",
@@ -4845,6 +4761,27 @@
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Bicentennial Park. Wander your way through the kaleidoscope of color in the heart of Downtown Columbus. Learn more about Wanderlights here! \n\nPlus, during Wander Nights at Wanderlights, find an ultra-festive atmosphere on Fridays and Saturdays from December 4 – 19."
   },
   {
+   "id": "mp-58452",
+   "title": "Winter Hike Kick-Off!",
+   "start": "2026-12-01T17:00-05:00",
+   "end": "2026-12-01T19:00-05:00",
+   "allDay": false,
+   "venue": "Bank Run Metro Park Event Center",
+   "address": "1570 Rohr Rd., Lockbourne, OH, 43137",
+   "town": "Lockbourne",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://www.metroparks.net/event/winter-hike-kick-off-5/",
+   "source": "Metro Parks",
+   "desc": "Join us for the winter hike kick-off at Bank Run Metro Park! Grab some hot chocolate and roam around Bank Run to look at the lights, and grab your winter hike card for the season.\n\nHow to join in on the fun:\n\nGo to an event to get a Winter Hike Card, download it from the website, or go digital and join the challenge on the OuterSpatial app!\n\nVisit the parks highlighted on each page and hike any trail during the designated month.\n\nHave a staff member mark your Winter Hike card, OR check into the challenge on the OuterSpatial app. Complete 7 hikes to qualify for a patch.\n\nJoin us at the celebration on February 28th to receive your Winter Hike patch!\n\nVisit Friends of Metro Parks to learn how to earn hike medallions or additional swag by hiking all 21 parks!\n\nLearn more here!"
+  },
+  {
    "id": "scioto-10000572",
    "title": "Wanderlights",
    "start": "2026-12-01T17:00-05:00",
@@ -6063,6 +6000,27 @@
    "desc": "Join the Pickerington-Violet Township Historical Society for their annual Christmas Dinner on Thursday, December 3rd! Blue Moon Catering will offer a delicious spread including meatloaf, hot chicken salad, and incredible sides. Entertainment will be provided as well. The event is free to members and $20 for non-members. Reserve your seat by calling (614) 333-8951 or emailing pickhistsociety@hotmail.com.\n\n \n\nFor more information, please visit the Pickerington-Violet Township Historical Society’s Facebook page."
   },
   {
+   "id": "vfc-33302",
+   "title": "Live Music at The Local Joint",
+   "start": "2026-12-03T19:00-05:00",
+   "end": "2026-12-03T21:00-05:00",
+   "allDay": false,
+   "venue": "434 N Columbus St",
+   "address": "434 North Columbus Street, Lancaster, OH, USA",
+   "town": "Lancaster",
+   "lat": 39.71868449999999,
+   "lon": -82.6041679,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/live-music-at-the-local-joint/",
+   "source": "Visit Fairfield County",
+   "desc": "Head down to The Local Joint to enjoy live music from some rocking artists! They are welcoming Parker, a 19 year old musician from New Lexington who has been playing at various places in New Lex, Athens, Lancaster, Newark, Buckeye Lake, Parkersburg for just over a year now. He plays everything from Pink Floyd to Tyler Childers, Tom Petty, Zach Bryan and others as well as some originals.\n\nVisit The Local Joint’s Facebook page for more information."
+  },
+  {
    "id": "vfc-33289",
    "title": "One-ish Hit Wonders Music Bingo at Tavern 22",
    "start": "2026-12-03T19:00-05:00",
@@ -6504,6 +6462,27 @@
    "desc": "Celebrate the holidays in the Gay Street neighborhood with illuminated ice sculptures, tasty treats, DORA beverages from an outdoor bar! Enjoy live music as you shop local businesses and explore galleries in the neighborhood."
   },
   {
+   "id": "mp-10004109",
+   "title": "Luminary Hikes",
+   "start": "2026-12-04T17:00-05:00",
+   "end": "2026-12-04T19:00-05:00",
+   "allDay": false,
+   "venue": "Chestnut Ridge",
+   "address": "8445 Winchester Rd NW, Carroll, OH, 43112",
+   "town": "Carroll",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://www.metroparks.net/event/luminary-hikes-3/2026-12-04/",
+   "source": "Metro Parks",
+   "desc": "Join us for evening lantern hikes at Chestnut Ridge as a part of our annual Winter Hike Series!\n\nLearn more about the Winter Hike Series here!"
+  },
+  {
    "id": "scioto-10000575",
    "title": "Wanderlights",
    "start": "2026-12-04T17:00-05:00",
@@ -6586,6 +6565,27 @@
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25",
    "source": "City of Canal Winchester",
    "desc": "https://www.canalwinchesterohio.gov/calendar.aspx?EID=3123"
+  },
+  {
+   "id": "dtc-1047053",
+   "title": "Holiday Wine Tasting Benefiting Kaleidoscope Youth Center",
+   "start": "2026-12-04T18:00-05:00",
+   "end": "2026-12-04T20:00-05:00",
+   "allDay": false,
+   "venue": "Charmy’s Market",
+   "address": "95 N. Grant Ave., Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/holiday-wine-tasting-benefiting-kaleidoscope-youth-center/",
+   "source": "Downtown Columbus",
+   "desc": "Join us for a holiday wine tasting benefiting Kaleidoscope Youth Center.\n\nSip, celebrate, and support a great cause!\n\nWe’re bringing back a favorite community event with our Holiday Wine Tasting! There will be up to 15 different festive wines, a cheese & charcuterie spread, samples of local treats & a few surprises along the way!\n\nThere will also be non alcoholic options including a Blackcurrant NA cocktail and celebratory sparking options!\n\nKick off your holiday party season by picking up a few new champagnes, ordering your party platters and meeting your neighbors – ALL while supporting KYC’s mission of creating safer and empowering spaces for LGBTQ+ youth!"
   },
   {
    "id": "crp-29603",
@@ -7027,6 +7027,27 @@
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35",
    "source": "City of Grove City",
    "desc": "https://www.grovecityohio.gov/calendar.aspx?EID=2746"
+  },
+  {
+   "id": "reynoldsburg-1646",
+   "title": "Christmas on the Town",
+   "start": "2026-12-05T10:00-05:00",
+   "end": "2026-12-05T15:00-05:00",
+   "allDay": false,
+   "venue": "Main Street from Davidson Drive to Graham/Waggoner Roads, and Broadwyn from Jackson to Lancaster",
+   "address": "Reynoldsburg OH 43068",
+   "town": "Reynoldsburg",
+   "lat": 39.9548,
+   "lon": -82.8121,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
+   "source": "City of Reynoldsburg",
+   "desc": "https://www.reynoldsburg.gov/m/calendar/event/detail/1646"
   },
   {
    "id": "fcdl-17179829",
@@ -7493,6 +7514,27 @@
    "url": "https://downtowncolumbus.com/event/free-wanderlights-2/2026-12-05/",
    "source": "Downtown Columbus",
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Bicentennial Park. Wander your way through the kaleidoscope of color in the heart of Downtown Columbus. Learn more about Wanderlights here! \n\nPlus, during Wander Nights at Wanderlights, find an ultra-festive atmosphere on Fridays and Saturdays from December 4 – 19."
+  },
+  {
+   "id": "mp-10004110",
+   "title": "Luminary Hikes",
+   "start": "2026-12-05T17:00-05:00",
+   "end": "2026-12-05T19:00-05:00",
+   "allDay": false,
+   "venue": "Chestnut Ridge",
+   "address": "8445 Winchester Rd NW, Carroll, OH, 43112",
+   "town": "Carroll",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": true,
+   "indoor": null,
+   "url": "https://www.metroparks.net/event/luminary-hikes-3/2026-12-05/",
+   "source": "Metro Parks",
+   "desc": "Join us for evening lantern hikes at Chestnut Ridge as a part of our annual Winter Hike Series!\n\nLearn more about the Winter Hike Series here!"
   },
   {
    "id": "scioto-10000576",
@@ -10107,6 +10149,27 @@
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
   },
   {
+   "id": "scioto-10000557",
+   "title": "Wander Nights at Wanderlights",
+   "start": "2026-12-11T17:00-05:00",
+   "end": "2026-12-11T21:00-05:00",
+   "allDay": false,
+   "venue": "Bicentennial Park",
+   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://www.sciotomile.com/event/wander-nights-at-wanderlights/2026-12-11/",
+   "source": "Scioto Mile",
+   "desc": "Take part in an ultra-festive holiday atmosphere and free activities while exploring all three Wanderlights stops. During Wander Nights, you’ll find complimentary hot chocolate and carousel rides at Columbus Commons, crackling fire pits at the Scioto Mile Fountain, special visits from Santa in the Lazarus Building galleria, and more!"
+  },
+  {
    "id": "vfc-32754",
    "title": "Once Upon a Christmas at The Pines at Buckeye Ridge",
    "start": "2026-12-11T17:30-05:00",
@@ -10945,27 +11008,6 @@
    "url": "https://www.sciotomile.com/event/wanderlights/2026-12-12/",
    "source": "Scioto Mile",
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
-  },
-  {
-   "id": "scioto-10000558",
-   "title": "Wander Nights at Wanderlights",
-   "start": "2026-12-12T17:00-05:00",
-   "end": "2026-12-12T21:00-05:00",
-   "allDay": false,
-   "venue": "Bicentennial Park",
-   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": null,
-   "url": "https://www.sciotomile.com/event/wander-nights-at-wanderlights/2026-12-12/",
-   "source": "Scioto Mile",
-   "desc": "Take part in an ultra-festive holiday atmosphere and free activities while exploring all three Wanderlights stops. During Wander Nights, you’ll find complimentary hot chocolate and carousel rides at Columbus Commons, crackling fire pits at the Scioto Mile Fountain, special visits from Santa in the Lazarus Building galleria, and more!"
   },
   {
    "id": "dtc-10024754",
@@ -16427,6 +16469,48 @@
    "kids": false,
    "indoor": null,
    "url": "https://www.sciotomile.com/event/wanderlights/2027-01-03/",
+   "source": "Scioto Mile",
+   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
+  },
+  {
+   "id": "dtc-10022721",
+   "title": "FREE Wanderlights",
+   "start": "2027-01-04T17:00-05:00",
+   "end": "2027-01-04T22:00-05:00",
+   "allDay": false,
+   "venue": "",
+   "address": "OH",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/free-wanderlights-2/2027-01-04/",
+   "source": "Downtown Columbus",
+   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Bicentennial Park. Wander your way through the kaleidoscope of color in the heart of Downtown Columbus. Learn more about Wanderlights here! \n\nPlus, during Wander Nights at Wanderlights, find an ultra-festive atmosphere on Fridays and Saturdays from December 4 – 19."
+  },
+  {
+   "id": "scioto-10000606",
+   "title": "Wanderlights",
+   "start": "2027-01-04T17:00-05:00",
+   "end": "2027-01-04T22:00-05:00",
+   "allDay": false,
+   "venue": "Bicentennial Park",
+   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://www.sciotomile.com/event/wanderlights/2027-01-04/",
    "source": "Scioto Mile",
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
   }
