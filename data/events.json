@@ -1,107 +1,107 @@
 {
- "generated": "2026-11-21T11:18:41.233Z",
+ "generated": "2026-11-21T20:56:00.659Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 371,
-   "kept": 205,
-   "ms": 6864
+   "kept": 201,
+   "ms": 7399
   },
   {
    "source": "Fairfield County District Library",
    "rows": 101,
-   "kept": 101,
-   "ms": 1126
+   "kept": 99,
+   "ms": 332
   },
   {
    "source": "Pickerington Public Library",
    "rows": 179,
    "kept": 179,
-   "ms": 543
+   "ms": 524
   },
   {
    "source": "City of Canal Winchester",
    "rows": 111,
    "kept": 7,
-   "ms": 467
+   "ms": 288
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 328
+   "ms": 241
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 62
+   "ms": 66
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 4,
-   "ms": 459
+   "ms": 1173
   },
   {
    "source": "Downtown Columbus",
    "rows": 180,
-   "kept": 178,
-   "ms": 11967
+   "kept": 176,
+   "ms": 8737
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 12,
    "kept": 12,
-   "ms": 643
+   "ms": 667
   },
   {
    "source": "Metro Parks",
    "rows": 10,
    "kept": 10,
-   "ms": 1879
+   "ms": 1713
   },
   {
    "source": "Columbus Commons",
    "rows": 52,
    "kept": 51,
-   "ms": 3107
+   "ms": 2777
   },
   {
    "source": "Scioto Mile",
    "rows": 53,
    "kept": 52,
-   "ms": 1366
+   "ms": 1277
   },
   {
    "source": "City of Gahanna",
    "rows": 81,
    "kept": 10,
-   "ms": 1275
+   "ms": 383
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 77,
    "kept": 6,
-   "ms": 1168
+   "ms": 78
   },
   {
    "source": "City of Grove City",
    "rows": 13,
    "kept": 13,
-   "ms": 203
+   "ms": 195
   },
   {
    "source": "City of Worthington",
-   "rows": 91,
-   "kept": 17,
+   "rows": 90,
+   "kept": 16,
    "ms": 525
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 13,
    "kept": 3,
-   "ms": 298
+   "ms": 243
   },
   {
    "source": "Standing freebies",
@@ -175,48 +175,6 @@
    "desc": "Plan a trip to Downtown Lancaster and admire the beautiful Holiday Window Displays. You can vote for your favorite beginning on Saturday, November 21st through Friday, December 4th.\n\nThe first, second, and third place winners will be announced at the tree lighting ceremony during Downtown Lancaster’s Winterfest on December 5th!\n\nVote for you favorite here!"
   },
   {
-   "id": "worthington-9226",
-   "title": "Worthington Farmers Market",
-   "start": "2026-11-21T09:00-05:00",
-   "end": "2026-11-21T12:00-05:00",
-   "allDay": false,
-   "venue": "",
-   "address": "- The Shops at Worthington Place 7227 N High St Worthington OH 43085",
-   "town": "Worthington",
-   "lat": 40.0931,
-   "lon": -83.018,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28",
-   "source": "City of Worthington",
-   "desc": "The Worthington Farmers Market was established in 1987 and is one of the largest and most respected markets in Ohio. The Market is held indoors at The Shops at Worthington Place during the months of November through April. During the summer months, the Market takes place outdoors in downtown Worthington. https://worthington.org/m/calendar/event/detail/9226"
-  },
-  {
-   "id": "vfc-32716",
-   "title": "Pre-Holiday Reset at SunRay Farms",
-   "start": "2026-11-21T09:30-05:00",
-   "end": "2026-11-21T11:00-05:00",
-   "allDay": false,
-   "venue": "5773 Royalton Rd SW",
-   "address": "5773 Royalton Road Southwest, Lancaster, OH, USA",
-   "town": "Lancaster",
-   "lat": 39.7228833,
-   "lon": -82.7149938,
-   "area": "Fairfield County",
-   "cost": "$40–$100",
-   "costNum": 40,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/pre-holiday-reset-at-sunray-farms-3/",
-   "source": "Visit Fairfield County",
-   "desc": "Before the holiday hustle takes over, give yourself permission to pause! Join SunRay Farms for three Saturday mornings focused on self-care, self-connection, and letting go. Enjoy mindful movement, calming breathwork and relaxation, followed by some heartwarming time with their adorable farm animals (optional baby goat feed and cuddle add-on). Led by instructor Angie Gallis, you will practice outdoors when weather permits or inside their cozy, climate-controlled Gathering Stables. Tickets are $40 per class or $100 for the three class series pass. Three Saturdays, three intentions, one calmer you – and a few furry friends!\n\n \n\nTo purchase tickets and learn more, please visit SunRay Farm’s website."
-  },
-  {
    "id": "vfc-32960",
    "title": "Indoor Amusements at Slate Run Farm",
    "start": "2026-11-21T10:00-05:00",
@@ -238,69 +196,6 @@
    "desc": "Join Slate Run Living Historic Farm to try some indoor games and toys and challenge your mind with some 19th century puzzles. This program is for all ages!\n\n \n\nFor more information, please visit Slate Run Living Historic Farm’s website."
   },
   {
-   "id": "vfc-32892",
-   "title": "Market Mornings: Popup Shop at Double Edge Brewing",
-   "start": "2026-11-21T10:00-05:00",
-   "end": "2026-11-21T12:00-05:00",
-   "allDay": false,
-   "venue": "158 W Chestnut St",
-   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7123144,
-   "lon": -82.6041679,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/market-mornings-popup-shop-at-double-edge-brewing-3/",
-   "source": "Visit Fairfield County",
-   "desc": "Market Mornings: Popup Shop Market is here! Double Edge Brewing is bringing Market Mornings inside the taproom for the colder months! Saturday’s from 10 a.m. to 12 p.m., they’ll spotlight a different local vendor, so you can shop small all winter long. Double Edge will have brunch drinks, their full bar including non-alcoholic options, and Kermit’s food truck serving up his famous brunch goodness! There is also Keller Market House right across the street with a full shop of local goodies! This week, the local vendor is Third Left Ceramics! You might recognize Kristin from hanging out around the taproom, but this Saturday, she’s bringing something a little different! Come check out her unique, hand-thrown pottery, all handcrafted with care. Christmas is right around the corner, and these one-of-a-kind pieces would make the perfect heartfelt gift for someone special, or for yourself!\n\nFor more information, please visit Double Edge Brewing’s Facebook page."
-  },
-  {
-   "id": "vfc-32789",
-   "title": "Fused Glass Holiday Classes at the Ohio Glass Museum",
-   "start": "2026-11-21T10:00-05:00",
-   "end": "2026-11-21T12:00-05:00",
-   "allDay": false,
-   "venue": "124 W Main St",
-   "address": "124 West Main Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7134997,
-   "lon": -82.60296450000001,
-   "area": "Fairfield County",
-   "cost": "$55",
-   "costNum": 55,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/2026-11-21-fused-glass-holiday-classes-at-the-ohio-glass-museum/",
-   "source": "Visit Fairfield County",
-   "desc": "Design your own Snowman or Candy Cane with crushed glass frit, round dots, stringers, and some Dicro glass to add some extra sparkle to this holiday season at the Ohio Glass Museum! Tickets are $55 per person with groups of up to 6. Please enter through the glass double doors in the front of the building. Walk through the front lobby and take the elevator to the lower level and it will take you straight into the Fused Glass Department. Purchase your tickets online today before they sell out!\n\n \n\nFor more information, please visit the Ohio Glass Museum’s Facebook page."
-  },
-  {
-   "id": "vfc-32780",
-   "title": "Lancaster Holiday Festival Parade",
-   "start": "2026-11-21T10:00-05:00",
-   "end": "2026-11-21T12:00-05:00",
-   "allDay": false,
-   "venue": "Lancaster",
-   "address": "Lancaster, OH, USA",
-   "town": "Lancaster",
-   "lat": 39.713743,
-   "lon": -82.601929,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/lancaster-holiday-festival-parade/",
-   "source": "Visit Fairfield County",
-   "desc": "Join together in downtown Lancaster on Saturday, November 21st at 10 a.m. for the annual Lancaster Holiday Festival Parade! This years theme is “Celebrate the Season, Serve with Heart”. The Lancaster Holiday Festival Parade always takes place the Saturday before the Thanksgiving Day Holiday. The parade will begin and end at the Fairfield County Fairgrounds. The parade exits the fairgrounds and turns left onto Columbus Street, continues to downtown to turn left on Main Street, until it comes to make a left onto Broad Street (Fran Miller Way) to march back into the Fairfield County Fairgrounds. If you would like to be in the parade, entry forms are open! All entry forms are due by November 4th. Please contact Maria Chandler, Parade Chairperson at lancasterholidayparade@gmail.com or (740) 407-6353.\n\n \n\nFor more updates and information, follow the Lancaster Holiday Festival Parade’s Facebook page."
-  },
-  {
    "id": "dtc-10017880",
    "title": "Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors",
    "start": "2026-11-21T10:00-05:00",
@@ -320,90 +215,6 @@
    "url": "https://downtowncolumbus.com/event/portraits-of-courage-a-commander-in-chiefs-tribute-to-americas-warriors/2026-11-21/",
    "source": "Downtown Columbus",
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
-  },
-  {
-   "id": "fcdl-17129293",
-   "title": "Hometown Military Heroes Wall Display",
-   "start": "2026-11-21T10:30-05:00",
-   "end": "2026-11-21T13:30-05:00",
-   "allDay": false,
-   "venue": "Bremen Branch Library",
-   "address": "220 Marietta St, Bremen, OH 43107",
-   "town": "Bremen",
-   "lat": 39.7066,
-   "lon": -82.4258,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17129293",
-   "source": "Fairfield County District Library",
-   "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
-  },
-  {
-   "id": "fcdl-17141395",
-   "title": "Saturday Storytime",
-   "start": "2026-11-21T10:30-05:00",
-   "end": "2026-11-21T11:00-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Storytime Area",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17141395",
-   "source": "Fairfield County District Library",
-   "desc": "Stories, songs, and crafts to help prepare children for preschool and beyond.\n\nNo registration necessary"
-  },
-  {
-   "id": "dtc-1045905",
-   "title": "COSI Season of Celebrations Tree Lighting",
-   "start": "2026-11-21T11:00-05:00",
-   "end": "2026-11-21T12:00-05:00",
-   "allDay": false,
-   "venue": "COSI",
-   "address": "333 W Broad St, Columbus, OH",
-   "town": "Columbus",
-   "lat": 39.9598362,
-   "lon": -83.0070197,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/cosi-season-of-celebrations-tree-lighting/",
-   "source": "Downtown Columbus",
-   "desc": "Start your day at COSI for the Season of Celebrations tree lighting at 11 am. The tree lighting will take place in COSI’s atrium, which is free to enter, but admission is required for the full Season of Celebrations exhibit.\n\nStop by WinterFest after the tree lighting, from 12 – 4 pm at Dorrian Green for live music, food trucks, winter activities, and more!"
-  },
-  {
-   "id": "dtc-10022871",
-   "title": "Holiday Trunk Show",
-   "start": "2026-11-21T11:00-05:00",
-   "end": "2026-11-21T13:00-05:00",
-   "allDay": false,
-   "venue": "Chaos Contemporary Craft",
-   "address": "78 N High St, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/holiday-trunk-show/2026-11-21/",
-   "source": "Downtown Columbus",
-   "desc": "Fine jewelry designer and talented artist Sharon Meyer returns with a new fall/winter collection. Get the first look and meet the artist at this Holiday Trunk Show"
   },
   {
    "id": "vfc-32635",
@@ -9706,27 +9517,6 @@
    "url": "https://www.sciotomile.com/event/wanderlights/2026-12-11/",
    "source": "Scioto Mile",
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
-  },
-  {
-   "id": "scioto-10000557",
-   "title": "Wander Nights at Wanderlights",
-   "start": "2026-12-11T17:00-05:00",
-   "end": "2026-12-11T21:00-05:00",
-   "allDay": false,
-   "venue": "Bicentennial Park",
-   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": null,
-   "url": "https://www.sciotomile.com/event/wander-nights-at-wanderlights/2026-12-11/",
-   "source": "Scioto Mile",
-   "desc": "Take part in an ultra-festive holiday atmosphere and free activities while exploring all three Wanderlights stops. During Wander Nights, you’ll find complimentary hot chocolate and carousel rides at Columbus Commons, crackling fire pits at the Scioto Mile Fountain, special visits from Santa in the Lazarus Building galleria, and more!"
   },
   {
    "id": "vfc-32754",
