@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-22T01:24:35.860Z",
+ "generated": "2026-11-22T11:37:35.914Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 371,
-   "kept": 195,
-   "ms": 7226
+   "kept": 193,
+   "ms": 7284
   },
   {
    "source": "Fairfield County District Library",
-   "rows": 101,
-   "kept": 98,
-   "ms": 399
+   "rows": 103,
+   "kept": 103,
+   "ms": 513
   },
   {
    "source": "Pickerington Public Library",
-   "rows": 179,
-   "kept": 179,
-   "ms": 592
+   "rows": 187,
+   "kept": 187,
+   "ms": 489
   },
   {
    "source": "City of Canal Winchester",
    "rows": 111,
    "kept": 7,
-   "ms": 361
+   "ms": 272
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 230
+   "ms": 241
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 64
+   "ms": 51
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 4,
-   "ms": 222
+   "ms": 582
   },
   {
    "source": "Downtown Columbus",
-   "rows": 180,
-   "kept": 175,
-   "ms": 8719
+   "rows": 172,
+   "kept": 171,
+   "ms": 24849
   },
   {
    "source": "Columbus Recreation & Parks",
-   "rows": 12,
-   "kept": 11,
-   "ms": 597
+   "rows": 10,
+   "kept": 10,
+   "ms": 598
   },
   {
    "source": "Metro Parks",
    "rows": 10,
    "kept": 10,
-   "ms": 1392
+   "ms": 1516
   },
   {
    "source": "Columbus Commons",
    "rows": 52,
-   "kept": 52,
-   "ms": 6477
+   "kept": 51,
+   "ms": 4658
   },
   {
    "source": "Scioto Mile",
-   "rows": 53,
-   "kept": 52,
-   "ms": 1358
+   "rows": 52,
+   "kept": 51,
+   "ms": 1241
   },
   {
    "source": "City of Gahanna",
    "rows": 81,
    "kept": 10,
-   "ms": 371
+   "ms": 229
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 77,
    "kept": 6,
-   "ms": 97
+   "ms": 52
   },
   {
    "source": "City of Grove City",
    "rows": 13,
    "kept": 13,
-   "ms": 200
+   "ms": 230
   },
   {
    "source": "City of Worthington",
    "rows": 90,
    "kept": 16,
-   "ms": 503
+   "ms": 449
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 13,
    "kept": 3,
-   "ms": 250
+   "ms": 219
   },
   {
    "source": "Standing freebies",
    "rows": 11,
    "kept": 11,
-   "ms": 10
+   "ms": 4
   }
  ],
  "events": [
@@ -196,195 +196,6 @@
    "desc": "Sip, Shop and Savor is a Holiday Christmas event at Buckeye Lake Winery with local vendors, crafts, and Santa, held from November 21st to November 22nd! Santa will be on site from 12 p.m. to 2 p.m. on Saturday. The Paint and Sip will be from 12 p.m. to 2 p.m. on Sunday! Tickets for Paint and Sip are available online today!\n\nFor more information, please visit Buckeye Lake Winery’s Facebook page."
   },
   {
-   "id": "dtc-10022677",
-   "title": "FREE Wanderlights",
-   "start": "2026-11-21T17:00-05:00",
-   "end": "2026-11-21T22:00-05:00",
-   "allDay": false,
-   "venue": "",
-   "address": "OH",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/free-wanderlights-2/2026-11-21/",
-   "source": "Downtown Columbus",
-   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Bicentennial Park. Wander your way through the kaleidoscope of color in the heart of Downtown Columbus. Learn more about Wanderlights here! \n\nPlus, during Wander Nights at Wanderlights, find an ultra-festive atmosphere on Fridays and Saturdays from December 4 – 19."
-  },
-  {
-   "id": "crp-30443",
-   "title": "Hall of Fame Boxing Showcase",
-   "start": "2026-11-21T17:00-05:00",
-   "end": "2026-11-21T21:00-05:00",
-   "allDay": false,
-   "venue": "Douglas Community Center",
-   "address": "1250 Windsor Ave., Columbus, OH, 43211",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "$5–$160",
-   "costNum": 5,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://columbusrecparks.com/calendar/hall-of-fame-boxing-showcase/",
-   "source": "Columbus Recreation & Parks",
-   "desc": "Join us for an unforgettable night as we celebrate the newest inductees, David Carter, Greg Dryer and Darryl Keith, into the Columbus Recreation and Parks Boxing Hall of Fame and honor this year’s Boxer of the Year, Emilio Bauqalup.\n\nTickets: $10 Adults | $5 Youth | VIP Tables: $160. \n\nExperience the excitement, celebrate our champions, and be part of Columbus boxing history!"
-  },
-  {
-   "id": "scioto-10000562",
-   "title": "Wanderlights",
-   "start": "2026-11-21T17:00-05:00",
-   "end": "2026-11-21T22:00-05:00",
-   "allDay": false,
-   "venue": "Bicentennial Park",
-   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": null,
-   "url": "https://www.sciotomile.com/event/wanderlights/2026-11-21/",
-   "source": "Scioto Mile",
-   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
-  },
-  {
-   "id": "vfc-33198",
-   "title": "Music Bingo with Clearcreek Country Vineyard and Winery",
-   "start": "2026-11-21T17:30-05:00",
-   "end": "2026-11-21T19:30-05:00",
-   "allDay": false,
-   "venue": "9214 Westfall Rd SW",
-   "address": "9214 Westfall Road Southwest, Amanda, Ohio 43102, United States of America",
-   "town": "Amanda",
-   "lat": 39.6901298,
-   "lon": -82.7812484,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/music-bingo-with-clearcreek-country-vineyard-and-winery/",
-   "source": "Visit Fairfield County",
-   "desc": "Clearcreek County Vineyard and Winery would like to mustache you a question: Would a night of nostalgic hits and musical memories with a playlist packed with ’70s rock classics, ’80s sing-alongs, ’90s hip-hop and R&B, early-2000s pop-punk, club anthems, country favorites, and plenty of wonderfully ridiculous hits in between make your entire day? Join Clearcreek Country Vineyard and Winery for music bingo with Queens Entertainment.\n\nGrab your crew, bring your best singing voice, and get ready to mark those bingo cards. The mustaches are optional, but the nostalgia is mandatory.\n\nVisit Clearcreek Country Vineyard and Winery’s Facebook page for further details!"
-  },
-  {
-   "id": "dtc-10012278",
-   "title": "The Dinner Detective Murder Mystery Dinner Show",
-   "start": "2026-11-21T18:00-05:00",
-   "end": "2026-11-21T21:00-05:00",
-   "allDay": false,
-   "venue": "Plaza Hotel Columbus at Capitol Square",
-   "address": "75 E State Street, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "$75",
-   "costNum": 75,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/the-dinner-detective-murder-mystery-dinner-show-6/2026-11-21/",
-   "source": "Downtown Columbus",
-   "desc": "America’s LARGEST interactive true crime mystery dinner show is now playing in Columbus, OH!\n\nAt The Dinner Detective Murder Mystery Dinner Show, you’ll tackle a challenging crime while you feast on a fantastic dinner. Just beware! The criminal is lurking somewhere in the room, and you may find yourself as a Prime Suspect before you know it!\n\nEach admission includes our fantastic dinner, mystery entertainment, wait staff gratuity, prize package for Top Sleuth, and much more!"
-  },
-  {
-   "id": "dtc-10018609",
-   "title": "Dinner Detective Columbus",
-   "start": "2026-11-21T18:00-05:00",
-   "end": "2026-11-21T21:00-05:00",
-   "allDay": false,
-   "venue": "Embassy Suites by Hilton Columbus",
-   "address": "2700 Corporate Exchange Dr C, Columbus, OH, 43231",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "$75",
-   "costNum": 75,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/dinner-detective-columbus/2026-11-21/",
-   "source": "Downtown Columbus",
-   "desc": "America’s premiere interactive comedy true-crime mystery experience is now playing! Solve a hilarious mystery while you feast on a fantastic dinner. Just beware! The culprit is hiding in plain sight somewhere in the room, and you may find yourself as a Prime Suspect before you know it! Each ticket includes our signature award-winning true-crime mystery dinner theatre show (based on actual cold cases), along with a full plated dinner, waitstaff gratuity, and plenty of surprises during the show!"
-  },
-  {
-   "id": "vfc-32926",
-   "title": "Rise Up Arts Alliance Presents: The Crucible",
-   "start": "2026-11-21T19:00-05:00",
-   "end": "2026-11-21T21:00-05:00",
-   "allDay": false,
-   "venue": "632 W 5th Ave",
-   "address": "632 West 5th Avenue, Lancaster, OH, USA",
-   "town": "Lancaster",
-   "lat": 39.7187916,
-   "lon": -82.6139889,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/rise-up-arts-alliance-presents-the-crucible-3/",
-   "source": "Visit Fairfield County",
-   "desc": "Rise Up Arts Alliance Presents: The Crucible on November 19th-22nd at the Lancaster City Parks office! Set during the Salem witch trials of 1692, The Crucible is Arthur Miller’s gripping drama about fear, power, and the consequences of mass hysteria. As accusations of witchcraft spread through a small Puritan town, neighbors turn against one another, reputations are destroyed, and impossible choices must be made in the pursuit of truth and justice. A timeless American classic, The Crucible explores the dangers of suspicion, the cost of integrity, and the courage it takes to stand by one’s convictions. Powerful, thought-provoking, and deeply relevant, this unforgettable play continues to resonate with audiences today. Tickets will sell quickly, so be sure to reserve your seat today! This show is recommended for teens and adults due to mature themes and intense dramatic content.\n\nFor more information, please visit Rise Up Arts Alliance’s Facebook page."
-  },
-  {
-   "id": "dtc-10022834",
-   "title": "Verdi’s Requiem",
-   "start": "2026-11-21T19:30-05:00",
-   "end": "2026-11-21T21:30-05:00",
-   "allDay": false,
-   "venue": "Ohio Theatre",
-   "address": "39 E State St, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": 39.960068,
-   "lon": -82.99889,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/verdis-requiem/2026-11-21/",
-   "source": "Downtown Columbus",
-   "desc": "Hear the Columbus Symphony Orchestra and Chorus, joined by a quartet of exceptional guest soloists, bring to life this masterpiece by the great Italian opera composer. From the terrifying Dies irae, with its swirling strings and thunderous bass drum (a favorite of the Ohio State University Marching Band), to the achingly beautiful Lacrimosa and the whispered opening that rises from near silence, the Requiem blends theatricality with profound reflection."
-  },
-  {
-   "id": "dtc-10022836",
-   "title": "Ordinary Woman",
-   "start": "2026-11-21T19:30-05:00",
-   "end": "2026-11-21T21:30-05:00",
-   "allDay": false,
-   "venue": "Davidson Theater –  Riffe Center Theatre Complex",
-   "address": "77 S. High Street, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/ordinary-woman/2026-11-21/",
-   "source": "Downtown Columbus",
-   "desc": "An extraordinary new musical featuring the songs of Sheryl Crow.\n\nThis world premiere and unique collaboration between CAPA, BalletMet and European production company ODD Continent reimagines Grammy-winner Sheryl Crow’s most powerful songs – from “Steve McQueen” to “Strong Enough” – through drama, ballet, and live on-stage music.\n\nOrdinary Woman is the story of estranged midwestern sisters who must reconcile conflicting memories of the past when forced back together by environmental and social unrest.\n\nMade in Columbus by a local and international team, including BalletMet artistic director Remi Wörtmeyer, Ordinary Woman plays a very limited run of three performances only. Don’t miss your chance to see it before the rest of the world!"
-  },
-  {
    "id": "vfc-32961",
    "title": "Indoor Amusements at Slate Run Farm",
    "start": "2026-11-22T10:00-05:00",
@@ -448,7 +259,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-21",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-22",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-22T10:00-05:00",
    "end": "2026-11-22T17:00-05:00",
@@ -3245,7 +3056,7 @@
    "desc": "Ongoing at the farmhouse between 10am-4pm.\n\nEnjoy a display and some activities about Thanksgiving foods and traditions."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-28",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-11-29",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-11-29T10:00-05:00",
    "end": "2026-11-29T17:00-05:00",
@@ -5643,27 +5454,6 @@
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
   },
   {
-   "id": "scioto-10000555",
-   "title": "Wander Nights at Wanderlights",
-   "start": "2026-12-04T17:00-05:00",
-   "end": "2026-12-04T21:00-05:00",
-   "allDay": false,
-   "venue": "Bicentennial Park",
-   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": null,
-   "url": "https://www.sciotomile.com/event/wander-nights-at-wanderlights/2026-12-04/",
-   "source": "Scioto Mile",
-   "desc": "Take part in an ultra-festive holiday atmosphere and free activities while exploring all three Wanderlights stops. During Wander Nights, you’ll find complimentary hot chocolate and carousel rides at Columbus Commons, crackling fire pits at the Scioto Mile Fountain, special visits from Santa in the Lazarus Building galleria, and more!"
-  },
-  {
    "id": "vfc-33207",
    "title": "Kids’ Christmas Party at 4 Seasons Event Center",
    "start": "2026-12-04T18:00-05:00",
@@ -6567,7 +6357,7 @@
    "desc": "https://www.reynoldsburg.gov/m/calendar/event/detail/1415"
   },
   {
-   "id": "recurring-short-north-gallery-hop-2026-12-04",
+   "id": "recurring-short-north-gallery-hop-2026-12-05",
    "title": "Short North Gallery Hop",
    "start": "2026-12-05T16:00-05:00",
    "end": "2026-12-05T20:00-05:00",
@@ -6695,6 +6485,27 @@
    "url": "https://www.sciotomile.com/event/wanderlights/2026-12-05/",
    "source": "Scioto Mile",
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
+  },
+  {
+   "id": "scioto-10000556",
+   "title": "Wander Nights at Wanderlights",
+   "start": "2026-12-05T17:00-05:00",
+   "end": "2026-12-05T21:00-05:00",
+   "allDay": false,
+   "venue": "Bicentennial Park",
+   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://www.sciotomile.com/event/wander-nights-at-wanderlights/2026-12-05/",
+   "source": "Scioto Mile",
+   "desc": "Take part in an ultra-festive holiday atmosphere and free activities while exploring all three Wanderlights stops. During Wander Nights, you’ll find complimentary hot chocolate and carousel rides at Columbus Commons, crackling fire pits at the Scioto Mile Fountain, special visits from Santa in the Lazarus Building galleria, and more!"
   },
   {
    "id": "vfc-33265",
@@ -6865,7 +6676,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-05",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-06",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-06T10:00-05:00",
    "end": "2026-12-06T17:00-05:00",
@@ -6890,7 +6701,7 @@
    ]
   },
   {
-   "id": "recurring-community-day-at-franklin-park-conservatory-2026-12-05",
+   "id": "recurring-community-day-at-franklin-park-conservatory-2026-12-06",
    "title": "Community Day at Franklin Park Conservatory",
    "start": "2026-12-06T10:00-05:00",
    "end": "2026-12-06T17:00-05:00",
@@ -9267,6 +9078,27 @@
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
   },
   {
+   "id": "scioto-10000557",
+   "title": "Wander Nights at Wanderlights",
+   "start": "2026-12-11T17:00-05:00",
+   "end": "2026-12-11T21:00-05:00",
+   "allDay": false,
+   "venue": "Bicentennial Park",
+   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://www.sciotomile.com/event/wander-nights-at-wanderlights/2026-12-11/",
+   "source": "Scioto Mile",
+   "desc": "Take part in an ultra-festive holiday atmosphere and free activities while exploring all three Wanderlights stops. During Wander Nights, you’ll find complimentary hot chocolate and carousel rides at Columbus Commons, crackling fire pits at the Scioto Mile Fountain, special visits from Santa in the Lazarus Building galleria, and more!"
+  },
+  {
    "id": "vfc-32754",
    "title": "Once Upon a Christmas at The Pines at Buckeye Ridge",
    "start": "2026-12-11T17:30-05:00",
@@ -10296,7 +10128,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-12",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-13",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-13T10:00-05:00",
    "end": "2026-12-13T17:00-05:00",
@@ -13072,7 +12904,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-19",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-20",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-20T10:00-05:00",
    "end": "2026-12-20T17:00-05:00",
@@ -14336,7 +14168,7 @@
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-26",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2026-12-27",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2026-12-27T10:00-05:00",
    "end": "2026-12-27T17:00-05:00",
@@ -15369,7 +15201,7 @@
    "desc": "Family storytimes are early literacy programs designed for children (typically ages 0-6) and their caregivers. They feature a dynamic mix of read-aloud books, songs, rhymes, and movement activities meant to expand imaginations and build cooperative skills in a welcoming environment.\n\nThe Big Book Nook is located at 624 W. 5th Ave. Lancaster, Ohio."
   },
   {
-   "id": "recurring-short-north-gallery-hop-2027-01-01",
+   "id": "recurring-short-north-gallery-hop-2027-01-02",
    "title": "Short North Gallery Hop",
    "start": "2027-01-02T16:00-05:00",
    "end": "2027-01-02T20:00-05:00",
@@ -15478,7 +15310,7 @@
    "desc": "Cheer on the Columbus Blue Jackets in this regular season game at Nationwide Arena!\n\nGet tickets here!"
   },
   {
-   "id": "recurring-free-sunday-at-columbus-museum-of-art-2027-01-02",
+   "id": "recurring-free-sunday-at-columbus-museum-of-art-2027-01-03",
    "title": "Free Sunday at Columbus Museum of Art",
    "start": "2027-01-03T10:00-05:00",
    "end": "2027-01-03T17:00-05:00",
@@ -15503,7 +15335,7 @@
    ]
   },
   {
-   "id": "recurring-community-day-at-franklin-park-conservatory-2027-01-02",
+   "id": "recurring-community-day-at-franklin-park-conservatory-2027-01-03",
    "title": "Community Day at Franklin Park Conservatory",
    "start": "2027-01-03T10:00-05:00",
    "end": "2027-01-03T17:00-05:00",
@@ -15738,6 +15570,195 @@
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
   },
   {
+   "id": "ppl-17535796",
+   "title": "Rhyme Time",
+   "start": "2027-01-05T09:30-05:00",
+   "end": "2027-01-05T10:00-05:00",
+   "allDay": false,
+   "venue": "Pickerington Main · Meeting Room A",
+   "address": "201 Opportunity Way, Pickerington, OH 43147",
+   "town": "Pickerington",
+   "lat": 39.8958,
+   "lon": -82.7563,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://pickeringtonlibrary.libnet.info/event/17535796",
+   "source": "Pickerington Public Library",
+   "desc": "Help your baby or young toddler develop a love of reading by introducing them to rhymes, songs, stories, and fingerplays! Rhyme Time is for children 0-23 months and their caregivers; siblings are also welcome. This interactive 6-week class will highlight early literacy practices such as reading, writing, playing, singing, and talking.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
+  },
+  {
+   "id": "fcdl-17542409",
+   "title": "Common Threads Craft Group",
+   "start": "2027-01-05T10:00-05:00",
+   "end": "2027-01-05T12:00-05:00",
+   "allDay": false,
+   "venue": "Bremen Branch Library · Meeting Room (Bremen)",
+   "address": "220 Marietta St, Bremen, OH 43107",
+   "town": "Bremen",
+   "lat": 39.7066,
+   "lon": -82.4258,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17542409",
+   "source": "Fairfield County District Library",
+   "desc": "Bring your knitting, crochet, or other crafting project to work on while meeting with friends in this casual, self-guided gathering. Bring your own supplies and share your skills or learn from others. Not instructor led. No registration necessary."
+  },
+  {
+   "id": "ppl-17535418",
+   "title": "Toddler Time: Bears",
+   "start": "2027-01-05T10:15-05:00",
+   "end": "2027-01-05T10:45-05:00",
+   "allDay": false,
+   "venue": "Pickerington Main · Barn,Meeting Room A",
+   "address": "201 Opportunity Way, Pickerington, OH 43147",
+   "town": "Pickerington",
+   "lat": 39.8958,
+   "lon": -82.7563,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://pickeringtonlibrary.libnet.info/event/17535418",
+   "source": "Pickerington Public Library",
+   "desc": "Sing, dance, and hear great stories in this interactive 6-week class for 2- to 3-year-olds and their caregivers. We will highlight early literacy practices such as reading, writing, playing, singing, and talking—all great ways to get your child ready to read!\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
+  },
+  {
+   "id": "fcdl-17771463",
+   "title": "Baby Storytime",
+   "start": "2027-01-05T10:30-05:00",
+   "end": "2027-01-05T11:00-05:00",
+   "allDay": false,
+   "venue": "Northwest Branch",
+   "address": "",
+   "town": "Lancaster",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17771463",
+   "source": "Fairfield County District Library",
+   "desc": "Enjoy interactive stories, playful songs, and action rhymes with your baby. Older siblings are welcome and encouraged to bring their own “baby” (favorite stuffed animal or doll) to participate.\n\nNo registration necessary."
+  },
+  {
+   "id": "fcdl-17502550",
+   "title": "Novel Conversation Book Discussion Group",
+   "start": "2027-01-05T11:00-05:00",
+   "end": "2027-01-05T12:00-05:00",
+   "allDay": false,
+   "venue": "Baltimore Branch Library · Meeting Room (Baltimore)",
+   "address": "205 E Market St, Baltimore, OH 43105",
+   "town": "Baltimore",
+   "lat": 39.8449,
+   "lon": -82.6016,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17502550",
+   "source": "Fairfield County District Library",
+   "desc": "Pick up a copy of the monthly book at the Baltimore Branch and then join us the first Tuesday of the month for a discussion. \n\nNo registration necessary."
+  },
+  {
+   "id": "ppl-17513807",
+   "title": "Preschool Pals: Bears",
+   "start": "2027-01-05T13:00-05:00",
+   "end": "2027-01-05T14:00-05:00",
+   "allDay": false,
+   "venue": "Pickerington Main · Barn,Meeting Room A",
+   "address": "201 Opportunity Way, Pickerington, OH 43147",
+   "town": "Pickerington",
+   "lat": 39.8958,
+   "lon": -82.7563,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://pickeringtonlibrary.libnet.info/event/17513807",
+   "source": "Pickerington Public Library",
+   "desc": "Get your preschooler ready for kindergarten with Preschool Pals, a class for 4- to 5-year-olds who are ready to try storytime on their own! Early literacy practices used in class will start kids on the path to reading.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
+  },
+  {
+   "id": "ppl-16796021",
+   "title": "Homework Help Center",
+   "start": "2027-01-05T15:00-05:00",
+   "end": "2027-01-05T18:00-05:00",
+   "allDay": false,
+   "venue": "Sycamore Plaza  · Meeting Room",
+   "address": "7861 Refugee Rd, Pickerington, OH 43147",
+   "town": "Pickerington",
+   "lat": 39.9173,
+   "lon": -82.7918,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://pickeringtonlibrary.libnet.info/event/16796021",
+   "source": "Pickerington Public Library",
+   "desc": "The Homework Help Center is a community resource that serves the entire Pickerington Local School District. Unlike tutoring services that provide one-on-one help in specific subject areas, the Library’s Homework Help service supports students by ensuring they are able to complete specific work assigned by their classroom teachers. \n\nLibrary staff and volunteers are knowledgeable in guiding students through homework assignments in many subjects and grade levels. If the subject material is beyond the knowledge of staff and volunteers or students need more individual assistance than we can provide, we can direct them to resources for additional help.\n\nOpen Monday-Thursday following the PLSD scheduled calendar.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221.\n\nFor more information and online resources, visit https://pickeringtonlibrary.org/homework-help-center/"
+  },
+  {
+   "id": "ppl-16833804",
+   "title": "Teen Hang",
+   "start": "2027-01-05T15:00-05:00",
+   "end": "2027-01-05T17:00-05:00",
+   "allDay": false,
+   "venue": "Sycamore Plaza  · Learning Kitchen",
+   "address": "7861 Refugee Rd, Pickerington, OH 43147",
+   "town": "Pickerington",
+   "lat": 39.9173,
+   "lon": -82.7918,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://pickeringtonlibrary.libnet.info/event/16833804",
+   "source": "Pickerington Public Library",
+   "desc": "A great space for kids over 12 years old to hang out and relax after school. Enjoy a snack after school while you wait for practice or a ride home. \n\nCrafts: Bedazzling, bracelet-making, coloring pages, nail art, and more!\n\nVideo Games: Choose from a selection of PS5 video games always available (Madden ‘26, NBA 2K ‘26, DreamWorks All-Star Kart Racing, and NC ‘26) or choose something else from our video game collection! A Nintendo Switch is also available for those looking for a solo game or Mario Kart dual with a friend. \n\nTeen Hang follows the PLSD School Calendar. However, video games and craft supplies are available upon request when school is not in session. \n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
+  },
+  {
+   "id": "ppl-17409124",
+   "title": "Board Game Club",
+   "start": "2027-01-05T16:00-05:00",
+   "end": "2027-01-05T18:00-05:00",
+   "allDay": false,
+   "venue": "Pickerington Main · Atrium",
+   "address": "201 Opportunity Way, Pickerington, OH 43147",
+   "town": "Pickerington",
+   "lat": 39.8958,
+   "lon": -82.7563,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://pickeringtonlibrary.libnet.info/event/17409124",
+   "source": "Pickerington Public Library",
+   "desc": "Stop by the Pickerington Main Library on Tuesday afternoon to play board games! Hosted by Tom, a local board game enthusiast, this club offers a welcoming space to play, learn new games, and enjoy great company. All games are provided, just bring your interest and love for board games!\n\nFor specific accommodation requests or inquiries, please contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
+  },
+  {
    "id": "dtc-10022722",
    "title": "FREE Wanderlights",
    "start": "2027-01-05T17:00-05:00",
@@ -15780,6 +15801,48 @@
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
   },
   {
+   "id": "fcdl-17446290",
+   "title": "Dog Tales - Read to a K9 Buddy",
+   "start": "2027-01-05T17:45-05:00",
+   "end": "2027-01-05T18:30-05:00",
+   "allDay": false,
+   "venue": "Baltimore Branch Library · Meeting Room (Baltimore)",
+   "address": "205 E Market St, Baltimore, OH 43105",
+   "town": "Baltimore",
+   "lat": 39.8449,
+   "lon": -82.6016,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17446290",
+   "source": "Fairfield County District Library",
+   "desc": "Help your child’s reading skills and boost their confidence with a 15-minute session with a reading therapy dog.\n\nCall the Baltimore Branch at 740-862-8505 to schedule."
+  },
+  {
+   "id": "fcdl-17384422",
+   "title": "NOVEL CONVERSATION",
+   "start": "2027-01-05T18:30-05:00",
+   "end": "2027-01-05T20:00-05:00",
+   "allDay": false,
+   "venue": "*Main Library · Boardroom (Lancaster)",
+   "address": "",
+   "town": "Lancaster",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://www.fcdlibrary.org/event/17384422",
+   "source": "Fairfield County District Library",
+   "desc": "The Quiet Librarian\nby\nAllen Eskens\n\nAfter the murder of her best friend, a librarian’s search for answers leads back to her own dark secrets in this sweeping novel about a woman transformed by war, family, vengeance, and love, from award-winning writer Allen Eskens.\n\nHana Babic is a quiet, middle-aged librarian in Minnesota who wants nothing more than to be left alone. But when a detective arrives with the news that her best friend has been murdered, Hana knows that something evil has come for her, a dark remnant of the past she and her friend had shared.\n\nThirty years before, Hana was someone else: Nura Divjak, a teenager growing up in the mountains of war-torn Bosnia—until Serbian soldiers arrived to slaughter her entire family before her eyes. The events of that day thrust Nura into the war, leading her to join a band of militia fighters, where she became not only a fierce warrior but a legend—the deadly Night Mora. But a shattering final act forced Nura to flee to the United States with a bounty on her head.\n\nNow, someone is hunting Hana, and her friend has paid the price, leaving her eight-year-old grandson in Hana’s care. To protect the child without revealing her secret, Ha"
+  },
+  {
    "id": "dtc-10018543",
    "title": "Columbus Blue Jackets Game",
    "start": "2027-01-05T19:00-05:00",
@@ -15799,6 +15862,27 @@
    "url": "https://downtowncolumbus.com/event/columbus-blue-jackets-game-6/2027-01-05/",
    "source": "Downtown Columbus",
    "desc": "Cheer on the Columbus Blue Jackets in this regular season game at Nationwide Arena!\n\nGet tickets here!"
+  },
+  {
+   "id": "dtc-10004708",
+   "title": "November Project Scioto Mile Free Workout",
+   "start": "2027-01-06T06:00-05:00",
+   "end": "2027-01-06T08:00-05:00",
+   "allDay": false,
+   "venue": "Genoa Park",
+   "address": "303 W Broad St, Columbus, OH",
+   "town": "Columbus",
+   "lat": 39.9598672,
+   "lon": -83.0054187,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/november-project-scioto-mile-free-workout/2027-01-06/",
+   "source": "Downtown Columbus",
+   "desc": "November Project is a free outside fitness group that started in Boston in 2011 to break down barriers to movement! Now in 53 cities around the globe, we create free, fun, scalable (adjustable to your fitness level) workouts for all ages – and doggos!\n\nOur workout starts at 6:14a every Wednesday morning in Genoa Park on the Scioto Mile (on the steps behind COSI). We work out for 45 minutes together until 7am, then walk down to One Line Coffee to hang out before work!\n\nCome join us if you’re an off-the-couch fitness newbie, a runner looking to cross-train, or any fitness level in between, we’d love to see you!"
   }
  ]
 }
