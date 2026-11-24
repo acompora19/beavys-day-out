@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-24T13:54:44.770Z",
+ "generated": "2026-11-24T23:56:35.372Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
-   "rows": 395,
-   "kept": 187,
-   "ms": 7443
+   "rows": 397,
+   "kept": 188,
+   "ms": 8011
   },
   {
    "source": "Fairfield County District Library",
    "rows": 113,
-   "kept": 113,
-   "ms": 471
+   "kept": 110,
+   "ms": 626
   },
   {
    "source": "Pickerington Public Library",
-   "rows": 196,
-   "kept": 196,
-   "ms": 684
+   "rows": 198,
+   "kept": 194,
+   "ms": 688
   },
   {
    "source": "City of Canal Winchester",
    "rows": 111,
    "kept": 8,
-   "ms": 389
+   "ms": 405
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 295
+   "ms": 327
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 74
+   "ms": 76
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 4,
-   "ms": 677
+   "ms": 2229
   },
   {
    "source": "Downtown Columbus",
    "rows": 170,
-   "kept": 168,
-   "ms": 37525
+   "kept": 169,
+   "ms": 12678
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 11,
    "kept": 11,
-   "ms": 803
+   "ms": 745
   },
   {
    "source": "Metro Parks",
    "rows": 9,
    "kept": 9,
-   "ms": 1823
+   "ms": 1551
   },
   {
    "source": "Columbus Commons",
    "rows": 52,
-   "kept": 51,
-   "ms": 1440
+   "kept": 52,
+   "ms": 1608
   },
   {
    "source": "Scioto Mile",
    "rows": 52,
-   "kept": 51,
-   "ms": 1695
+   "kept": 52,
+   "ms": 2167
   },
   {
    "source": "City of Gahanna",
    "rows": 80,
    "kept": 9,
-   "ms": 680
+   "ms": 560
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 76,
    "kept": 5,
-   "ms": 100
+   "ms": 99
   },
   {
    "source": "City of Grove City",
    "rows": 13,
    "kept": 13,
-   "ms": 258
+   "ms": 241
   },
   {
    "source": "City of Worthington",
    "rows": 89,
    "kept": 15,
-   "ms": 411
+   "ms": 393
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 13,
    "kept": 3,
-   "ms": 273
+   "ms": 272
   },
   {
    "source": "Standing freebies",
    "rows": 10,
    "kept": 10,
-   "ms": 9
+   "ms": 8
   }
  ],
  "events": [
@@ -173,153 +173,6 @@
    "url": "https://visitfairfieldcounty.org/events/downtown-holiday-window-display-contest/",
    "source": "Visit Fairfield County",
    "desc": "Plan a trip to Downtown Lancaster and admire the beautiful Holiday Window Displays. You can vote for your favorite beginning on Saturday, November 21st through Friday, December 4th.\n\nThe first, second, and third place winners will be announced at the tree lighting ceremony during Downtown Lancaster’s Winterfest on December 5th!\n\nVote for you favorite here!"
-  },
-  {
-   "id": "ppl-16802710",
-   "title": "Rhyme Time",
-   "start": "2026-11-24T09:30-05:00",
-   "end": "2026-11-24T10:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room A",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16802710",
-   "source": "Pickerington Public Library",
-   "desc": "Help your baby or young toddler develop a love of reading by introducing them to rhymes, songs, stories, and fingerplays! Rhyme Time is for children 0-23 months and their caregivers; siblings are also welcome. This interactive 6-week class will highlight early literacy practices such as reading, writing, playing, singing, and talking.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "fcdl-17332220",
-   "title": "Common Threads Craft Group",
-   "start": "2026-11-24T10:00-05:00",
-   "end": "2026-11-24T12:00-05:00",
-   "allDay": false,
-   "venue": "Bremen Branch Library · Meeting Room (Bremen)",
-   "address": "220 Marietta St, Bremen, OH 43107",
-   "town": "Bremen",
-   "lat": 39.7066,
-   "lon": -82.4258,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17332220",
-   "source": "Fairfield County District Library",
-   "desc": "Knit, stitch, or bring any craft you love. All skill levels welcome. Bring your own project (no supplies provided). Not instrutor led. Come ready to learn something new or share yours skills. No registration necessary."
-  },
-  {
-   "id": "ppl-16831297",
-   "title": "Toddler Time: Circus and Zoo",
-   "start": "2026-11-24T10:15-05:00",
-   "end": "2026-11-24T10:45-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Meeting Room A",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16831297",
-   "source": "Pickerington Public Library",
-   "desc": "Sing, dance, and hear great stories in this interactive 6-week class for 2- to 3-year-olds and their caregivers. We will highlight early literacy practices such as reading, writing, playing, singing, and talking—all great ways to get your child ready to read!\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "fcdl-17129294",
-   "title": "Hometown Military Heroes Wall Display",
-   "start": "2026-11-24T10:30-05:00",
-   "end": "2026-11-24T16:30-05:00",
-   "allDay": false,
-   "venue": "Bremen Branch Library",
-   "address": "220 Marietta St, Bremen, OH 43107",
-   "town": "Bremen",
-   "lat": 39.7066,
-   "lon": -82.4258,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17129294",
-   "source": "Fairfield County District Library",
-   "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
-  },
-  {
-   "id": "fcdl-17183693",
-   "title": "Baby Storytime",
-   "start": "2026-11-24T10:30-05:00",
-   "end": "2026-11-24T11:00-05:00",
-   "allDay": false,
-   "venue": "Northwest Branch",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17183693",
-   "source": "Fairfield County District Library",
-   "desc": "Enjoy interactive stories, playful songs, and action rhymes with your baby. Older siblings are welcome and encouraged to bring their own “baby” (favorite stuffed animal or doll) to participate.\n\nNo registration necessary."
-  },
-  {
-   "id": "ppl-16831276",
-   "title": "Preschool Pals: Circus and Zoo",
-   "start": "2026-11-24T13:00-05:00",
-   "end": "2026-11-24T14:00-05:00",
-   "allDay": false,
-   "venue": "Pickerington Main · Barn,Meeting Room A",
-   "address": "201 Opportunity Way, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.8958,
-   "lon": -82.7563,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16831276",
-   "source": "Pickerington Public Library",
-   "desc": "Get your preschooler ready for kindergarten with Preschool Pals, a class for 4- to 5-year-olds who are ready to try storytime on their own! Early literacy practices used in class will start kids on the path to reading.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
-   "id": "vfc-32962",
-   "title": "Thanksgiving Traditions at Slate Run Farm",
-   "start": "2026-11-24T13:30-05:00",
-   "end": "2026-11-24T15:00-05:00",
-   "allDay": false,
-   "venue": "1375 OH-674",
-   "address": "1375 OH-674, Canal Winchester, OH 43110, USA",
-   "town": "Canal Winchester",
-   "lat": 39.7591244,
-   "lon": -82.82766149999999,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/thanksgiving-traditions-at-slate-run-farm/",
-   "source": "Visit Fairfield County",
-   "desc": "Join Slate Run Living Historic Farm to learn about the history of Thanksgiving foods and traditions. Enjoy a display and some activities in front of the farmhouse. This program is for all ages!\n\n \n\nFor more information, please visit Slate Run Living Historic Farm’s website."
   },
   {
    "id": "ppl-16423358",
@@ -740,6 +593,27 @@
    "url": "https://www.fcdlibrary.org/event/17235858",
    "source": "Fairfield County District Library",
    "desc": "Join us each week as we celebrate our ABCs with stories, songs and crafts. No registration required."
+  },
+  {
+   "id": "vfc-33385",
+   "title": "Happy Drinksgiving! with Combustion Brewery and Taproom",
+   "start": "2026-11-25T11:00-05:00",
+   "end": "2026-11-25T22:00-05:00",
+   "allDay": false,
+   "venue": "80 W Church St",
+   "address": "80 West Church Street, Pickerington, Ohio 43147, United States",
+   "town": "Pickerington",
+   "lat": 39.885268,
+   "lon": -82.754857,
+   "area": "Fairfield County",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/happy-drinksgiving-with-combustion-brewery-and-taproom/",
+   "source": "Visit Fairfield County",
+   "desc": "Stop by Combustion Brewery and Taproom for drink specials to celebrate Thanksgiving Eve! It will be a a great party to kick off the start the holiday season. They’ll have Cranberry Ginger Fizz cocktails, Cranberry Orange Jello Shots, and Inch of Dust Maple BBA Imperial Stout. Schmid’s Sausage Truck will also be there from 4p.m. – 9p.m.\n\nVisit Combustion Brewery and Taproom’s Facebook page for more details."
   },
   {
    "id": "ppl-16831277",
@@ -3917,6 +3791,27 @@
    "desc": "Have you seen the white owl? At this storytime, we'll search for a barn owl and then make an owl for you to take home.\n\nRegister online, on our app, or by calling (740) 653-2745 ext. 140"
   },
   {
+   "id": "ppl-18008914",
+   "title": "Library On-The-Go Community Visit",
+   "start": "2026-12-03T11:00-05:00",
+   "end": "2026-12-03T12:30-05:00",
+   "allDay": false,
+   "venue": "Town Square Villas · 85 Peggy Green Lane",
+   "address": "",
+   "town": "Pickerington",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://pickeringtonlibrary.libnet.info/event/18008914",
+   "source": "Pickerington Public Library",
+   "desc": "The Library On-The-Go is visiting the Town Square Villas neighborhood, bringing a full-service mobile library stocked with books and other materials for all ages!\n\nVisitors can sign up for a free library card (children under 18 must have parent or guardian permission) and check out materials during their visit.\n\nLibrary staff will move the fun inside the Community Clubhouse when the weather is too cold."
+  },
+  {
    "id": "crp-30540",
    "title": "Conversations and Coffee: Char Norman",
    "start": "2026-12-03T12:00-05:00",
@@ -4568,6 +4463,27 @@
    "desc": "https://www.grovecityohio.gov/calendar.aspx?EID=2745"
   },
   {
+   "id": "vfc-33381",
+   "title": "Sip and Swing: Christmas Edition with The View Golf Club",
+   "start": "2026-12-04T17:00-05:00",
+   "end": "2026-12-04T21:00-05:00",
+   "allDay": false,
+   "venue": "1401 George Rd NE",
+   "address": "1401 George Rd NE, Lancaster, OH 43130, USA",
+   "town": "Lancaster",
+   "lat": 39.7420599,
+   "lon": -82.5314369,
+   "area": "Fairfield County",
+   "cost": "$60",
+   "costNum": 60,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://visitfairfieldcounty.org/events/sip-and-swing-christmas-edition-with-the-view-golf-club/",
+   "source": "Visit Fairfield County",
+   "desc": "Grab your favorite person and join The View Golf Club for a festive night of sipping, swinging, and holiday fun on their golf simulators! Enjoy a Peppermint Cocktail, Santa’s Dirty Soda mocktail option, and a snack included. There are two sessions: 5–7 PM or 7–9 PM.\n\nTickers are $60 per couple. Only 4 couples per session. Spots are limited, so don’t wait! Call 740-687-1112 or stop by the pro shop to reserve.\n\nVisit The View Golf Club’s Facebook page for more information."
+  },
+  {
    "id": "vfc-33379",
    "title": "Holiday Happening at the Museum",
    "start": "2026-12-04T17:00-05:00",
@@ -4705,14 +4621,14 @@
    "lat": null,
    "lon": null,
    "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
+   "cost": "Free–$50",
+   "costNum": 0,
+   "free": true,
    "kids": true,
    "indoor": null,
    "url": "https://downtowncolumbus.com/event/yuletide-on-gay-2/",
    "source": "Downtown Columbus",
-   "desc": "Celebrate the holidays in the Gay Street neighborhood with illuminated ice sculptures, tasty treats, DORA beverages from an outdoor bar! Enjoy live music as you shop local businesses and explore galleries in the neighborhood."
+   "desc": "Gay & High Streets are transforming into a winter wonderland at this FREE festival on December 4! From stunning ice sculptures and gallery hopping to seasonal cocktails, live music, and holiday shopping, you won’t want to miss this extra festive night in the Gay Street Neighborhood! Plus, get to the event on the covered trolley from any Wander Nights stop (📍Columbus Commons, Lazarus Building, Bicentennial Park). \n\nCheck out the participating businesses and offerings!\n\nFood & Beverages: \n\nHank’s Low Country Seafood: hot chocolate, hot toddy, hushpuppies, and she crab soup\n\nChouette: mulled wine, hot toddy, and other light bites\n\nSpeck: fried olives, lemon cookies, red and white wines, warm cocktails, and pistachiochello \n\nThe Citizens Trust: egg nog and warm bourbon cider\n\nBuckeye Bourbon House: happy hour pricing and specialty cocktails\n\nGalleries & Retail: \n\nRestalgic: ornament making\n\nArtisans &: specialty holiday collection, live pianist, complimentary gift wrapping on purchases over $50\n\nzerOz Wallets\n\nLe Masseur\n\nYao Cheng Design: wrapping paper and holiday gift bags for purchase, first five visitors get a FREE Columbus print\n\nBrandt Galleries: specialty collection in partner"
   },
   {
    "id": "mp-10004109",
@@ -5809,27 +5725,6 @@
    "url": "https://www.sciotomile.com/event/wanderlights/2026-12-05/",
    "source": "Scioto Mile",
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
-  },
-  {
-   "id": "scioto-10000556",
-   "title": "Wander Nights at Wanderlights",
-   "start": "2026-12-05T17:00-05:00",
-   "end": "2026-12-05T21:00-05:00",
-   "allDay": false,
-   "venue": "Bicentennial Park",
-   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": null,
-   "url": "https://www.sciotomile.com/event/wander-nights-at-wanderlights/2026-12-05/",
-   "source": "Scioto Mile",
-   "desc": "Take part in an ultra-festive holiday atmosphere and free activities while exploring all three Wanderlights stops. During Wander Nights, you’ll find complimentary hot chocolate and carousel rides at Columbus Commons, crackling fire pits at the Scioto Mile Fountain, special visits from Santa in the Lazarus Building galleria, and more!"
   },
   {
    "id": "vfc-33265",
@@ -8442,27 +8337,6 @@
    "url": "https://www.sciotomile.com/event/wanderlights/2026-12-11/",
    "source": "Scioto Mile",
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
-  },
-  {
-   "id": "scioto-10000557",
-   "title": "Wander Nights at Wanderlights",
-   "start": "2026-12-11T17:00-05:00",
-   "end": "2026-12-11T21:00-05:00",
-   "allDay": false,
-   "venue": "Bicentennial Park",
-   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": null,
-   "url": "https://www.sciotomile.com/event/wander-nights-at-wanderlights/2026-12-11/",
-   "source": "Scioto Mile",
-   "desc": "Take part in an ultra-festive holiday atmosphere and free activities while exploring all three Wanderlights stops. During Wander Nights, you’ll find complimentary hot chocolate and carousel rides at Columbus Commons, crackling fire pits at the Scioto Mile Fountain, special visits from Santa in the Lazarus Building galleria, and more!"
   },
   {
    "id": "vfc-32754",
@@ -11493,6 +11367,27 @@
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
   },
   {
+   "id": "scioto-10000559",
+   "title": "Wander Nights at Wanderlights",
+   "start": "2026-12-18T17:00-05:00",
+   "end": "2026-12-18T21:00-05:00",
+   "allDay": false,
+   "venue": "Bicentennial Park",
+   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://www.sciotomile.com/event/wander-nights-at-wanderlights/2026-12-18/",
+   "source": "Scioto Mile",
+   "desc": "Take part in an ultra-festive holiday atmosphere and free activities while exploring all three Wanderlights stops. During Wander Nights, you’ll find complimentary hot chocolate and carousel rides at Columbus Commons, crackling fire pits at the Scioto Mile Fountain, special visits from Santa in the Lazarus Building galleria, and more!"
+  },
+  {
    "id": "vfc-32756",
    "title": "Once Upon a Christmas at The Pines at Buckeye Ridge",
    "start": "2026-12-18T17:30-05:00",
@@ -12058,6 +11953,27 @@
    "url": "https://www.sciotomile.com/event/wanderlights/2026-12-19/",
    "source": "Scioto Mile",
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
+  },
+  {
+   "id": "scioto-10000560",
+   "title": "Wander Nights at Wanderlights",
+   "start": "2026-12-19T17:00-05:00",
+   "end": "2026-12-19T21:00-05:00",
+   "allDay": false,
+   "venue": "Bicentennial Park",
+   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://www.sciotomile.com/event/wander-nights-at-wanderlights/2026-12-19/",
+   "source": "Scioto Mile",
+   "desc": "Take part in an ultra-festive holiday atmosphere and free activities while exploring all three Wanderlights stops. During Wander Nights, you’ll find complimentary hot chocolate and carousel rides at Columbus Commons, crackling fire pits at the Scioto Mile Fountain, special visits from Santa in the Lazarus Building galleria, and more!"
   },
   {
    "id": "vfc-32757",
@@ -15755,6 +15671,27 @@
    "desc": "Play is a crucial part of building early literacy and social skills. There will be opportunities for imagination and skill building, plus socialization for both children and caregivers. Extend your child's learning through play!\n\nNo registration necessary."
   },
   {
+   "id": "ppl-18008915",
+   "title": "Library On-The-Go Community Visit",
+   "start": "2027-01-07T11:00-05:00",
+   "end": "2027-01-07T12:30-05:00",
+   "allDay": false,
+   "venue": "Town Square Villas · 85 Peggy Green Lane",
+   "address": "",
+   "town": "Pickerington",
+   "lat": null,
+   "lon": null,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://pickeringtonlibrary.libnet.info/event/18008915",
+   "source": "Pickerington Public Library",
+   "desc": "The Library On-The-Go is visiting the Town Square Villas neighborhood, bringing a full-service mobile library stocked with books and other materials for all ages!\n\nVisitors can sign up for a free library card (children under 18 must have parent or guardian permission) and check out materials during their visit.\n\nLibrary staff will move the fun inside the Community Clubhouse when the weather is too cold."
+  },
+  {
    "id": "crp-30546",
    "title": "Conversations and Coffee: Loren Bucek",
    "start": "2027-01-07T12:00-05:00",
@@ -15963,6 +15900,48 @@
    "url": "https://pickeringtonlibrary.libnet.info/event/16892432",
    "source": "Pickerington Public Library",
    "desc": "R.O.X. “Ruling Our eXperiences” is a non-profit, educational program for girls. During the 20-week curriculum, participants will be equipped with knowledge on topics such as confidence, healthy communications, navigating relationships, goal setting, and self-defense. Open to girls in grades 7-12.\n\nFacilitated by Sycamore Plaza Library’s Teen Services Librarian, participants will meet on Thursdays from 6:00-7:00 p.m. to engage in guided discussions and activities based on the R.O.X. curriculum. \n\nThe program is free and open to girls in grades 7-12. If you or your teen is interested, please contact Amanda at Sycamore Plaza Library in person or via email at amcevoy@pickeringtonlibrary.org.\n\nRegistering for this event does not guarantee your spot. Amanda will reach out to you with additional paperwork and information.\n\nTo learn more about R.O.X. please visit their website: Ruling Our eXperiences (ROX). \n\nThank you to South Central Power for graciously providing a grant for registration costs.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
+  },
+  {
+   "id": "dtc-10022725",
+   "title": "FREE Wanderlights",
+   "start": "2027-01-08T17:00-05:00",
+   "end": "2027-01-08T22:00-05:00",
+   "allDay": false,
+   "venue": "",
+   "address": "OH",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/free-wanderlights-2/2027-01-08/",
+   "source": "Downtown Columbus",
+   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Bicentennial Park. Wander your way through the kaleidoscope of color in the heart of Downtown Columbus. Learn more about Wanderlights here! \n\nPlus, during Wander Nights at Wanderlights, find an ultra-festive atmosphere on Fridays and Saturdays from December 4 – 19."
+  },
+  {
+   "id": "scioto-10000610",
+   "title": "Wanderlights",
+   "start": "2027-01-08T17:00-05:00",
+   "end": "2027-01-08T22:00-05:00",
+   "allDay": false,
+   "venue": "Bicentennial Park",
+   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://www.sciotomile.com/event/wanderlights/2027-01-08/",
+   "source": "Scioto Mile",
+   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
   }
  ]
 }
