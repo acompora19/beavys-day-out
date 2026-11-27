@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-27T12:40:52.970Z",
+ "generated": "2026-11-27T23:31:55.220Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 399,
-   "kept": 184,
-   "ms": 8286
+   "kept": 180,
+   "ms": 7099
   },
   {
    "source": "Fairfield County District Library",
    "rows": 106,
-   "kept": 106,
-   "ms": 401
+   "kept": 104,
+   "ms": 621
   },
   {
    "source": "Pickerington Public Library",
    "rows": 191,
-   "kept": 191,
-   "ms": 544
+   "kept": 190,
+   "ms": 1244
   },
   {
    "source": "City of Canal Winchester",
    "rows": 111,
    "kept": 8,
-   "ms": 316
+   "ms": 289
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 255
+   "ms": 324
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 60
+   "ms": 63
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 4,
-   "ms": 278
+   "ms": 1368
   },
   {
    "source": "Downtown Columbus",
    "rows": 167,
-   "kept": 166,
-   "ms": 10783
+   "kept": 165,
+   "ms": 13314
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 13,
    "kept": 13,
-   "ms": 642
+   "ms": 634
   },
   {
    "source": "Metro Parks",
    "rows": 7,
-   "kept": 7,
-   "ms": 1494
+   "kept": 6,
+   "ms": 1622
   },
   {
    "source": "Columbus Commons",
    "rows": 52,
-   "kept": 51,
-   "ms": 1776
+   "kept": 52,
+   "ms": 1955
   },
   {
    "source": "Scioto Mile",
    "rows": 52,
-   "kept": 51,
-   "ms": 1378
+   "kept": 52,
+   "ms": 1303
   },
   {
    "source": "City of Gahanna",
    "rows": 79,
    "kept": 7,
-   "ms": 415
+   "ms": 316
   },
   {
    "source": "Gahanna Parks & Recreation",
    "rows": 75,
    "kept": 3,
-   "ms": 82
+   "ms": 74
   },
   {
    "source": "City of Grove City",
    "rows": 12,
    "kept": 10,
-   "ms": 211
+   "ms": 228
   },
   {
    "source": "City of Worthington",
    "rows": 89,
    "kept": 17,
-   "ms": 311
+   "ms": 355
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 13,
    "kept": 3,
-   "ms": 283
+   "ms": 303
   },
   {
    "source": "Standing freebies",
    "rows": 11,
    "kept": 11,
-   "ms": 8
+   "ms": 7
   }
  ],
  "events": [
@@ -196,69 +196,6 @@
    "desc": "Enjoy the Fairfield County Festival of Lights – a yearly light display at the Fairfield County Fairgrounds that runs Thanksgiving through Christmas! Admission cost is $10 per car. This year, expect visits with Santa, a concession stand, kettle corn, and various desserts! Carriage ride tickets for the Festival of Lights, presented by Keller Farms, are now available for purchase! They’re excited to announce that admission to the Festival of Lights will be included with your carriage ride ticket!\n\n \n\nHours:\n\nSunday – Wednesday: 6 p.m. – 9 p.m.\n\nThursday – Saturday: 6 p.m. – 10 p.m.\n\n \n\n \n\n \n\nFor more information, please visit the Fairfield County Festival of Light’s Facebook page."
   },
   {
-   "id": "vfc-32898",
-   "title": "Black Friday Brunch at Double Edge Brewing",
-   "start": "2026-11-27T09:00-05:00",
-   "end": "2026-11-27T12:00-05:00",
-   "allDay": false,
-   "venue": "158 W Chestnut St",
-   "address": "158 West Chestnut Street, Lancaster, Ohio 43130, United States of America",
-   "town": "Lancaster",
-   "lat": 39.7123144,
-   "lon": -82.6041679,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/black-friday-brunch-at-double-edge-brewing/",
-   "source": "Visit Fairfield County",
-   "desc": "This Black Friday, let’s give thanks to the real MVPs: Kermit’s Food Truck! Double Edge Brewing is teaming up for a little post-Thanksgiving brunch featuring unique food specials from Kermit’s and a special cocktail at DE. The holidays get wild, so let’s slow things down, grab some good food, and spend a little time together at the Edge. They’ll have new hot cocktails, beer, cider, seltzer, and a full non-alcoholic menu, so there’s something for everyone! No cooking, no dishes, no pressure. Just good food, good drinks, and good company.\n\nFor more information, please visit Double Edge Brewing’s Facebook page."
-  },
-  {
-   "id": "vfc-32737",
-   "title": "Black Friday at FYN & Co Mercantile",
-   "start": "2026-11-27T09:00-05:00",
-   "end": "2026-11-27T16:00-05:00",
-   "allDay": false,
-   "venue": "36 W Columbus St",
-   "address": "36 W Columbus St, Pickerington, OH 43147, USA",
-   "town": "Pickerington",
-   "lat": 39.8843144,
-   "lon": -82.75462519999999,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/black-friday-at-fyn-co-mercantile/",
-   "source": "Visit Fairfield County",
-   "desc": "On Friday, November 27th, head out and shop fantastic deals during Black Friday at FYN & Co Mercantile! Shop local and enjoy these deals before they are gone! Doorbusters and more information coming soon.\n\n \n\nFor more information, please visit FYN & Co Mercantile’s Facebook page."
-  },
-  {
-   "id": "vfc-32592",
-   "title": "Heart of Christmas Craft Show at The Clum Auction Gallery",
-   "start": "2026-11-27T09:00-05:00",
-   "end": "2026-11-27T15:00-05:00",
-   "allDay": false,
-   "venue": "7795 US-22",
-   "address": "7795 U.S. 22, Rushville, OH, USA",
-   "town": "Rushville",
-   "lat": 39.7695617,
-   "lon": -82.3952802,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/heart-of-christmas-craft-show-at-the-clum-auction-gallery/",
-   "source": "Visit Fairfield County",
-   "desc": "One of The Clum Auction Gallery’s favorite weekends of the entire year is coming, and they can’t wait to welcome everyone back to the Heart of Christmas Craft Show! If you’ve never been, this is not your ordinary craft show! Step inside the beautiful 1800s log & stone barn and experience Christmas the way it’s supposed to feel. The barn will be absolutely filled with thousands of unique items just waiting to be discovered! Whether you’re searching for that perfect Christmas gift, something special for your home, or maybe a little something for yourself, you’re sure to find it there. There’s just something magical about Christmas at The Clum Auction Gallery, and they would love for you to make it part of your holiday tradition! Grab your friends, bring your Christmas list, enjoy free admission, and come spend the day with them! You’ve never experienced Christmas shopping quite like this!\n\nFor more information, please visit the Heart of Christmas Craft Show’s Facebook page."
-  },
-  {
    "id": "vfc-33236",
    "title": "Christmas Open House at The Frame Shop of Lancaster",
    "start": "2026-11-27T10:00-05:00",
@@ -322,27 +259,6 @@
    "desc": "Grab your girlfriends, hubby, kiddos, or make it a day for yourself! Let’s kick off the holiday season at Rosechic Boutique from November 27th to the 28th! They’ve got some fun things planned for Black Friday, including special doorbuster deals, complimentary cookies and refreshments while you shop, and every purchase gets you entered to win a Rosechic gift card! Get there early, because the first 15 people in line will receive a goodie bag! Lastly, if you spend $50, get $5 off, spend $100, get $15 off, or spend $150, get $25 off! Bring your shopping buddies, grab a treat, and come spend a little time with them! They can’t wait to kick off the holiday season with you!\n\nFor more information, please visit Rosechic Boutique’s Facebook page."
   },
   {
-   "id": "vfc-32964",
-   "title": "Thanksgiving Traditions at Slate Run Farm",
-   "start": "2026-11-27T10:00-05:00",
-   "end": "2026-11-27T16:00-05:00",
-   "allDay": false,
-   "venue": "1375 OH-674",
-   "address": "1375 OH-674, Canal Winchester, OH 43110, USA",
-   "town": "Canal Winchester",
-   "lat": 39.7591244,
-   "lon": -82.82766149999999,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/thanksgiving-traditions-at-slate-run-farm-3/",
-   "source": "Visit Fairfield County",
-   "desc": "Join Slate Run Living Historic Farm to learn about the history of Thanksgiving foods and traditions. Enjoy a display and some activities in front of the farmhouse. This program is for all ages!\n\n \n\nFor more information, please visit Slate Run Living Historic Farm’s website."
-  },
-  {
    "id": "vfc-32710",
    "title": "Make An Ornament at Mud Gallery",
    "start": "2026-11-27T10:00-05:00",
@@ -385,27 +301,6 @@
    "desc": "Show your love for local and shop small in Downtown Lancaster during Small Business Celebration Week from Friday, November 27th, through Sunday, November 29th. Get ready to take advantage of specials, deals, and giveaways as you gear up for the holidays. Restaurants will be serving up seasonal favorites and storefronts and downtown parks will be adorned for the holidays. Make memories and a difference by shopping small this year in Downtown Lancaster!\n\nFor more information, please visit Destination Downtown Lancaster’s Facebook page."
   },
   {
-   "id": "ppl-16822849",
-   "title": "Stories and Songs: Circus and Zoo",
-   "start": "2026-11-27T10:00-05:00",
-   "end": "2026-11-27T10:30-05:00",
-   "allDay": false,
-   "venue": "Sycamore Plaza Library · Meeting Room",
-   "address": "7861 Refugee Rd, Pickerington, OH 43147",
-   "town": "Pickerington",
-   "lat": 39.9173,
-   "lon": -82.7918,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://pickeringtonlibrary.libnet.info/event/16822849",
-   "source": "Pickerington Public Library",
-   "desc": "Great for the whole family, this early literacy class will get children ages 2 - 5 excited about reading! We feature talking, singing, reading, writing, and playing to help your child assemble the necessary building blocks of early literacy. Open to children, their caregivers, and siblings. Early literacy is what children learn and know about reading, writing, and math before they can read or write or perform basic math.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
-  },
-  {
    "id": "dtc-10017883",
    "title": "Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors",
    "start": "2026-11-27T10:00-05:00",
@@ -425,48 +320,6 @@
    "url": "https://downtowncolumbus.com/event/portraits-of-courage-a-commander-in-chiefs-tribute-to-americas-warriors/2026-11-27/",
    "source": "Downtown Columbus",
    "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
-  },
-  {
-   "id": "mp-10004105",
-   "title": "Thanksgiving Traditions",
-   "start": "2026-11-27T10:00-05:00",
-   "end": "2026-11-27T16:00-05:00",
-   "allDay": false,
-   "venue": "Slate Run Living Historical Farm",
-   "address": "1375 OH-674, Canal Winchester, OH, 43110",
-   "town": "Canal Winchester",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://www.metroparks.net/event/thanksgiving-traditions-3/2026-11-27/",
-   "source": "Metro Parks",
-   "desc": "Ongoing at the farmhouse between 10am-4pm.\n\nEnjoy a display and some activities about Thanksgiving foods and traditions."
-  },
-  {
-   "id": "fcdl-17129296",
-   "title": "Hometown Military Heroes Wall Display",
-   "start": "2026-11-27T10:30-05:00",
-   "end": "2026-11-27T16:30-05:00",
-   "allDay": false,
-   "venue": "Bremen Branch Library",
-   "address": "220 Marietta St, Bremen, OH 43107",
-   "town": "Bremen",
-   "lat": 39.7066,
-   "lon": -82.4258,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17129296",
-   "source": "Fairfield County District Library",
-   "desc": "Join us to honor our military heroes by bringing in a photo of personal story to add to our Wall of Heroes. All submissions will be returned after November 30. No registration necessary."
   },
   {
    "id": "vfc-33280",
@@ -511,27 +364,6 @@
    "desc": "A Christmas Tradition Returns to the Decorative Arts Center of Ohio! Celebrate six centuries of Christmas traditions with “Angels We Have Heard on High: 600 Years of Celebrating the Nativity,” opening November 27th, 2026, and on view through January 3rd, 2027. Featuring a remarkable collection of nativity scenes, sculptures, artwork, and decorative objects from the George and Jeanne Johnson Collection, the exhibition spans the 15th through 21st centuries and highlights Christmas traditions from around the world. Discover centuries of artistry, history, and the many ways cultures have celebrated the birth of Jesus. Many pieces have never before been displayed at DACO! Admission is always free!\n\nFor more information, please visit the Decorative Arts Center of Ohio’s Facebook page."
   },
   {
-   "id": "fcdl-17639957",
-   "title": "Safe Online Banking",
-   "start": "2026-11-27T11:00-05:00",
-   "end": "2026-11-27T12:00-05:00",
-   "allDay": false,
-   "venue": "*Main Library · Boardroom (Lancaster)",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/17639957",
-   "source": "Fairfield County District Library",
-   "desc": "Confused by the options for banking with computers? Unsure whether it’s safer to use your laptop or your phone to manage your money? Come spend some time with your Guiding Ohio Online Technology Trainer and learn how different devices handle security when it comes to working with your bank and learn about the resources available to help you steer clear of banking scams. Register online, on our app, or by calling (740) 653-2745, extension 160."
-  },
-  {
    "id": "vfc-32627",
    "title": "Fathom Arts Consortium Art Fair at O’Huids Gaelic Pub",
    "start": "2026-11-27T12:00-05:00",
@@ -551,48 +383,6 @@
    "url": "https://visitfairfieldcounty.org/events/fathom-arts-consortium-art-fair-at-ohuids-gaelic-pub/",
    "source": "Visit Fairfield County",
    "desc": "In conjunction with the Opening Day of their new show, Fathom Artists will set up tables with more art for sale from 12 p.m. to 5 p.m. at the Hall Pass Gallery, located in the back hall of O’Huids Gaelic Pub. Visit www.fathomartsconsortium.org for more information about Fathom.\n\n \n\nFor more information, please visit Fathom’s Facebook page."
-  },
-  {
-   "id": "dtc-10022848",
-   "title": "A Christmas Carol",
-   "start": "2026-11-27T14:00-05:00",
-   "end": "2026-11-27T16:00-05:00",
-   "allDay": false,
-   "venue": "Ohio Theatre",
-   "address": "39 E State St, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": 39.960068,
-   "lon": -82.99889,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/a-christmas-carol-14/2026-11-27/1/",
-   "source": "Downtown Columbus",
-   "desc": "A beloved Columbus holiday tradition returns for 2026, as CAPA presents A Christmas Carol live on stage in the Ohio Theatre over Thanksgiving weekend.\n\nThis original production of the classic Dickens tale blends familiar holiday elements with fresh theatrical touches, including dance and musical moments and beloved carols woven throughout. Created and produced in Columbus, it’s a festive way for families to kick off the season together."
-  },
-  {
-   "id": "dtc-10018533",
-   "title": "Columbus Blue Jackets Game",
-   "start": "2026-11-27T15:00-05:00",
-   "end": null,
-   "allDay": false,
-   "venue": "Nationwide Arena",
-   "address": "200 W Nationwide Blvd, Columbus, OH",
-   "town": "Columbus",
-   "lat": 39.9692575,
-   "lon": -83.0059922,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/columbus-blue-jackets-game-6/2026-11-27/",
-   "source": "Downtown Columbus",
-   "desc": "Cheer on the Columbus Blue Jackets in this regular season game at Nationwide Arena!\n\nGet tickets here!"
   },
   {
    "id": "ddl-6aac3aa5c7dd692d3ce1ca8c",
@@ -4843,27 +4633,6 @@
    "url": "https://www.sciotomile.com/event/wanderlights/2026-12-05/",
    "source": "Scioto Mile",
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
-  },
-  {
-   "id": "scioto-10000556",
-   "title": "Wander Nights at Wanderlights",
-   "start": "2026-12-05T17:00-05:00",
-   "end": "2026-12-05T21:00-05:00",
-   "allDay": false,
-   "venue": "Bicentennial Park",
-   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": null,
-   "url": "https://www.sciotomile.com/event/wander-nights-at-wanderlights/2026-12-05/",
-   "source": "Scioto Mile",
-   "desc": "Take part in an ultra-festive holiday atmosphere and free activities while exploring all three Wanderlights stops. During Wander Nights, you’ll find complimentary hot chocolate and carousel rides at Columbus Commons, crackling fire pits at the Scioto Mile Fountain, special visits from Santa in the Lazarus Building galleria, and more!"
   },
   {
    "id": "vfc-33265",
@@ -15650,6 +15419,48 @@
    "kids": false,
    "indoor": null,
    "url": "https://www.sciotomile.com/event/wanderlights/2027-01-10/",
+   "source": "Scioto Mile",
+   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
+  },
+  {
+   "id": "dtc-10022728",
+   "title": "FREE Wanderlights",
+   "start": "2027-01-11T17:00-05:00",
+   "end": "2027-01-11T22:00-05:00",
+   "allDay": false,
+   "venue": "",
+   "address": "OH",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": null,
+   "url": "https://downtowncolumbus.com/event/free-wanderlights-2/2027-01-11/",
+   "source": "Downtown Columbus",
+   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Bicentennial Park. Wander your way through the kaleidoscope of color in the heart of Downtown Columbus. Learn more about Wanderlights here! \n\nPlus, during Wander Nights at Wanderlights, find an ultra-festive atmosphere on Fridays and Saturdays from December 4 – 19."
+  },
+  {
+   "id": "scioto-10000613",
+   "title": "Wanderlights",
+   "start": "2027-01-11T17:00-05:00",
+   "end": "2027-01-11T22:00-05:00",
+   "allDay": false,
+   "venue": "Bicentennial Park",
+   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": false,
+   "indoor": null,
+   "url": "https://www.sciotomile.com/event/wanderlights/2027-01-11/",
    "source": "Scioto Mile",
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
   }
