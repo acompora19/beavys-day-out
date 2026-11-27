@@ -1,113 +1,113 @@
 {
- "generated": "2026-11-26T23:54:27.053Z",
+ "generated": "2026-11-27T12:40:52.970Z",
  "sources": [
   {
    "source": "Visit Fairfield County",
    "rows": 399,
-   "kept": 185,
-   "ms": 7031
+   "kept": 184,
+   "ms": 8286
   },
   {
    "source": "Fairfield County District Library",
-   "rows": 107,
-   "kept": 107,
-   "ms": 451
+   "rows": 106,
+   "kept": 106,
+   "ms": 401
   },
   {
    "source": "Pickerington Public Library",
    "rows": 191,
    "kept": 191,
-   "ms": 647
+   "ms": 544
   },
   {
    "source": "City of Canal Winchester",
    "rows": 111,
    "kept": 8,
-   "ms": 338
+   "ms": 316
   },
   {
    "source": "City of Lancaster",
    "rows": 0,
    "kept": 0,
-   "ms": 333
+   "ms": 255
   },
   {
    "source": "Lancaster Parks & Recreation",
    "rows": 0,
    "kept": 0,
-   "ms": 74
+   "ms": 60
   },
   {
    "source": "Destination Downtown Lancaster",
    "rows": 15,
    "kept": 4,
-   "ms": 1312
+   "ms": 278
   },
   {
    "source": "Downtown Columbus",
-   "rows": 168,
-   "kept": 168,
-   "ms": 24645
+   "rows": 167,
+   "kept": 166,
+   "ms": 10783
   },
   {
    "source": "Columbus Recreation & Parks",
    "rows": 13,
-   "kept": 12,
-   "ms": 780
+   "kept": 13,
+   "ms": 642
   },
   {
    "source": "Metro Parks",
-   "rows": 8,
+   "rows": 7,
    "kept": 7,
-   "ms": 1515
+   "ms": 1494
   },
   {
    "source": "Columbus Commons",
    "rows": 52,
-   "kept": 52,
-   "ms": 2561
+   "kept": 51,
+   "ms": 1776
   },
   {
    "source": "Scioto Mile",
    "rows": 52,
-   "kept": 52,
-   "ms": 1601
+   "kept": 51,
+   "ms": 1378
   },
   {
    "source": "City of Gahanna",
-   "rows": 80,
-   "kept": 8,
-   "ms": 607
+   "rows": 79,
+   "kept": 7,
+   "ms": 415
   },
   {
    "source": "Gahanna Parks & Recreation",
-   "rows": 76,
-   "kept": 4,
-   "ms": 102
+   "rows": 75,
+   "kept": 3,
+   "ms": 82
   },
   {
    "source": "City of Grove City",
-   "rows": 13,
-   "kept": 13,
-   "ms": 252
+   "rows": 12,
+   "kept": 10,
+   "ms": 211
   },
   {
    "source": "City of Worthington",
    "rows": 89,
    "kept": 17,
-   "ms": 548
+   "ms": 311
   },
   {
    "source": "City of Reynoldsburg",
    "rows": 13,
    "kept": 3,
-   "ms": 273
+   "ms": 283
   },
   {
    "source": "Standing freebies",
    "rows": 11,
    "kept": 11,
-   "ms": 6
+   "ms": 8
   }
  ],
  "events": [
@@ -175,111 +175,6 @@
    "desc": "Plan a trip to Downtown Lancaster and admire the beautiful Holiday Window Displays. You can vote for your favorite beginning on Saturday, November 21st through Friday, December 4th.\n\nThe first, second, and third place winners will be announced at the tree lighting ceremony during Downtown Lancaster’s Winterfest on December 5th!\n\nVote for you favorite here!"
   },
   {
-   "id": "fcdl-15405268",
-   "title": "Library Closed",
-   "start": "2026-11-26T00:00-05:00",
-   "end": "2026-11-26T23:59-05:00",
-   "allDay": true,
-   "venue": "All Library Locations",
-   "address": "",
-   "town": "Lancaster",
-   "lat": null,
-   "lon": null,
-   "area": "Fairfield County",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": true,
-   "url": "https://www.fcdlibrary.org/event/15405268",
-   "source": "Fairfield County District Library",
-   "desc": "All Library locations are closed."
-  },
-  {
-   "id": "grovecity-2739",
-   "title": "Thanksgiving Wattle 5K",
-   "start": "2026-11-26T08:30-05:00",
-   "end": "2026-11-26T23:59-05:00",
-   "allDay": false,
-   "venue": "",
-   "address": "- 1270 Lamplighter Dr. Grove City OH 43123",
-   "town": "Grove City",
-   "lat": 39.8814,
-   "lon": -83.0929,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35",
-   "source": "City of Grove City",
-   "desc": "https://www.grovecityohio.gov/calendar.aspx?EID=2739"
-  },
-  {
-   "id": "dtc-10017882",
-   "title": "Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors",
-   "start": "2026-11-26T10:00-05:00",
-   "end": "2026-11-26T17:00-05:00",
-   "allDay": false,
-   "venue": "National Veterans Memorial and Museum",
-   "address": "300 W Broad Street, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": true,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/portraits-of-courage-a-commander-in-chiefs-tribute-to-americas-warriors/2026-11-26/",
-   "source": "Downtown Columbus",
-   "desc": "The National Veterans Memorial and Museum (NVMM) will host Portraits of Courage: A Commander in Chief’s Tribute to America’s Warriors, a collection of original paintings by former President George W. Bush. The exhibition opens to the public on August 8, 2026.\n\nThe exhibition features more than 60 portraits of post-9/11 service members and Veterans, each one hand painted by President Bush and paired with a personal story of service, sacrifice, and resilience written by the former president.\n\nThe NVMM is open Thursday through Sunday, 10 a.m. to 5 p.m."
-  },
-  {
-   "id": "dtc-10022682",
-   "title": "FREE Wanderlights",
-   "start": "2026-11-26T17:00-05:00",
-   "end": "2026-11-26T22:00-05:00",
-   "allDay": false,
-   "venue": "",
-   "address": "OH",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": true,
-   "indoor": null,
-   "url": "https://downtowncolumbus.com/event/free-wanderlights-2/2026-11-26/",
-   "source": "Downtown Columbus",
-   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Bicentennial Park. Wander your way through the kaleidoscope of color in the heart of Downtown Columbus. Learn more about Wanderlights here! \n\nPlus, during Wander Nights at Wanderlights, find an ultra-festive atmosphere on Fridays and Saturdays from December 4 – 19."
-  },
-  {
-   "id": "scioto-10000567",
-   "title": "Wanderlights",
-   "start": "2026-11-26T17:00-05:00",
-   "end": "2026-11-26T22:00-05:00",
-   "allDay": false,
-   "venue": "Bicentennial Park",
-   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": null,
-   "url": "https://www.sciotomile.com/event/wanderlights/2026-11-26/",
-   "source": "Scioto Mile",
-   "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
-  },
-  {
    "id": "vfc-30334",
    "title": "Fairfield County Festival of Lights",
    "start": "2026-11-26T18:00-05:00",
@@ -299,90 +194,6 @@
    "url": "https://visitfairfieldcounty.org/events/fairfield-county-festival-of-lights/",
    "source": "Visit Fairfield County",
    "desc": "Enjoy the Fairfield County Festival of Lights – a yearly light display at the Fairfield County Fairgrounds that runs Thanksgiving through Christmas! Admission cost is $10 per car. This year, expect visits with Santa, a concession stand, kettle corn, and various desserts! Carriage ride tickets for the Festival of Lights, presented by Keller Farms, are now available for purchase! They’re excited to announce that admission to the Festival of Lights will be included with your carriage ride ticket!\n\n \n\nHours:\n\nSunday – Wednesday: 6 p.m. – 9 p.m.\n\nThursday – Saturday: 6 p.m. – 10 p.m.\n\n \n\n \n\n \n\nFor more information, please visit the Fairfield County Festival of Light’s Facebook page."
-  },
-  {
-   "id": "vfc-31477",
-   "title": "Crazy Train Trivia at Combustion Brewery",
-   "start": "2026-11-26T19:00-05:00",
-   "end": "2026-11-26T20:30-05:00",
-   "allDay": false,
-   "venue": "80 W Church St",
-   "address": "80 West Church Street, Pickerington, Ohio 43147, United States",
-   "town": "Pickerington",
-   "lat": 39.885268,
-   "lon": -82.754857,
-   "area": "Fairfield County",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "https://visitfairfieldcounty.org/events/2026-11-26-crazy-train-trivia-at-combustion-brewery/",
-   "source": "Visit Fairfield County",
-   "desc": "Head out to Combustion Brewery & Taproom every Thursday from 7 p.m. to 8:30 p.m. for Crazy Train Trivia! This fun event is sure to be a night you don’t want to miss!\n\n \n\nFor more information, please visit Combustion Brewery’s Facebook page."
-  },
-  {
-   "id": "gahanna-794",
-   "title": "Thanksgiving Friday Holiday",
-   "start": "2026-11-27T00:00-05:00",
-   "end": null,
-   "allDay": true,
-   "venue": "",
-   "address": "- Gahanna OH 43230",
-   "town": "Gahanna",
-   "lat": 40.0195,
-   "lon": -82.8793,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27",
-   "source": "City of Gahanna",
-   "desc": "City Recognized Holiday - Closed https://www.gahanna.gov/calendar.aspx?EID=794"
-  },
-  {
-   "id": "grovecity-2740",
-   "title": "Grove City Nutcracker Hunt",
-   "start": "2026-11-27T00:00-05:00",
-   "end": null,
-   "allDay": true,
-   "venue": "Town Center",
-   "address": "Grove City OH 43123",
-   "town": "Grove City",
-   "lat": 39.8814,
-   "lon": -83.0929,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35",
-   "source": "City of Grove City",
-   "desc": "https://www.grovecityohio.gov/calendar.aspx?EID=2740"
-  },
-  {
-   "id": "grovecity-2741",
-   "title": "Letters to Santa",
-   "start": "2026-11-27T00:00-05:00",
-   "end": null,
-   "allDay": true,
-   "venue": "Grove City Museum & Welcome Center",
-   "address": "3378 Park St. Grove City OH 43123",
-   "town": "Grove City",
-   "lat": 39.8814,
-   "lon": -83.0929,
-   "area": "Columbus",
-   "cost": "",
-   "costNum": null,
-   "free": false,
-   "kids": false,
-   "indoor": null,
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35",
-   "source": "City of Grove City",
-   "desc": "https://www.grovecityohio.gov/calendar.aspx?EID=2741"
   },
   {
    "id": "vfc-32898",
@@ -3518,6 +3329,27 @@
    "desc": "Explore “Light Speaks!” located in the Loft Gallery at the Priscilla R. Tyson Cultural Arts Center. Join us for the opening reception on Dec. 4 from 6-8 p.m.; food and drinks will be provided."
   },
   {
+   "id": "crp-30865",
+   "title": "Season & Hue Exhibit",
+   "start": "2026-12-04T00:00-05:00",
+   "end": "2027-01-11T23:59-05:00",
+   "allDay": true,
+   "venue": "Fran Ryan Center",
+   "address": "865 E Capital S, Columbus, OH, 43204",
+   "town": "Columbus",
+   "lat": null,
+   "lon": null,
+   "area": "Columbus",
+   "cost": "",
+   "costNum": null,
+   "free": false,
+   "kids": false,
+   "indoor": null,
+   "url": "https://columbusrecparks.com/calendar/season-hue-exhibit/",
+   "source": "Columbus Recreation & Parks",
+   "desc": "Enjoy Columbus nostalgia and say hello to the Talking Tree in the former Lazarus display window at the Fran Ryan Center’s Season & Hue Exhibit. The exhibit will run from Dec. 4 to Jan. 11, 2027."
+  },
+  {
    "id": "ppl-16822736",
    "title": "Stories and Songs: Books That Sing",
    "start": "2026-12-04T10:00-05:00",
@@ -3957,27 +3789,6 @@
    "url": "https://www.sciotomile.com/event/wanderlights/2026-12-04/",
    "source": "Scioto Mile",
    "desc": "Wanderlights is Columbus’ ultimate free holiday destination. Step away from the rush, and embrace the holiday magic amongst more than half a million lights glowing daily at Columbus Commons, West Town Street, and Scioto Mile Fountain.\n\nWander your way through the kaleidoscope of color in the heart of Downtown Columbus.\n\n5-10 p.m. Daily"
-  },
-  {
-   "id": "scioto-10000555",
-   "title": "Wander Nights at Wanderlights",
-   "start": "2026-12-04T17:00-05:00",
-   "end": "2026-12-04T21:00-05:00",
-   "allDay": false,
-   "venue": "Bicentennial Park",
-   "address": "233 S. Civic Center Drive, Columbus, OH, 43215",
-   "town": "Columbus",
-   "lat": null,
-   "lon": null,
-   "area": "Columbus",
-   "cost": "Free",
-   "costNum": 0,
-   "free": true,
-   "kids": false,
-   "indoor": null,
-   "url": "https://www.sciotomile.com/event/wander-nights-at-wanderlights/2026-12-04/",
-   "source": "Scioto Mile",
-   "desc": "Take part in an ultra-festive holiday atmosphere and free activities while exploring all three Wanderlights stops. During Wander Nights, you’ll find complimentary hot chocolate and carousel rides at Columbus Commons, crackling fire pits at the Scioto Mile Fountain, special visits from Santa in the Lazarus Building galleria, and more!"
   },
   {
    "id": "vfc-33207",
@@ -15778,6 +15589,27 @@
     "art",
     "museum"
    ]
+  },
+  {
+   "id": "ppl-17506321",
+   "title": "Cat Tales",
+   "start": "2027-01-10T14:00-05:00",
+   "end": "2027-01-10T15:00-05:00",
+   "allDay": false,
+   "venue": "Pickerington Main Library · Meeting Room A",
+   "address": "201 Opportunity Way, Pickerington, OH 43147",
+   "town": "Pickerington",
+   "lat": 39.8958,
+   "lon": -82.7563,
+   "area": "Fairfield County",
+   "cost": "Free",
+   "costNum": 0,
+   "free": true,
+   "kids": true,
+   "indoor": true,
+   "url": "https://pickeringtonlibrary.libnet.info/event/17506321",
+   "source": "Pickerington Public Library",
+   "desc": "Meet the cats from FurBaby 911, a local Pickerington cat rescue, while listening to fun feline stories. Give the cats comfort, companionship, and a little extra love while they wait for their forever homes.\n\nIf you need accommodations for a class or event, contact communications@pickeringtonlibrary.org or call 614-837-4104 ext. 221."
   },
   {
    "id": "dtc-10022727",
